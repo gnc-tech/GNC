@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "yzhang.markdown-all-in-one",
-    "shd101wyy.markdown-preview-enhanced",
-    "davidanson.vscode-markdownlint",
-    "bierner.markdown-mermaid",
-    "ms-vscode.vscode-json"
-  ]
-}
