@@ -50,17 +50,11 @@ The Long Operating Time Thermal Battery achieves breakthrough performance in ext
 
 ### Specifications
 
-{
-headers: ['Indicator parameters', 'FXSC5800M'],
-rows: [
-  ['Operating Time (s)', '5,800'],
-  ['Operating Voltage (V)', '28'],
-  ['Operating Current (A)', '12']
-]
-
-    
-  
-
+| Indicator parameters | FXSC5800M |
+| --- | --- |
+| Operating Time (s) | 5,800 |
+| Operating Voltage (V) | 28 |
+| Operating Current (A) | 12 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-long-operating-time/](https://www.gnc-tech.com/products/thermal-battery-long-operating-time/)

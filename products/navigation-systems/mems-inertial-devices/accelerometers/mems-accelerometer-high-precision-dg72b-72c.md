@@ -70,29 +70,23 @@ The **JDWDG072B** is a high-performance MEMS accelerometer designed for precise 
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'D-Q-JDW-DG72B-10', 'D-Q-JDW-DG72B-30', 'D-Q-JDW-DG72B-50', 'Unit'],
-rows: [
-  ['Measurement Range', '±10', '±30', '±50', 'g'],
-  ['Bandwidth', '200', '200', '200', 'Hz'],
-  ['Zero Bias Stability', '≤0.3', '≤0.3', '≤0.5', 'mg'],
-  ['Zero Bias Repeatability', '≤0.5', '≤0.5', '≤1', 'mg'],
-  ['Zero Bias Temperature Coefficient', '≤0.3', '≤0.3', '≤0.5', 'mg/°C'],
-  ['Scale Factor Repeatability', '≤100', '≤100', '≤100', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤2000', '≤2000', '≤2000', 'ppm'],
-  ['Output Form', 'SPI', 'SPI', 'SPI', '-'],
-  ['Packaging Form', 'LCC32', 'LCC32', 'LCC32', '-'],
-  ['Axial Direction', 'Z - Axis', 'Z - Axis', 'Z - Axis', '-'],
-  ['Dimensions', '13.97×11.43×3.3', '13.97×11.43×3.3', '13.97×11.43×3.3', 'mm³'],
-  ['Overload Resistance', '≥10000', '≥10000', '≥10000', 'g'],
-  ['Operating Temperature', '-40~85', '-40~85', '-40~85', '°C'],
-  ['Power Supply Voltage', '5±0.1', '5±0.1', '5±0.1', 'V'],
-  ['Current', '≤30', '≤30', '≤30', 'mA']
-]
-
-    
-  
-
+| Performance | D-Q-JDW-DG72B-10 | D-Q-JDW-DG72B-30 | D-Q-JDW-DG72B-50 | Unit |
+| --- | --- | --- | --- | --- |
+| Measurement Range | ±10 | ±30 | ±50 | g |
+| Bandwidth | 200 | 200 | 200 | Hz |
+| Zero Bias Stability | ≤0.3 | ≤0.3 | ≤0.5 | mg |
+| Zero Bias Repeatability | ≤0.5 | ≤0.5 | ≤1 | mg |
+| Zero Bias Temperature Coefficient | ≤0.3 | ≤0.3 | ≤0.5 | mg/°C |
+| Scale Factor Repeatability | ≤100 | ≤100 | ≤100 | ppm |
+| Scale Factor Nonlinearity | ≤2000 | ≤2000 | ≤2000 | ppm |
+| Output Form | SPI | SPI | SPI | - |
+| Packaging Form | LCC32 | LCC32 | LCC32 | - |
+| Axial Direction | Z - Axis | Z - Axis | Z - Axis | - |
+| Dimensions | 13.97×11.43×3.3 | 13.97×11.43×3.3 | 13.97×11.43×3.3 | mm³ |
+| Overload Resistance | ≥10000 | ≥10000 | ≥10000 | g |
+| Operating Temperature | -40~85 | -40~85 | -40~85 | °C |
+| Power Supply Voltage | 5±0.1 | 5±0.1 | 5±0.1 | V |
+| Current | ≤30 | ≤30 | ≤30 | mA |
 ## D-Q-JDW-DG072C
 
 ### Overview
@@ -131,29 +125,23 @@ The **JDWDG072C** is a high-performance MEMS accelerometer engineered for precis
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'D-Q-JDW-DG072C-10', 'D-Q-JDW-DG072C-30', 'D-Q-JDW-DG072C-50', 'Unit'],
-rows: [
-  ['Measurement Range', '±10', '±30', '±50', 'g'],
-  ['Bandwidth', '200', '200', '200', 'Hz'],
-  ['Zero Bias Stability', '≤0.3', '≤0.5', '≤0.5', 'mg'],
-  ['Zero Bias Repeatability', '≤0.5', '≤1', '≤1', 'mg'],
-  ['Zero Bias Temperature Coefficient', '≤0.1', '≤0.5', '≤0.5', 'mg/°C'],
-  ['Scale Factor Repeatability', '≤100', '≤300', '≤300', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤200', '≤300', '≤300', 'ppm'],
-  ['Output Form', 'SPI', 'SPI', 'SPI', '-'],
-  ['Packaging Form', 'LCC32', 'LCC32', 'LCC32', '-'],
-  ['Axial Direction', 'X - Axis', 'X - Axis', 'X - Axis', '-'],
-  ['Dimensions', '13.97×11.43×3.3', '13.97×11.43×3.3', '13.97×11.43×3.3', 'mm³'],
-  ['Overload Resistance', '≥10000', '≥10000', '≥10000', 'g'],
-  ['Operating Temperature', '-40~85', '-40~85', '-40~85', '°C'],
-  ['Power Supply Voltage', '5±0.1', '5±0.1', '5±0.1', 'V'],
-  ['Current', '≤30', '≤30', '≤30', 'mA']
-]
-
-    
-  
-
+| Performance | D-Q-JDW-DG072C-10 | D-Q-JDW-DG072C-30 | D-Q-JDW-DG072C-50 | Unit |
+| --- | --- | --- | --- | --- |
+| Measurement Range | ±10 | ±30 | ±50 | g |
+| Bandwidth | 200 | 200 | 200 | Hz |
+| Zero Bias Stability | ≤0.3 | ≤0.5 | ≤0.5 | mg |
+| Zero Bias Repeatability | ≤0.5 | ≤1 | ≤1 | mg |
+| Zero Bias Temperature Coefficient | ≤0.1 | ≤0.5 | ≤0.5 | mg/°C |
+| Scale Factor Repeatability | ≤100 | ≤300 | ≤300 | ppm |
+| Scale Factor Nonlinearity | ≤200 | ≤300 | ≤300 | ppm |
+| Output Form | SPI | SPI | SPI | - |
+| Packaging Form | LCC32 | LCC32 | LCC32 | - |
+| Axial Direction | X - Axis | X - Axis | X - Axis | - |
+| Dimensions | 13.97×11.43×3.3 | 13.97×11.43×3.3 | 13.97×11.43×3.3 | mm³ |
+| Overload Resistance | ≥10000 | ≥10000 | ≥10000 | g |
+| Operating Temperature | -40~85 | -40~85 | -40~85 | °C |
+| Power Supply Voltage | 5±0.1 | 5±0.1 | 5±0.1 | V |
+| Current | ≤30 | ≤30 | ≤30 | mA |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/mems-accelerometer-high-precision-dg72b-72c/](https://www.gnc-tech.com/products/mems-accelerometer-high-precision-dg72b-72c/)

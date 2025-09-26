@@ -54,16 +54,14 @@ type="package"
 subType="dimensions" 
 invertMode="light-only" 
 />
-    
-{
-  headers: ['Attribute', 'Value'],
-  rows: [
-['Flange Shape', 'Triangular'],
-['Mounting Hole Type', '3 × M3 Screws'],
-['Maximum Diameter (Base)', '< 25.45 mm'],
-['Overall Height', '~14.85 mm'],
-['Hole-to-Hole Span', '~24.75 mm']
-  ]
+
+  | Attribute | Value |
+| --- | --- |
+| Flange Shape | Triangular |
+| Mounting Hole Type | 3 × M3 Screws |
+| Maximum Diameter (Base) | < 25.45 mm |
+| Overall Height | ~14.85 mm |
+| Hole-to-Hole Span | ~24.75 mm |
 
 #### Pins
 <ProductImage 
@@ -72,17 +70,15 @@ type="package"
 subType="pins" 
 invertMode="light-only" 
 />
-    
-{
-  headers: ['Pin', 'Function', 'Type'],
-  rows: [
-['1', 'Acceleration Signal Output', 'Analog'],
-['3', 'Negative Power Supply', 'Power'],
-['4', 'Positive Power Supply', 'Power'],
-['6', 'Temperature Sensor Output', 'Analog'],
-['8', 'Signal and Power Return', 'Ground'],
-['Others', 'Not Used / Optional', 'Analog']
-  ]
+
+  | Pin | Function | Type |
+| --- | --- | --- |
+| 1 | Acceleration Signal Output | Analog |
+| 3 | Negative Power Supply | Power |
+| 4 | Positive Power Supply | Power |
+| 6 | Temperature Sensor Output | Analog |
+| 8 | Signal and Power Return | Ground |
+| Others | Not Used / Optional | Analog |
 
 ### Applications
 
@@ -96,70 +92,55 @@ invertMode="light-only"
 
 #### Performance Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Input Range', 'g', '±60'],
-  ['Bias Error', 'mg', '≤ 4'],
-  ['Bias Long-Term Repeatability (1 Year, over temperature)', 'µg', '≤ 160 (3σ)'],
-  ['Bias Temperature Sensitivity', 'µg/°C', '≤ 30'],
-  ['Warm-up Transient Bias Change (first 4 minutes)', 'µg/minute', '1.5'],
-  ['Bias Sensitivity to Magnetic Field @ 0g, ±1g', 'µg/Gauss', '≤ 10'],
-  ['Vibration Rectification Error (50–500 Hz)', 'µg/g²rms', '≤ 20'],
-  ['Vibration Rectification Error (500–2000 Hz)', 'µg/g²rms', '≤ 60'],
-  ['Intrinsic Noise', 'µgrms', '≤ 7 (0–10 Hz), ≤ 70 (10–500 Hz), ≤ 1500 (500–10000 Hz)'],
-  ['Scale Factor', 'mA/g', '1.0 to 1.4'],
-  ['Scale Factor Long-Term Repeatability (1 Year)', 'ppm', '≤ 310 (3σ)'],
-  ['Scale Factor Temperature Sensitivity', 'ppm/°C', '≤ 180'],
-  ['Scale Factor Non-Linearity', 'µg/g²', '≤ 20'],
-  ['Residual Bias Modeling Error (max. 5°C/min)', 'µg', '≤ 60 (1σ)'],
-  ['Residual Scale Factor Modeling Error (max. 5°C/min)', 'ppm', '≤ 100 (1σ)'],
-  ['Input Axis Misalignment', 'mrad', '≤ 2'],
-  ['Axis Misalignment Temperature Sensitivity', 'µrad/°C', '≤ 2'],
-  ['Axis Misalignment Long-Term Repeatability (1 Year)', 'µrad', '≤ 100 (3σ)'],
-  ['Residual Axis Misalignment Modeling Error (max. 5°C/min)', 'µrad', '≤ 20 (1σ)'],
-  ['Resolution / Threshold', 'µg', '≤ 1'],
-  ['Bandwidth', 'Hz', '≥ 300']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Input Range | g | ±60 |
+| Bias Error | mg | ≤ 4 |
+| Bias Long-Term Repeatability (1 Year, over temperature) | µg | ≤ 160 (3σ) |
+| Bias Temperature Sensitivity | µg/°C | ≤ 30 |
+| Warm-up Transient Bias Change (first 4 minutes) | µg/minute | 1.5 |
+| Bias Sensitivity to Magnetic Field @ 0g, ±1g | µg/Gauss | ≤ 10 |
+| Vibration Rectification Error (50–500 Hz) | µg/g²rms | ≤ 20 |
+| Vibration Rectification Error (500–2000 Hz) | µg/g²rms | ≤ 60 |
+| Intrinsic Noise | µgrms | ≤ 7 (0–10 Hz), ≤ 70 (10–500 Hz), ≤ 1500 (500–10000 Hz) |
+| Scale Factor | mA/g | 1.0 to 1.4 |
+| Scale Factor Long-Term Repeatability (1 Year) | ppm | ≤ 310 (3σ) |
+| Scale Factor Temperature Sensitivity | ppm/°C | ≤ 180 |
+| Scale Factor Non-Linearity | µg/g² | ≤ 20 |
+| Residual Bias Modeling Error (max. 5°C/min) | µg | ≤ 60 (1σ) |
+| Residual Scale Factor Modeling Error (max. 5°C/min) | ppm | ≤ 100 (1σ) |
+| Input Axis Misalignment | mrad | ≤ 2 |
+| Axis Misalignment Temperature Sensitivity | µrad/°C | ≤ 2 |
+| Axis Misalignment Long-Term Repeatability (1 Year) | µrad | ≤ 100 (3σ) |
+| Residual Axis Misalignment Modeling Error (max. 5°C/min) | µrad | ≤ 20 (1σ) |
+| Resolution / Threshold | µg | ≤ 1 |
+| Bandwidth | Hz | ≥ 300 |
 #### Electrical Specifications
   
-{
-headers: ['Parameter', 'Value'],
-rows: [
-  ['Input Voltage Range', '±13 VDC to ±16 VDC'],
-  ['Nominal Operating Voltage', '±15 VDC'],
-  ['Quiescent Current per Supply', '< 20 mA'],
-  ['Quiescent Power at ±15 VDC', '< 600 mW'],
-  ['Maximum Full-Scale Current', '< 100 mA'],
-  ['Output Signal Type (Accel & Temp)', 'Analog Current']
-]
-
+| Parameter | Value |
+| --- | --- |
+| Input Voltage Range | ±13 VDC to ±16 VDC |
+| Nominal Operating Voltage | ±15 VDC |
+| Quiescent Current per Supply | < 20 mA |
+| Quiescent Power at ±15 VDC | < 600 mW |
+| Maximum Full-Scale Current | < 100 mA |
+| Output Signal Type (Accel & Temp) | Analog Current |
 #### Mechanical Specifications
   
-{
-headers: ['Parameter', 'Value'],
-rows: [
-  ['Housing Material', '300 Series Stainless Steel'],
-  ['Weight', '< 80 g'],
-  ['Mounting', '3 x M3 Screws'],
-  ['Flange Shape', 'Triangular'],
-  ['Maximum Base Diameter', '25.45 mm'],
-  ['Natural Frequency', '≥ 800 Hz']
-]
-
+| Parameter | Value |
+| --- | --- |
+| Housing Material | 300 Series Stainless Steel |
+| Weight | < 80 g |
+| Mounting | 3 x M3 Screws |
+| Flange Shape | Triangular |
+| Maximum Base Diameter | 25.45 mm |
+| Natural Frequency | ≥ 800 Hz |
 #### Temperature Sensor Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Sensitivity', 'µA/°C', '1'],
-  ['Error Repeatability', '°C', '±0.1']
-]
-
-    
-  
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Sensitivity | µA/°C | 1 |
+| Error Repeatability | °C | ±0.1 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/qac-accelerometer-navigation-bjgm25n01/](https://www.gnc-tech.com/products/qac-accelerometer-navigation-bjgm25n01/)

@@ -66,54 +66,39 @@ The GJPB980FY10 is a high-performance 980nm pump laser module specifically desig
 
 #### Optical Specifications
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Center Wavelength', 'nm', '980 ± 3'],
-  ['Output Power', 'mW', '110'],
-  ['Spectral Width (FWHM)', 'nm', '≤ 1'],
-  ['Power Stability (8hrs)', '%', '≤ ±1'],
-  ['Wavelength Temperature Coefficient', 'nm/°C', '0.3'],
-  ['Rise/Fall Time', 'ns', '≤ 2'],
-  ['Monitor Current', 'μA', '100~2000']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Center Wavelength | nm | 980 ± 3 |
+| Output Power | mW | 110 |
+| Spectral Width (FWHM) | nm | ≤ 1 |
+| Power Stability (8hrs) | % | ≤ ±1 |
+| Wavelength Temperature Coefficient | nm/°C | 0.3 |
+| Rise/Fall Time | ns | ≤ 2 |
+| Monitor Current | μA | 100~2000 |
 #### Electrical Specifications
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Current', 'mA', '≤ 280'],
-  ['Threshold Current', 'mA', '≤ 40'],
-  ['Operating Voltage', 'V', '≤ 2.2'],
-  ['Monitor Dark Current', 'nA', '≤ 100'],
-  ['PD Responsivity', 'A/W', '0.3~0.6']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Current | mA | ≤ 280 |
+| Threshold Current | mA | ≤ 40 |
+| Operating Voltage | V | ≤ 2.2 |
+| Monitor Dark Current | nA | ≤ 100 |
+| PD Responsivity | A/W | 0.3~0.6 |
 #### Environmental Specifications
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Case Temperature', '°C', '-20~+70'],
-  ['Storage Temperature', '°C', '-40~+85'],
-  ['Operating Relative Humidity', '%', '5~85']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Case Temperature | °C | -20~+70 |
+| Storage Temperature | °C | -40~+85 |
+| Operating Relative Humidity | % | 5~85 |
 #### Mechanical Specifications
   
-{
-headers: ['Parameters', 'Specifications'],
-rows: [
-  ['Package Type', '14-pin butterfly package'],
-  ['Fiber Type', 'PM980 or HI1060'],
-  ['Pigtail Length', '1.0 ± 0.1m'],
-  ['Boot Type', '900μm tight buffer']
-]
-
-    
-  
-
+| Parameters | Specifications |
+| --- | --- |
+| Package Type | 14-pin butterfly package |
+| Fiber Type | PM980 or HI1060 |
+| Pigtail Length | 1.0 ± 0.1m |
+| Boot Type | 900μm tight buffer |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/pump-laser-980nm-gjp980fy10/](https://www.gnc-tech.com/products/pump-laser-980nm-gjp980fy10/)

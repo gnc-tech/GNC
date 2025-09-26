@@ -57,31 +57,22 @@ The **PBYS18D22** series quartz pendulums are core sensing elements for high-pre
 
 #### Dimensional Specifications
   
-{
-headers: ['Parameters', 'Unit', 'φ22.2', 'φ15.6'],
-rows: [
-  ['External Diameter', 'mm', '22.2', '15.6'],
-  ['Pendulum Thickness', 'mm', '2.25', '3.40'],
-  ['Pendulum Gap', 'mm', '2.5', '1.8'],
-  ['Base Thickness', 'mm', '0.78', '0.6'],
-  ['Cavity Depth', 'mm', '3.8', '2.5'],
-  ['Metallization Thickness', 'mm', '0.019 × 2', '0.014 × 2'],
-  ['Bottom Clearance', 'mm', '2.6 ~ 2.9', '1.1 ~ 1.5']
-]
-
+| Parameters | Unit | φ22.2 | φ15.6 |
+| --- | --- | --- | --- |
+| External Diameter | mm | 22.2 | 15.6 |
+| Pendulum Thickness | mm | 2.25 | 3.40 |
+| Pendulum Gap | mm | 2.5 | 1.8 |
+| Base Thickness | mm | 0.78 | 0.6 |
+| Cavity Depth | mm | 3.8 | 2.5 |
+| Metallization Thickness | mm | 0.019 × 2 | 0.014 × 2 |
+| Bottom Clearance | mm | 2.6 ~ 2.9 | 1.1 ~ 1.5 |
 #### Electrical Specifications
   
-{
-headers: ['Parameters', 'Specification'],
-rows: [
-  ['Metallization Adhesion', 'Thermal cycle test followed by grid-adhesion test with no delamination'],
-  ['Electrical Continuity', 'Continuous metal layer resistance ≤ 10Ω'],
-  ['Insulation Resistance', 'Discontinuous metal layer resistance ≥ 100MΩ']
-]
-
-    
-  
-
+| Parameters | Specification |
+| --- | --- |
+| Metallization Adhesion | Thermal cycle test followed by grid-adhesion test with no delamination |
+| Electrical Continuity | Continuous metal layer resistance ≤ 10Ω |
+| Insulation Resistance | Discontinuous metal layer resistance ≥ 100MΩ |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-pendulum-pbys18d22/](https://www.gnc-tech.com/products/quartz-pendulum-pbys18d22/)

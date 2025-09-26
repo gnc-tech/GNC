@@ -56,13 +56,11 @@ type="package"
 subType="dimensions" 
 invertMode="light-only" 
 />
-    
-{
-  headers: ['Attribute', 'Value'],
-  rows: [
-['Connector Type', 'Micro-D 15-pin, 1.27 mm pitch'],
-['Mating Connector', 'Micro-D 15-pin, 1.27 mm pitch']
-  ]
+
+  | Attribute | Value |
+| --- | --- |
+| Connector Type | Micro-D 15-pin, 1.27 mm pitch |
+| Mating Connector | Micro-D 15-pin, 1.27 mm pitch |
 
 #### Pins
 <ProductImage 
@@ -71,23 +69,21 @@ type="package"
 subType="pins" 
 invertMode="light-only" 
 />
-    
-{
-  headers: ['Pin', 'Signal', 'Description'],
-  rows: [
-['1', 'TxD-', 'RS422 Transmit Negative'],
-['2', 'RxD-', 'RS422 Receive Negative'],
-['3', 'TOV', 'Time of Validity Output'],
-['4', 'NRST', 'External Reset Input'],
-['5', 'GND', 'Signal Ground'],
-['6', 'VSUP', 'Power Supply Input'],
-['7', 'TxD+', 'RS422 Transmit Positive'],
-['8', 'RxD+', 'RS422 Receive Positive'],
-['9', 'ExtTrig', 'External Trigger Input'],
-['10', 'GND', 'Additional Ground'],
-['11', 'GND', 'Power Ground'],
-['12-15', 'NC', 'Not Connected']
-  ]
+
+  | Pin | Signal | Description |
+| --- | --- | --- |
+| 1 | TxD- | RS422 Transmit Negative |
+| 2 | RxD- | RS422 Receive Negative |
+| 3 | TOV | Time of Validity Output |
+| 4 | NRST | External Reset Input |
+| 5 | GND | Signal Ground |
+| 6 | VSUP | Power Supply Input |
+| 7 | TxD+ | RS422 Transmit Positive |
+| 8 | RxD+ | RS422 Receive Positive |
+| 9 | ExtTrig | External Trigger Input |
+| 10 | GND | Additional Ground |
+| 11 | GND | Power Ground |
+| 12-15 | NC | Not Connected |
 
 ### variants
 
@@ -96,16 +92,13 @@ The CGM300S10 family supports a total of **16 validated configurations**, with f
 #### Featured Standard Model: **CGM300S1B**
 > The **CGM300S1B** represents the recommended configuration, offering optimal balance between precision, size, and versatility for general-purpose high-performance applications.
 
-    
-{
-  headers: ['Model', 'Gyro Stability (°/hr)', 'Accel Range', 'Use Case'],
-  rows: [
-['CGM300S1B', '0.05', '±10 g', 'Default – Balanced Precision'],
-['CGM300S10-A-1', '0.1', '±10 g', 'Robotics, Navigation'],
-['CGM300S10-B-2', '0.05', '±30 g', 'Surveying & Mapping'],
-['CGM300S10-B-4', '0.05', '±80 g', 'UAVs, High-Dynamic Systems'],
-['CGM300S10-C-3', '1.0', '±50 g', 'Industrial Applications']
-  ]
+  | Model | Gyro Stability (°/hr) | Accel Range | Use Case |
+| --- | --- | --- | --- |
+| CGM300S1B | 0.05 | ±10 g | Default – Balanced Precision |
+| CGM300S10-A-1 | 0.1 | ±10 g | Robotics, Navigation |
+| CGM300S10-B-2 | 0.05 | ±30 g | Surveying & Mapping |
+| CGM300S10-B-4 | 0.05 | ±80 g | UAVs, High-Dynamic Systems |
+| CGM300S10-C-3 | 1.0 | ±50 g | Industrial Applications |
 
 > _All 16 combinations are available. Contact us for custom orders or detailed configuration support._
 
@@ -124,38 +117,31 @@ The CGM300S10 family supports a total of **16 validated configurations**, with f
 
 #### Performance Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Gyroscope Bias Stability (1σ)', '°/hr', '0.05'],
-  ['Angular Random Walk', '°/√hr', '0.02'],
-  ['Gyroscope Dynamic Range', '°/s', '±400'],
-  ['Accelerometer Bias Stability (1σ)', 'mg', '0.01'],
-  ['Accelerometer Dynamic Range', 'g', '±10'],
-  ['Inclinometer Dynamic Range', 'g', '±1.7'],
-  ['Gyro Bandwidth (-3 dB)', 'Hz', '150'],
-  ['Accelerometer Bandwidth (-3 dB)', 'Hz', '100']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Gyroscope Bias Stability (1σ) | °/hr | 0.05 |
+| Angular Random Walk | °/√hr | 0.02 |
+| Gyroscope Dynamic Range | °/s | ±400 |
+| Accelerometer Bias Stability (1σ) | mg | 0.01 |
+| Accelerometer Dynamic Range | g | ±10 |
+| Inclinometer Dynamic Range | g | ±1.7 |
+| Gyro Bandwidth (-3 dB) | Hz | 150 |
+| Accelerometer Bandwidth (-3 dB) | Hz | 100 |
 #### Electrical and Environmental Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Weight', 'g', '120'],
-  ['Startup Time', 's', '1'],
-  ['Power Supply', 'V', '4.5 – 5.5'],
-  ['Power Consumption', 'W', '1.2 – 2.0'],
-  ['Startup Peak Current', 'mA', '700'],
-  ['Communication Interface', '—', 'RS422'],
-  ['Output Format', '—', '8-bit, No parity, 1 stop'],
-  ['External Trigger', '—', 'Supported'],
-  ['Time of Validity (TOV) Signal', '—', '3.3V logic, active low'],
-  ['Operating Temperature', '°C', '-45 to +85'],
-  ['Shock Tolerance', 'g', '2000']
-]
-
-    
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Weight | g | 120 |
+| Startup Time | s | 1 |
+| Power Supply | V | 4.5 – 5.5 |
+| Power Consumption | W | 1.2 – 2.0 |
+| Startup Peak Current | mA | 700 |
+| Communication Interface | — | RS422 |
+| Output Format | — | 8-bit, No parity, 1 stop |
+| External Trigger | — | Supported |
+| Time of Validity (TOV) Signal | — | 3.3V logic, active low |
+| Operating Temperature | °C | -45 to +85 |
+| Shock Tolerance | g | 2000 |    
 > **Note:**
 > - All stability and noise values are 1σ typical unless otherwise noted.
 > - Sensor bandwidth and output format are configurable via service mode.

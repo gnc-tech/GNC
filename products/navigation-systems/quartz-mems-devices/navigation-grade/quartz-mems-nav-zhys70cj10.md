@@ -47,17 +47,15 @@ _Unit: mm_
 <ProductImage productId="D-Q-JDW-ZHYS70CJ10" invertMode="light-only" />
 #### Electrical Interface
 Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-    
-{
-  headers: ['Wire Color', 'Definition'],
-  rows: [
-['Red', 'Power +'],
-['Black', 'Power Ground'],
-['Purple', 'CAN_H'],
-['Green', 'CAN_L'],
-['White', 'RS422_R+'],
-['Yellow', 'RS422_R–'],
-  ]
+
+  | Wire Color | Definition |
+| --- | --- |
+| Red | Power + |
+| Black | Power Ground |
+| Purple | CAN_H |
+| Green | CAN_L |
+| White | RS422_R+ |
+| Yellow | RS422_R– |
 
 ### Applications
 
@@ -70,81 +68,61 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 
 #### Key Technical Specifications
   
-{
-headers: ['Parameter', 'Unit', 'ZHYS70CJ10'],
-rows: [
-  ['Power Supply Voltage', 'V', '5 ± 0.2'],
-  ['Operating Current', 'mA', '40'],
-  ['Weight', 'g', '20 ± 5'],
-]
-
+| Parameter | Unit | ZHYS70CJ10 |
+| --- | --- | --- |
+| Power Supply Voltage | V | 5 ± 0.2 |
+| Operating Current | mA | 40 |
+| Weight | g | 20 ± 5 |
 ##### Gyroscope Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Measurement Range', '°/s', '√±300'],
-  ['Scale Factor', '-', '1 ± 0.005'],
-  ['Scale Factor Nonlinearity', 'ppm', '≤100'],
-  ['Scale Factor Repeatability', 'ppm', '≤200'],
-  ['Scale Factor Asymmetry', 'ppm', '≤200'],
-  ['Cross-Axis Sensitivity', '-', '≤0.005'],
-  ['Threshold / Resolution', '°/s', '≤0.01'],
-  ['Bias (Full Temperature)', '°/s', '±0.1'],
-  ['Bias Stability (Room Temp)', '°/h', '≤10'],
-  ['Bias Stability (Full Temp)', '°/h', '≤20'],
-  ['Bias Repeatability', '°/h', '≤10'],
-  ['Angular Random Walk', '°/√h', '≤0.08'],
-  ['Bias Instability (Allan Deviation)', '°/h', '≤2'],
-  ['Bandwidth (Amplitude)', 'Hz', '√120'],
-  ['Delay Time', 'ms', '√2.0'],
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Measurement Range | °/s | √±300 |
+| Scale Factor | - | 1 ± 0.005 |
+| Scale Factor Nonlinearity | ppm | ≤100 |
+| Scale Factor Repeatability | ppm | ≤200 |
+| Scale Factor Asymmetry | ppm | ≤200 |
+| Cross-Axis Sensitivity | - | ≤0.005 |
+| Threshold / Resolution | °/s | ≤0.01 |
+| Bias (Full Temperature) | °/s | ±0.1 |
+| Bias Stability (Room Temp) | °/h | ≤10 |
+| Bias Stability (Full Temp) | °/h | ≤20 |
+| Bias Repeatability | °/h | ≤10 |
+| Angular Random Walk | °/√h | ≤0.08 |
+| Bias Instability (Allan Deviation) | °/h | ≤2 |
+| Bandwidth (Amplitude) | Hz | √120 |
+| Delay Time | ms | √2.0 |
 ##### Accelerometer Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Measurement Range', 'g', '√10'],
-  ['Bias (Full Temperature)', 'mg', '±10'],
-  ['Bias Stability (Room Temp)', 'mg', '≤0.2'],
-  ['Bias Stability (Full Temp)', 'mg', '≤2'],
-  ['Bias Repeatability', 'mg', '≤0.4'],
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Measurement Range | g | √10 |
+| Bias (Full Temperature) | mg | ±10 |
+| Bias Stability (Room Temp) | mg | ≤0.2 |
+| Bias Stability (Full Temp) | mg | ≤2 |
+| Bias Repeatability | mg | ≤0.4 |
 ##### Attitude & Heading Performance
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Heading Accuracy', '°', '≤2'],
-  ['Attitude Accuracy (Pitch/Roll)', '°', '≤0.5'],
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Heading Accuracy | ° | ≤2 |
+| Attitude Accuracy (Pitch/Roll) | ° | ≤0.5 |
 ##### System Measurement Ranges
-  
-{
-headers: ['Parameter', 'Unit', 'Range'],
-rows: [
-  ['Heading Measurement Range', '°', '0 ~ 360 (Clockwise from North)'],
-  ['Attitude Measurement Range', '°', 'Roll: -180 ~ +180'],
-  ['', '', 'Pitch: -85 ~ +85'],
-]
+
+| Parameter | Unit | Range |
+| --- | --- | --- |
+| Heading Measurement Range | ° | 0 ~ 360 (Clockwise from North) |
+| Attitude Measurement Range | ° | Roll: -180 ~ +180 |
+|  |  | Pitch: -85 ~ +85 |
 
 ##### Environmental Adaptability
   
-{
-headers: ['Test Item', 'Unit', 'Gyroscope', 'Accelerometer'],
-rows: [
-  ['Vibration (6.06g RMS, 20Hz–2kHz)', '°/h / mg', '≤36', '≤30'],
-  ['Shock (Half-Sine, 200g, 6ms)', '°/h / mg', '≤36', '≤30'],
-  ['Operating Temperature', '℃', '-45 ~ +85', ''],
-  ['Storage Temperature', '℃', '-55 ~ +85', ''],
-]
-
-    
-  
-
+| Test Item | Unit | Gyroscope | Accelerometer |
+| --- | --- | --- | --- |
+| Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤30 |
+| Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤30 |
+| Operating Temperature | ℃ | -45 ~ +85 |  |
+| Storage Temperature | ℃ | -55 ~ +85 |  |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-nav-zhys70cj10/](https://www.gnc-tech.com/products/quartz-mems-nav-zhys70cj10/)

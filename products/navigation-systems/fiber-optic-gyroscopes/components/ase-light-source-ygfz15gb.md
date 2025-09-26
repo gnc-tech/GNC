@@ -59,63 +59,45 @@ The **YGFZ15GBG30** is a high-performance ASE light source featuring a Gaussian 
 
 #### Optical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Center Wavelength', 'nm', '1530'],
-  ['Output Power', 'mW', '≤50'],
-  ['Spectral Width', 'nm', '7'],
-  ['Power Stability @25°C', '%', '1'],
-  ['Power Stability @Full Temperature', '%', '5'],
-  ['Wavelength Stability @25°C', 'ppm', '5'],
-  ['Wavelength Stability @Full Temperature', 'ppm', '20'],
-  ['Spectral Modulation', 'dB', '0.03'],
-  ['Polarization Extinction Ratio', 'dB', '0.2']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Center Wavelength | nm | 1530 |
+| Output Power | mW | ≤50 |
+| Spectral Width | nm | 7 |
+| Power Stability @25°C | % | 1 |
+| Power Stability @Full Temperature | % | 5 |
+| Wavelength Stability @25°C | ppm | 5 |
+| Wavelength Stability @Full Temperature | ppm | 20 |
+| Spectral Modulation | dB | 0.03 |
+| Polarization Extinction Ratio | dB | 0.2 |
 #### Electrical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Supply Voltage', 'V', 'DC +5V/GND'],
-  ['Power Consumption @25°C', 'W', '≤1.5'],
-  ['Power Consumption @Full Temperature', 'W', '≤4.0']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Supply Voltage | V | DC +5V/GND |
+| Power Consumption @25°C | W | ≤1.5 |
+| Power Consumption @Full Temperature | W | ≤4.0 |
 #### Package Options
   
-{
-headers: ['Type', 'Specification', 'Remark'],
-rows: [
-  ['Package A', 'Φ45 mm', 'Compact size'],
-  ['Package B', 'Φ60 mm', 'Standard size'],
-  ['Package C', 'Φ98 mm', 'Enhanced cooling'],
-  ['Package D', '90 × 70 × 15 mm', 'Rack mount']
-]
-
+| Type | Specification | Remark |
+| --- | --- | --- |
+| Package A | Φ45 mm | Compact size |
+| Package B | Φ60 mm | Standard size |
+| Package C | Φ98 mm | Enhanced cooling |
+| Package D | 90 × 70 × 15 mm | Rack mount |
   <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
   #### Fiber Options
   
-{
-headers: ['Type', 'Specification'],
-rows: [
-  ['Standard', '80/170 μm SM'],
-  ['Optional', '125/250 μm SM'],
-  ['Jumper', 'SMF-28e, 900 μm']
-]
-
+| Type | Specification |
+| --- | --- |
+| Standard | 80/170 μm SM |
+| Optional | 125/250 μm SM |
+| Jumper | SMF-28e, 900 μm |
 #### Environmental Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Working Temperature', '°C', '-40~+70']
-]
-
-    
-  
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Working Temperature | °C | -40~+70 |
 ## D-Q-TQG-YGFZ15GBG60
 
 ### Overview
@@ -144,63 +126,45 @@ The **YGFZ15GBG60** is a high-performance ASE light source featuring a Gaussian 
 
 #### Optical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Center Wavelength', 'nm', '1560'],
-  ['Output Power', 'mW', '≤50'],
-  ['Spectral Width', 'nm', '11'],
-  ['Power Stability @25°C', '%', '1'],
-  ['Power Stability @Full Temperature', '%', '5'],
-  ['Wavelength Stability @25°C', 'ppm', '5'],
-  ['Wavelength Stability @Full Temperature', 'ppm', '150'],
-  ['Spectral Modulation', 'dB', '0.03'],
-  ['Polarization Extinction Ratio', 'dB', '0.2']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Center Wavelength | nm | 1560 |
+| Output Power | mW | ≤50 |
+| Spectral Width | nm | 11 |
+| Power Stability @25°C | % | 1 |
+| Power Stability @Full Temperature | % | 5 |
+| Wavelength Stability @25°C | ppm | 5 |
+| Wavelength Stability @Full Temperature | ppm | 150 |
+| Spectral Modulation | dB | 0.03 |
+| Polarization Extinction Ratio | dB | 0.2 |
 #### Electrical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Supply Voltage', 'V', 'DC +5V/GND'],
-  ['Power Consumption @25°C', 'W', '≤1.5'],
-  ['Power Consumption @Full Temperature', 'W', '≤4.0']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Supply Voltage | V | DC +5V/GND |
+| Power Consumption @25°C | W | ≤1.5 |
+| Power Consumption @Full Temperature | W | ≤4.0 |
 #### Package Options
   
-{
-headers: ['Type', 'Specification', 'Remark'],
-rows: [
-  ['Package A', 'Φ45 mm', 'Compact size'],
-  ['Package B', 'Φ60 mm', 'Standard size'],
-  ['Package C', 'Φ98 mm', 'Enhanced cooling'],
-  ['Package D', '90 × 70 × 15 mm', 'Rack mount']
-]
-
+| Type | Specification | Remark |
+| --- | --- | --- |
+| Package A | Φ45 mm | Compact size |
+| Package B | Φ60 mm | Standard size |
+| Package C | Φ98 mm | Enhanced cooling |
+| Package D | 90 × 70 × 15 mm | Rack mount |
   <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
   #### Fiber Options
   
-{
-headers: ['Type', 'Specification'],
-rows: [
-  ['Standard', '80/170 μm SM'],
-  ['Optional', '125/250 μm SM'],
-  ['Jumper', 'SMF-28e, 900 μm']
-]
-
+| Type | Specification |
+| --- | --- |
+| Standard | 80/170 μm SM |
+| Optional | 125/250 μm SM |
+| Jumper | SMF-28e, 900 μm |
 #### Environmental Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Working Temperature', '°C', '-40~+70']
-]
-
-    
-  
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Working Temperature | °C | -40~+70 |
 ## D-Q-TQG-YGFZ15GBP50
 
 ### Overview
@@ -236,62 +200,44 @@ The **YGFZ15GBP50** features a flattened spectral profile with broad bandwidth, 
 
 #### Optical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Wavelength Range', 'nm', '1528~1566'],
-  ['Output Power', 'mW', '≤200 (Tunable)'],
-  ['Spectral Width', 'nm', '38'],
-  ['Spectral Flatness', 'dB', '≤1.5'],
-  ['Power Stability @25°C', '%', '1'],
-  ['Power Stability @Full Temperature', '%', '5'],
-  ['Spectral Modulation', 'dB', '0.1'],
-  ['Polarization Extinction Ratio', 'dB', '0.2']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Wavelength Range | nm | 1528~1566 |
+| Output Power | mW | ≤200 (Tunable) |
+| Spectral Width | nm | 38 |
+| Spectral Flatness | dB | ≤1.5 |
+| Power Stability @25°C | % | 1 |
+| Power Stability @Full Temperature | % | 5 |
+| Spectral Modulation | dB | 0.1 |
+| Polarization Extinction Ratio | dB | 0.2 |
 #### Electrical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Supply Voltage', 'V', 'DC +5V/GND'],
-  ['Power Consumption @25°C', 'W', '≤1.5'],
-  ['Power Consumption @Full Temperature', 'W', '≤4.0']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Supply Voltage | V | DC +5V/GND |
+| Power Consumption @25°C | W | ≤1.5 |
+| Power Consumption @Full Temperature | W | ≤4.0 |
 #### Package Options
   
-{
-headers: ['Type', 'Specification', 'Remark'],
-rows: [
-  ['Package A', 'Φ45 mm', 'Compact size'],
-  ['Package B', 'Φ60 mm', 'Standard size'],
-  ['Package C', 'Φ98 mm', 'Enhanced cooling'],
-  ['Package D', '90 × 70 × 15 mm', 'Rack mount']
-]
-
+| Type | Specification | Remark |
+| --- | --- | --- |
+| Package A | Φ45 mm | Compact size |
+| Package B | Φ60 mm | Standard size |
+| Package C | Φ98 mm | Enhanced cooling |
+| Package D | 90 × 70 × 15 mm | Rack mount |
   <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
   #### Fiber Options
   
-{
-headers: ['Type', 'Specification'],
-rows: [
-  ['Standard', '80/170 μm SM'],
-  ['Optional', '125/250 μm SM'],
-  ['Jumper', 'SMF-28e, 900 μm']
-]
-
+| Type | Specification |
+| --- | --- |
+| Standard | 80/170 μm SM |
+| Optional | 125/250 μm SM |
+| Jumper | SMF-28e, 900 μm |
 #### Environmental Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Working Temperature', '°C', '-10~+60']
-]
-
-    
-  
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Working Temperature | °C | -10~+60 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/ase-light-source-ygfz15gb/](https://www.gnc-tech.com/products/ase-light-source-ygfz15gb/)

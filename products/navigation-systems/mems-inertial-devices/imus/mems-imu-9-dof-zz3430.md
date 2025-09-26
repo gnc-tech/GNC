@@ -84,54 +84,42 @@ The diagram shows the outline dimensions of the JDWZZ3430 series, providing key 
 
 #### Gyroscope Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±100', '°/s'],
-  ['Zero Bias Stability¹', '≤0.1', '°/h'],
-  ['Zero Bias Temperature Drift²', '≤5', '°/h(1σ)'],
-  ['Zero Bias g Sensitivity', '≤0.5', '°/h/g'],
-  ['Scale Factor Nonlinearity', '≤50', 'ppm'],
-  ['Bandwidth³', '25', 'Hz'],
-  ['Resolution', '24', 'bit']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±100 | °/s |
+| Zero Bias Stability¹ | ≤0.1 | °/h |
+| Zero Bias Temperature Drift² | ≤5 | °/h(1σ) |
+| Zero Bias g Sensitivity | ≤0.5 | °/h/g |
+| Scale Factor Nonlinearity | ≤50 | ppm |
+| Bandwidth³ | 25 | Hz |
+| Resolution | 24 | bit |
 #### Accelerometer Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±10', 'g'],
-  ['Zero Bias Stability¹', '≤50', 'μg'],
-  ['Zero Bias Temperature Coefficient', '≤0.02', 'mg/°C'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Bandwidth³', '100', 'Hz']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±10 | g |
+| Zero Bias Stability¹ | ≤50 | μg |
+| Zero Bias Temperature Coefficient | ≤0.02 | mg/°C |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Bandwidth³ | 100 | Hz |
 #### Magnetic Sensor Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±8', 'G'],
-  ['Resolution', '3000', 'LSB/G'],
-  ['Scale Factor Nonlinearity', '≤0.3', '%(1σ)']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±8 | G |
+| Resolution | 3000 | LSB/G |
+| Scale Factor Nonlinearity | ≤0.3 | %(1σ) |
 #### Common Specifications
   
-{
-headers: ['Parameters', 'Value', 'Unit'],
-rows: [
-  ['Orthogonality', '6', '°'],
-  ['Sampling Rate⁴', '1000', 'Hz'],
-  ['Activation Time', '≤1', 's'],
-  ['Power Supply Voltage', '5~8', 'V'],
-  ['Current', '≤300', 'mA'],
-  ['Operating Temperature', '-40~+85', '°C'],
-  ['Resistant To Overload', '1000', 'g']
-]
-
+| Parameters | Value | Unit |
+| --- | --- | --- |
+| Orthogonality | 6 | ° |
+| Sampling Rate⁴ | 1000 | Hz |
+| Activation Time | ≤1 | s |
+| Power Supply Voltage | 5~8 | V |
+| Current | ≤300 | mA |
+| Operating Temperature | -40~+85 | °C |
+| Resistant To Overload | 1000 | g |
 ### Notes
 
 1. 10s smoothing
@@ -155,30 +143,24 @@ The **JDWZZ3430C** is an enhanced version of the 9-DOF MEMS IMU, featuring exten
 
 #### Gyroscope Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±400', '°/s'],
-  ['Zero Bias Stability¹', '≤1', '°/h'],
-  ['Zero Bias Temperature Drift²', '≤5', '°/h(1σ)'],
-  ['Zero Bias g Sensitivity', '≤1', '°/h/g'],
-  ['Scale Factor Nonlinearity', '≤100', 'ppm'],
-  ['Bandwidth³', '200', 'Hz'],
-  ['Resolution', '24', 'bit']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±400 | °/s |
+| Zero Bias Stability¹ | ≤1 | °/h |
+| Zero Bias Temperature Drift² | ≤5 | °/h(1σ) |
+| Zero Bias g Sensitivity | ≤1 | °/h/g |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Bandwidth³ | 200 | Hz |
+| Resolution | 24 | bit |
 #### Accelerometer Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±20', 'g'],
-  ['Zero Bias Stability¹', '≤100', 'μg'],
-  ['Zero Bias Temperature Coefficient', '≤0.02', 'mg/°C'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Bandwidth³', '100', 'Hz']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±20 | g |
+| Zero Bias Stability¹ | ≤100 | μg |
+| Zero Bias Temperature Coefficient | ≤0.02 | mg/°C |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Bandwidth³ | 100 | Hz |
 ### Notes
 
 ### Overview
@@ -197,30 +179,24 @@ The **JDWZZ3430D** represents the extended-range variant of the 9-DOF MEMS IMU s
 
 #### Gyroscope Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±500', '°/s'],
-  ['Zero Bias Stability¹', '≤5', '°/h'],
-  ['Zero Bias Temperature Drift²', '≤15', '°/h(1σ)'],
-  ['Zero Bias g Sensitivity', '≤1', '°/h/g'],
-  ['Scale Factor Nonlinearity', '≤100', 'ppm'],
-  ['Bandwidth³', '200', 'Hz'],
-  ['Resolution', '24', 'bit']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±500 | °/s |
+| Zero Bias Stability¹ | ≤5 | °/h |
+| Zero Bias Temperature Drift² | ≤15 | °/h(1σ) |
+| Zero Bias g Sensitivity | ≤1 | °/h/g |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Bandwidth³ | 200 | Hz |
+| Resolution | 24 | bit |
 #### Accelerometer Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±50', 'g'],
-  ['Zero Bias Stability¹', '≤200', 'μg'],
-  ['Zero Bias Temperature Coefficient', '≤0.02', 'mg/°C'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Bandwidth³', '100', 'Hz']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±50 | g |
+| Zero Bias Stability¹ | ≤200 | μg |
+| Zero Bias Temperature Coefficient | ≤0.02 | mg/°C |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Bandwidth³ | 100 | Hz |
 ### Notes
 
 ---

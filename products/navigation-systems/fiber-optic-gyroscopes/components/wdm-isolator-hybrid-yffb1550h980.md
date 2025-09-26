@@ -68,52 +68,41 @@ The D-Q-TQG-YFFB1550H980 is a high-performance hybrid optical component that int
 
 #### Optical Specifications
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Pass Wavelength', 'nm', '1528 ~ 1568'],
-  ['Reflect Wavelength', 'nm', '980 ± 10'],
-  ['Signal Insertion Loss (Signal to Com)', 'dB', '≤ 1.0'],
-  ['Pump Insertion Loss (Pump to Com)', 'dB', '≤ 0.5'],
-  ['Isolator Isolation', 'dB', '≥ 35'],
-  ['WDM Pass Isolation @980nm', 'dB', '≥ 25'],
-  ['WDM Reflect Isolation @1550nm', 'dB', '≥ 15'],
-  ['Polarization Dependent Loss', 'dB', '≤ 0.2'],
-  ['Return Loss @23°C', 'dB', '≥ 50'],
-  ['Directivity (Pump to Signal)', 'dB', '≥ 50'],
-  ['Polarization Mode Dispersion', 'ps', '≤ 0.05']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Pass Wavelength | nm | 1528 ~ 1568 |
+| Reflect Wavelength | nm | 980 ± 10 |
+| Signal Insertion Loss (Signal to Com) | dB | ≤ 1.0 |
+| Pump Insertion Loss (Pump to Com) | dB | ≤ 0.5 |
+| Isolator Isolation | dB | ≥ 35 |
+| WDM Pass Isolation @980nm | dB | ≥ 25 |
+| WDM Reflect Isolation @1550nm | dB | ≥ 15 |
+| Polarization Dependent Loss | dB | ≤ 0.2 |
+| Return Loss @23°C | dB | ≥ 50 |
+| Directivity (Pump to Signal) | dB | ≥ 50 |
+| Polarization Mode Dispersion | ps | ≤ 0.05 |
 #### Power Specifications
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Signal Optical Power', 'mW', '≤ 500'],
-  ['Pump Optical Power', 'W', '≤ 1']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Signal Optical Power | mW | ≤ 500 |
+| Pump Optical Power | W | ≤ 1 |
 #### Environmental Specifications
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Temperature', '°C', '-40 ~ +70'],
-  ['Storage Temperature', '°C', '-40 ~ +85'],
-  ['Operating Relative Humidity', '%', '5 ~ 95'],
-  ['Storage Relative Humidity', '%', '5 ~ 95']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Temperature | °C | -40 ~ +70 |
+| Storage Temperature | °C | -40 ~ +85 |
+| Operating Relative Humidity | % | 5 ~ 95 |
+| Storage Relative Humidity | % | 5 ~ 95 |
 #### Mechanical Specifications
-  
-{
-headers: ['Parameters', 'Specifications'],
-rows: [
-  ['Package Size', 'Glass tube φ2.2 × 25mm'],
-  ['Fiber Type', 'ZBL Fiber Com & Pump: OFS 980-20'],
-  ['Pigtail Length', '1.0 ± 0.1m'],
-  ['Fiber Jacket', '250μm bare fiber']
-]
+
+| Parameters | Specifications |
+| --- | --- |
+| Package Size | Glass tube φ2.2 × 25mm |
+| Fiber Type | ZBL Fiber Com & Pump: OFS 980-20 |
+| Pigtail Length | 1.0 ± 0.1m |
+| Fiber Jacket | 250μm bare fiber |
 
     
   

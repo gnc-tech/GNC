@@ -51,28 +51,26 @@ The LTTB10CJ02 is a single-axis quartz MEMS gyroscope designed for high-reliabil
 _Unit: mm_
 <ProductImage productId="D-Q-JDW-LTTB10CJ02" invertMode="light-only" />
 #### Hardware Interface Definition
-    
-{
-  headers: ['Pin', 'Definition', 'Function', 'Description'],
-  rows: [
-['0', 'GND', 'Power Ground', 'Ground'],
-['1', 'VIN', 'Power Supply Input', 'External input 4.8–5.2V'],
-['2', 'GND', 'Power Ground', 'Ground'],
-['3', 'GND', 'Power Ground', 'Ground'],
-['4', 'VB', 'Reference Voltage', 'Optional; can connect 1μF filtering capacitor'],
-['5', 'VC', 'Reference Voltage', 'External input 4.8–5.2V'],
-['6', 'VREFN', 'Reference Voltage', 'Optional; can connect 1μF filtering capacitor'],
-['7', 'VREFP', 'Reference Voltage', 'Optional; can connect 1μF filtering capacitor'],
-['8', 'VPP', 'OTP Programming Voltage', 'Recommended to route externally'],
-['9', 'SPI_MISO', 'SPI Output', 'Serial Peripheral Interface, Output Line'],
-['10', 'SPI_MOSI', 'SPI Input', 'Serial Peripheral Interface, Input Line'],
-['11', 'SPI_CLK', 'SPI Clock', 'Serial Clock Line'],
-['12', 'SPI_CS', 'SPI Chip Select', 'SPI Chip Select Line'],
-['13', 'VCC', 'I/O Power Supply', 'Digital power input 3.2V–3.4V'],
-['14', 'VDD', 'Digital Power (1.8V)', 'Optional; can connect 1μF filtering capacitor'],
-['15', 'LPRC', 'External Filtering', 'Connect to external filtering circuit'],
-['16', 'GND/ELCK', 'Power Ground / Clock Reference', 'Not Connected (NC)'],
-  ]
+
+  | Pin | Definition | Function | Description |
+| --- | --- | --- | --- |
+| 0 | GND | Power Ground | Ground |
+| 1 | VIN | Power Supply Input | External input 4.8–5.2V |
+| 2 | GND | Power Ground | Ground |
+| 3 | GND | Power Ground | Ground |
+| 4 | VB | Reference Voltage | Optional; can connect 1μF filtering capacitor |
+| 5 | VC | Reference Voltage | External input 4.8–5.2V |
+| 6 | VREFN | Reference Voltage | Optional; can connect 1μF filtering capacitor |
+| 7 | VREFP | Reference Voltage | Optional; can connect 1μF filtering capacitor |
+| 8 | VPP | OTP Programming Voltage | Recommended to route externally |
+| 9 | SPI_MISO | SPI Output | Serial Peripheral Interface, Output Line |
+| 10 | SPI_MOSI | SPI Input | Serial Peripheral Interface, Input Line |
+| 11 | SPI_CLK | SPI Clock | Serial Clock Line |
+| 12 | SPI_CS | SPI Chip Select | SPI Chip Select Line |
+| 13 | VCC | I/O Power Supply | Digital power input 3.2V–3.4V |
+| 14 | VDD | Digital Power (1.8V) | Optional; can connect 1μF filtering capacitor |
+| 15 | LPRC | External Filtering | Connect to external filtering circuit |
+| 16 | GND/ELCK | Power Ground / Clock Reference | Not Connected (NC) |
 
 ### Applications
 
@@ -85,40 +83,31 @@ _Unit: mm_
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'Typical Value', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '≤10', 'mA'],
-  ['Weight', '≤1.5', 'g'],
-  ['Outline Dimensions', '10 × 10 × 2.95', 'mm'],
-  ['Initialization Time', '≤1', 's'],
-  ['Measurement Range', '±400', '°/s'],
-  ['Scale Factor Nonlinearity', '≤100', 'ppm'],
-  ['Scale Factor Repeatability', '≤100', 'ppm'],
-  ['Resolution', '≤0.005', '°/s'],
-  ['Bias (Full Temperature Range)', '≤100', '°/h'],
-  ['Bias Instability (Allan Deviation)', '≤3', '°/h'],
-  ['Bias Stability', '≤10', '°/h'],
-  ['Bias Repeatability', '≤15', '°/h'],
-  ['Angular Random Walk', '≤0.15', '°/√h'],
-  ['Bandwidth', '≥150', 'Hz'],
-]
-
+| Performance Parameter | Typical Value | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | ≤10 | mA |
+| Weight | ≤1.5 | g |
+| Outline Dimensions | 10 × 10 × 2.95 | mm |
+| Initialization Time | ≤1 | s |
+| Measurement Range | ±400 | °/s |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Scale Factor Repeatability | ≤100 | ppm |
+| Resolution | ≤0.005 | °/s |
+| Bias (Full Temperature Range) | ≤100 | °/h |
+| Bias Instability (Allan Deviation) | ≤3 | °/h |
+| Bias Stability | ≤10 | °/h |
+| Bias Repeatability | ≤15 | °/h |
+| Angular Random Walk | ≤0.15 | °/√h |
+| Bandwidth | ≥150 | Hz |
 #### Environmental Adaptability
   
-{
-headers: ['Test Description', 'Limit Value', 'Unit'],
-rows: [
-  ['Vibration Resistance (6.06g RMS @ 20Hz~2000Hz)', '≤0.01', '°/s'],
-  ['Half-Sine Shock (200g @ 6ms)', '≤0.01', '°/s'],
-  ['Operating Temperature Range', '-45 ~ +85', '℃'],
-  ['Storage Temperature Range', '-50 ~ +90', '℃'],
-]
-
-    
-  
-
+| Test Description | Limit Value | Unit |
+| --- | --- | --- |
+| Vibration Resistance (6.06g RMS @ 20Hz~2000Hz) | ≤0.01 | °/s |
+| Half-Sine Shock (200g @ 6ms) | ≤0.01 | °/s |
+| Operating Temperature Range | -45 ~ +85 | ℃ |
+| Storage Temperature Range | -50 ~ +90 | ℃ |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj02/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj02/)

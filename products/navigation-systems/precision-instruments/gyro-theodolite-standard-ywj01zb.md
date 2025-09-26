@@ -110,27 +110,21 @@ The reference-grade gyro theodolite (ZB01) represents our commitment to precisio
 
 #### Measurement Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Azimuth Accuracy', 'arcsec', '≤2.5'],
-  ['Measurement Time', 'min', '≤14'],
-  ['Main Unit Weight', 'kg', '≤14'],
-  ['Data Storage', 'groups', '100']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Azimuth Accuracy | arcsec | ≤2.5 |
+| Measurement Time | min | ≤14 |
+| Main Unit Weight | kg | ≤14 |
+| Data Storage | groups | 100 |
 #### Operation Parameters
   
-{
-headers: ['Parameter', 'Value'],
-rows: [
-  ['Operation Mode', 'One-key Full Auto'],
-  ['Operation Safety', 'Anti-shock, Anti-static, Anti-interference'],
-  ['Measurement Process', 'Self-checking'],
-  ['Display', 'Digital Display'],
-  ['Result Output', 'Auto Storage and Output']
-]
-
+| Parameter | Value |
+| --- | --- |
+| Operation Mode | One-key Full Auto |
+| Operation Safety | Anti-shock, Anti-static, Anti-interference |
+| Measurement Process | Self-checking |
+| Display | Digital Display |
+| Result Output | Auto Storage and Output |
 ### Product Images
 
 ![Product Image](https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01ZB/D-TP-YWJ01ZB025-Slide-01.webp)
@@ -184,27 +178,21 @@ The engineering-grade gyro theodolite (ZB07) is optimized for construction and e
 
 #### Measurement Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Azimuth Accuracy', 'arcsec', '≤7'],
-  ['Measurement Time', 'min', '≤9'],
-  ['Main Unit Weight', 'kg', '≤12'],
-  ['Data Storage', 'groups', '100']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Azimuth Accuracy | arcsec | ≤7 |
+| Measurement Time | min | ≤9 |
+| Main Unit Weight | kg | ≤12 |
+| Data Storage | groups | 100 |
 #### Operation Parameters
   
-{
-headers: ['Parameter', 'Value'],
-rows: [
-  ['Operation Mode', 'One-key Full Auto'],
-  ['Operation Safety', 'Anti-shock, Anti-static, Anti-interference'],
-  ['Measurement Process', 'Self-checking'],
-  ['Display', 'Digital Display'],
-  ['Result Output', 'Auto Storage and Output']
-]
-
+| Parameter | Value |
+| --- | --- |
+| Operation Mode | One-key Full Auto |
+| Operation Safety | Anti-shock, Anti-static, Anti-interference |
+| Measurement Process | Self-checking |
+| Display | Digital Display |
+| Result Output | Auto Storage and Output |
 ### Product Images
 
 ## D-TP-YWJ01ZB150
@@ -248,27 +236,21 @@ The rapid-measurement gyro theodolite (ZB15) focuses on efficient field operatio
 
 #### Measurement Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Azimuth Accuracy', 'arcsec', '≤15'],
-  ['Measurement Time', 'min', '≤8'],
-  ['Main Unit Weight', 'kg', '≤11'],
-  ['Data Storage', 'groups', '100']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Azimuth Accuracy | arcsec | ≤15 |
+| Measurement Time | min | ≤8 |
+| Main Unit Weight | kg | ≤11 |
+| Data Storage | groups | 100 |
 #### Operation Parameters
   
-{
-headers: ['Parameter', 'Value'],
-rows: [
-  ['Operation Mode', 'One-key Full Auto'],
-  ['Operation Safety', 'Anti-shock, Anti-static, Anti-interference'],
-  ['Measurement Process', 'Self-checking'],
-  ['Display', 'Digital Display'],
-  ['Result Output', 'Auto Storage and Output']
-]
-
+| Parameter | Value |
+| --- | --- |
+| Operation Mode | One-key Full Auto |
+| Operation Safety | Anti-shock, Anti-static, Anti-interference |
+| Measurement Process | Self-checking |
+| Display | Digital Display |
+| Result Output | Auto Storage and Output |
 ### Product Images
 
 ---

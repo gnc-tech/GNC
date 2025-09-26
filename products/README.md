@@ -118,7 +118,6 @@ Complete catalog of GNC Tech's precision guidance, navigation, and control produ
 - [Long Operating Time](control-systems/thermal-battery-systems/thermal-battery-long-operating-time.md)
 - [Micro](control-systems/thermal-battery-systems/thermal-battery-micro.md)
 
-
 ## 📊 Statistics
 
 - **Total Products**: 74

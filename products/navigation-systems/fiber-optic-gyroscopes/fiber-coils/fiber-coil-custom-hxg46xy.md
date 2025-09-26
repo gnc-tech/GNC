@@ -58,28 +58,19 @@ The custom-shaped fiber optic coil is designed to meet specialized application r
 
 #### Design Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Inner Diameter', 'mm', '15~250'],
-  ['Layer Count', '/', '10~120'],
-  ['Fiber Length', 'm', '20~20000']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Inner Diameter | mm | 15~250 |
+| Layer Count | / | 10~120 |
+| Fiber Length | m | 20~20000 |
 #### Customization Options
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Coil Type', '/', 'Elliptical and Custom Shapes'],
-  ['Fiber Type', '/', 'According to Customer Requirements'],
-  ['Performance', '/', 'According to Customer Requirements'],
-  ['Temperature Performance', '/', 'According to Customer Requirements']
-]
-
-    
-  
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Coil Type | / | Elliptical and Custom Shapes |
+| Fiber Type | / | According to Customer Requirements |
+| Performance | / | According to Customer Requirements |
+| Temperature Performance | / | According to Customer Requirements |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/fiber-coil-custom-hxg46xy/](https://www.gnc-tech.com/products/fiber-coil-custom-hxg46xy/)

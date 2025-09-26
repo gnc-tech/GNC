@@ -50,17 +50,15 @@ _Unit: mm_
 />
 #### Electrical Interface
 Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-    
-{
-  headers: ['Wire Color', 'Definition'],
-  rows: [
-['Red', 'Power +'],
-['Black', 'Power Ground'],
-['Yellow', 'RS422_T+'],
-['Purple', 'RS422_T–'],
-['White', 'RS422_R+'],
-['Green', 'RS422_R–'],
-  ]
+
+  | Wire Color | Definition |
+| --- | --- |
+| Red | Power + |
+| Black | Power Ground |
+| Yellow | RS422_T+ |
+| Purple | RS422_T– |
+| White | RS422_R+ |
+| Green | RS422_R– |
 
 ### Applications
 
@@ -72,33 +70,24 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 
 #### Key Technical Specifications
   
-{
-headers: ['Performance Parameter', 'Unit', 'Specification Range'],
-rows: [
-  ['Power Supply Voltage', 'V', '5 ± 0.2'],
-  ['Operating Current', 'mA', '40 ± 10'],
-  ['Weight', 'g', '≤50'],
-  ['Initialization Time', 's', '≤1'],
-  ['Measurement Range', 'g', '□10 √±40 □Custom'],
-  ['Bias (Full Temperature Range)', 'mg', '±10'],
-  ['Bias Stability (Room Temp, 10s Std Dev)', 'mg', '≤20'],
-  ['Bias Repeatability', 'mg', '≤20'],
-]
-
+| Performance Parameter | Unit | Specification Range |
+| --- | --- | --- |
+| Power Supply Voltage | V | 5 ± 0.2 |
+| Operating Current | mA | 40 ± 10 |
+| Weight | g | ≤50 |
+| Initialization Time | s | ≤1 |
+| Measurement Range | g | □10 √±40 □Custom |
+| Bias (Full Temperature Range) | mg | ±10 |
+| Bias Stability (Room Temp, 10s Std Dev) | mg | ≤20 |
+| Bias Repeatability | mg | ≤20 |
 ##### Environmental Adaptability
   
-{
-headers: ['Environmental Parameter', 'Unit', 'Value'],
-rows: [
-  ['Atmospheric Pressure', 'Pa', '4,000 ~ 110,000'],
-  ['Max Relative Humidity (at 60℃ ±5℃)', '%', '95'],
-  ['Operating Temperature Range', '℃', '-45 ~ +85'],
-  ['Storage Temperature Range', '℃', '-55 ~ +85'],
-]
-
-    
-  
-
+| Environmental Parameter | Unit | Value |
+| --- | --- | --- |
+| Atmospheric Pressure | Pa | 4,000 ~ 110,000 |
+| Max Relative Humidity (at 60℃ ±5℃) | % | 95 |
+| Operating Temperature Range | ℃ | -45 ~ +85 |
+| Storage Temperature Range | ℃ | -55 ~ +85 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-nav-jqys50cj1a/](https://www.gnc-tech.com/products/quartz-mems-nav-jqys50cj1a/)

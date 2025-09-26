@@ -54,17 +54,15 @@ _Unit: mm_
 />
 #### Electrical Interface
 Connector type: J30J-15ZK
-    
-{
-  headers: ['Pin No.', 'Definition'],
-  rows: [
-['1', 'Power +'],
-['2', 'Ground'],
-['3', 'RS232_RXD'],
-['4', 'RS232_TXD'],
-['5', 'RS232_GND'],
-['6', 'RS422_R+'],
-  ]
+
+  | Pin No. | Definition |
+| --- | --- |
+| 1 | Power + |
+| 2 | Ground |
+| 3 | RS232_RXD |
+| 4 | RS232_TXD |
+| 5 | RS232_GND |
+| 6 | RS422_R+ |
 
 ### Applications
 
@@ -78,82 +76,62 @@ Connector type: J30J-15ZK
 
 #### Key Technical Specifications
   
-{
-headers: ['Parameter', 'Unit', 'HDTD80CJ11'],
-rows: [
-  ['Power Supply Voltage', 'V', '5 ± 0.2'],
-  ['Operating Current @12V', 'mA', '135 ± 10'],
-  ['Weight', 'g', '75 ± 5'],
-]
-
+| Parameter | Unit | HDTD80CJ11 |
+| --- | --- | --- |
+| Power Supply Voltage | V | 5 ± 0.2 |
+| Operating Current @12V | mA | 135 ± 10 |
+| Weight | g | 75 ± 5 |
 ##### Gyroscope Specifications
   
-{
-headers: ['Parameter', 'Unit', 'HDTD80CJ11'],
-rows: [
-  ['Measurement Range', '°/s', '±300'],
-  ['Scale Factor', '-', '1 ± 0.005'],
-  ['Scale Factor Nonlinearity', 'ppm', '≤300'],
-  ['Scale Factor Repeatability', 'ppm', '≤300'],
-  ['Scale Factor Asymmetry', 'ppm', '≤300'],
-  ['Cross-Axis Sensitivity', '-', '≤0.005'],
-  ['Threshold / Resolution', '°/s', '≤0.01'],
-  ['Bias (Full Temperature)', '°/s', '±0.1'],
-  ['Bias Stability (Room Temp)', '°/h', '≤20'],
-  ['Bias Stability (Full Temp)', '°/h', '≤50'],
-  ['Bias Repeatability', '°/h', '≤10'],
-  ['Angular Random Walk', '°/√h', '≤0.08'],
-  ['Bias Instability (Allan Deviation)', '°/h', '≤2'],
-]
-
+| Parameter | Unit | HDTD80CJ11 |
+| --- | --- | --- |
+| Measurement Range | °/s | ±300 |
+| Scale Factor | - | 1 ± 0.005 |
+| Scale Factor Nonlinearity | ppm | ≤300 |
+| Scale Factor Repeatability | ppm | ≤300 |
+| Scale Factor Asymmetry | ppm | ≤300 |
+| Cross-Axis Sensitivity | - | ≤0.005 |
+| Threshold / Resolution | °/s | ≤0.01 |
+| Bias (Full Temperature) | °/s | ±0.1 |
+| Bias Stability (Room Temp) | °/h | ≤20 |
+| Bias Stability (Full Temp) | °/h | ≤50 |
+| Bias Repeatability | °/h | ≤10 |
+| Angular Random Walk | °/√h | ≤0.08 |
+| Bias Instability (Allan Deviation) | °/h | ≤2 |
 ##### Accelerometer Specifications
   
-{
-headers: ['Parameter', 'Unit', 'HDTD80CJ11'],
-rows: [
-  ['Measurement Range', 'g', '±10'],
-  ['Bias (Full Temperature)', 'mg', '±5'],
-  ['Bias Stability (Room Temp)', 'mg', '≤0.2'],
-  ['Bias Stability (Full Temp)', 'mg', '≤2'],
-  ['Bias Repeatability', 'mg', '≤0.2'],
-]
-
+| Parameter | Unit | HDTD80CJ11 |
+| --- | --- | --- |
+| Measurement Range | g | ±10 |
+| Bias (Full Temperature) | mg | ±5 |
+| Bias Stability (Room Temp) | mg | ≤0.2 |
+| Bias Stability (Full Temp) | mg | ≤2 |
+| Bias Repeatability | mg | ≤0.2 |
 ##### Integrated Navigation Performance (with 1m GNSS baseline)
   
-{
-headers: ['Parameter', 'Unit', 'HDTD80CJ11'],
-rows: [
-  ['Heading Accuracy (Speed ≥ 5 m/s)', '°', '≤0.3'],
-  ['Attitude Accuracy (Pitch/Roll)', '°', '≤0.1'],
-  ['Velocity Accuracy', 'm/s', '≤0.1'],
-  ['Horizontal Position Accuracy', 'm', '≤3'],
-  ['Vertical Position Accuracy', 'm', '≤5'],
-]
-
+| Parameter | Unit | HDTD80CJ11 |
+| --- | --- | --- |
+| Heading Accuracy (Speed ≥ 5 m/s) | ° | ≤0.3 |
+| Attitude Accuracy (Pitch/Roll) | ° | ≤0.1 |
+| Velocity Accuracy | m/s | ≤0.1 |
+| Horizontal Position Accuracy | m | ≤3 |
+| Vertical Position Accuracy | m | ≤5 |
 ##### System Measurement Ranges
-  
-{
-headers: ['Parameter', 'Unit', 'Range'],
-rows: [
-  ['Heading Measurement Range', '°', '0 ~ 360 (Clockwise from North)'],
-  ['Attitude Measurement Range', '°', 'Roll: -180 ~ +180'],
-  ['', '', 'Pitch: -85 ~ +85'],
-]
+
+| Parameter | Unit | Range |
+| --- | --- | --- |
+| Heading Measurement Range | ° | 0 ~ 360 (Clockwise from North) |
+| Attitude Measurement Range | ° | Roll: -180 ~ +180 |
+|  |  | Pitch: -85 ~ +85 |
 
 ##### Environmental Adaptability
   
-{
-headers: ['Test Item', 'Unit', 'Gyroscope', 'Accelerometer'],
-rows: [
-  ['Vibration (6.06g RMS, 20Hz–2kHz)', '°/h / mg', '≤36', '≤10'],
-  ['Shock (Half-Sine, 200g, 6ms)', '°/h / mg', '≤36', '≤10'],
-  ['Operating Temperature', '℃', '-45 ~ +85', ''],
-  ['Storage Temperature', '℃', '-55 ~ +85', ''],
-]
-
-    
-  
-
+| Test Item | Unit | Gyroscope | Accelerometer |
+| --- | --- | --- | --- |
+| Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤10 |
+| Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤10 |
+| Operating Temperature | ℃ | -45 ~ +85 |  |
+| Storage Temperature | ℃ | -55 ~ +85 |  |
 ## D-Q-JDW-HDTD80CJ12
 
 ### Overview
@@ -178,17 +156,15 @@ _Unit: mm_
 />
 #### Electrical Interface
 Connector type: J30J-15ZK
-    
-{
-  headers: ['Pin No.', 'Definition'],
-  rows: [
-['1', 'Power +'],
-['2', 'Ground'],
-['3', 'RS232_RXD'],
-['4', 'RS232_TXD'],
-['5', 'RS232_GND'],
-['6', 'RS422_R+'],
-  ]
+
+  | Pin No. | Definition |
+| --- | --- |
+| 1 | Power + |
+| 2 | Ground |
+| 3 | RS232_RXD |
+| 4 | RS232_TXD |
+| 5 | RS232_GND |
+| 6 | RS422_R+ |
 
 ### Applications
 
@@ -196,82 +172,62 @@ Connector type: J30J-15ZK
 
 #### Key Technical Specifications
   
-{
-headers: ['Parameter', 'Unit', 'HDTD80CJ12'],
-rows: [
-  ['Power Supply Voltage', 'V', '5 ± 0.2'],
-  ['Operating Current @12V', 'mA', '55 ± 10'],
-  ['Weight', 'g', '80 ± 5'],
-]
-
+| Parameter | Unit | HDTD80CJ12 |
+| --- | --- | --- |
+| Power Supply Voltage | V | 5 ± 0.2 |
+| Operating Current @12V | mA | 55 ± 10 |
+| Weight | g | 80 ± 5 |
 ##### Gyroscope Specifications
   
-{
-headers: ['Parameter', 'Unit', 'HDTD80CJ12'],
-rows: [
-  ['Measurement Range', '°/s', '±400'],
-  ['Scale Factor', '-', '1 ± 0.005'],
-  ['Scale Factor Nonlinearity', 'ppm', '≤100'],
-  ['Scale Factor Repeatability', 'ppm', '≤100'],
-  ['Scale Factor Asymmetry', 'ppm', '≤100'],
-  ['Cross-Axis Sensitivity', '-', '≤0.005'],
-  ['Threshold / Resolution', '°/s', '≤0.01'],
-  ['Bias (Full Temperature)', '°/s', '±0.1'],
-  ['Bias Stability (Room Temp)', '°/h', '≤10'],
-  ['Bias Stability (Full Temp)', '°/h', '-'],
-  ['Bias Repeatability', '°/h', '≤10'],
-  ['Angular Random Walk', '°/√h', '≤0.08'],
-  ['Bias Instability (Allan Deviation)', '°/h', '≤2'],
-]
-
+| Parameter | Unit | HDTD80CJ12 |
+| --- | --- | --- |
+| Measurement Range | °/s | ±400 |
+| Scale Factor | - | 1 ± 0.005 |
+| Scale Factor Nonlinearity | ppm | ≤100 |
+| Scale Factor Repeatability | ppm | ≤100 |
+| Scale Factor Asymmetry | ppm | ≤100 |
+| Cross-Axis Sensitivity | - | ≤0.005 |
+| Threshold / Resolution | °/s | ≤0.01 |
+| Bias (Full Temperature) | °/s | ±0.1 |
+| Bias Stability (Room Temp) | °/h | ≤10 |
+| Bias Stability (Full Temp) | °/h | - |
+| Bias Repeatability | °/h | ≤10 |
+| Angular Random Walk | °/√h | ≤0.08 |
+| Bias Instability (Allan Deviation) | °/h | ≤2 |
 ##### Accelerometer Specifications
   
-{
-headers: ['Parameter', 'Unit', 'HDTD80CJ12'],
-rows: [
-  ['Measurement Range', 'g', '±40'],
-  ['Bias (Full Temperature)', 'mg', '±5'],
-  ['Bias Stability (Room Temp)', 'mg', '≤0.2'],
-  ['Bias Stability (Full Temp)', 'mg', '≤2'],
-  ['Bias Repeatability', 'mg', '≤0.2'],
-]
-
+| Parameter | Unit | HDTD80CJ12 |
+| --- | --- | --- |
+| Measurement Range | g | ±40 |
+| Bias (Full Temperature) | mg | ±5 |
+| Bias Stability (Room Temp) | mg | ≤0.2 |
+| Bias Stability (Full Temp) | mg | ≤2 |
+| Bias Repeatability | mg | ≤0.2 |
 ##### Integrated Navigation Performance (with 1m GNSS baseline)
   
-{
-headers: ['Parameter', 'Unit', 'HDTD80CJ12'],
-rows: [
-  ['Heading Accuracy (Speed ≥ 5 m/s)', '°', '≤0.3'],
-  ['Attitude Accuracy (Pitch/Roll)', '°', '≤0.1'],
-  ['Velocity Accuracy', 'm/s', '≤0.1'],
-  ['Horizontal Position Accuracy', 'm', '≤3'],
-  ['Vertical Position Accuracy', 'm', '≤5'],
-]
-
+| Parameter | Unit | HDTD80CJ12 |
+| --- | --- | --- |
+| Heading Accuracy (Speed ≥ 5 m/s) | ° | ≤0.3 |
+| Attitude Accuracy (Pitch/Roll) | ° | ≤0.1 |
+| Velocity Accuracy | m/s | ≤0.1 |
+| Horizontal Position Accuracy | m | ≤3 |
+| Vertical Position Accuracy | m | ≤5 |
 ##### System Measurement Ranges
-  
-{
-headers: ['Parameter', 'Unit', 'Range'],
-rows: [
-  ['Heading Measurement Range', '°', '0 ~ 360 (Clockwise from North)'],
-  ['Attitude Measurement Range', '°', 'Roll: -180 ~ +180'],
-  ['', '', 'Pitch: -85 ~ +85'],
-]
+
+| Parameter | Unit | Range |
+| --- | --- | --- |
+| Heading Measurement Range | ° | 0 ~ 360 (Clockwise from North) |
+| Attitude Measurement Range | ° | Roll: -180 ~ +180 |
+|  |  | Pitch: -85 ~ +85 |
 
 ##### Environmental Adaptability
   
-{
-headers: ['Test Item', 'Unit', 'Gyroscope', 'Accelerometer'],
-rows: [
-  ['Vibration (6.06g RMS, 20Hz–2kHz)', '°/h / mg', '≤36', '≤10'],
-  ['Shock (Half-Sine, 200g, 6ms)', '°/h / mg', '≤36', '≤10'],
-  ['Operating Temperature', '℃', '-45 ~ +85', ''],
-  ['Storage Temperature', '℃', '-55 ~ +85', ''],
-]
-
-    
-  
-
+| Test Item | Unit | Gyroscope | Accelerometer |
+| --- | --- | --- | --- |
+| Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤10 |
+| Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤10 |
+| Operating Temperature | ℃ | -45 ~ +85 |  |
+| Storage Temperature | ℃ | -55 ~ +85 |  |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj1x/](https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj1x/)

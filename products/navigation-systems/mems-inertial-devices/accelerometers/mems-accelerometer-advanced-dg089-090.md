@@ -66,29 +66,23 @@ The **JDWDG089** is a high-precision MEMS accelerometer designed for precise X-a
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'JDWDG089', 'Unit'],
-rows: [
-  ['Measurement Range', '±20', 'g'],
-  ['Bandwidth', '100', 'Hz'],
-  ['Zero Bias Stability', '≤0.05', 'mg'],
-  ['Zero Bias Repeatability', '≤0.3', 'mg'],
-  ['Zero Bias Temperature Coefficient', '≤0.02', 'mg/°C'],
-  ['Scale Factor Repeatability', '≤300', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤800', 'ppm'],
-  ['Output Form', 'SPI', '-'],
-  ['Packaging Form', 'LCC48', '-'],
-  ['Axial Direction', 'X - Axis', '-'],
-  ['Dimensions', '11×11×2.3', 'mm³'],
-  ['Overload Resistance', '≥20000', 'g'],
-  ['Operating Temperature', '-40~85', '°C'],
-  ['Power Supply Voltage', '5±0.1', 'V'],
-  ['Current', '≤20', 'mA']
-]
-
-    
-  
-
+| Performance | JDWDG089 | Unit |
+| --- | --- | --- |
+| Measurement Range | ±20 | g |
+| Bandwidth | 100 | Hz |
+| Zero Bias Stability | ≤0.05 | mg |
+| Zero Bias Repeatability | ≤0.3 | mg |
+| Zero Bias Temperature Coefficient | ≤0.02 | mg/°C |
+| Scale Factor Repeatability | ≤300 | ppm |
+| Scale Factor Nonlinearity | ≤800 | ppm |
+| Output Form | SPI | - |
+| Packaging Form | LCC48 | - |
+| Axial Direction | X - Axis | - |
+| Dimensions | 11×11×2.3 | mm³ |
+| Overload Resistance | ≥20000 | g |
+| Operating Temperature | -40~85 | °C |
+| Power Supply Voltage | 5±0.1 | V |
+| Current | ≤20 | mA |
 ## D-Q-JDW-DG090
 
 ### Overview
@@ -127,29 +121,23 @@ The **JDWDG090** is a versatile MEMS accelerometer engineered for precise X-axis
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'JDWDG090-050', 'JDWDG090-100', 'Unit'],
-rows: [
-  ['Measurement Range', '±50', '±100', 'g'],
-  ['Bandwidth', '100', '100', 'Hz'],
-  ['Zero Bias Stability', '≤0.05', '≤0.1', 'mg'],
-  ['Zero Bias Repeatability', '≤0.5', '≤1', 'mg'],
-  ['Zero Bias Temperature Coefficient', '≤0.05', '≤0.1', 'mg/°C'],
-  ['Scale Factor Repeatability', '≤300', '≤300', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤1000', '≤10000', 'ppm'],
-  ['Output Form', 'SPI', 'SPI', '-'],
-  ['Packaging Form', 'LCC48', 'LCC48', '-'],
-  ['Axial Direction', 'X - Axis', 'X - Axis', '-'],
-  ['Dimensions', '11×11×2.3', '11×11×2.3', 'mm³'],
-  ['Overload Resistance', '≥20000', '≥20000', 'g'],
-  ['Operating Temperature', '-40~85', '-40~85', '°C'],
-  ['Power Supply Voltage', '5±0.1', '5±0.1', 'V'],
-  ['Current', '≤20', '≤20', 'mA']
-]
-
-    
-  
-
+| Performance | JDWDG090-050 | JDWDG090-100 | Unit |
+| --- | --- | --- | --- |
+| Measurement Range | ±50 | ±100 | g |
+| Bandwidth | 100 | 100 | Hz |
+| Zero Bias Stability | ≤0.05 | ≤0.1 | mg |
+| Zero Bias Repeatability | ≤0.5 | ≤1 | mg |
+| Zero Bias Temperature Coefficient | ≤0.05 | ≤0.1 | mg/°C |
+| Scale Factor Repeatability | ≤300 | ≤300 | ppm |
+| Scale Factor Nonlinearity | ≤1000 | ≤10000 | ppm |
+| Output Form | SPI | SPI | - |
+| Packaging Form | LCC48 | LCC48 | - |
+| Axial Direction | X - Axis | X - Axis | - |
+| Dimensions | 11×11×2.3 | 11×11×2.3 | mm³ |
+| Overload Resistance | ≥20000 | ≥20000 | g |
+| Operating Temperature | -40~85 | -40~85 | °C |
+| Power Supply Voltage | 5±0.1 | 5±0.1 | V |
+| Current | ≤20 | ≤20 | mA |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/mems-accelerometer-advanced-dg089-090/](https://www.gnc-tech.com/products/mems-accelerometer-advanced-dg089-090/)

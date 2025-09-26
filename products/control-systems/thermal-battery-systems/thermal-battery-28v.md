@@ -68,74 +68,62 @@ The **CDR028FLX** series thermal batteries are high-performance power sources de
 
 #### Basic Parameters
   
-{
-headers: ['Model', 'Dimensions', 'Max Weight'],
-rows: [
-  ['CDR028FLX01', 'Φ18×36 mm', '0.035 kg'],
-  ['CDR028FLX02', 'Φ28×50 mm', '0.095 kg'],
-  ['CDR028FLX03', 'Φ32×63 mm', '0.125 kg'],
-  ['CDR028FLX04', 'Φ36×70 mm', '0.190 kg'],
-  ['CDR028FLX05', 'Φ40×80 mm', '0.280 kg'],
-  ['CDR028FLX06', 'Φ45×63 mm', '0.280 kg'],
-  ['CDR028FLX07', 'Φ50×60 mm', '0.320 kg'],
-  ['CDR028FLX08', 'Φ54×82 mm', '0.480 kg'],
-  ['CDR028FLX09', 'Φ63×125 mm', '1.020 kg'],
-  ['CDR028FLX10', 'Φ63×95 mm', '0.850 kg'],
-  ['CDR028FLX11', 'Φ75×140 mm', '2.200 kg'],
-  ['CDR028FLX12', 'Φ85×175 mm', '2.750 kg'],
-  ['CDR028FLX13', 'Φ85×175 mm', '3.900 kg'],
-  ['CDR028FLX14', 'Φ100×225 mm', '5.200 kg'],
-  ['CDR028FLX15', 'Φ100×295 mm', '6.200 kg']
-]
-
+| Model | Dimensions | Max Weight |
+| --- | --- | --- |
+| CDR028FLX01 | Φ18×36 mm | 0.035 kg |
+| CDR028FLX02 | Φ28×50 mm | 0.095 kg |
+| CDR028FLX03 | Φ32×63 mm | 0.125 kg |
+| CDR028FLX04 | Φ36×70 mm | 0.190 kg |
+| CDR028FLX05 | Φ40×80 mm | 0.280 kg |
+| CDR028FLX06 | Φ45×63 mm | 0.280 kg |
+| CDR028FLX07 | Φ50×60 mm | 0.320 kg |
+| CDR028FLX08 | Φ54×82 mm | 0.480 kg |
+| CDR028FLX09 | Φ63×125 mm | 1.020 kg |
+| CDR028FLX10 | Φ63×95 mm | 0.850 kg |
+| CDR028FLX11 | Φ75×140 mm | 2.200 kg |
+| CDR028FLX12 | Φ85×175 mm | 2.750 kg |
+| CDR028FLX13 | Φ85×175 mm | 3.900 kg |
+| CDR028FLX14 | Φ100×225 mm | 5.200 kg |
+| CDR028FLX15 | Φ100×295 mm | 6.200 kg |
 #### Electrical Parameters
   **Note:** *The working current is expressed as "current value/duration". For example, "1A/60s" indicates that the device can operate continuously at a current of 1A for 60 seconds. The parameters for each model follow this format.*
   
-{
-headers: ['Model', 'Capacity', 'Nominal Voltage', 'Working Current'],
-rows: [
-  ['CDR028FLX01', '50 As', '28 V', '1A/60s; 3A/15s'],
-  ['CDR028FLX02', '300 As', '28 V', '1A/300s; 6A/55s'],
-  ['CDR028FLX03', '550 As', '28 V', '3A/330s; 5.4A/100s'],
-  ['CDR028FLX04', '900 As', '28 V', '4A/400s; 10A/80s'],
-  ['CDR028FLX05', '1450 As', '28 V', '5A/700s; 14A/140s'],
-  ['CDR028FLX06', '1450 As', '28 V', '3A/750s; 16A/150s'],
-  ['CDR028FLX07', '1500 As', '28 V', '2A/1100s; 16A/90s'],
-  ['CDR028FLX08', '2200 As', '28 V', '10A/600s; 45A/60s'],
-  ['CDR028FLX09', '7500 As', '28 V', '5A/1500s; 50A/360s'],
-  ['CDR028FLX10', '6000 As', '28 V', '5A/1200s; 20A/280s'],
-  ['CDR028FLX11', '14000 As', '28 V', '10A/1400s; 50A/200s'],
-  ['CDR028FLX12', '23000 As', '28 V', '10A/2300s; 50A/150s'],
-  ['CDR028FLX13', '40000 As', '28 V', '20A/1200s; 150A/65s'],
-  ['CDR028FLX14', '50000 As', '28 V', '20A/1600s; 150A/80s'],
-  ['CDR028FLX15', '60000 As', '28 V', '30A/500s; 150A/200s']
-]
-
+| Model | Capacity | Nominal Voltage | Working Current |
+| --- | --- | --- | --- |
+| CDR028FLX01 | 50 As | 28 V | 1A/60s; 3A/15s |
+| CDR028FLX02 | 300 As | 28 V | 1A/300s; 6A/55s |
+| CDR028FLX03 | 550 As | 28 V | 3A/330s; 5.4A/100s |
+| CDR028FLX04 | 900 As | 28 V | 4A/400s; 10A/80s |
+| CDR028FLX05 | 1450 As | 28 V | 5A/700s; 14A/140s |
+| CDR028FLX06 | 1450 As | 28 V | 3A/750s; 16A/150s |
+| CDR028FLX07 | 1500 As | 28 V | 2A/1100s; 16A/90s |
+| CDR028FLX08 | 2200 As | 28 V | 10A/600s; 45A/60s |
+| CDR028FLX09 | 7500 As | 28 V | 5A/1500s; 50A/360s |
+| CDR028FLX10 | 6000 As | 28 V | 5A/1200s; 20A/280s |
+| CDR028FLX11 | 14000 As | 28 V | 10A/1400s; 50A/200s |
+| CDR028FLX12 | 23000 As | 28 V | 10A/2300s; 50A/150s |
+| CDR028FLX13 | 40000 As | 28 V | 20A/1200s; 150A/65s |
+| CDR028FLX14 | 50000 As | 28 V | 20A/1600s; 150A/80s |
+| CDR028FLX15 | 60000 As | 28 V | 30A/500s; 150A/200s |
 #### Performance Parameters
   
-{
-headers: ['Model', 'Standby Current', 'Activation Time', 'Operating Duration'],
-rows: [
-  ['CDR028FLX01', '2.0 μA', '<0.5 s', '60 s'],
-  ['CDR028FLX02', '3.5 μA', '<0.5 s', '300 s'],
-  ['CDR028FLX03', '5.5 μA', '<0.5 s', '150 s'],
-  ['CDR028FLX04', '6.0 μA', '<0.5 s', '400 s'],
-  ['CDR028FLX05', '5.5 μA', '<0.5 s', '270 s'],
-  ['CDR028FLX06', '6.0 μA', '<0.5 s', '90 s'],
-  ['CDR028FLX07', '3.5 μA', '<0.8 s', '1000 s'],
-  ['CDR028FLX08', '6.0 μA', '<0.8 s', '750 s'],
-  ['CDR028FLX09', '10.0 μA', '<0.8 s', '750 s'],
-  ['CDR028FLX10', '10.0 μA', '<0.5 s', '750 s'],
-  ['CDR028FLX11', '10.0 μA', '<1.5 s', '1000 s'],
-  ['CDR028FLX12', '15.0 μA', '<2.0 s', '1500 s'],
-  ['CDR028FLX13', '20.0 μA', '<2.0 s', '2000 s'],
-  ['CDR028FLX14', '20.0 μA', '<2.5 s', '2000 s'],
-  ['CDR028FLX15', '30.0 μA', '<2.5 s', '2000 s']
-]
-
-    
-  
-
+| Model | Standby Current | Activation Time | Operating Duration |
+| --- | --- | --- | --- |
+| CDR028FLX01 | 2.0 μA | <0.5 s | 60 s |
+| CDR028FLX02 | 3.5 μA | <0.5 s | 300 s |
+| CDR028FLX03 | 5.5 μA | <0.5 s | 150 s |
+| CDR028FLX04 | 6.0 μA | <0.5 s | 400 s |
+| CDR028FLX05 | 5.5 μA | <0.5 s | 270 s |
+| CDR028FLX06 | 6.0 μA | <0.5 s | 90 s |
+| CDR028FLX07 | 3.5 μA | <0.8 s | 1000 s |
+| CDR028FLX08 | 6.0 μA | <0.8 s | 750 s |
+| CDR028FLX09 | 10.0 μA | <0.8 s | 750 s |
+| CDR028FLX10 | 10.0 μA | <0.5 s | 750 s |
+| CDR028FLX11 | 10.0 μA | <1.5 s | 1000 s |
+| CDR028FLX12 | 15.0 μA | <2.0 s | 1500 s |
+| CDR028FLX13 | 20.0 μA | <2.0 s | 2000 s |
+| CDR028FLX14 | 20.0 μA | <2.5 s | 2000 s |
+| CDR028FLX15 | 30.0 μA | <2.5 s | 2000 s |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-28v/](https://www.gnc-tech.com/products/thermal-battery-28v/)

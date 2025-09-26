@@ -48,42 +48,31 @@ The **ZQXXSMRSS** series integrates four identical silicon avalanche photodiodes
 
 #### Package Parameters
   
-{
-headers: ['Model', 'Package Type'],
-rows: [
-  ['ZQXXSMRSS01', 'TO-8'],
-  ['ZQXXSMRSS02', 'KF08'],
-  ['ZQXXSMRSS03', 'TO (32*15.8mm)'],
-  ['ZQXXSMRSS04', 'TO (24*7mm)']
-]
-
+| Model | Package Type |
+| --- | --- |
+| ZQXXSMRSS01 | TO-8 |
+| ZQXXSMRSS02 | KF08 |
+| ZQXXSMRSS03 | TO (32*15.8mm) |
+| ZQXXSMRSS04 | TO (24*7mm) |
 #### Electrical Parameters (@Ta=22±3°C)
   
-{
-headers: ['Model', 'Operating Voltage(V)', 'Responsivity(kV/W)\nM=100, λ=1064nm', 'RMS Noise(mV)', 'Maximum Output Swing(V)', 'Gain Control Stage and Factor', 'Signal Polarity'],
-rows: [
-  ['ZQXXSMRSS01', '±5', '280', '3', '4', 'Single stage', 'Positive'],
-  ['ZQXXSMRSS02', '±5', '1500', '5', '11', 'Dual stage (2, 18 times)', 'Negative'],
-  ['ZQXXSMRSS03', '+12', '1000', '3', '5', 'Single stage (4, 3.5~4 times)', 'Positive'],
-  ['ZQXXSMRSS04', '±5', '100', '3', '4', 'Dual stage (2, 16 times)', 'Negative']
-]
-
+| Model | Operating Voltage(V) | Responsivity(kV/W)
+M=100, λ=1064nm | RMS Noise(mV) | Maximum Output Swing(V) | Gain Control Stage and Factor | Signal Polarity |
+| --- | --- | --- | --- | --- | --- | --- |
+| ZQXXSMRSS01 | ±5 | 280 | 3 | 4 | Single stage | Positive |
+| ZQXXSMRSS02 | ±5 | 1500 | 5 | 11 | Dual stage (2, 18 times) | Negative |
+| ZQXXSMRSS03 | +12 | 1000 | 3 | 5 | Single stage (4, 3.5~4 times) | Positive |
+| ZQXXSMRSS04 | ±5 | 100 | 3 | 4 | Dual stage (2, 16 times) | Negative |
 #### Common Parameters for All Models
   
-{
-headers: ['Parameter', 'Value'],
-rows: [
-  ['Active Area Diameter', '4.0mm (Quadrant gap line width 0.1mm)'],
-  ['Spectral Range', '400~1100nm'],
-  ['Breakdown Voltage', '-400~-500V'],
-  ['Quadrant Non-uniformity', '5%'],
-  ['Crosstalk', '5%'],
-  ['Operating Temperature Coefficient', '3.2V/°C (Ta=-45°C~70°C)']
-]
-
-    
-  
-
+| Parameter | Value |
+| --- | --- |
+| Active Area Diameter | 4.0mm (Quadrant gap line width 0.1mm) |
+| Spectral Range | 400~1100nm |
+| Breakdown Voltage | -400~-500V |
+| Quadrant Non-uniformity | 5% |
+| Crosstalk | 5% |
+| Operating Temperature Coefficient | 3.2V/°C (Ta=-45°C~70°C) |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/apd-quadrant-module-zqxxsmrss/](https://www.gnc-tech.com/products/apd-quadrant-module-zqxxsmrss/)

@@ -93,44 +93,35 @@ The diagram shows the outline dimensions of the JDWZZ1930 series, providing key 
 
 #### Gyroscope Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±400', '°/s'],
-  ['Zero Bias Stability¹', '≤1', '°/h'],
-  ['Zero Bias Temperature Drift²', '≤5', '°/h(1σ)'],
-  ['Zero Bias g Sensitivity', '≤1', '°/h/g'],
-  ['Scale Factor Nonlinearity', '≤100', 'ppm'],
-  ['Bandwidth', '100', 'Hz'],
-  ['Resolution', '24', 'bit']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±400 | °/s |
+| Zero Bias Stability¹ | ≤1 | °/h |
+| Zero Bias Temperature Drift² | ≤5 | °/h(1σ) |
+| Zero Bias g Sensitivity | ≤1 | °/h/g |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Bandwidth | 100 | Hz |
+| Resolution | 24 | bit |
 #### Accelerometer Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±20', 'g'],
-  ['Zero Bias Stability¹', '≤100', 'μg'],
-  ['Zero Bias Temperature Coefficient', '≤0.02', 'mg/°C'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Bandwidth', '100', 'Hz']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±20 | g |
+| Zero Bias Stability¹ | ≤100 | μg |
+| Zero Bias Temperature Coefficient | ≤0.02 | mg/°C |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Bandwidth | 100 | Hz |
 #### Common Specifications
   
-{
-headers: ['Parameters', 'Value', 'Unit'],
-rows: [
-  ['Sampling Rate³', '1000', 'Hz'],
-  ['Activation Time', '≤1', 's'],
-  ['Power Supply Voltage', '5~8', 'V'],
-  ['Current', '≤300', 'mA'],
-  ['Operating Temperature', '-40~+85', '°C'],
-  ['Storage Temperature', '-50~+90', '°C'],
-  ['Resistant To Overload', '≥10000', 'g']
-]
-
+| Parameters | Value | Unit |
+| --- | --- | --- |
+| Sampling Rate³ | 1000 | Hz |
+| Activation Time | ≤1 | s |
+| Power Supply Voltage | 5~8 | V |
+| Current | ≤300 | mA |
+| Operating Temperature | -40~+85 | °C |
+| Storage Temperature | -50~+90 | °C |
+| Resistant To Overload | ≥10000 | g |
 ### Notes
 
 1. 10s smoothing
@@ -174,44 +165,35 @@ The **JDWZZ1930B** is the extended-range variant of our 6-DOF inertial measureme
 
 #### Gyroscope Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±4000', '°/s'],
-  ['Zero Bias Stability¹', '≤10', '°/h'],
-  ['Zero Bias Temperature Drift²', '≤50', '°/h(1σ)'],
-  ['Zero Bias g Sensitivity', '≤10', '°/h/g'],
-  ['Scale Factor Nonlinearity', '≤150', 'ppm'],
-  ['Bandwidth', '200', 'Hz'],
-  ['Resolution', '24', 'bit']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±4000 | °/s |
+| Zero Bias Stability¹ | ≤10 | °/h |
+| Zero Bias Temperature Drift² | ≤50 | °/h(1σ) |
+| Zero Bias g Sensitivity | ≤10 | °/h/g |
+| Scale Factor Nonlinearity | ≤150 | ppm |
+| Bandwidth | 200 | Hz |
+| Resolution | 24 | bit |
 #### Accelerometer Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±20', 'g'],
-  ['Zero Bias Stability¹', '≤100', 'μg'],
-  ['Zero Bias Temperature Coefficient', '≤0.02', 'mg/°C'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Bandwidth', '100', 'Hz']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±20 | g |
+| Zero Bias Stability¹ | ≤100 | μg |
+| Zero Bias Temperature Coefficient | ≤0.02 | mg/°C |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Bandwidth | 100 | Hz |
 #### Common Specifications
   
-{
-headers: ['Parameters', 'Value', 'Unit'],
-rows: [
-  ['Sampling Rate³', '1000', 'Hz'],
-  ['Activation Time', '≤1', 's'],
-  ['Power Supply Voltage', '5~8', 'V'],
-  ['Current', '≤300', 'mA'],
-  ['Operating Temperature', '-40~+85', '°C'],
-  ['Storage Temperature', '-50~+90', '°C'],
-  ['Resistant To Overload', '≥10000', 'g']
-]
-
+| Parameters | Value | Unit |
+| --- | --- | --- |
+| Sampling Rate³ | 1000 | Hz |
+| Activation Time | ≤1 | s |
+| Power Supply Voltage | 5~8 | V |
+| Current | ≤300 | mA |
+| Operating Temperature | -40~+85 | °C |
+| Storage Temperature | -50~+90 | °C |
+| Resistant To Overload | ≥10000 | g |
 ### Notes
 
 ---

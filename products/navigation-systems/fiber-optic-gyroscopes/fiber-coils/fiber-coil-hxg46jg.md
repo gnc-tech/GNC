@@ -61,51 +61,36 @@ The high-precision fiber optic coil represents the pinnacle of our fiber optic s
 
 #### Geometry Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Inner Diameter', 'mm', '130.0±0.5'],
-  ['Outer Diameter', 'mm', '≤150.0'],
-  ['Mean Diameter', 'mm', '140.0±0.5'],
-  ['Height', 'mm', '15.0±0.1']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Inner Diameter | mm | 130.0±0.5 |
+| Outer Diameter | mm | ≤150.0 |
+| Mean Diameter | mm | 140.0±0.5 |
+| Height | mm | 15.0±0.1 |
 #### Optical Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Fiber Length', 'm', '2000±10'],
-  ['Attenuation Coefficient', 'dB/km', '≤-0.6'],
-  ['Crosstalk (Normal Temp.)', 'dB', '≤-20'],
-  ['Crosstalk (Full Temp.)', 'dB', '≤-17']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Fiber Length | m | 2000±10 |
+| Attenuation Coefficient | dB/km | ≤-0.6 |
+| Crosstalk (Normal Temp.) | dB | ≤-20 |
+| Crosstalk (Full Temp.) | dB | ≤-17 |
 #### Performance Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Bias', '°/h', '≤0.01'],
-  ['Thermal Drift', '°/h', '≤0.02'],
-  ['Magnetic Drift', '°/h/G', '≤0.01'],
-  ['Scale Factor Stability (Normal Temp.)', 'ppm', '≤10'],
-  ['Scale Factor Stability (Full Temp.)', 'ppm', '≤700'],
-  ['Random Walk Coefficient', '°/√h', '≤0.002']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Bias | °/h | ≤0.01 |
+| Thermal Drift | °/h | ≤0.02 |
+| Magnetic Drift | °/h/G | ≤0.01 |
+| Scale Factor Stability (Normal Temp.) | ppm | ≤10 |
+| Scale Factor Stability (Full Temp.) | ppm | ≤700 |
+| Random Walk Coefficient | °/√h | ≤0.002 |
 #### Environmental Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Operating Temperature', '°C', '-45~+80'],
-  ['MTTF', 'Yr.', '≥20']
-]
-
-    
-  
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Operating Temperature | °C | -45~+80 |
+| MTTF | Yr. | ≥20 |
 ## D-Q-TQG-HXG46JG180
 
 ### overview
@@ -122,51 +107,36 @@ rows: [
 
 #### Geometry Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Inner Diameter', 'mm', '160.0±0.5'],
-  ['Outer Diameter', 'mm', '≤180.0'],
-  ['Mean Diameter', 'mm', '170.0±0.5'],
-  ['Height', 'mm', '18.0±0.1']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Inner Diameter | mm | 160.0±0.5 |
+| Outer Diameter | mm | ≤180.0 |
+| Mean Diameter | mm | 170.0±0.5 |
+| Height | mm | 18.0±0.1 |
 #### Optical Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Fiber Length', 'm', '2500±10'],
-  ['Attenuation Coefficient', 'dB/km', '≤-0.6'],
-  ['Crosstalk (Normal Temp.)', 'dB', '≤-18'],
-  ['Crosstalk (Full Temp.)', 'dB', '≤-16']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Fiber Length | m | 2500±10 |
+| Attenuation Coefficient | dB/km | ≤-0.6 |
+| Crosstalk (Normal Temp.) | dB | ≤-18 |
+| Crosstalk (Full Temp.) | dB | ≤-16 |
 #### Performance Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Bias', '°/h', '≤0.005'],
-  ['Thermal Drift', '°/h', '≤0.006'],
-  ['Magnetic Drift', '°/h/G', '≤0.002'],
-  ['Scale Factor Stability (Normal Temp.)', 'ppm', '≤5'],
-  ['Scale Factor Stability (Full Temp.)', 'ppm', '≤400'],
-  ['Random Walk Coefficient', '°/√h', '≤0.001']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Bias | °/h | ≤0.005 |
+| Thermal Drift | °/h | ≤0.006 |
+| Magnetic Drift | °/h/G | ≤0.002 |
+| Scale Factor Stability (Normal Temp.) | ppm | ≤5 |
+| Scale Factor Stability (Full Temp.) | ppm | ≤400 |
+| Random Walk Coefficient | °/√h | ≤0.001 |
 #### Environmental Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Operating Temperature', '°C', '-45~+80'],
-  ['MTTF', 'Yr.', '≥20']
-]
-
-    
-  
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Operating Temperature | °C | -45~+80 |
+| MTTF | Yr. | ≥20 |
 ## D-Q-TQG-HXG46JG230
 
 ### overview
@@ -183,51 +153,36 @@ rows: [
 
 #### Geometry Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Inner Diameter', 'mm', '210.0±0.5'],
-  ['Outer Diameter', 'mm', '≤230.0'],
-  ['Mean Diameter', 'mm', '220.0±0.5'],
-  ['Height', 'mm', '20.0±0.1']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Inner Diameter | mm | 210.0±0.5 |
+| Outer Diameter | mm | ≤230.0 |
+| Mean Diameter | mm | 220.0±0.5 |
+| Height | mm | 20.0±0.1 |
 #### Optical Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Fiber Length', 'm', '3000±10'],
-  ['Attenuation Coefficient', 'dB/km', '≤-0.6'],
-  ['Crosstalk (Normal Temp.)', 'dB', '≤-16'],
-  ['Crosstalk (Full Temp.)', 'dB', '≤-14']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Fiber Length | m | 3000±10 |
+| Attenuation Coefficient | dB/km | ≤-0.6 |
+| Crosstalk (Normal Temp.) | dB | ≤-16 |
+| Crosstalk (Full Temp.) | dB | ≤-14 |
 #### Performance Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Bias', '°/h', '≤0.001'],
-  ['Thermal Drift', '°/h', '≤0.002'],
-  ['Magnetic Drift', '°/h/G', '≤0.001'],
-  ['Scale Factor Stability (Normal Temp.)', 'ppm', '≤1'],
-  ['Scale Factor Stability (Full Temp.)', 'ppm', '≤100'],
-  ['Random Walk Coefficient', '°/√h', '≤0.0005']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Bias | °/h | ≤0.001 |
+| Thermal Drift | °/h | ≤0.002 |
+| Magnetic Drift | °/h/G | ≤0.001 |
+| Scale Factor Stability (Normal Temp.) | ppm | ≤1 |
+| Scale Factor Stability (Full Temp.) | ppm | ≤100 |
+| Random Walk Coefficient | °/√h | ≤0.0005 |
 #### Environmental Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Operating Temperature', '°C', '-45~+80'],
-  ['MTTF', 'Yr.', '≥20']
-]
-
-    
-  
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Operating Temperature | °C | -45~+80 |
+| MTTF | Yr. | ≥20 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/fiber-coil-hxg46jg/](https://www.gnc-tech.com/products/fiber-coil-hxg46jg/)

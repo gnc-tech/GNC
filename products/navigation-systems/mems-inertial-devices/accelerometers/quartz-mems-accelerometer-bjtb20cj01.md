@@ -49,27 +49,25 @@ The BJTB20CJ01 is a single-axis quartz MEMS accelerometer designed for high-reli
 _Unit: mm_
 <ProductImage productId="D-Q-JDW-BJTB20CJ01" invertMode="light-only" />
 #### Electrical Interface
-    
-{
-  headers: ['Pin No.', 'Definition', 'Function/Role', 'Description'],
-  rows: [
-['1', 'VDD', 'Digital Power Supply', 'Not used as voltage input; 1μF cap to GND'],
-['2', 'VSSIO', 'I/O Ground', 'Connect to digital ground'],
-['3', 'VDDIO', 'I/O 3.3V Supply', 'Communication level power input: 3.2V ~ 3.4V'],
-['10', 'CSIN', 'Communication Mode Select', ''],
-['11', 'SCL', 'Serial Clock', ''],
-['12', 'SDA', 'Serial Data', ''],
-['13', 'SDO', 'Serial Data / I2C Addr Config', ''],
-['14', 'VSS', 'Digital Ground', 'Connect to digital ground'],
-['15', 'VDD', 'Digital Power Supply', 'Not used as voltage input; 1μF cap to GND'],
-['22', 'VPP', 'Connect to VDD', ''],
-['23', 'AVDP', 'LDO Output, Ext Cap', 'Connect external filter cap to GND'],
-['24', 'AVSS', 'Analog Ground', 'Ground'],
-['25', 'VC', 'Reference Voltage', '1μF filter cap'],
-['26', 'VB', 'Reference Voltage', '1μF filter cap'],
-['27', 'VREFN', 'Reference Voltage', '1μF filter cap'],
-['28', 'VREFP', 'Reference Voltage', '1μF filter cap'],
-['45', 'AVDD', 'Analog Power Supply (5V)', 'External input 4.8V ~ 5.2V'],
+| Pin No. | Definition | Function/Role | Description |
+| --- | --- | --- | --- |
+| 1 | VDD | Digital Power Supply | Not used as voltage input; 1μF cap to GND |
+| 2 | VSSIO | I/O Ground | Connect to digital ground |
+| 3 | VDDIO | I/O 3.3V Supply | Communication level power input: 3.2V ~ 3.4V |
+| 10 | CSIN | Communication Mode Select |  |
+| 11 | SCL | Serial Clock |  |
+| 12 | SDA | Serial Data |  |
+| 13 | SDO | Serial Data / I2C Addr Config |  |
+| 14 | VSS | Digital Ground | Connect to digital ground |
+| 15 | VDD | Digital Power Supply | Not used as voltage input; 1μF cap to GND |
+| 22 | VPP | Connect to VDD |  |
+| 23 | AVDP | LDO Output, Ext Cap | Connect external filter cap to GND |
+| 24 | AVSS | Analog Ground | Ground |
+| 25 | VC | Reference Voltage | 1μF filter cap |
+| 26 | VB | Reference Voltage | 1μF filter cap |
+| 27 | VREFN | Reference Voltage | 1μF filter cap |
+| 28 | VREFP | Reference Voltage | 1μF filter cap |
+| 45 | AVDD | Analog Power Supply (5V) | External input 4.8V ~ 5.2V |
 ['46', 'AVSS', 'Analog Ground', 'Ground'],
   ]
 
@@ -84,42 +82,33 @@ _Unit: mm_
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'Typical Value', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '≤10', 'mA'],
-  ['Weight', '≤1.5', 'g'],
-  ['Outline Dimensions', '10 × 10 × 3', 'mm'],
-  ['Initialization Time', '≤1', 's'],
-  ['Measurement Range', '±40', 'g'],
-  ['Scale Factor', '1 / ±0.005', '-'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Scale Factor Repeatability', '≤300', 'ppm'],
-  ['Scale Factor Temperature Coefficient', '≤10', 'ppm/°C'],
-  ['Threshold Resolution', '0.01', 'mg'],
-  ['Bias (Full Temperature Range)', '≤1', 'mg'],
-  ['Bias Instability (Allan Deviation)', '≤0.05', 'mg'],
-  ['Bias Stability', '≤0.1', 'mg'],
-  ['Bias Repeatability', '≤0.3', 'mg'],
-  ['Velocity Random Walk', '≤0.1', 'm/s/√Hz'],
-  ['Bandwidth', '≥150', 'Hz'],
-]
-
+| Performance Parameter | Typical Value | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | ≤10 | mA |
+| Weight | ≤1.5 | g |
+| Outline Dimensions | 10 × 10 × 3 | mm |
+| Initialization Time | ≤1 | s |
+| Measurement Range | ±40 | g |
+| Scale Factor | 1 / ±0.005 | - |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Scale Factor Repeatability | ≤300 | ppm |
+| Scale Factor Temperature Coefficient | ≤10 | ppm/°C |
+| Threshold Resolution | 0.01 | mg |
+| Bias (Full Temperature Range) | ≤1 | mg |
+| Bias Instability (Allan Deviation) | ≤0.05 | mg |
+| Bias Stability | ≤0.1 | mg |
+| Bias Repeatability | ≤0.3 | mg |
+| Velocity Random Walk | ≤0.1 | m/s/√Hz |
+| Bandwidth | ≥150 | Hz |
 #### Environmental Adaptability
   
-{
-headers: ['Test Description', 'Typical Value', 'Unit'],
-rows: [
-  ['Vibration Resistance (6.06g RMS @ 20Hz~2000Hz)', '≤2', 'mg'],
-  ['Half-Sine Shock (200g @ 6ms)', '≤5', 'mg'],
-  ['Operating Temperature Range', '-45 ~ +80', '℃'],
-  ['Storage Temperature Range', '-50 ~ +85', '℃'],
-]
-
-    
-  
-
+| Test Description | Typical Value | Unit |
+| --- | --- | --- |
+| Vibration Resistance (6.06g RMS @ 20Hz~2000Hz) | ≤2 | mg |
+| Half-Sine Shock (200g @ 6ms) | ≤5 | mg |
+| Operating Temperature Range | -45 ~ +80 | ℃ |
+| Storage Temperature Range | -50 ~ +85 | ℃ |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-accelerometer-bjtb20cj01/](https://www.gnc-tech.com/products/quartz-mems-accelerometer-bjtb20cj01/)

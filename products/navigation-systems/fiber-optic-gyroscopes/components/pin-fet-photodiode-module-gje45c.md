@@ -56,20 +56,14 @@ The D-Q-TQG-GJE45C028 is a high-performance ceramic DIP8 packaged PIN-FET photod
 
 #### Optical and Electrical Specifications (@Ta=22±3℃)
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Voltage', 'V', '±5 ± 0.3'],
-  ['Noise Voltage', 'mV', '0.4'],
-  ['Voltage Response', 'V/W', '0.9* (Selectable 20kΩ ∼ 1200kΩ)'],
-  ['Dark Output Voltage', 'V', '-1.2 ∼ -0.6 or -2.0 ∼ -1.4'],
-  ['Dynamic Range', 'dB', '25'],
-  ['Fiber Core Diameter', 'μm', '6/80/165 or 9/125/250']
-]
-
-    
-  
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Voltage | V | ±5 ± 0.3 |
+| Noise Voltage | mV | 0.4 |
+| Voltage Response | V/W | 0.9* (Selectable 20kΩ ∼ 1200kΩ) |
+| Dark Output Voltage | V | -1.2 ∼ -0.6 or -2.0 ∼ -1.4 |
+| Dynamic Range | dB | 25 |
+| Fiber Core Diameter | μm | 6/80/165 or 9/125/250 |
 ## D-Q-TQG-GJE45C215
 
 ### overview

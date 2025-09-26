@@ -66,28 +66,22 @@ The **JDWZZ3411** is a high-precision dual-axis MEMS gyroscope engineered for ap
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'JDWZZ3411', 'Unit'],
-rows: [
-  ['Measurement Range', '±300', '°/s'],
-  ['Zero Bias', '±0.05', '°/s'],
-  ['Zero Bias Stability (10s)', '≤1', '°/h'],
-  ['Zero Bias Repeatability', '≤5', '°/h'],
-  ['Zero Bias Temperature Coefficient', '≤1', '°/h/°C'],
-  ['Scale Factor', '20000', 'LSB/°/s'],
-  ['Scale Factor Repeatability', '≤300', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Scale Factor Temperature Coefficient', '≤100', 'ppm'],
-  ['X/Y Orthogonality', '≤0.5', '%'],
-  ['Bandwidth', '≤100', 'Hz'],
-  ['Power Supply Voltage', '5±0.25', 'V'],
-  ['Current', '≤100', 'mA'],
-  ['Operating Temperature', '-40~85', '°C']
-]
-
-    
-  
-
+| Performance | JDWZZ3411 | Unit |
+| --- | --- | --- |
+| Measurement Range | ±300 | °/s |
+| Zero Bias | ±0.05 | °/s |
+| Zero Bias Stability (10s) | ≤1 | °/h |
+| Zero Bias Repeatability | ≤5 | °/h |
+| Zero Bias Temperature Coefficient | ≤1 | °/h/°C |
+| Scale Factor | 20000 | LSB/°/s |
+| Scale Factor Repeatability | ≤300 | ppm |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Scale Factor Temperature Coefficient | ≤100 | ppm |
+| X/Y Orthogonality | ≤0.5 | % |
+| Bandwidth | ≤100 | Hz |
+| Power Supply Voltage | 5±0.25 | V |
+| Current | ≤100 | mA |
+| Operating Temperature | -40~85 | °C |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/mems-gyroscope-dual-axis-zz3411/](https://www.gnc-tech.com/products/mems-gyroscope-dual-axis-zz3411/)

@@ -79,25 +79,22 @@ The diagram shows the outline dimensions of the JDWZZ3416 series, providing key 
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±400', '°/s'],
-  ['Zero Bias Stability¹', '≤5', '°/h'],
-  ['Zero Bias Temperature Drift²', '≤15', '°/h(1σ)'],
-  ['Zero Bias g Sensitivity', '≤1', '°/h/g'],
-  ['Scale Factor Nonlinearity', '≤150', 'ppm'],
-  ['Orthogonality', '6', '°'],
-  ['Activation Time', '≤1', 's'],
-  ['Bandwidth³', '200', 'Hz'],
-  ['Resolution', '24', 'bit'],
-  ['Sampling Rate⁴', '1000', 'Hz'],
-  ['Power Supply Voltage', '5~8', 'V'],
-  ['Current', '≤200', 'mA'],
-  ['Operating Temperature', '-40~+85', '°C'],
-  ['Resistant To Overload', '1500', 'g']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±400 | °/s |
+| Zero Bias Stability¹ | ≤5 | °/h |
+| Zero Bias Temperature Drift² | ≤15 | °/h(1σ) |
+| Zero Bias g Sensitivity | ≤1 | °/h/g |
+| Scale Factor Nonlinearity | ≤150 | ppm |
+| Orthogonality | 6 | ° |
+| Activation Time | ≤1 | s |
+| Bandwidth³ | 200 | Hz |
+| Resolution | 24 | bit |
+| Sampling Rate⁴ | 1000 | Hz |
+| Power Supply Voltage | 5~8 | V |
+| Current | ≤200 | mA |
+| Operating Temperature | -40~+85 | °C |
+| Resistant To Overload | 1500 | g |
 ### Notes
 
 1. 10s smoothing
@@ -150,25 +147,22 @@ The **JDWZZ3416B** is an enhanced version of the three-axis MEMS gyroscope modul
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'Value', 'Unit'],
-rows: [
-  ['Measurement Range', '±400', '°/s'],
-  ['Zero Bias Stability¹', '≤1', '°/h'],
-  ['Zero Bias Temperature Drift²', '≤5', '°/h(1σ)'],
-  ['Zero Bias g Sensitivity', '≤1', '°/h/g'],
-  ['Scale Factor Nonlinearity', '≤150', 'ppm'],
-  ['Orthogonality', '6', '°'],
-  ['Activation Time', '≤1', 's'],
-  ['Bandwidth³', '200', 'Hz'],
-  ['Resolution', '24', 'bit'],
-  ['Sampling Rate⁴', '1000', 'Hz'],
-  ['Power Supply Voltage', '5~8', 'V'],
-  ['Current', '≤200', 'mA'],
-  ['Operating Temperature', '-40~+85', '°C'],
-  ['Resistant To Overload', '1500', 'g']
-]
-
+| Performance | Value | Unit |
+| --- | --- | --- |
+| Measurement Range | ±400 | °/s |
+| Zero Bias Stability¹ | ≤1 | °/h |
+| Zero Bias Temperature Drift² | ≤5 | °/h(1σ) |
+| Zero Bias g Sensitivity | ≤1 | °/h/g |
+| Scale Factor Nonlinearity | ≤150 | ppm |
+| Orthogonality | 6 | ° |
+| Activation Time | ≤1 | s |
+| Bandwidth³ | 200 | Hz |
+| Resolution | 24 | bit |
+| Sampling Rate⁴ | 1000 | Hz |
+| Power Supply Voltage | 5~8 | V |
+| Current | ≤200 | mA |
+| Operating Temperature | -40~+85 | °C |
+| Resistant To Overload | 1500 | g |
 ### Notes
 
 ### customization

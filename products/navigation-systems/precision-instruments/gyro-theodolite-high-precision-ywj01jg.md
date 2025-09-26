@@ -91,27 +91,21 @@ The ultra-high precision gyro theodolite (ZB02) represents the pinnacle of our g
 
 #### Measurement Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Azimuth Accuracy', 'arcsec', '≤3.5'],
-  ['Measurement Time', 'min', '≤13'],
-  ['Main Unit Weight', 'kg', '≤13.5'],
-  ['Data Storage', 'groups', '100']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Azimuth Accuracy | arcsec | ≤3.5 |
+| Measurement Time | min | ≤13 |
+| Main Unit Weight | kg | ≤13.5 |
+| Data Storage | groups | 100 |
 #### Operation Parameters
   
-{
-headers: ['Parameter', 'Value'],
-rows: [
-  ['Operation Mode', 'One-key Full Auto'],
-  ['Operation Safety', 'Anti-shock, Anti-static, Anti-interference'],
-  ['Measurement Process', 'Self-checking'],
-  ['Display', 'Digital Display'],
-  ['Result Output', 'Auto Storage and Output']
-]
-
+| Parameter | Value |
+| --- | --- |
+| Operation Mode | One-key Full Auto |
+| Operation Safety | Anti-shock, Anti-static, Anti-interference |
+| Measurement Process | Self-checking |
+| Display | Digital Display |
+| Result Output | Auto Storage and Output |
 ### accessories
 
 #### Accessories
@@ -177,27 +171,21 @@ The high-precision gyro theodolite (ZB05) combines excellent accuracy with robus
 
 #### Measurement Parameters
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Azimuth Accuracy', 'arcsec', '≤5'],
-  ['Measurement Time', 'min', '≤12'],
-  ['Main Unit Weight', 'kg', '≤13'],
-  ['Data Storage', 'groups', '100']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Azimuth Accuracy | arcsec | ≤5 |
+| Measurement Time | min | ≤12 |
+| Main Unit Weight | kg | ≤13 |
+| Data Storage | groups | 100 |
 #### Operation Parameters
   
-{
-headers: ['Parameter',  'Value'],
-rows: [
-  ['Operation Mode', 'One-key Full Auto'],
-  ['Operation Safety', 'Anti-shock, Anti-static, Anti-interference'],
-  ['Measurement Process', 'Self-checking'],
-  ['Display', 'Digital Display'],
-  ['Result Output', 'Auto Storage and Output']
-]
-
+| Parameter | Value |
+| --- | --- |
+| Operation Mode | One-key Full Auto |
+| Operation Safety | Anti-shock, Anti-static, Anti-interference |
+| Measurement Process | Self-checking |
+| Display | Digital Display |
+| Result Output | Auto Storage and Output |
 ### customization
 
 ### Applications

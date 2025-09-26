@@ -51,21 +51,19 @@ The JDSJ25TK02 series quartz flexure accelerometer is a high-precision, high-ran
 ### package
 
 #### Standard Pin Definitions
-    
-{
-  headers: ['Pin Number', 'Function'],
-  rows: [
-['1', 'Signal Output'],
-['2', 'Not Connected'],
-['3', '-15V'],
-['4', '+15V'],
-['5', 'Power and Signal Ground'],
-['6', 'Not Connected'],
-['7', 'Not Connected'],
-['8', 'Not Connected'],
-['9', '-9V Output'],
-['10', '+9V Output']
-  ]
+
+  | Pin Number | Function |
+| --- | --- |
+| 1 | Signal Output |
+| 2 | Not Connected |
+| 3 | -15V |
+| 4 | +15V |
+| 5 | Power and Signal Ground |
+| 6 | Not Connected |
+| 7 | Not Connected |
+| 8 | Not Connected |
+| 9 | -9V Output |
+| 10 | +9V Output |
 
 #### Outline Drawings
 <ProductImage 
@@ -97,60 +95,45 @@ invertMode="light-only"
 
 #### General Specifications
   
-{
-headers: ['Parameters', 'JDSJ25TK02-01', 'JDSJ25TK02-02', 'JDSJ25TK02-03'],
-rows: [
-  ['Range', '±70g, ±100g', '±70g, ±100g', '±70g, ±100g'],
-  ['Threshold', '5 µg', '5 µg', '5 µg'],
-  ['Bias K₀/K₁', '≤±3 mg', '≤±3 mg', '≤±5 mg'],
-  ['Scale Factor K₁', '0.8–1.2 mA/g', '0.8–1.2 mA/g', '0.8–1.2 mA/g'],
-  ['Second-Order Nonlinearity Coefficient K₂', '≤±10 µg/g²', '≤±15 µg/g²', '≤±20 µg/g²'],
-  ['0g 4-Hour Short-Term Stability', '≤10 µg', '≤10 µg', '≤10 µg'],
-  ['1g 4-Hour Short-Term Stability', '≤10 ppm', '≤10 ppm', '≤10 ppm']
-]
-
+| Parameters | JDSJ25TK02-01 | JDSJ25TK02-02 | JDSJ25TK02-03 |
+| --- | --- | --- | --- |
+| Range | ±70g, ±100g | ±70g, ±100g | ±70g, ±100g |
+| Threshold | 5 µg | 5 µg | 5 µg |
+| Bias K₀/K₁ | ≤±3 mg | ≤±3 mg | ≤±5 mg |
+| Scale Factor K₁ | 0.8–1.2 mA/g | 0.8–1.2 mA/g | 0.8–1.2 mA/g |
+| Second-Order Nonlinearity Coefficient K₂ | ≤±10 µg/g² | ≤±15 µg/g² | ≤±20 µg/g² |
+| 0g 4-Hour Short-Term Stability | ≤10 µg | ≤10 µg | ≤10 µg |
+| 1g 4-Hour Short-Term Stability | ≤10 ppm | ≤10 ppm | ≤10 ppm |
 #### Performance Specifications
   
-{
-headers: ['Parameters', 'JDSJ25TK02-01', 'JDSJ25TK02-02', 'JDSJ25TK02-03'],
-rows: [
-  ['Bias Comprehensive Repeatability σK₀ (1σ, 1 month)', '≤10 µg', '≤15 µg', '≤25 µg'],
-  ['Scale Factor Comprehensive Repeatability σK₁/K₁ (1σ, 1 month)', '≤15 ppm', '≤20 ppm', '≤30 ppm'],
-  ['Nonlinearity Coefficient Comprehensive Repeatability K₂/K₁ (1σ, 1 month)', '≤±10 µg/g²', '≤±10 µg/g²', '≤±10 µg/g²'],
-  ['Bias Temperature Coefficient (Average over Full Temperature Range)', '≤±10 µg/°C', '≤±20 µg/°C', '≤±30 µg/°C'],
-  ['Scale Factor Temperature Coefficient (Average over Full Temperature Range)', '≤±20 ppm/°C', '≤±30 ppm/°C', '≤±50 ppm/°C'],
-  ['Noise (Sampling Resistor at 840 Ω)', '≤5 mV', '≤5 mV', '≤5 mV']
-]
-
+| Parameters | JDSJ25TK02-01 | JDSJ25TK02-02 | JDSJ25TK02-03 |
+| --- | --- | --- | --- |
+| Bias Comprehensive Repeatability σK₀ (1σ, 1 month) | ≤10 µg | ≤15 µg | ≤25 µg |
+| Scale Factor Comprehensive Repeatability σK₁/K₁ (1σ, 1 month) | ≤15 ppm | ≤20 ppm | ≤30 ppm |
+| Nonlinearity Coefficient Comprehensive Repeatability K₂/K₁ (1σ, 1 month) | ≤±10 µg/g² | ≤±10 µg/g² | ≤±10 µg/g² |
+| Bias Temperature Coefficient (Average over Full Temperature Range) | ≤±10 µg/°C | ≤±20 µg/°C | ≤±30 µg/°C |
+| Scale Factor Temperature Coefficient (Average over Full Temperature Range) | ≤±20 ppm/°C | ≤±30 ppm/°C | ≤±50 ppm/°C |
+| Noise (Sampling Resistor at 840 Ω) | ≤5 mV | ≤5 mV | ≤5 mV |
 #### Physical and Environmental Specifications
   
-{
-headers: ['Parameters', 'JDSJ25TK02-01', 'JDSJ25TK02-02', 'JDSJ25TK02-03'],
-rows: [
-  ['Natural Frequency', '400–800 Hz', '400–800 Hz', '400–800 Hz'],
-  ['Bandwidth', '800–2500 Hz', '800–2500 Hz', '800–2500 Hz'],
-  ['Random Vibration', '6g (20–2000 Hz)', '6g (20–2000 Hz)', '6g (20–2000 Hz)'],
-  ['Shock', '100g, 8 ms, 1/2 sin', '100g, 8 ms, 1/2 sin', '100g, 8 ms, 1/2 sin'],
-  ['Operating Temperature Range', '-55°C to +85°C', '-55°C to +85°C', '-55°C to +85°C'],
-  ['Storage Temperature Range', '-60°C to +120°C', '-60°C to +120°C', '-60°C to +120°C'],
-  ['Dimensions', 'Ø25.4 × 30 mm', 'Ø25.4 × 30 mm', 'Ø25.4 × 30 mm'],
-  ['Weight', '≤80 g', '≤80 g', '≤80 g']
-]
-
+| Parameters | JDSJ25TK02-01 | JDSJ25TK02-02 | JDSJ25TK02-03 |
+| --- | --- | --- | --- |
+| Natural Frequency | 400–800 Hz | 400–800 Hz | 400–800 Hz |
+| Bandwidth | 800–2500 Hz | 800–2500 Hz | 800–2500 Hz |
+| Random Vibration | 6g (20–2000 Hz) | 6g (20–2000 Hz) | 6g (20–2000 Hz) |
+| Shock | 100g, 8 ms, 1/2 sin | 100g, 8 ms, 1/2 sin | 100g, 8 ms, 1/2 sin |
+| Operating Temperature Range | -55°C to +85°C | -55°C to +85°C | -55°C to +85°C |
+| Storage Temperature Range | -60°C to +120°C | -60°C to +120°C | -60°C to +120°C |
+| Dimensions | Ø25.4 × 30 mm | Ø25.4 × 30 mm | Ø25.4 × 30 mm |
+| Weight | ≤80 g | ≤80 g | ≤80 g |
 #### Electrical Specifications (Common to All Models)
   
-{
-headers: ['Parameters', 'Specification'],
-rows: [
-  ['Power Supply', '±12 to ±15 V'],
-  ['Power Consumption', '≤±20 mA'],
-  ['Temperature Sensor', 'Customizable (AD590, PT1000, 18B20)'],
-  ['Pin Configuration', '10-pin standard (customizable)']
-]
-
-    
-  
-
+| Parameters | Specification |
+| --- | --- |
+| Power Supply | ±12 to ±15 V |
+| Power Consumption | ≤±20 mA |
+| Temperature Sensor | Customizable (AD590, PT1000, 18B20) |
+| Pin Configuration | 10-pin standard (customizable) |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk02/](https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk02/)

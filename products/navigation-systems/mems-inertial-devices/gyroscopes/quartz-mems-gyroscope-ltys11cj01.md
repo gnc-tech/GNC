@@ -51,17 +51,15 @@ _Unit: mm_
 <ProductImage productId="D-Q-JDW-LTYS11CJ01" invertMode="light-only" />
 #### Electrical Interface
 The electrical interface uses discrete leads (AFR/AF-250), not shorter than 200mm.
-    
-{
-  headers: ['Wire Color', 'Definition'],
-  rows: [
-['Red', 'Power +5V'],
-['Black', 'Power Ground'],
-['Yellow', 'Angular Velocity Output'],
-['White', 'Signal Ground'],
-['Purple', 'Temperature Output'],
-['Green', 'Case Ground'],
-  ]
+
+  | Wire Color | Definition |
+| --- | --- |
+| Red | Power +5V |
+| Black | Power Ground |
+| Yellow | Angular Velocity Output |
+| White | Signal Ground |
+| Purple | Temperature Output |
+| Green | Case Ground |
 
 ### Applications
 
@@ -74,37 +72,31 @@ The electrical interface uses discrete leads (AFR/AF-250), not shorter than 200m
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'Specification Range', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '≤25', 'mA'],
-  ['Weight (excluding leads)', '≤25', 'g'],
-  ['Startup Time', '≤2', 's'],
-  ['Measurement Range', '√±300 □±500 □Others', '°/s'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Scale Factor Repeatability (1σ)', '≤300', 'ppm'],
-  ['Scale Factor Asymmetry', '≤300', 'ppm'],
-  ['Threshold / Resolution', '≤0.02', '°/s'],
-  ['Output Noise (1σ)', '≤0.15 (1σ)', '°/s'],
-  ['Bias Variation', '≤0.05', '°/s'],
-  ['Bias (Room Temperature)', '±3', '°/s'],
-  ['Bias (High/Low Temperature Operation)', '±6', '°/s'],
-  ['Bias Stability (1σ)', '≤20', '°/h'],
-  ['Bias Repeatability (1σ)', '≤20', '°/h'],
-  ['Bias Acceleration Sensitivity', '≤0.02', '°/s/g'],
-  ['Full-Temperature Bias Variation', '≤3 (–40℃ ~ 50℃)', '°/s'],
-  ['3rd Order Residual Std. Dev. of Bias–Temperature', '≤0.03 (1σ)', '°/s'],
-  ['Bias Thermal Hysteresis (Full Temperature)', '≤0.06', '°/s'],
-  ['Temperature Sensor Scale Factor', '5.0 ± 1.0', 'mV/°C'],
-  ['Temperature Sensor Output (Room Temp)', '975 ± 10', 'mV'],
-  ['Bias Error Under Vibration', '≤0.03', '°/s'],
-  ['Bias Error Under Shock', '≤0.03', '°/s'],
-]
-
-    
-  
-
+| Performance Parameter | Specification Range | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | ≤25 | mA |
+| Weight (excluding leads) | ≤25 | g |
+| Startup Time | ≤2 | s |
+| Measurement Range | √±300 □±500 □Others | °/s |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Scale Factor Repeatability (1σ) | ≤300 | ppm |
+| Scale Factor Asymmetry | ≤300 | ppm |
+| Threshold / Resolution | ≤0.02 | °/s |
+| Output Noise (1σ) | ≤0.15 (1σ) | °/s |
+| Bias Variation | ≤0.05 | °/s |
+| Bias (Room Temperature) | ±3 | °/s |
+| Bias (High/Low Temperature Operation) | ±6 | °/s |
+| Bias Stability (1σ) | ≤20 | °/h |
+| Bias Repeatability (1σ) | ≤20 | °/h |
+| Bias Acceleration Sensitivity | ≤0.02 | °/s/g |
+| Full-Temperature Bias Variation | ≤3 (–40℃ ~ 50℃) | °/s |
+| 3rd Order Residual Std. Dev. of Bias–Temperature | ≤0.03 (1σ) | °/s |
+| Bias Thermal Hysteresis (Full Temperature) | ≤0.06 | °/s |
+| Temperature Sensor Scale Factor | 5.0 ± 1.0 | mV/°C |
+| Temperature Sensor Output (Room Temp) | 975 ± 10 | mV |
+| Bias Error Under Vibration | ≤0.03 | °/s |
+| Bias Error Under Shock | ≤0.03 | °/s |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys11cj01/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys11cj01/)

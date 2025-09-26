@@ -64,26 +64,23 @@ The **JDWDG0750** is a high-precision analog MEMS accelerometer designed for dem
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'D-Q-JDW-DG075-10', 'D-Q-JDW-DG075-20', 'D-Q-JDW-DG075-50', 'Unit'],
-rows: [
-  ['Measurement Range', '±10', '±20', '±50', 'g'],
-  ['Bandwidth', '200', '200', '200', 'Hz'],
-  ['Zero Bias Stability (1σ)', '≤0.3', '≤0.5', '≤1', 'mg'],
-  ['Zero Bias Repeatability (1σ)', '≤0.5', '≤1', '≤2', 'mg'],
-  ['Zero Bias Temperature Coefficient', '≤0.5', '≤1', '≤1.5', 'mg/°C'],
-  ['Scale Factor Repeatability', '≤200', '≤200', '≤300', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤3000', '≤3000', '≤3000', 'ppm'],
-  ['Output Form', 'Analog(0.5V-4.5V)', 'Analog(0.5V-4.5V)', 'Analog(0.5V-4.5V)', '-'],
-  ['Packaging Form', 'LCC16', 'LCC16', 'LCC16', '-'],
-  ['Axial Direction', 'X - Axis', 'X - Axis', 'X - Axis', '-'],
-  ['Dimensions', '7×7×3.3', '7×7×3.3', '7×7×3.3', 'mm³'],
-  ['Overload Resistance', '≥10000', '≥10000', '≥10000', 'g'],
-  ['Operating Temperature', '-40~85', '-40~85', '-40~85', '°C'],
-  ['Power Supply Voltage', '5±0.1', '5±0.1', '5±0.1', 'V'],
-  ['Current', '≤10', '≤10', '≤10', 'mA']
-]
-
+| Performance | D-Q-JDW-DG075-10 | D-Q-JDW-DG075-20 | D-Q-JDW-DG075-50 | Unit |
+| --- | --- | --- | --- | --- |
+| Measurement Range | ±10 | ±20 | ±50 | g |
+| Bandwidth | 200 | 200 | 200 | Hz |
+| Zero Bias Stability (1σ) | ≤0.3 | ≤0.5 | ≤1 | mg |
+| Zero Bias Repeatability (1σ) | ≤0.5 | ≤1 | ≤2 | mg |
+| Zero Bias Temperature Coefficient | ≤0.5 | ≤1 | ≤1.5 | mg/°C |
+| Scale Factor Repeatability | ≤200 | ≤200 | ≤300 | ppm |
+| Scale Factor Nonlinearity | ≤3000 | ≤3000 | ≤3000 | ppm |
+| Output Form | Analog(0.5V-4.5V) | Analog(0.5V-4.5V) | Analog(0.5V-4.5V) | - |
+| Packaging Form | LCC16 | LCC16 | LCC16 | - |
+| Axial Direction | X - Axis | X - Axis | X - Axis | - |
+| Dimensions | 7×7×3.3 | 7×7×3.3 | 7×7×3.3 | mm³ |
+| Overload Resistance | ≥10000 | ≥10000 | ≥10000 | g |
+| Operating Temperature | -40~85 | -40~85 | -40~85 | °C |
+| Power Supply Voltage | 5±0.1 | 5±0.1 | 5±0.1 | V |
+| Current | ≤10 | ≤10 | ≤10 | mA |
 ### Notes
 
 1. Range can be extended to 2-500g.
@@ -125,26 +122,23 @@ The **JDWDG076A** is a high-performance MEMS accelerometer engineered for precis
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'D-Q-JDW-DG076A-10', 'D-Q-JDW-DG076A-30', 'D-Q-JDW-DG076A-50', 'Unit'],
-rows: [
-  ['Measurement Range', '±10', '±30', '±50', 'g'],
-  ['Bandwidth', '200', '200', '200', 'Hz'],
-  ['Zero Bias Stability (1σ)', '≤1', '≤1.5', '≤3', 'mg'],
-  ['Zero Bias Repeatability (1σ)', '≤1.5', '≤3', '≤6', 'mg'],
-  ['Zero Bias Temperature Coefficient', '≤1', '≤2', '≤3', 'mg/°C'],
-  ['Scale Factor Repeatability', '≤500', '≤500', '≤500', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤3000', '≤3000', '≤3000', 'ppm'],
-  ['Output Form', 'Analog(0.5V-4.5V internal reference)', 'Analog(0.5V-4.5V internal reference)', 'Analog(0.5V-4.5V internal reference)', '-'],
-  ['Packaging Form', 'LCC20', 'LCC20', 'LCC20', '-'],
-  ['Axial Direction', 'X - Axis', 'X - Axis', 'X - Axis', '-'],
-  ['Dimensions', '9×9×3.3', '9×9×3.3', '9×9×3.3', 'mm³'],
-  ['Overload Resistance', '≥10000', '≥10000', '≥10000', 'g'],
-  ['Operating Temperature', '-40~85', '-40~85', '-40~85', '°C'],
-  ['Power Supply Voltage', '5±0.1', '5±0.1', '5±0.1', 'V'],
-  ['Current', '≤10', '≤10', '≤10', 'mA']
-]
-
+| Performance | D-Q-JDW-DG076A-10 | D-Q-JDW-DG076A-30 | D-Q-JDW-DG076A-50 | Unit |
+| --- | --- | --- | --- | --- |
+| Measurement Range | ±10 | ±30 | ±50 | g |
+| Bandwidth | 200 | 200 | 200 | Hz |
+| Zero Bias Stability (1σ) | ≤1 | ≤1.5 | ≤3 | mg |
+| Zero Bias Repeatability (1σ) | ≤1.5 | ≤3 | ≤6 | mg |
+| Zero Bias Temperature Coefficient | ≤1 | ≤2 | ≤3 | mg/°C |
+| Scale Factor Repeatability | ≤500 | ≤500 | ≤500 | ppm |
+| Scale Factor Nonlinearity | ≤3000 | ≤3000 | ≤3000 | ppm |
+| Output Form | Analog(0.5V-4.5V internal reference) | Analog(0.5V-4.5V internal reference) | Analog(0.5V-4.5V internal reference) | - |
+| Packaging Form | LCC20 | LCC20 | LCC20 | - |
+| Axial Direction | X - Axis | X - Axis | X - Axis | - |
+| Dimensions | 9×9×3.3 | 9×9×3.3 | 9×9×3.3 | mm³ |
+| Overload Resistance | ≥10000 | ≥10000 | ≥10000 | g |
+| Operating Temperature | -40~85 | -40~85 | -40~85 | °C |
+| Power Supply Voltage | 5±0.1 | 5±0.1 | 5±0.1 | V |
+| Current | ≤10 | ≤10 | ≤10 | mA |
 ### Notes
 
 ---

@@ -53,17 +53,15 @@ _Unit: mm_
 />
 #### Electrical Interface
 Connector type: J30J-15ZK plug-in interface.
-    
-{
-  headers: ['Pin No.', 'Function', 'Description'],
-  rows: [
-['1', 'RS422_T–', 'RS422 Transmit Negative'],
-['2', 'RS422_R–', 'RS422 Receive Negative'],
-['8', 'Power +5V', 'Positive Power Supply'],
-['9', 'RS422_T+', 'RS422 Transmit Positive'],
-['10', 'RS422_R+', 'RS422 Receive Positive'],
-['12,13,15', 'GND', 'Power Ground'],
-  ]
+
+  | Pin No. | Function | Description |
+| --- | --- | --- |
+| 1 | RS422_T– | RS422 Transmit Negative |
+| 2 | RS422_R– | RS422 Receive Negative |
+| 8 | Power +5V | Positive Power Supply |
+| 9 | RS422_T+ | RS422 Transmit Positive |
+| 10 | RS422_R+ | RS422 Receive Positive |
+| 12,13,15 | GND | Power Ground |
 
 ### Applications
 
@@ -78,44 +76,35 @@ Connector type: J30J-15ZK plug-in interface.
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'Specification Range', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '106 ± 5', 'mA'],
-  ['Weight', '75 ± 5', 'g'],
-  ['Startup Time', '≤2', 's'],
-  ['Measurement Range', '±300 / ±400 / ±500 / ±1100 / Others', '°/s'],
-  ['Scale Factor', '1 ± 0.005', '-'],
-  ['Scale Factor Nonlinearity', '≤100', 'ppm'],
-  ['Scale Factor Repeatability', '≤100', 'ppm'],
-  ['Scale Factor Asymmetry', '≤100', 'ppm'],
-  ['Cross-Axis Sensitivity', '≤0.005', '-'],
-  ['Threshold / Resolution', '0.005', '°/s'],
-  ['Bias (Full Temp)', '±0.02', '°/s'],
-  ['Bias Stability (Room Temp, 10s Std Dev)', '≤5', '°/h'],
-  ['Bias Stability (Full Temp, 10s Std Dev)', '≤36', '°/h'],
-  ['Bias Repeatability', '≤10', '°/h'],
-  ['Angular Random Walk', '≤0.08', '°/√h'],
-  ['Bias Instability (Allan Deviation)', '≤1.5', '°/h'],
-  ['Bandwidth (Amplitude)', '300', 'Hz'],
-  ['Delay Time', '1.6', 'ms'],
-]
-
+| Performance Parameter | Specification Range | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | 106 ± 5 | mA |
+| Weight | 75 ± 5 | g |
+| Startup Time | ≤2 | s |
+| Measurement Range | ±300 / ±400 / ±500 / ±1100 / Others | °/s |
+| Scale Factor | 1 ± 0.005 | - |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Scale Factor Repeatability | ≤100 | ppm |
+| Scale Factor Asymmetry | ≤100 | ppm |
+| Cross-Axis Sensitivity | ≤0.005 | - |
+| Threshold / Resolution | 0.005 | °/s |
+| Bias (Full Temp) | ±0.02 | °/s |
+| Bias Stability (Room Temp, 10s Std Dev) | ≤5 | °/h |
+| Bias Stability (Full Temp, 10s Std Dev) | ≤36 | °/h |
+| Bias Repeatability | ≤10 | °/h |
+| Angular Random Walk | ≤0.08 | °/√h |
+| Bias Instability (Allan Deviation) | ≤1.5 | °/h |
+| Bandwidth (Amplitude) | 300 | Hz |
+| Delay Time | 1.6 | ms |
 ##### Environmental Adaptability
   
-{
-headers: ['Test Description', 'Typical Value', 'Unit'],
-rows: [
-  ['Vibration-Induced Bias Variation (6.06g RMS, 20Hz~2kHz)', '≤36', '°/h'],
-  ['Half-Sine Shock (200g, 6ms)', '≤36', '°/h'],
-  ['Operating Temperature Range', '-45 ~ +85', '°C'],
-  ['Storage Temperature Range', '-55 ~ +85', '°C'],
-]
-
-    
-  
-
+| Test Description | Typical Value | Unit |
+| --- | --- | --- |
+| Vibration-Induced Bias Variation (6.06g RMS, 20Hz~2kHz) | ≤36 | °/h |
+| Half-Sine Shock (200g, 6ms) | ≤36 | °/h |
+| Operating Temperature Range | -45 ~ +85 | °C |
+| Storage Temperature Range | -55 ~ +85 | °C |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys13cj2a/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys13cj2a/)

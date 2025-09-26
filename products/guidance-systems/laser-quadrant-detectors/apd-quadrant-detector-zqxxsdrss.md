@@ -49,42 +49,31 @@ The **ZQXXSDRSS** series integrates four identical silicon avalanche photodiodes
 
 #### Basic Parameters
   
-{
-headers: ['Model', 'Package Type', 'Active Area Diameter(mm)'],
-rows: [
-  ['ZQXXSDRSS01', 'TO-8', '4.0'],
-  ['ZQXXSDRSS02', 'TO-8', '6.0'],
-  ['ZQXXSDRSS03', 'Φ26.4*4.4mm', '10.0']
-]
-
+| Model | Package Type | Active Area Diameter(mm) |
+| --- | --- | --- |
+| ZQXXSDRSS01 | TO-8 | 4.0 |
+| ZQXXSDRSS02 | TO-8 | 6.0 |
+| ZQXXSDRSS03 | Φ26.4*4.4mm | 10.0 |
 #### Electrical Parameters (@Ta=22±3°C)
   
-{
-headers: ['Model', 'Dark Current (M=100, λ=1064nm)(nA)\nTyp./Max.', 'Response Time(ns)', 'Total Capacitance(pF)'],
-rows: [
-  ['ZQXXSDRSS01', '40/100', '3.5', '4.0'],
-  ['ZQXXSDRSS02', '40/150', '5.0', '8.0'],
-  ['ZQXXSDRSS03', '80/200', '7.0', '20']
-]
-
+| Model | Dark Current (M=100, λ=1064nm)(nA)
+Typ./Max. | Response Time(ns) | Total Capacitance(pF) |
+| --- | --- | --- | --- |
+| ZQXXSDRSS01 | 40/100 | 3.5 | 4.0 |
+| ZQXXSDRSS02 | 40/150 | 5.0 | 8.0 |
+| ZQXXSDRSS03 | 80/200 | 7.0 | 20 |
 #### Common Parameters for All Models
   
-{
-headers: ['Parameter', 'Value'],
-rows: [
-  ['Spectral Range', '400~1100nm'],
-  ['Responsivity (M=100, λ=1064nm)', '40A/W'],
-  ['Operating Voltage Temperature Coefficient (-40°C~85°C)', '3.2V/°C'],
-  ['Minimum Breakdown Voltage', '350V'],
-  ['Maximum Breakdown Voltage', '500V'],
-  ['Maximum Quadrant Non-uniformity', '5%'],
-  ['Maximum Crosstalk', '5%'],
-  ['Quadrant Gap Line Width', '0.1mm']
-]
-
-    
-  
-
+| Parameter | Value |
+| --- | --- |
+| Spectral Range | 400~1100nm |
+| Responsivity (M=100, λ=1064nm) | 40A/W |
+| Operating Voltage Temperature Coefficient (-40°C~85°C) | 3.2V/°C |
+| Minimum Breakdown Voltage | 350V |
+| Maximum Breakdown Voltage | 500V |
+| Maximum Quadrant Non-uniformity | 5% |
+| Maximum Crosstalk | 5% |
+| Quadrant Gap Line Width | 0.1mm |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/apd-quadrant-detector-zqxxsdrss/](https://www.gnc-tech.com/products/apd-quadrant-detector-zqxxsdrss/)

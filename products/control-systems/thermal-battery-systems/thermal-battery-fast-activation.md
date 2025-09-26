@@ -51,16 +51,10 @@ The Fast Activation Thermal Battery achieves breakthrough performance in activat
 
 ### Specifications
 
-{
-headers: ['Indicator parameters', 'FXJK100MH'],
-rows: [
-  ['Activation Time (s)', '0.1'],
-  ['Storage Life (years)', '>20']
-]
-
-    
-  
-
+| Indicator parameters | FXJK100MH |
+| --- | --- |
+| Activation Time (s) | 0.1 |
+| Storage Life (years) | >20 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-fast-activation/](https://www.gnc-tech.com/products/thermal-battery-fast-activation/)

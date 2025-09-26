@@ -55,17 +55,15 @@ _Unit: mm_
 />
 #### Electrical Interface
 Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-    
-{
-  headers: ['Wire Color', 'Function'],
-  rows: [
-['Red', 'Power +'],
-['Black', 'Ground'],
-['Green', 'RS422_R+'],
-['Purple', 'RS422_R–'],
-['White', 'RS422_T+'],
-['Blue', 'RS422_T–'],
-  ]
+
+  | Wire Color | Function |
+| --- | --- |
+| Red | Power + |
+| Black | Ground |
+| Green | RS422_R+ |
+| Purple | RS422_R– |
+| White | RS422_T+ |
+| Blue | RS422_T– |
 
 ### Applications
 
@@ -78,33 +76,27 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'LTYS12CJ10', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '60 ± 5', 'mA'],
-  ['Weight (excluding leads)', '38 ± 5', 'g'],
-  ['Startup Time', '≤3', 's'],
-  ['Measurement Range', '√±200 □±500 □±1800 □Others', '°/s'],
-  ['Scale Factor', '1 ± 0.005', '-'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Scale Factor Repeatability', '≤300', 'ppm'],
-  ['Scale Factor Asymmetry', '≤300', 'ppm'],
-  ['Cross-Axis Sensitivity', '≤0.005', '-'],
-  ['Threshold / Resolution', '≤0.01', '°/s'],
-  ['Bias (Full Temperature)', '±0.02', '°/s'],
-  ['Bias Stability (Room Temp, 10s Std Dev)', '≤3', '°/h'],
-  ['Bias Stability (Full Temp, 10s Std Dev)', '≤10', '°/h'],
-  ['Bias Repeatability', '≤10', '°/h'],
-  ['Angular Random Walk', '≤0.08', '°/√h'],
-  ['Bias Instability (Allan Deviation)', '≤1.5', '°/h'],
-  ['Bandwidth (Amplitude)', '√150', 'Hz'],
-  ['Delay Time (within bandwidth)', '√2.0', 'ms'],
-]
-
-    
-  
-
+| Performance Parameter | LTYS12CJ10 | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | 60 ± 5 | mA |
+| Weight (excluding leads) | 38 ± 5 | g |
+| Startup Time | ≤3 | s |
+| Measurement Range | √±200 □±500 □±1800 □Others | °/s |
+| Scale Factor | 1 ± 0.005 | - |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Scale Factor Repeatability | ≤300 | ppm |
+| Scale Factor Asymmetry | ≤300 | ppm |
+| Cross-Axis Sensitivity | ≤0.005 | - |
+| Threshold / Resolution | ≤0.01 | °/s |
+| Bias (Full Temperature) | ±0.02 | °/s |
+| Bias Stability (Room Temp, 10s Std Dev) | ≤3 | °/h |
+| Bias Stability (Full Temp, 10s Std Dev) | ≤10 | °/h |
+| Bias Repeatability | ≤10 | °/h |
+| Angular Random Walk | ≤0.08 | °/√h |
+| Bias Instability (Allan Deviation) | ≤1.5 | °/h |
+| Bandwidth (Amplitude) | √150 | Hz |
+| Delay Time (within bandwidth) | √2.0 | ms |
 ## D-Q-JDW-LTYS12CJ1A
 
 ### Overview
@@ -129,17 +121,15 @@ _Unit: mm_
 />
 #### Electrical Interface
 Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-    
-{
-  headers: ['Wire Color', 'Function'],
-  rows: [
-['Red', 'Power +'],
-['Black', 'Ground'],
-['Green', 'RS422_R+'],
-['Purple', 'RS422_R–'],
-['White', 'RS422_T+'],
-['Blue', 'RS422_T–'],
-  ]
+
+  | Wire Color | Function |
+| --- | --- |
+| Red | Power + |
+| Black | Ground |
+| Green | RS422_R+ |
+| Purple | RS422_R– |
+| White | RS422_T+ |
+| Blue | RS422_T– |
 
 ### Applications
 
@@ -147,33 +137,27 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'LTYS12CJ1A', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '72 ± 5', 'mA'],
-  ['Weight (excluding leads)', '38 ± 5', 'g'],
-  ['Startup Time', '≤3', 's'],
-  ['Measurement Range', '√±200 □±500 □±1800 □Others', '°/s'],
-  ['Scale Factor', '1 ± 0.005', '-'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Scale Factor Repeatability', '≤300', 'ppm'],
-  ['Scale Factor Asymmetry', '≤300', 'ppm'],
-  ['Cross-Axis Sensitivity', '≤0.005', '-'],
-  ['Threshold / Resolution', '≤0.01', '°/s'],
-  ['Bias (Full Temperature)', '±0.03', '°/s'],
-  ['Bias Stability (Room Temp, 10s Std Dev)', '≤6', '°/h'],
-  ['Bias Stability (Full Temp, 10s Std Dev)', '≤15', '°/h'],
-  ['Bias Repeatability', '≤10', '°/h'],
-  ['Angular Random Walk', '≤0.08', '°/√h'],
-  ['Bias Instability (Allan Deviation)', '≤2', '°/h'],
-  ['Bandwidth (Amplitude)', '√150', 'Hz'],
-  ['Delay Time (within bandwidth)', '√2.0', 'ms'],
-]
-
-    
-  
-
+| Performance Parameter | LTYS12CJ1A | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | 72 ± 5 | mA |
+| Weight (excluding leads) | 38 ± 5 | g |
+| Startup Time | ≤3 | s |
+| Measurement Range | √±200 □±500 □±1800 □Others | °/s |
+| Scale Factor | 1 ± 0.005 | - |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Scale Factor Repeatability | ≤300 | ppm |
+| Scale Factor Asymmetry | ≤300 | ppm |
+| Cross-Axis Sensitivity | ≤0.005 | - |
+| Threshold / Resolution | ≤0.01 | °/s |
+| Bias (Full Temperature) | ±0.03 | °/s |
+| Bias Stability (Room Temp, 10s Std Dev) | ≤6 | °/h |
+| Bias Stability (Full Temp, 10s Std Dev) | ≤15 | °/h |
+| Bias Repeatability | ≤10 | °/h |
+| Angular Random Walk | ≤0.08 | °/√h |
+| Bias Instability (Allan Deviation) | ≤2 | °/h |
+| Bandwidth (Amplitude) | √150 | Hz |
+| Delay Time (within bandwidth) | √2.0 | ms |
 ## D-Q-JDW-LTYS12CJ1B
 
 ### Overview
@@ -198,17 +182,15 @@ _Unit: mm_
 />
 #### Electrical Interface
 Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-    
-{
-  headers: ['Wire Color', 'Function'],
-  rows: [
-['Red', 'Power +'],
-['Black', 'Ground'],
-['Green', 'RS422_R+'],
-['Purple', 'RS422_R–'],
-['White', 'RS422_T+'],
-['Blue', 'RS422_T–'],
-  ]
+
+  | Wire Color | Function |
+| --- | --- |
+| Red | Power + |
+| Black | Ground |
+| Green | RS422_R+ |
+| Purple | RS422_R– |
+| White | RS422_T+ |
+| Blue | RS422_T– |
 
 ### Applications
 
@@ -216,33 +198,27 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'LTYS12CJ1B', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '60 ± 5', 'mA'],
-  ['Weight (excluding leads)', '38 ± 5', 'g'],
-  ['Startup Time', '≤3', 's'],
-  ['Measurement Range', '√±200 □±500 □±1800 □Others', '°/s'],
-  ['Scale Factor', '1 ± 0.005', '-'],
-  ['Scale Factor Nonlinearity', '≤300', 'ppm'],
-  ['Scale Factor Repeatability', '≤300', 'ppm'],
-  ['Scale Factor Asymmetry', '≤300', 'ppm'],
-  ['Cross-Axis Sensitivity', '≤0.005', '-'],
-  ['Threshold / Resolution', '≤0.01', '°/s'],
-  ['Bias (Full Temperature)', '-', '°/s'],
-  ['Bias Stability (Room Temp, 10s Std Dev)', '-', '°/h'],
-  ['Bias Stability (Full Temp, 10s Std Dev)', '-', '°/h'],
-  ['Bias Repeatability', '≤10', '°/h'],
-  ['Angular Random Walk', '≤0.08', '°/√h'],
-  ['Bias Instability (Allan Deviation)', '≤2', '°/h'],
-  ['Bandwidth (Amplitude)', '√150', 'Hz'],
-  ['Delay Time (within bandwidth)', '√2.0', 'ms'],
-]
-
-    
-  
-
+| Performance Parameter | LTYS12CJ1B | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | 60 ± 5 | mA |
+| Weight (excluding leads) | 38 ± 5 | g |
+| Startup Time | ≤3 | s |
+| Measurement Range | √±200 □±500 □±1800 □Others | °/s |
+| Scale Factor | 1 ± 0.005 | - |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Scale Factor Repeatability | ≤300 | ppm |
+| Scale Factor Asymmetry | ≤300 | ppm |
+| Cross-Axis Sensitivity | ≤0.005 | - |
+| Threshold / Resolution | ≤0.01 | °/s |
+| Bias (Full Temperature) | - | °/s |
+| Bias Stability (Room Temp, 10s Std Dev) | - | °/h |
+| Bias Stability (Full Temp, 10s Std Dev) | - | °/h |
+| Bias Repeatability | ≤10 | °/h |
+| Angular Random Walk | ≤0.08 | °/√h |
+| Bias Instability (Allan Deviation) | ≤2 | °/h |
+| Bandwidth (Amplitude) | √150 | Hz |
+| Delay Time (within bandwidth) | √2.0 | ms |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys12cj1x/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys12cj1x/)

@@ -79,44 +79,35 @@ The diagram shows the outline dimensions of the JDWZZ3415, providing key measure
 
 #### Gyroscope Specifications
   
-{
-headers: ['Performance', 'MIN', 'MAX', 'Unit'],
-rows: [
-  ['Measurement Range', '-3600', '+3600', '°/s'],
-  ['Scale Factor', '1990', '2010', 'LSB/°/s'],
-  ['Scale Factor Nonlinearity', '-', '150', 'ppm'],
-  ['Zero Bias¹', '-0.05', '0.05', '°/s'],
-  ['Zero Bias Stability (10s Smoothing)', '-', '10', '°/h'],
-  ['Zero Bias Temperature Coefficient²', '-', '1', '°/h/°C'],
-  ['Zero Bias g Sensitivity', '-', '10', '°/h/g'],
-  ['Bandwidth', '180', '220', 'Hz']
-]
-
+| Performance | MIN | MAX | Unit |
+| --- | --- | --- | --- |
+| Measurement Range | -3600 | +3600 | °/s |
+| Scale Factor | 1990 | 2010 | LSB/°/s |
+| Scale Factor Nonlinearity | - | 150 | ppm |
+| Zero Bias¹ | -0.05 | 0.05 | °/s |
+| Zero Bias Stability (10s Smoothing) | - | 10 | °/h |
+| Zero Bias Temperature Coefficient² | - | 1 | °/h/°C |
+| Zero Bias g Sensitivity | - | 10 | °/h/g |
+| Bandwidth | 180 | 220 | Hz |
 #### Accelerometer Specifications
   
-{
-headers: ['Performance', 'MIN', 'MAX', 'Unit'],
-rows: [
-  ['Measurement Range', '-20', '20', 'g'],
-  ['Scale Factor', '39900', '40100', 'LSB/g'],
-  ['Scale Factor Nonlinearity', '-', '150', 'ppm'],
-  ['Zero Bias¹', '-5', '5', 'mg'],
-  ['Zero Bias Stability (10s Smoothing)', '-', '0.1', 'mg'],
-  ['Bandwidth', '80', '120', 'Hz'],
-  ['Orthogonality', '-', '6', '°']
-]
-
+| Performance | MIN | MAX | Unit |
+| --- | --- | --- | --- |
+| Measurement Range | -20 | 20 | g |
+| Scale Factor | 39900 | 40100 | LSB/g |
+| Scale Factor Nonlinearity | - | 150 | ppm |
+| Zero Bias¹ | -5 | 5 | mg |
+| Zero Bias Stability (10s Smoothing) | - | 0.1 | mg |
+| Bandwidth | 80 | 120 | Hz |
+| Orthogonality | - | 6 | ° |
 #### Common Specifications
   
-{
-headers: ['Parameters', 'MIN', 'MAX', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '4.85', '5.05', 'V'],
-  ['Operating Temperature', '-40', '+60', '°C'],
-  ['Activation Time', '-', '1', 's'],
-  ['Resistant To Overload', '20000', '-', 'g']
-]
-
+| Parameters | MIN | MAX | Unit |
+| --- | --- | --- | --- |
+| Power Supply Voltage | 4.85 | 5.05 | V |
+| Operating Temperature | -40 | +60 | °C |
+| Activation Time | - | 1 | s |
+| Resistant To Overload | 20000 | - | g |
 ### Notes
 
 1. Full temperature, 2℃/min temperature change rate

@@ -52,17 +52,15 @@ _Unit: mm_
 />
 #### Electrical Interface
 Connector type: J30J-15ZK
-    
-{
-  headers: ['Pin No.', 'Definition'],
-  rows: [
-['1', 'RS422_T–'],
-['2', 'RS422_R–'],
-['8', 'Power +'],
-['9', 'RS422_T+'],
-['10', 'RS422_R+'],
-['12,13,15', 'GND'],
-  ]
+
+  | Pin No. | Definition |
+| --- | --- |
+| 1 | RS422_T– |
+| 2 | RS422_R– |
+| 8 | Power + |
+| 9 | RS422_T+ |
+| 10 | RS422_R+ |
+| 12,13,15 | GND |
 
 ### Applications
 
@@ -76,63 +74,48 @@ Connector type: J30J-15ZK
 
 #### Key Technical Specifications
   
-{
-headers: ['Parameter', 'Unit', 'CGYS30CJ1A'],
-rows: [
-  ['Power Supply Voltage', 'V', '5 ± 0.2'],
-  ['Operating Current', 'mA', '120 ± 5'],
-  ['Weight', 'g', '78 ± 5'],
-  ['Startup Time', 's', '≤2'],
-]
-
+| Parameter | Unit | CGYS30CJ1A |
+| --- | --- | --- |
+| Power Supply Voltage | V | 5 ± 0.2 |
+| Operating Current | mA | 120 ± 5 |
+| Weight | g | 78 ± 5 |
+| Startup Time | s | ≤2 |
 ##### Gyroscope Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Measurement Range', '°/s', '√±500'],
-  ['Scale Factor', '-', '1 ± 0.005'],
-  ['Scale Factor Nonlinearity', 'ppm', '≤300'],
-  ['Scale Factor Repeatability', 'ppm', '≤300'],
-  ['Scale Factor Asymmetry', 'ppm', '≤300'],
-  ['Cross-Axis Sensitivity', '-', '≤0.005'],
-  ['Threshold / Resolution', '°/s', '≤0.01'],
-  ['Bias (Full Temperature)', '°/s', '±0.02'],
-  ['Bias Stability (Room Temp)', '°/h', '≤5'],
-  ['Bias Stability (Full Temp)', '°/h', '≤36'],
-  ['Bias Repeatability', '°/h', '≤10'],
-  ['Angular Random Walk', '°/√h', '≤0.08'],
-  ['Bias Instability (Allan Deviation)', '°/h', '≤1.5'],
-  ['Bandwidth (Amplitude)', 'Hz', '√180'],
-  ['Delay Time', 'ms', '√2.0'],
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Measurement Range | °/s | √±500 |
+| Scale Factor | - | 1 ± 0.005 |
+| Scale Factor Nonlinearity | ppm | ≤300 |
+| Scale Factor Repeatability | ppm | ≤300 |
+| Scale Factor Asymmetry | ppm | ≤300 |
+| Cross-Axis Sensitivity | - | ≤0.005 |
+| Threshold / Resolution | °/s | ≤0.01 |
+| Bias (Full Temperature) | °/s | ±0.02 |
+| Bias Stability (Room Temp) | °/h | ≤5 |
+| Bias Stability (Full Temp) | °/h | ≤36 |
+| Bias Repeatability | °/h | ≤10 |
+| Angular Random Walk | °/√h | ≤0.08 |
+| Bias Instability (Allan Deviation) | °/h | ≤1.5 |
+| Bandwidth (Amplitude) | Hz | √180 |
+| Delay Time | ms | √2.0 |
 ##### Accelerometer Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Measurement Range', 'g', '√±20'],
-  ['Bias (Full Temperature)', 'mg', '±5'],
-  ['Bias Stability (Room Temp)', 'mg', '≤0.1'],
-  ['Bias Stability (Full Temp)', 'mg', '≤1'],
-  ['Bias Repeatability', 'mg', '≤0.1'],
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Measurement Range | g | √±20 |
+| Bias (Full Temperature) | mg | ±5 |
+| Bias Stability (Room Temp) | mg | ≤0.1 |
+| Bias Stability (Full Temp) | mg | ≤1 |
+| Bias Repeatability | mg | ≤0.1 |
 ##### Environmental Adaptability
   
-{
-headers: ['Test Item', 'Unit', 'Gyroscope', 'Accelerometer'],
-rows: [
-  ['Vibration (6.06g RMS, 20Hz–2kHz)', '°/h / mg', '≤36', '≤10'],
-  ['Shock (Half-Sine, 200g, 6ms)', '°/h / mg', '≤36', '≤10'],
-  ['Operating Temperature', '℃', '-45 ~ +85', ''],
-  ['Storage Temperature', '℃', '-55 ~ +85', ''],
-]
-
-    
-  
-
+| Test Item | Unit | Gyroscope | Accelerometer |
+| --- | --- | --- | --- |
+| Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤10 |
+| Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤10 |
+| Operating Temperature | ℃ | -45 ~ +85 |  |
+| Storage Temperature | ℃ | -55 ~ +85 |  |
 ## D-Q-JDW-CGYS30CJ1B
 
 ### Overview
@@ -155,17 +138,15 @@ _Unit: mm_
 />
 #### Electrical Interface
 Connector type: J30J-15ZK
-    
-{
-  headers: ['Pin No.', 'Definition'],
-  rows: [
-['1', 'RS422_T–'],
-['2', 'RS422_R–'],
-['8', 'Power +'],
-['9', 'RS422_T+'],
-['10', 'RS422_R+'],
-['12,13,15', 'GND'],
-  ]
+
+  | Pin No. | Definition |
+| --- | --- |
+| 1 | RS422_T– |
+| 2 | RS422_R– |
+| 8 | Power + |
+| 9 | RS422_T+ |
+| 10 | RS422_R+ |
+| 12,13,15 | GND |
 
 ### Applications
 
@@ -173,63 +154,48 @@ Connector type: J30J-15ZK
 
 #### Key Technical Specifications
   
-{
-headers: ['Parameter', 'Unit', 'CGYS30CJ1B'],
-rows: [
-  ['Power Supply Voltage', 'V', '5 ± 0.2'],
-  ['Operating Current', 'mA', '140 ± 5'],
-  ['Weight', 'g', '78 ± 5'],
-  ['Startup Time', 's', '≤2'],
-]
-
+| Parameter | Unit | CGYS30CJ1B |
+| --- | --- | --- |
+| Power Supply Voltage | V | 5 ± 0.2 |
+| Operating Current | mA | 140 ± 5 |
+| Weight | g | 78 ± 5 |
+| Startup Time | s | ≤2 |
 ##### Gyroscope Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Measurement Range', '°/s', '√±500'],
-  ['Scale Factor', '-', '1 ± 0.005'],
-  ['Scale Factor Nonlinearity', 'ppm', '≤300'],
-  ['Scale Factor Repeatability', 'ppm', '≤300'],
-  ['Scale Factor Asymmetry', 'ppm', '≤300'],
-  ['Cross-Axis Sensitivity', '-', '≤0.005'],
-  ['Threshold / Resolution', '°/s', '≤0.01'],
-  ['Bias (Full Temperature)', '°/s', '±0.02'],
-  ['Bias Stability (Room Temp)', '°/h', '≤5'],
-  ['Bias Stability (Full Temp)', '°/h', '≤36'],
-  ['Bias Repeatability', '°/h', '≤10'],
-  ['Angular Random Walk', '°/√h', '≤0.08'],
-  ['Bias Instability (Allan Deviation)', '°/h', '≤1.5'],
-  ['Bandwidth (Amplitude)', 'Hz', '√180'],
-  ['Delay Time', 'ms', '√2.0'],
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Measurement Range | °/s | √±500 |
+| Scale Factor | - | 1 ± 0.005 |
+| Scale Factor Nonlinearity | ppm | ≤300 |
+| Scale Factor Repeatability | ppm | ≤300 |
+| Scale Factor Asymmetry | ppm | ≤300 |
+| Cross-Axis Sensitivity | - | ≤0.005 |
+| Threshold / Resolution | °/s | ≤0.01 |
+| Bias (Full Temperature) | °/s | ±0.02 |
+| Bias Stability (Room Temp) | °/h | ≤5 |
+| Bias Stability (Full Temp) | °/h | ≤36 |
+| Bias Repeatability | °/h | ≤10 |
+| Angular Random Walk | °/√h | ≤0.08 |
+| Bias Instability (Allan Deviation) | °/h | ≤1.5 |
+| Bandwidth (Amplitude) | Hz | √180 |
+| Delay Time | ms | √2.0 |
 ##### Accelerometer Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Measurement Range', 'g', '√±20'],
-  ['Bias (Full Temperature)', 'mg', '±5'],
-  ['Bias Stability (Room Temp)', 'mg', '≤0.1'],
-  ['Bias Stability (Full Temp)', 'mg', '≤1'],
-  ['Bias Repeatability', 'mg', '≤0.1'],
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Measurement Range | g | √±20 |
+| Bias (Full Temperature) | mg | ±5 |
+| Bias Stability (Room Temp) | mg | ≤0.1 |
+| Bias Stability (Full Temp) | mg | ≤1 |
+| Bias Repeatability | mg | ≤0.1 |
 ##### Environmental Adaptability
   
-{
-headers: ['Test Item', 'Unit', 'Gyroscope', 'Accelerometer'],
-rows: [
-  ['Vibration (6.06g RMS, 20Hz–2kHz)', '°/h / mg', '≤36', '≤10'],
-  ['Shock (Half-Sine, 200g, 6ms)', '°/h / mg', '≤36', '≤10'],
-  ['Operating Temperature', '℃', '-45 ~ +85', ''],
-  ['Storage Temperature', '℃', '-55 ~ +85', ''],
-]
-
-    
-  
-
+| Test Item | Unit | Gyroscope | Accelerometer |
+| --- | --- | --- | --- |
+| Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤10 |
+| Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤10 |
+| Operating Temperature | ℃ | -45 ~ +85 |  |
+| Storage Temperature | ℃ | -55 ~ +85 |  |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj1x/](https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj1x/)

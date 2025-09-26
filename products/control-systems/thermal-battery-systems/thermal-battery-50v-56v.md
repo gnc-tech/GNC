@@ -68,41 +68,30 @@ The **CDR50FLX** series represents our 50V platform thermal batteries, offering 
 ### Specifications
 
 #### Basic Parameters
-  
-{
-headers: ['Model', 'Dimensions', 'Max Weight'],
-rows: [
-  ['CDR50FLX01', 'Φ36×90 mm', '0.200 kg'],
-  ['CDR50FLX02', 'Φ40×75 mm', '0.263 kg'],
-  ['CDR50FLX03', 'Φ45×180 mm', '0.900 kg'],
-  ['CDR50FLX04', 'Φ50×78 mm', '0.390 kg']
-]
+
+| Model | Dimensions | Max Weight |
+|---|---|---|
+| CDR50FLX01 | Φ36×90 mm | 0.200 kg |
+| CDR50FLX02 | Φ40×75 mm | 0.263 kg |
+| CDR50FLX03 | Φ45×180 mm | 0.900 kg |
+| CDR50FLX04 | Φ50×78 mm | 0.390 kg |
 
 #### Electrical Parameters
   
-{
-headers: ['Model', 'Capacity', 'Nominal Voltage', 'Working Current'],
-rows: [
-  ['CDR50FLX01', '450 As', '50 V', '3A/150s; 5A/90s'],
-  ['CDR50FLX02', '480 As', '50 V', '2A/240s; 4A/120s'],
-  ['CDR50FLX03', '3200 As', '50 V', '5A/640s; 10A/320s'],
-  ['CDR50FLX04', '1100 As', '50 V', '5A/220s; 10A/100s']
-]
-
+| Model | Capacity | Nominal Voltage | Working Current |
+| --- | --- | --- | --- |
+| CDR50FLX01 | 450 As | 50 V | 3A/150s; 5A/90s |
+| CDR50FLX02 | 480 As | 50 V | 2A/240s; 4A/120s |
+| CDR50FLX03 | 3200 As | 50 V | 5A/640s; 10A/320s |
+| CDR50FLX04 | 1100 As | 50 V | 5A/220s; 10A/100s |
 #### Performance Parameters
   
-{
-headers: ['Model', 'Pulse Current', 'Activation Time', 'Operating Duration'],
-rows: [
-  ['CDR50FLX01', '25 A', '<0.8 s', '90 s'],
-  ['CDR50FLX02', '30 A', '<0.8 s', '120 s'],
-  ['CDR50FLX03', '70 A', '<0.8 s', '320 s'],
-  ['CDR50FLX04', '40 A', '<0.8 s', '220 s']
-]
-
-    
-  
-
+| Model | Pulse Current | Activation Time | Operating Duration |
+| --- | --- | --- | --- |
+| CDR50FLX01 | 25 A | <0.8 s | 90 s |
+| CDR50FLX02 | 30 A | <0.8 s | 120 s |
+| CDR50FLX03 | 70 A | <0.8 s | 320 s |
+| CDR50FLX04 | 40 A | <0.8 s | 220 s |
 ## K-CDR-54FLX
 
 ### Overview
@@ -134,31 +123,19 @@ The **CDR54FLX** series features our high-power 54V thermal battery, designed fo
 
 #### Basic Parameters
   
-{
-headers: ['Model', 'Dimensions', 'Max Weight'],
-rows: [
-  ['CDR54FLX01', 'Φ78×160 mm', '1.900 kg']
-]
-
+| Model | Dimensions | Max Weight |
+| --- | --- | --- |
+| CDR54FLX01 | Φ78×160 mm | 1.900 kg |
 #### Electrical Parameters
   
-{
-headers: ['Model', 'Capacity', 'Nominal Voltage', 'Working Current'],
-rows: [
-  ['CDR54FLX01', '6750 As', '54 V', '10A/675s; 20A/330s']
-]
-
+| Model | Capacity | Nominal Voltage | Working Current |
+| --- | --- | --- | --- |
+| CDR54FLX01 | 6750 As | 54 V | 10A/675s; 20A/330s |
 #### Performance Parameters
   
-{
-headers: ['Model', 'Pulse Current', 'Activation Time', 'Operating Duration'],
-rows: [
-  ['CDR54FLX01', '120 A', '<1.0 s', '450 s']
-]
-
-    
-  
-
+| Model | Pulse Current | Activation Time | Operating Duration |
+| --- | --- | --- | --- |
+| CDR54FLX01 | 120 A | <1.0 s | 450 s |
 ## K-CDR-55FLX
 
 ### Overview
@@ -190,31 +167,19 @@ The **CDR55FLX** series represents our 55V thermal battery platform, offering a 
 
 #### Basic Parameters
   
-{
-headers: ['Model', 'Dimensions', 'Max Weight'],
-rows: [
-  ['CDR55FLX01', 'Φ50×90 mm', '0.520 kg']
-]
-
+| Model | Dimensions | Max Weight |
+| --- | --- | --- |
+| CDR55FLX01 | Φ50×90 mm | 0.520 kg |
 #### Electrical Parameters
   
-{
-headers: ['Model', 'Capacity', 'Nominal Voltage', 'Working Current'],
-rows: [
-  ['CDR55FLX01', '1200 As', '55 V', '4A/300s; 8A/150s']
-]
-
+| Model | Capacity | Nominal Voltage | Working Current |
+| --- | --- | --- | --- |
+| CDR55FLX01 | 1200 As | 55 V | 4A/300s; 8A/150s |
 #### Performance Parameters
   
-{
-headers: ['Model', 'Pulse Current', 'Activation Time', 'Operating Duration'],
-rows: [
-  ['CDR55FLX01', '40 A', '<0.8 s', '300 s']
-]
-
-    
-  
-
+| Model | Pulse Current | Activation Time | Operating Duration |
+| --- | --- | --- | --- |
+| CDR55FLX01 | 40 A | <0.8 s | 300 s |
 ## K-CDR-56FLX
 
 ### Overview
@@ -246,34 +211,22 @@ The **CDR56FLX** series represents our highest voltage platform at 56V, featurin
 
 #### Basic Parameters
   
-{
-headers: ['Model', 'Dimensions', 'Max Weight'],
-rows: [
-  ['CDR56FLX01', 'Φ67×170 mm', '1.580 kg'],
-  ['CDR56FLX02', 'Φ96×227 mm', '4.300 kg']
-]
-
+| Model | Dimensions | Max Weight |
+| --- | --- | --- |
+| CDR56FLX01 | Φ67×170 mm | 1.580 kg |
+| CDR56FLX02 | Φ96×227 mm | 4.300 kg |
 #### Electrical Parameters
   
-{
-headers: ['Model', 'Capacity', 'Nominal Voltage', 'Working Current'],
-rows: [
-  ['CDR56FLX01', '5600 As', '56 V', '4A/1400s; 8A/700s'],
-  ['CDR56FLX02', '18000 As', '56 V', '10A/675s; 20A/330s']
-]
-
+| Model | Capacity | Nominal Voltage | Working Current |
+| --- | --- | --- | --- |
+| CDR56FLX01 | 5600 As | 56 V | 4A/1400s; 8A/700s |
+| CDR56FLX02 | 18000 As | 56 V | 10A/675s; 20A/330s |
 #### Performance Parameters
   
-{
-headers: ['Model', 'Pulse Current', 'Activation Time', 'Operating Duration'],
-rows: [
-  ['CDR56FLX01', '60 A', '<2.0 s', '720 s'],
-  ['CDR56FLX02', '100 A', '<2.0 s', '2200 s']
-]
-
-    
-  
-
+| Model | Pulse Current | Activation Time | Operating Duration |
+| --- | --- | --- | --- |
+| CDR56FLX01 | 60 A | <2.0 s | 720 s |
+| CDR56FLX02 | 100 A | <2.0 s | 2200 s |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-50v-56v/](https://www.gnc-tech.com/products/thermal-battery-50v-56v/)

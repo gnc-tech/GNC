@@ -62,15 +62,13 @@ type="package"
 subType="dimensions" 
 invertMode="light-only" 
 />
-    
-{
-  headers: ['Attribute', 'Value'],
-  rows: [
-['Length', '47 mm'],
-['Width', '44 mm'],
-['Height', '15 mm'],
-['Weight', '48 ± 2 g']
-  ]
+
+  | Attribute | Value |
+| --- | --- |
+| Length | 47 mm |
+| Width | 44 mm |
+| Height | 15 mm |
+| Weight | 48 ± 2 g |
 
 #### Pins
 <ProductImage 
@@ -85,23 +83,21 @@ type="package"
 subType="pin-assignments" 
 invertMode="light-only" 
 />
-    
-{
-  headers: ['Pin', 'Name', 'Type', 'Description'],
-  rows: [
-['1', 'DIO3', 'Input/Output', 'Configurable Digital I/O'],
-['2', 'DIO4', 'Input/Output', 'Configurable Digital I/O'],
-['3', 'SCLK', 'Input', 'SPI Clock'],
-['4', 'DOUT', 'Output', 'SPI Data Output (SCLK falling edge)'],
-['5', 'DIN', 'Input', 'SPI Data Input (SCLK rising edge)'],
-['6', 'CS', 'Input', 'Chip Select (active low)'],
-['7', 'DIO1', 'Input/Output', 'Configurable Digital I/O'],
-['8', 'RST', 'Input', 'Reset (leave floating if unused)'],
-['9', 'DIO2', 'Input/Output', 'Configurable Digital I/O'],
-['10,11', 'VDD', 'Supply', 'Power Supply Input'],
-['13,14', 'GND', 'Supply', 'Ground'],
-['12,15–24', 'DNC', '-', 'Do Not Connect']
-  ]
+
+  | Pin | Name | Type | Description |
+| --- | --- | --- | --- |
+| 1 | DIO3 | Input/Output | Configurable Digital I/O |
+| 2 | DIO4 | Input/Output | Configurable Digital I/O |
+| 3 | SCLK | Input | SPI Clock |
+| 4 | DOUT | Output | SPI Data Output (SCLK falling edge) |
+| 5 | DIN | Input | SPI Data Input (SCLK rising edge) |
+| 6 | CS | Input | Chip Select (active low) |
+| 7 | DIO1 | Input/Output | Configurable Digital I/O |
+| 8 | RST | Input | Reset (leave floating if unused) |
+| 9 | DIO2 | Input/Output | Configurable Digital I/O |
+| 10,11 | VDD | Supply | Power Supply Input |
+| 13,14 | GND | Supply | Ground |
+| 12,15–24 | DNC | - | Do Not Connect |
 
 > **Note:**
 > 1. This representation displays the top view pinout for the mating socket connector.
@@ -126,25 +122,22 @@ invertMode="light-only"
   _High stability, low noise, and factory-calibrated response for tactical-grade navigation._
 
   
-{
-headers: ['Parameter', 'Min', 'Typ', 'Max', 'Unit'],
-rows: [
-  ['Dynamic Range', '±450', '–', '±480', '°/sec'],
-  ['Sensitivity', '–', '2,621,440', '–', 'LSB/°/sec'],
-  ['Repeatability', '–', '0.01', '–', '%'],
-  ['Sensitivity Temp. Coefficient', '–', '±10', '–', 'ppm/°C'],
-  ['Nonlinearity', '–', '0.02', '–', '% of FS'],
-  ['Bias Repeatability', '–', '1.0', '–', '°/hr'],
-  ['In-Run Bias Stability', '–', '0.3', '–', '°/hr'],
-  ['Angular Random Walk', '–', '0.1', '–', '°/√hr'],
-  ['Bias Temp. Coefficient', '–', '±0.15', '–', '°/hr/°C'],
-  ['Linear Acceleration Effect on Bias', '–', '1.0', '–', '°/hr/g'],
-  ['Output Noise (RMS)', '–', '0.05', '–', '°/sec'],
-  ['Rate Noise Density', '–', '0.002', '–', '°/sec/√Hz'],
-  ['3 dB Bandwidth', '250', '–', '–', 'Hz'],
-  ['Sensor Resonant Frequency', '11.5', '12', '13.5', 'kHz']
-]
-
+| Parameter | Min | Typ | Max | Unit |
+| --- | --- | --- | --- | --- |
+| Dynamic Range | ±450 | – | ±480 | °/sec |
+| Sensitivity | – | 2,621,440 | – | LSB/°/sec |
+| Repeatability | – | 0.01 | – | % |
+| Sensitivity Temp. Coefficient | – | ±10 | – | ppm/°C |
+| Nonlinearity | – | 0.02 | – | % of FS |
+| Bias Repeatability | – | 1.0 | – | °/hr |
+| In-Run Bias Stability | – | 0.3 | – | °/hr |
+| Angular Random Walk | – | 0.1 | – | °/√hr |
+| Bias Temp. Coefficient | – | ±0.15 | – | °/hr/°C |
+| Linear Acceleration Effect on Bias | – | 1.0 | – | °/hr/g |
+| Output Noise (RMS) | – | 0.05 | – | °/sec |
+| Rate Noise Density | – | 0.002 | – | °/sec/√Hz |
+| 3 dB Bandwidth | 250 | – | – | Hz |
+| Sensor Resonant Frequency | 11.5 | 12 | 13.5 | kHz |
   > 📝 _In-run bias stability as low as 0.3 °/hr and angular random walk under 0.1 °/√hr provide excellent short-term and long-term precision._
 
   ---
@@ -154,26 +147,23 @@ rows: [
   _Designed for precise motion detection in dynamic systems with minimal drift and noise._
 
   
-{
-headers: ['Parameter', 'Min', 'Typ', 'Max', 'Unit'],
-rows: [
-  ['Dynamic Range', '–', '±30', '–', 'g'],
-  ['Sensitivity', '–', '65,536,000', '–', 'LSB/g'],
-  ['Repeatability', '–', '±0.02', '–', '%'],
-  ['Sensitivity Temp. Coefficient', '–', '±5', '–', 'ppm/°C'],
-  ['Misalignment (Axis to Axis)', '–', '±0.05', '–', 'degrees'],
-  ['Misalignment (Axis to Frame)', '–', '±0.05', '–', 'degrees'],
-  ['Nonlinearity (±20 g range)', '–', '0.05', '–', '% of FS'],
-  ['Bias Repeatability', '–', '1.5', '–', 'mg'],
-  ['In-Run Bias Stability', '–', '10', '–', 'µg'],
-  ['Velocity Random Walk', '–', '0.02', '–', 'm/s/√hr'],
-  ['Bias Temp. Coefficient', '–', '±0.005', '–', 'mg/°C'],
-  ['Output Noise (RMS)', '–', '1.0', '–', 'mg'],
-  ['Noise Density', '–', '25', '–', 'µg/√Hz'],
-  ['3 dB Bandwidth', '200', '–', '–', 'Hz'],
-  ['Sensor Resonant Frequency', '5.5', '–', '–', 'kHz']
-]
-
+| Parameter | Min | Typ | Max | Unit |
+| --- | --- | --- | --- | --- |
+| Dynamic Range | – | ±30 | – | g |
+| Sensitivity | – | 65,536,000 | – | LSB/g |
+| Repeatability | – | ±0.02 | – | % |
+| Sensitivity Temp. Coefficient | – | ±5 | – | ppm/°C |
+| Misalignment (Axis to Axis) | – | ±0.05 | – | degrees |
+| Misalignment (Axis to Frame) | – | ±0.05 | – | degrees |
+| Nonlinearity (±20 g range) | – | 0.05 | – | % of FS |
+| Bias Repeatability | – | 1.5 | – | mg |
+| In-Run Bias Stability | – | 10 | – | µg |
+| Velocity Random Walk | – | 0.02 | – | m/s/√hr |
+| Bias Temp. Coefficient | – | ±0.005 | – | mg/°C |
+| Output Noise (RMS) | – | 1.0 | – | mg |
+| Noise Density | – | 25 | – | µg/√Hz |
+| 3 dB Bandwidth | 200 | – | – | Hz |
+| Sensor Resonant Frequency | 5.5 | – | – | kHz |
   > 📝 _Exceptional in-run bias stability (10 µg) and low noise floor enable accurate linear motion tracking even under vibration._
 
   ---
@@ -183,31 +173,27 @@ rows: [
   _Comprehensive interface and timing support for flexible integration into embedded platforms._
 
   
-{
-headers: ['Parameter', 'Min', 'Typ', 'Max', 'Unit'],
-rows: [
-  ['Input High Voltage (VIH)', '2.5', '–', '–', 'V'],
-  ['Input Low Voltage (VIL)', '–', '0.45', '–', 'V'],
-  ['Logic 1 Input Current', '–', '10', '–', 'µA'],
-  ['Logic 0 Input Current', '–', '10', '–', 'µA'],
-  ['Input Capacitance', '–', '10', '–', 'pF'],
-  ['Output High Voltage (VOH)', '2.65', '–', '–', 'V'],
-  ['Output Low Voltage (VOL)', '–', '0.4', '–', 'V'],
-  ['Flash Endurance', '100000', '–', '–', 'cycles'],
-  ['Flash Data Retention', '20 yrs', '–', '–', 'years'],
-  ['Power-On Start-Up Time', '1000', '–', '–', 'ms'],
-  ['Reset Recovery Time', '500', '–', '–', 'ms'],
-  ['Flash Update Time', '375', '–', '–', 'ms'],
-  ['Test Time', '50', '–', '–', 'ms'],
-  ['Conversion Rate', '3.2', '–', '–', 'kSPS'],
-  ['Initial Clock Accuracy', '0.01', '–', '–', '%'],
-  ['Clock Temp. Coefficient', '20', '–', '–', 'ppm/°C'],
-  ['Sync Input Clock Range', '0.7', '3.2', '–', 'kHz'],
-  ['Operating Voltage', '3.0', '3.3', '3.6', 'V'],
-  ['Power Supply Current', '–', '380', '–', 'mA']
-]
-
-    
+| Parameter | Min | Typ | Max | Unit |
+| --- | --- | --- | --- | --- |
+| Input High Voltage (VIH) | 2.5 | – | – | V |
+| Input Low Voltage (VIL) | – | 0.45 | – | V |
+| Logic 1 Input Current | – | 10 | – | µA |
+| Logic 0 Input Current | – | 10 | – | µA |
+| Input Capacitance | – | 10 | – | pF |
+| Output High Voltage (VOH) | 2.65 | – | – | V |
+| Output Low Voltage (VOL) | – | 0.4 | – | V |
+| Flash Endurance | 100000 | – | – | cycles |
+| Flash Data Retention | 20 yrs | – | – | years |
+| Power-On Start-Up Time | 1000 | – | – | ms |
+| Reset Recovery Time | 500 | – | – | ms |
+| Flash Update Time | 375 | – | – | ms |
+| Test Time | 50 | – | – | ms |
+| Conversion Rate | 3.2 | – | – | kSPS |
+| Initial Clock Accuracy | 0.01 | – | – | % |
+| Clock Temp. Coefficient | 20 | – | – | ppm/°C |
+| Sync Input Clock Range | 0.7 | 3.2 | – | kHz |
+| Operating Voltage | 3.0 | 3.3 | 3.6 | V |
+| Power Supply Current | – | 380 | – | mA |    
 > **Note:**
 > - All specifications are typical values unless otherwise noted.
 > - For mechanical specifications, refer to the [Package](#package) section.

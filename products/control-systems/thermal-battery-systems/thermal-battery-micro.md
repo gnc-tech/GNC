@@ -52,18 +52,12 @@ The Micro Thermal Battery is designed for ultra-lightweight guided weapons carri
 
 ### Specifications
 
-{
-headers: ['Indicator parameters', 'FXXW13X28'],
-rows: [
-  ['Dimensions (mm)', 'φ13 × 28'],
-  ['Weight (g)', '13'],
-  ['Operating Voltage (V)', '13'],
-  ['Operating Time (s) @ 1A', '20']
-]
-
-    
-  
-
+| Indicator parameters | FXXW13X28 |
+| --- | --- |
+| Dimensions (mm) | φ13 × 28 |
+| Weight (g) | 13 |
+| Operating Voltage (V) | 13 |
+| Operating Time (s) @ 1A | 20 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-micro/](https://www.gnc-tech.com/products/thermal-battery-micro/)

@@ -56,19 +56,17 @@ type="package"
 subType="dimensions" 
 invertMode="light-only" 
 />
-    
-{
-  headers: ['Attribute', 'Value'],
-  rows: [
-['Diameter Below Mount Surface', '18.2 mm'],
-['Body Height (excluding pins)', '11.2 mm'],
-['Overall Height', '18.4 mm'],
-['Weight', '< 30 g'],
-['Flange Shape', 'Triangular'],
-['Mounting', '3 × M1.6 Screws'],
-['Case Material', '300 Series Stainless Steel'],
-['Natural Frequency', '≥ 800 Hz']
-  ]
+
+  | Attribute | Value |
+| --- | --- |
+| Diameter Below Mount Surface | 18.2 mm |
+| Body Height (excluding pins) | 11.2 mm |
+| Overall Height | 18.4 mm |
+| Weight | < 30 g |
+| Flange Shape | Triangular |
+| Mounting | 3 × M1.6 Screws |
+| Case Material | 300 Series Stainless Steel |
+| Natural Frequency | ≥ 800 Hz |
 
 #### Pins
 <ProductImage 
@@ -77,17 +75,15 @@ type="package"
 subType="pins" 
 invertMode="light-only" 
 />
-    
-{
-  headers: ['Pin', 'Function', 'Type'],
-  rows: [
-['1', 'Acceleration Signal Output', 'Analog'],
-['3', 'Negative Power Supply', 'Power'],
-['4', 'Positive Power Supply', 'Power'],
-['6', 'Temperature Sensor Output', 'Analog'],
-['8', 'Signal and Power Return', 'Ground'],
-['Others', 'Not used / Optional Use', 'Analog']
-  ]
+
+  | Pin | Function | Type |
+| --- | --- | --- |
+| 1 | Acceleration Signal Output | Analog |
+| 3 | Negative Power Supply | Power |
+| 4 | Positive Power Supply | Power |
+| 6 | Temperature Sensor Output | Analog |
+| 8 | Signal and Power Return | Ground |
+| Others | Not used / Optional Use | Analog |
 
 ### Applications
 
@@ -102,61 +98,49 @@ invertMode="light-only"
 
 #### Performance Specifications
   
-{
-headers: ['Parameter', 'Unit', 'Value'],
-rows: [
-  ['Input Range', 'g', '±60'],
-  ['Bias Error', 'mg', '≤4'],
-  ['Bias Long-Term Repeatability (1 year)', 'mg', '≤1 (3σ)'],
-  ['Bias Temperature Sensitivity', 'µg/°C', '≤50'],
-  ['Residual Bias Modeling Error', 'µg', '≤170 (1σ)'],
-  ['Scale Factor', 'mA/g', '0.65 to 0.85'],
-  ['Scale Factor Long-Term Repeatability (1 year)', 'ppm', '≤600 (3σ)'],
-  ['Scale Factor Temperature Sensitivity', 'ppm/°C', '≤100'],
-  ['Residual Scale Factor Modeling Error', 'ppm', '≤225 (1σ)'],
-  ['Scale Factor Non-Linearity', 'µg/g²', '≤30'],
-  ['Vibration Rectification Error (50–200 Hz)', 'µg/g²rms', '≤25'],
-  ['Vibration Rectification Error (200–750 Hz)', 'µg/g²rms', '≤50'],
-  ['Vibration Rectification Error (750–2000 Hz)', 'µg/g²rms', '≤100'],
-  ['Intrinsic Noise', 'µgrms', '≤7 (0–10 Hz), ≤70 (10–500 Hz), ≤1500 (500–10k Hz)'],
-  ['Resolution / Threshold', 'µg', '≤1'],
-  ['Bandwidth', 'Hz', '≥300']
-]
-
+| Parameter | Unit | Value |
+| --- | --- | --- |
+| Input Range | g | ±60 |
+| Bias Error | mg | ≤4 |
+| Bias Long-Term Repeatability (1 year) | mg | ≤1 (3σ) |
+| Bias Temperature Sensitivity | µg/°C | ≤50 |
+| Residual Bias Modeling Error | µg | ≤170 (1σ) |
+| Scale Factor | mA/g | 0.65 to 0.85 |
+| Scale Factor Long-Term Repeatability (1 year) | ppm | ≤600 (3σ) |
+| Scale Factor Temperature Sensitivity | ppm/°C | ≤100 |
+| Residual Scale Factor Modeling Error | ppm | ≤225 (1σ) |
+| Scale Factor Non-Linearity | µg/g² | ≤30 |
+| Vibration Rectification Error (50–200 Hz) | µg/g²rms | ≤25 |
+| Vibration Rectification Error (200–750 Hz) | µg/g²rms | ≤50 |
+| Vibration Rectification Error (750–2000 Hz) | µg/g²rms | ≤100 |
+| Intrinsic Noise | µgrms | ≤7 (0–10 Hz), ≤70 (10–500 Hz), ≤1500 (500–10k Hz) |
+| Resolution / Threshold | µg | ≤1 |
+| Bandwidth | Hz | ≥300 |
 #### Environmental Specifications
   
-{
-headers: ['Parameter', 'Specification'],
-rows: [
-  ['Operating Temperature', '-55°C to +95°C'],
-  ['Storage Temperature', '-55°C to +95°C'],
-  ['Maximum Temperature Rate', '< 5°C/min'],
-  ['Random Vibration (non-operating)', '6grms, 0.0185 g²/Hz, 5–2000 Hz, 60 min/axis'],
-  ['Random Vibration (operating)', '14grms, 0.0985 g²/Hz, 5–2000 Hz, 3 min/axis'],
-  ['Sine Vibration', '15g peak, 20–2000 Hz, 2 min/decade sweep/axis'],
-  ['Shock Tolerance', '40g, 11 ms, each orthogonal axis (MIL-STD-810G)'],
-  ['Magnetic Immunity', '≤10 Gauss, no permanent bias shift'],
-  ['Hermetic Sealing', 'Yes, for full humidity & thermal range endurance'],
-  ['Fungus Resistance', 'Compliant with MIL-STD-810G, Method 508.6'],
-  ['Explosive Atmosphere Compatibility', 'Compliant with MIL-STD-810G, Method 511.5, does not ignite air mixture']
-]
-
+| Parameter | Specification |
+| --- | --- |
+| Operating Temperature | -55°C to +95°C |
+| Storage Temperature | -55°C to +95°C |
+| Maximum Temperature Rate | < 5°C/min |
+| Random Vibration (non-operating) | 6grms, 0.0185 g²/Hz, 5–2000 Hz, 60 min/axis |
+| Random Vibration (operating) | 14grms, 0.0985 g²/Hz, 5–2000 Hz, 3 min/axis |
+| Sine Vibration | 15g peak, 20–2000 Hz, 2 min/decade sweep/axis |
+| Shock Tolerance | 40g, 11 ms, each orthogonal axis (MIL-STD-810G) |
+| Magnetic Immunity | ≤10 Gauss, no permanent bias shift |
+| Hermetic Sealing | Yes, for full humidity & thermal range endurance |
+| Fungus Resistance | Compliant with MIL-STD-810G, Method 508.6 |
+| Explosive Atmosphere Compatibility | Compliant with MIL-STD-810G, Method 511.5, does not ignite air mixture |
 #### Electrical Specifications
   
-{
-headers: ['Parameter', 'Value'],
-rows: [
-  ['Input Voltage Range', '±13 to ±16 VDC'],
-  ['Nominal Voltage', '±15 VDC'],
-  ['Quiescent Current (per supply)', '< 20 mA'],
-  ['Quiescent Power (@ ±15 VDC)', '< 600 mW'],
-  ['Full Scale Max Current', '< 100 mA'],
-  ['Output Type', 'Analog current (Accel & Temp)']
-]
-
-    
-  
-
+| Parameter | Value |
+| --- | --- |
+| Input Voltage Range | ±13 to ±16 VDC |
+| Nominal Voltage | ±15 VDC |
+| Quiescent Current (per supply) | < 20 mA |
+| Quiescent Power (@ ±15 VDC) | < 600 mW |
+| Full Scale Max Current | < 100 mA |
+| Output Type | Analog current (Accel & Temp) |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/qac-accelerometer-miniature-bjgm18t01/](https://www.gnc-tech.com/products/qac-accelerometer-miniature-bjgm18t01/)

@@ -68,37 +68,25 @@ The **CDR100FLX** series delivers exceptional performance with a voltage range o
 
 #### Basic Parameters
   
-{
-headers: ['Model', 'Dimensions', 'Max Weight'],
-rows: [
-  ['CDR100FLX01', 'Φ50×135 mm', '0.650 kg'],
-  ['CDR100FLX02', 'Φ67×185 mm', '1.650 kg'],
-  ['CDR100FLX03', 'Φ110×370 mm', '8.400 kg']
-]
-
+| Model | Dimensions | Max Weight |
+| --- | --- | --- |
+| CDR100FLX01 | Φ50×135 mm | 0.650 kg |
+| CDR100FLX02 | Φ67×185 mm | 1.650 kg |
+| CDR100FLX03 | Φ110×370 mm | 8.400 kg |
 #### Electrical Parameters
   
-{
-headers: ['Model', 'Capacity', 'Nominal Voltage', 'Working Current'],
-rows: [
-  ['CDR100FLX01', '880 As', '100 V', '10A/88s; 20A/44s'],
-  ['CDR100FLX02', '5100 As', '100 V', '7.5A/680s; 15A/340s'],
-  ['CDR100FLX03', '40000 As', '100 V', '10A/4000s; 50A/800s']
-]
-
+| Model | Capacity | Nominal Voltage | Working Current |
+| --- | --- | --- | --- |
+| CDR100FLX01 | 880 As | 100 V | 10A/88s; 20A/44s |
+| CDR100FLX02 | 5100 As | 100 V | 7.5A/680s; 15A/340s |
+| CDR100FLX03 | 40000 As | 100 V | 10A/4000s; 50A/800s |
 #### Performance Parameters
   
-{
-headers: ['Model', 'Pulse Current', 'Activation Time', 'Operating Duration'],
-rows: [
-  ['CDR100FLX01', '30 A', '<0.8 s', '40 s'],
-  ['CDR100FLX02', '100 A', '<1.0 s', '680 s'],
-  ['CDR100FLX03', '300 A', '<2.0 s', '900 s']
-]
-
-    
-  
-
+| Model | Pulse Current | Activation Time | Operating Duration |
+| --- | --- | --- | --- |
+| CDR100FLX01 | 30 A | <0.8 s | 40 s |
+| CDR100FLX02 | 100 A | <1.0 s | 680 s |
+| CDR100FLX03 | 300 A | <2.0 s | 900 s |
 ## K-CDR-135FLX
 
 ### Overview
@@ -130,34 +118,22 @@ The **CDR135FLX** series provides high-voltage solutions in the 120V-150V range.
 
 #### Basic Parameters
   
-{
-headers: ['Model', 'Dimensions', 'Max Weight'],
-rows: [
-  ['CDR135FLX01', 'Φ57×170 mm', '1.150 kg'],
-  ['CDR135FLX02', 'Φ78×215 mm', '2.750 kg']
-]
-
+| Model | Dimensions | Max Weight |
+| --- | --- | --- |
+| CDR135FLX01 | Φ57×170 mm | 1.150 kg |
+| CDR135FLX02 | Φ78×215 mm | 2.750 kg |
 #### Electrical Parameters
   
-{
-headers: ['Model', 'Capacity', 'Nominal Voltage', 'Working Current'],
-rows: [
-  ['CDR135FLX01', '1100 As', '135 V', '10A/110s; 20A/55s'],
-  ['CDR135FLX02', '4200 As', '135 V', '10A/420s; 20A/210s']
-]
-
+| Model | Capacity | Nominal Voltage | Working Current |
+| --- | --- | --- | --- |
+| CDR135FLX01 | 1100 As | 135 V | 10A/110s; 20A/55s |
+| CDR135FLX02 | 4200 As | 135 V | 10A/420s; 20A/210s |
 #### Performance Parameters
   
-{
-headers: ['Model', 'Pulse Current', 'Activation Time', 'Operating Duration'],
-rows: [
-  ['CDR135FLX01', '50 A', '<0.5 s', '80 s'],
-  ['CDR135FLX02', '40 A', '<1.0 s', '300 s']
-]
-
-    
-  
-
+| Model | Pulse Current | Activation Time | Operating Duration |
+| --- | --- | --- | --- |
+| CDR135FLX01 | 50 A | <0.5 s | 80 s |
+| CDR135FLX02 | 40 A | <1.0 s | 300 s |
 ## K-CDR-157FLX
 
 ### Overview
@@ -189,31 +165,19 @@ The **CDR157FLX** series represents our highest voltage thermal battery platform
 
 #### Basic Parameters
   
-{
-headers: ['Model', 'Dimensions', 'Max Weight'],
-rows: [
-  ['CDR157FLX01', 'Φ107×360 mm', '8.300 kg']
-]
-
+| Model | Dimensions | Max Weight |
+| --- | --- | --- |
+| CDR157FLX01 | Φ107×360 mm | 8.300 kg |
 #### Electrical Parameters
   
-{
-headers: ['Model', 'Capacity', 'Nominal Voltage', 'Working Current'],
-rows: [
-  ['CDR157FLX01', '20000 As', '157.5 V', '50A/400s; 80A/250s']
-]
-
+| Model | Capacity | Nominal Voltage | Working Current |
+| --- | --- | --- | --- |
+| CDR157FLX01 | 20000 As | 157.5 V | 50A/400s; 80A/250s |
 #### Performance Parameters
   
-{
-headers: ['Model', 'Pulse Current', 'Activation Time', 'Operating Duration'],
-rows: [
-  ['CDR157FLX01', '300 A', '<1.5 s', '240 s']
-]
-
-    
-  
-
+| Model | Pulse Current | Activation Time | Operating Duration |
+| --- | --- | --- | --- |
+| CDR157FLX01 | 300 A | <1.5 s | 240 s |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-100v-150v/](https://www.gnc-tech.com/products/thermal-battery-100v-150v/)

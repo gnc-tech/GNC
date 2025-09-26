@@ -66,37 +66,25 @@ The **CDR090FLX** series represents our 90V platform thermal batteries, offering
 
 #### Basic Parameters
   
-{
-headers: ['Model', 'Dimensions', 'Max Weight'],
-rows: [
-  ['CDR090FLX01', 'Φ45×110 mm', '0.450 kg'],
-  ['CDR090FLX02', 'Φ85×180 mm', '2.800 kg'],
-  ['CDR090FLX03', 'Φ95×290 mm', '5.250 kg']
-]
-
+| Model | Dimensions | Max Weight |
+| --- | --- | --- |
+| CDR090FLX01 | Φ45×110 mm | 0.450 kg |
+| CDR090FLX02 | Φ85×180 mm | 2.800 kg |
+| CDR090FLX03 | Φ95×290 mm | 5.250 kg |
 #### Electrical Parameters
   
-{
-headers: ['Model', 'Capacity', 'Nominal Voltage', 'Working Current'],
-rows: [
-  ['CDR090FLX01', '400 As', '90 V', '1A/400s; 5A/75s'],
-  ['CDR090FLX02', '5300 As', '90 V', '10A/530s; 15A/340s'],
-  ['CDR090FLX03', '24000 As', '90 V', '10A/2400s; 30A/800s']
-]
-
+| Model | Capacity | Nominal Voltage | Working Current |
+| --- | --- | --- | --- |
+| CDR090FLX01 | 400 As | 90 V | 1A/400s; 5A/75s |
+| CDR090FLX02 | 5300 As | 90 V | 10A/530s; 15A/340s |
+| CDR090FLX03 | 24000 As | 90 V | 10A/2400s; 30A/800s |
 #### Performance Parameters
   
-{
-headers: ['Model', 'Pulse Current', 'Activation Time', 'Operating Duration'],
-rows: [
-  ['CDR090FLX01', '20 A', '<0.8 s', '363 s'],
-  ['CDR090FLX02', '180 A', '<1.0 s', '400 s'],
-  ['CDR090FLX03', '120 A', '<1.0 s', '1639 s']
-]
-
-    
-  
-
+| Model | Pulse Current | Activation Time | Operating Duration |
+| --- | --- | --- | --- |
+| CDR090FLX01 | 20 A | <0.8 s | 363 s |
+| CDR090FLX02 | 180 A | <1.0 s | 400 s |
+| CDR090FLX03 | 120 A | <1.0 s | 1639 s |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-90v/](https://www.gnc-tech.com/products/thermal-battery-90v/)

@@ -55,19 +55,13 @@ The **XZ60D200** series Linear Electric Actuators represent state-of-the-art pre
 
 ### Specifications
 
-{
-headers: ['Model', 'Rated Force (N)', 'Stroke (mm)', 'No-load Speed (mm/s)', 'Position Accuracy (mm)', 'Frequency (Hz)', 'Weight (Kg)', 'Dimensions (mm)'],
-rows: [
-  ['XZ60D200-3015', '3000', '±25', '25', '0.1', '/', '≤3.8', '80×135×330'],
-  ['XZ60D200-2020', '2000', '±25', '55', '0.1', '/', '≤3', '65×65×269'],
-  ['XZ60D200-1220', '1200', '±25', '90', '0.1', '4', '≤2.5', '65×65×269'],
-  ['XZ60D200-0206', '200', '≥20', '200', '0.1', '15', '≤0.8', '67×50×94'],
-  ['XZ60D200-2515', '2450', '±12.5', '44', '0.1', '10', '≤3', '80×135×260']
-]
-
-    
-  
-
+| Model | Rated Force (N) | Stroke (mm) | No-load Speed (mm/s) | Position Accuracy (mm) | Frequency (Hz) | Weight (Kg) | Dimensions (mm) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| XZ60D200-3015 | 3000 | ±25 | 25 | 0.1 | / | ≤3.8 | 80×135×330 |
+| XZ60D200-2020 | 2000 | ±25 | 55 | 0.1 | / | ≤3 | 65×65×269 |
+| XZ60D200-1220 | 1200 | ±25 | 90 | 0.1 | 4 | ≤2.5 | 65×65×269 |
+| XZ60D200-0206 | 200 | ≥20 | 200 | 0.1 | 15 | ≤0.8 | 67×50×94 |
+| XZ60D200-2515 | 2450 | ±12.5 | 44 | 0.1 | 10 | ≤3 | 80×135×260 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/linear-actuator-xz60d200/](https://www.gnc-tech.com/products/linear-actuator-xz60d200/)

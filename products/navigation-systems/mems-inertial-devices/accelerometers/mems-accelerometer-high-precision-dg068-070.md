@@ -65,29 +65,23 @@ The **JDWDG068** is a high-performance analog MEMS accelerometer engineered for 
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'D-Q-JDW-DG068-10', 'D-Q-JDW-DG068-20', 'D-Q-JDW-DG068-30', 'D-Q-JDW-DG068-50', 'Unit'],
-rows: [
-  ['Measurement Range', '±10', '±20', '±30', '±50', 'g'],
-  ['Bandwidth', '200', '200', '200', '200', 'Hz'],
-  ['Zero Bias Stability (1σ)', '≤0.5', '≤1', '≤1', '≤1', 'mg'],
-  ['Zero Bias Repeatability (1σ)', '≤0.5', '≤2', '≤2', '≤3', 'mg'],
-  ['Zero Bias Temperature Coefficient', '≤1', '≤2', '≤2', '≤3', 'mg/°C'],
-  ['Scale Factor Repeatability', '≤300', '≤300', '≤300', '≤300', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤3000', '≤3000', '≤3000', '≤4000', 'ppm'],
-  ['Output Type', 'Analog(0.5V-4.5V)', 'Analog(0.5V-4.5V)', 'Analog(0.5V-4.5V)', 'Analog(0.5V-4.5V)', '-'],
-  ['Packaging Type', 'LCC28', 'LCC28', 'LCC28', 'LCC28', '-'],
-  ['Measurement Axis', 'Z - Axis', 'Z - Axis', 'Z - Axis', 'Z - Axis', '-'],
-  ['Package Dimensions', '14×8.9×3.2', '14×8.9×3.2', '14×8.9×3.2', '14×8.9×3.2', 'mm³'],
-  ['Overload Rating', '≥10000', '≥10000', '≥10000', '≥10000', 'g'],
-  ['Operating Temperature Range', '-40~85', '-40~85', '-40~85', '-40~85', '°C'],
-  ['Supply Voltage', '5±0.1', '5±0.1', '5±0.1', '5±0.1', 'V'],
-  ['Operating Current', '≤10', '≤10', '≤10', '≤10', 'mA']
-]
-
-    
-  
-
+| Performance | D-Q-JDW-DG068-10 | D-Q-JDW-DG068-20 | D-Q-JDW-DG068-30 | D-Q-JDW-DG068-50 | Unit |
+| --- | --- | --- | --- | --- | --- |
+| Measurement Range | ±10 | ±20 | ±30 | ±50 | g |
+| Bandwidth | 200 | 200 | 200 | 200 | Hz |
+| Zero Bias Stability (1σ) | ≤0.5 | ≤1 | ≤1 | ≤1 | mg |
+| Zero Bias Repeatability (1σ) | ≤0.5 | ≤2 | ≤2 | ≤3 | mg |
+| Zero Bias Temperature Coefficient | ≤1 | ≤2 | ≤2 | ≤3 | mg/°C |
+| Scale Factor Repeatability | ≤300 | ≤300 | ≤300 | ≤300 | ppm |
+| Scale Factor Nonlinearity | ≤3000 | ≤3000 | ≤3000 | ≤4000 | ppm |
+| Output Type | Analog(0.5V-4.5V) | Analog(0.5V-4.5V) | Analog(0.5V-4.5V) | Analog(0.5V-4.5V) | - |
+| Packaging Type | LCC28 | LCC28 | LCC28 | LCC28 | - |
+| Measurement Axis | Z - Axis | Z - Axis | Z - Axis | Z - Axis | - |
+| Package Dimensions | 14×8.9×3.2 | 14×8.9×3.2 | 14×8.9×3.2 | 14×8.9×3.2 | mm³ |
+| Overload Rating | ≥10000 | ≥10000 | ≥10000 | ≥10000 | g |
+| Operating Temperature Range | -40~85 | -40~85 | -40~85 | -40~85 | °C |
+| Supply Voltage | 5±0.1 | 5±0.1 | 5±0.1 | 5±0.1 | V |
+| Operating Current | ≤10 | ≤10 | ≤10 | ≤10 | mA |
 ## D-Q-JDW-DG070
 
 ### Overview
@@ -124,29 +118,23 @@ The **JDWDG070** is a high-performance MEMS accelerometer engineered for precise
 
 #### Performance Specifications
   
-{
-headers: ['Performance', 'D-Q-JDW-DG070-10', 'D-Q-JDW-DG070-30', 'D-Q-JDW-DG070-50', 'Unit'],
-rows: [
-  ['Measurement Range', '±10', '±30', '±50', 'g'],
-  ['Bandwidth', '200', '200', '200', 'Hz'],
-  ['Zero Bias Stability (1σ)', '≤1', '≤1', '≤1', 'mg'],
-  ['Zero Bias Repeatability (1σ)', '≤0.5', '≤1', '≤1', 'mg'],
-  ['Zero Bias Temperature Coefficient', '≤1', '≤1', '≤1.5', 'mg/°C'],
-  ['Scale Factor Repeatability', '≤300', '≤300', '≤300', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤2000', '≤3000', '≤1000', 'ppm'],
-  ['Output Type', 'Analog(0.5V-4.5V)', 'Analog(0.5V-4.5V)', 'Analog(0.5V-4.5V)', '-'],
-  ['Packaging Type', 'LCC28', 'LCC28', 'LCC28', '-'],
-  ['Measurement Axis', 'X - Axis', 'X - Axis', 'X - Axis', '-'],
-  ['Package Dimensions', '14×8.9×3.2', '14×8.9×3.2', '14×8.9×3.2', 'mm³'],
-  ['Overload Rating', '≥10000', '≥10000', '≥10000', 'g'],
-  ['Operating Temperature Range', '-40~85', '-40~85', '-40~85', '°C'],
-  ['Supply Voltage', '5±0.1', '5±0.1', '5±0.1', 'V'],
-  ['Operating Current', '≤10', '≤10', '≤10', 'mA']
-]
-
-    
-  
-
+| Performance | D-Q-JDW-DG070-10 | D-Q-JDW-DG070-30 | D-Q-JDW-DG070-50 | Unit |
+| --- | --- | --- | --- | --- |
+| Measurement Range | ±10 | ±30 | ±50 | g |
+| Bandwidth | 200 | 200 | 200 | Hz |
+| Zero Bias Stability (1σ) | ≤1 | ≤1 | ≤1 | mg |
+| Zero Bias Repeatability (1σ) | ≤0.5 | ≤1 | ≤1 | mg |
+| Zero Bias Temperature Coefficient | ≤1 | ≤1 | ≤1.5 | mg/°C |
+| Scale Factor Repeatability | ≤300 | ≤300 | ≤300 | ppm |
+| Scale Factor Nonlinearity | ≤2000 | ≤3000 | ≤1000 | ppm |
+| Output Type | Analog(0.5V-4.5V) | Analog(0.5V-4.5V) | Analog(0.5V-4.5V) | - |
+| Packaging Type | LCC28 | LCC28 | LCC28 | - |
+| Measurement Axis | X - Axis | X - Axis | X - Axis | - |
+| Package Dimensions | 14×8.9×3.2 | 14×8.9×3.2 | 14×8.9×3.2 | mm³ |
+| Overload Rating | ≥10000 | ≥10000 | ≥10000 | g |
+| Operating Temperature Range | -40~85 | -40~85 | -40~85 | °C |
+| Supply Voltage | 5±0.1 | 5±0.1 | 5±0.1 | V |
+| Operating Current | ≤10 | ≤10 | ≤10 | mA |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/mems-accelerometer-high-precision-dg068-070/](https://www.gnc-tech.com/products/mems-accelerometer-high-precision-dg068-070/)

@@ -68,52 +68,37 @@ The mini lithium niobate multi-functional integrated optical chip (MIOC) is desi
 
 #### Optical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Wavelength', 'nm', '830±20'],
-  ['Insertion Loss', 'dB', '≤3.5'],
-  ['Maximum Optical Input Power', 'mW', '10'],
-  ['Split Ratio', '-', '48/52~52/48'],
-  ['Pigtail Polarization Crosstalk', 'dB', '≤-30'],
-  ['Polarization Extinction Ratio-chip', 'dB', '≥55'],
-  ['Optical Return Loss', 'dB', '≤-60'],
-  ['Additional Intensity Modulating', '-', '≤0.1%']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Wavelength | nm | 830±20 |
+| Insertion Loss | dB | ≤3.5 |
+| Maximum Optical Input Power | mW | 10 |
+| Split Ratio | - | 48/52~52/48 |
+| Pigtail Polarization Crosstalk | dB | ≤-30 |
+| Polarization Extinction Ratio-chip | dB | ≥55 |
+| Optical Return Loss | dB | ≤-60 |
+| Additional Intensity Modulating | - | ≤0.1% |
 #### Electrical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Half Wave Voltage', 'V', '≤3.0'],
-  ['Maximum Voltage on DC Input', 'V', '±15'],
-  ['Electrode Type', '-', 'Push-pull modulating'],
-  ['Operating Frequency', 'MHz', 'DC-300'],
-  ['Electrical Connector', '-', 'Gold pads or 3 Pins']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Half Wave Voltage | V | ≤3.0 |
+| Maximum Voltage on DC Input | V | ±15 |
+| Electrode Type | - | Push-pull modulating |
+| Operating Frequency | MHz | DC-300 |
+| Electrical Connector | - | Gold pads or 3 Pins |
 #### Mechanical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Pigtail Type', '-', 'PM or SM Fiber'],
-  ['Pigtail Diameter', 'μm', '60/100, 80/165 or 125/250']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Pigtail Type | - | PM or SM Fiber |
+| Pigtail Diameter | μm | 60/100, 80/165 or 125/250 |
 #### Environmental Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Temperature', '°C', '-55~+85'],
-  ['Storage Temperature', '°C', '-55~+85']
-]
-
-    
-  
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Temperature | °C | -55~+85 |
+| Storage Temperature | °C | -55~+85 |
 ## D-Q-TQG-DBY021310M
 
 ### overview
@@ -130,52 +115,37 @@ rows: [
 
 #### Optical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Wavelength', 'nm', '1310±25'],
-  ['Insertion Loss', 'dB', '≤3.5'],
-  ['Maximum Optical Input Power', 'mW', '200'],
-  ['Split Ratio', '-', '48/52~52/48'],
-  ['Pigtail Polarization Crosstalk', 'dB', '≤-30'],
-  ['Polarization Extinction Ratio-chip', 'dB', '≥55'],
-  ['Optical Return Loss', 'dB', '≤-60'],
-  ['Additional Intensity Modulating', '-', '≤0.1%']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Wavelength | nm | 1310±25 |
+| Insertion Loss | dB | ≤3.5 |
+| Maximum Optical Input Power | mW | 200 |
+| Split Ratio | - | 48/52~52/48 |
+| Pigtail Polarization Crosstalk | dB | ≤-30 |
+| Polarization Extinction Ratio-chip | dB | ≥55 |
+| Optical Return Loss | dB | ≤-60 |
+| Additional Intensity Modulating | - | ≤0.1% |
 #### Electrical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Half Wave Voltage', 'V', '≤4.0'],
-  ['Maximum Voltage on DC Input', 'V', '±15'],
-  ['Electrode Type', '-', 'Push-pull modulating'],
-  ['Operating Frequency', 'MHz', 'DC-300'],
-  ['Electrical Connector', '-', 'Gold pads or 3 Pins']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Half Wave Voltage | V | ≤4.0 |
+| Maximum Voltage on DC Input | V | ±15 |
+| Electrode Type | - | Push-pull modulating |
+| Operating Frequency | MHz | DC-300 |
+| Electrical Connector | - | Gold pads or 3 Pins |
 #### Mechanical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Pigtail Type', '-', 'PM or SM Fiber'],
-  ['Pigtail Diameter', 'μm', '60/100, 80/165 or 125/250']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Pigtail Type | - | PM or SM Fiber |
+| Pigtail Diameter | μm | 60/100, 80/165 or 125/250 |
 #### Environmental Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Temperature', '°C', '-55~+85'],
-  ['Storage Temperature', '°C', '-55~+85']
-]
-
-    
-  
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Temperature | °C | -55~+85 |
+| Storage Temperature | °C | -55~+85 |
 ## D-Q-TQG-DBY021550M
 
 ### overview
@@ -192,52 +162,37 @@ rows: [
 
 #### Optical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Wavelength', 'nm', '1550±25'],
-  ['Insertion Loss', 'dB', '≤3.5'],
-  ['Maximum Optical Input Power', 'mW', '200'],
-  ['Split Ratio', '-', '48/52~52/48'],
-  ['Pigtail Polarization Crosstalk', 'dB', '≤-30'],
-  ['Polarization Extinction Ratio-chip', 'dB', '≥55'],
-  ['Optical Return Loss', 'dB', '≤-60'],
-  ['Additional Intensity Modulating', '-', '≤0.1%']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Wavelength | nm | 1550±25 |
+| Insertion Loss | dB | ≤3.5 |
+| Maximum Optical Input Power | mW | 200 |
+| Split Ratio | - | 48/52~52/48 |
+| Pigtail Polarization Crosstalk | dB | ≤-30 |
+| Polarization Extinction Ratio-chip | dB | ≥55 |
+| Optical Return Loss | dB | ≤-60 |
+| Additional Intensity Modulating | - | ≤0.1% |
 #### Electrical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Half Wave Voltage', 'V', '≤4.0'],
-  ['Maximum Voltage on DC Input', 'V', '±15'],
-  ['Electrode Type', '-', 'Push-pull modulating'],
-  ['Operating Frequency', 'MHz', 'DC-300'],
-  ['Electrical Connector', '-', 'Gold pads or 3 Pins']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Half Wave Voltage | V | ≤4.0 |
+| Maximum Voltage on DC Input | V | ±15 |
+| Electrode Type | - | Push-pull modulating |
+| Operating Frequency | MHz | DC-300 |
+| Electrical Connector | - | Gold pads or 3 Pins |
 #### Mechanical Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Pigtail Type', '-', 'PM or SM Fiber'],
-  ['Pigtail Diameter', 'μm', '60/100, 80/165 or 125/250']
-]
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Pigtail Type | - | PM or SM Fiber |
+| Pigtail Diameter | μm | 60/100, 80/165 or 125/250 |
 #### Environmental Specification
   
-{
-headers: ['Parameters', 'Unit', 'Value'],
-rows: [
-  ['Operating Temperature', '°C', '-55~+85'],
-  ['Storage Temperature', '°C', '-55~+85']
-]
-
-    
-  
-
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Operating Temperature | °C | -55~+85 |
+| Storage Temperature | °C | -55~+85 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/mioc-dby02/](https://www.gnc-tech.com/products/mioc-dby02/)

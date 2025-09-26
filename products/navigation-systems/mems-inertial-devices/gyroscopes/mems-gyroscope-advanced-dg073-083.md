@@ -74,23 +74,20 @@ The **JDWDG073** is a MEMS gyroscope featuring a measurement range of ±500°/s 
 ### Specifications
 
 #### Performance Specifications
-    
-{
-  headers: ['Performance', 'JDWDG073', 'Unit'],
-  rows: [
-['Measurement Range', '±500', '°/s'],
-['Bandwidth', '95', 'Hz'],
-['Scale Factor Nonlinearity', '≤500', 'ppm'],
-['Scale Factor Repeatability', '≤800', 'ppm'],
-['Scale Factor Temperature Coefficient', '≤500', 'ppm/°C'],
-['Zero Bias Stability (1σ)', '≤10', '°/h'],
-['Zero Bias Repeatability (1σ)', '≤10', '°/h'],
-['Resistant To Overload (Notenergized)', '≥10000', 'g'],
-['Operating Temperature', '-40~85', '°C'],
-['Dimensions', '13.97×11.43×3.3', 'mm³'],
-['Power Supply Voltage', '5±0.1', 'V'],
-['Current', '≤55', 'mA']
-  ]
+| Performance | JDWDG073 | Unit |
+| --- | --- | --- |
+| Measurement Range | ±500 | °/s |
+| Bandwidth | 95 | Hz |
+| Scale Factor Nonlinearity | ≤500 | ppm |
+| Scale Factor Repeatability | ≤800 | ppm |
+| Scale Factor Temperature Coefficient | ≤500 | ppm/°C |
+| Zero Bias Stability (1σ) | ≤10 | °/h |
+| Zero Bias Repeatability (1σ) | ≤10 | °/h |
+| Resistant To Overload (Notenergized) | ≥10000 | g |
+| Operating Temperature | -40~85 | °C |
+| Dimensions | 13.97×11.43×3.3 | mm³ |
+| Power Supply Voltage | 5±0.1 | V |
+| Current | ≤55 | mA |
 
   
 
@@ -128,22 +125,20 @@ The **JDWDG081** is a high-performance MEMS gyroscope with a measurement range o
 ### Specifications
 
 #### Performance Specifications
-    
-{
-  headers: ['Performance', 'JDWDG081', 'Unit'],
-  rows: [
-['Measurement Range', '±400', '°/s'],
-['Bandwidth', '100', 'Hz'],
-['Scale Factor Nonlinearity', '≤100', 'ppm'],
-['Scale Factor Repeatability', '≤50', 'ppm'],
-['Scale Factor Temperature Coefficient', '≤300', 'ppm/°C'],
-['Zero Bias Stability (1σ)', '≤1', '°/h'],
-['Zero Bias Repeatability (1σ)', '≤0.3', '°/h'],
-['Operating Temperature', '-40~85', '°C'],
-['Dimensions', '11×11×1.8', 'mm³'],
-['Power Supply Voltage', '5±0.1', 'V'],
-['Current', '≤45', 'mA']
-  ]
+
+| Performance | JDWDG081 | Unit |
+| --- | --- | --- |
+| Measurement Range | ±400 | °/s |
+| Bandwidth | 100 | Hz |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Scale Factor Repeatability | ≤50 | ppm |
+| Scale Factor Temperature Coefficient | ≤300 | ppm/°C |
+| Zero Bias Stability (1σ) | ≤1 | °/h |
+| Zero Bias Repeatability (1σ) | ≤0.3 | °/h |
+| Operating Temperature | -40~85 | °C |
+| Dimensions | 11×11×1.8 | mm³ |
+| Power Supply Voltage | 5±0.1 | V |
+| Current | ≤45 | mA |
 
   
 
@@ -181,24 +176,22 @@ The **JDWDG082B** is a high-performance MEMS gyroscope offering a measurement ra
 ### specifications
 
 #### Performance Specifications
-    
-{
-  headers: ['Performance', 'JDWDG082B', 'Unit'],
-  rows: [
-['Measurement Range', '±500', '°/s'],
-['Bandwidth', '200', 'Hz'],
-['Scale Factor Nonlinearity', '≤300', 'ppm'],
-['Scale Factor Repeatability', '≤50', 'ppm'],
-['Scale Factor Temperature Coefficient', '≤300', 'ppm/°C'],
-['Zero Bias Stability (1σ)', '≤5', '°/h'],
-['Zero Bias Repeatability (1σ)', '≤2', '°/h'],
-['Vibratory', '6.08', 'grms'],
-['Resistant To Overload (Notenergized)', '≥20000', 'g'],
-['Operating Temperature', '-40~85', '°C'],
-['Dimensions', '11×11×1.8', 'mm³'],
-['Power Supply Voltage', '5±0.1', 'V'],
-['Current', '≤45', 'mA']
-  ]
+
+  | Performance | JDWDG082B | Unit |
+| --- | --- | --- |
+| Measurement Range | ±500 | °/s |
+| Bandwidth | 200 | Hz |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Scale Factor Repeatability | ≤50 | ppm |
+| Scale Factor Temperature Coefficient | ≤300 | ppm/°C |
+| Zero Bias Stability (1σ) | ≤5 | °/h |
+| Zero Bias Repeatability (1σ) | ≤2 | °/h |
+| Vibratory | 6.08 | grms |
+| Resistant To Overload (Notenergized) | ≥20000 | g |
+| Operating Temperature | -40~85 | °C |
+| Dimensions | 11×11×1.8 | mm³ |
+| Power Supply Voltage | 5±0.1 | V |
+| Current | ≤45 | mA |
 
   
 
@@ -235,23 +228,21 @@ The **JDWDG082C** is a high-performance MEMS gyroscope sharing core performance 
 ### specifications
 
 #### Performance Specifications
-    
-{
-  headers: ['Performance', 'JDWDG082C', 'Unit'],
-  rows: [
-['Measurement Range', '±500', '°/s'],
-['Bandwidth', '200', 'Hz'],
-['Scale Factor Nonlinearity', '≤300', 'ppm'],
-['Scale Factor Repeatability', '≤50', 'ppm'],
-['Scale Factor Temperature Coefficient', '≤300', 'ppm/°C'],
-['Zero Bias Stability (1σ)', '≤5', '°/h'],
-['Zero Bias Repeatability (1σ)', '≤2', '°/h'],
-['Resistant To Overload (Notenergized)', '≥20000', 'g'],
-['Operating Temperature', '-40~85', '°C'],
-['Dimensions', '11×11×1.8', 'mm³'],
-['Power Supply Voltage', '5±0.1', 'V'],
-['Current', '≤45', 'mA']
-  ]
+
+  | Performance | JDWDG082C | Unit |
+| --- | --- | --- |
+| Measurement Range | ±500 | °/s |
+| Bandwidth | 200 | Hz |
+| Scale Factor Nonlinearity | ≤300 | ppm |
+| Scale Factor Repeatability | ≤50 | ppm |
+| Scale Factor Temperature Coefficient | ≤300 | ppm/°C |
+| Zero Bias Stability (1σ) | ≤5 | °/h |
+| Zero Bias Repeatability (1σ) | ≤2 | °/h |
+| Resistant To Overload (Notenergized) | ≥20000 | g |
+| Operating Temperature | -40~85 | °C |
+| Dimensions | 11×11×1.8 | mm³ |
+| Power Supply Voltage | 5±0.1 | V |
+| Current | ≤45 | mA |
 
   
 
@@ -289,22 +280,20 @@ The **JDWDG083** is a high-performance MEMS gyroscope engineered for application
 ### specifications
 
 #### Performance Specifications
-    
-{
-  headers: ['Performance', 'JDWDG083', 'Unit'],
-  rows: [
-['Measurement Range', '±400', '°/s'],
-['Bandwidth', '250', 'Hz'],
-['Scale Factor Nonlinearity', '≤100', 'ppm'],
-['Scale Factor Repeatability', '≤30', 'ppm'],
-['Scale Factor Temperature Coefficient', '≤100', 'ppm/°C'],
-['Zero Bias Stability (1σ)', '≤1', '°/h'],
-['Zero Bias Repeatability (1σ)', '≤0.3', '°/h'],
-['Operating Temperature', '-40~85', '°C'],
-['Dimensions', '11×11×1.8', 'mm³'],
-['Power Supply Voltage', '5±0.1', 'V'],
-['Current', '≤45', 'mA']
-  ]
+
+  | Performance | JDWDG083 | Unit |
+| --- | --- | --- |
+| Measurement Range | ±400 | °/s |
+| Bandwidth | 250 | Hz |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Scale Factor Repeatability | ≤30 | ppm |
+| Scale Factor Temperature Coefficient | ≤100 | ppm/°C |
+| Zero Bias Stability (1σ) | ≤1 | °/h |
+| Zero Bias Repeatability (1σ) | ≤0.3 | °/h |
+| Operating Temperature | -40~85 | °C |
+| Dimensions | 11×11×1.8 | mm³ |
+| Power Supply Voltage | 5±0.1 | V |
+| Current | ≤45 | mA |
 
   
 

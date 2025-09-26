@@ -55,15 +55,13 @@ _Unit: mm_
 />
 #### Electrical Interface
 Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-    
-{
-  headers: ['Wire Color', 'Definition'],
-  rows: [
-['Red', 'Power +'],
-['Black', 'Power Ground'],
-['Green', 'UART_Rx (3.3V TTL)'],
-['Yellow', 'UART_Tx (3.3V TTL)'],
-  ]
+
+  | Wire Color | Definition |
+| --- | --- |
+| Red | Power + |
+| Black | Power Ground |
+| Green | UART_Rx (3.3V TTL) |
+| Yellow | UART_Tx (3.3V TTL) |
 
 ### Applications
 
@@ -76,32 +74,26 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'Specification Range', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '30 ± 5', 'mA'],
-  ['Weight (excluding leads)', '12 ± 2', 'g'],
-  ['Startup Time', '≤2', 's'],
-  ['Measurement Range', '√±400 □±500 □±1800 □Others', '°/s'],
-  ['Scale Factor', '1 ± 0.005', '-'],
-  ['Scale Factor Nonlinearity', '≤100', 'ppm'],
-  ['Scale Factor Repeatability', '≤100', 'ppm'],
-  ['Scale Factor Asymmetry', '≤100', 'ppm'],
-  ['Threshold / Resolution', '≤0.01', '°/s'],
-  ['Bias (Full Temp)', '±36', '°/h'],
-  ['Bias Stability (Room Temp, 10s Std Dev)', '≤3', '°/h'],
-  ['Bias Stability (Full Temp, 10s Std Dev)', '≤10', '°/h'],
-  ['Bias Repeatability', '≤5', '°/h'],
-  ['Angular Random Walk', '≤0.07', '°/√h'],
-  ['Bias Instability (Allan Deviation)', '≤1.5', '°/h'],
-  ['Bandwidth (Amplitude)', '□90 □120 √150 □200 □250', 'Hz'],
-  ['Delay Time', '□2.6 √2.0 □1.6 □1.3 □0.6', 'ms'],
-]
-
-    
-  
-
+| Performance Parameter | Specification Range | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | 30 ± 5 | mA |
+| Weight (excluding leads) | 12 ± 2 | g |
+| Startup Time | ≤2 | s |
+| Measurement Range | √±400 □±500 □±1800 □Others | °/s |
+| Scale Factor | 1 ± 0.005 | - |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Scale Factor Repeatability | ≤100 | ppm |
+| Scale Factor Asymmetry | ≤100 | ppm |
+| Threshold / Resolution | ≤0.01 | °/s |
+| Bias (Full Temp) | ±36 | °/h |
+| Bias Stability (Room Temp, 10s Std Dev) | ≤3 | °/h |
+| Bias Stability (Full Temp, 10s Std Dev) | ≤10 | °/h |
+| Bias Repeatability | ≤5 | °/h |
+| Angular Random Walk | ≤0.07 | °/√h |
+| Bias Instability (Allan Deviation) | ≤1.5 | °/h |
+| Bandwidth (Amplitude) | □90 □120 √150 □200 □250 | Hz |
+| Delay Time | □2.6 √2.0 □1.6 □1.3 □0.6 | ms |
 ## D-Q-JDW-LTYS11CJ1A
 
 ### Overview
@@ -126,15 +118,13 @@ _Unit: mm_
 />
 #### Electrical Interface
 Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-    
-{
-  headers: ['Wire Color', 'Definition'],
-  rows: [
-['Red', 'Power +'],
-['Black', 'Power Ground'],
-['Green', 'UART_Rx (3.3V TTL)'],
-['Yellow', 'UART_Tx (3.3V TTL)'],
-  ]
+
+  | Wire Color | Definition |
+| --- | --- |
+| Red | Power + |
+| Black | Power Ground |
+| Green | UART_Rx (3.3V TTL) |
+| Yellow | UART_Tx (3.3V TTL) |
 
 ### Applications
 
@@ -142,32 +132,26 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'Specification Range', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '30 ± 5', 'mA'],
-  ['Weight (excluding leads)', '12 ± 2', 'g'],
-  ['Startup Time', '≤2', 's'],
-  ['Measurement Range', '√±400 □±500 □±1800 □Others', '°/s'],
-  ['Scale Factor', '1 ± 0.005', '-'],
-  ['Scale Factor Nonlinearity', '≤100', 'ppm'],
-  ['Scale Factor Repeatability', '≤100', 'ppm'],
-  ['Scale Factor Asymmetry', '≤100', 'ppm'],
-  ['Threshold / Resolution', '≤0.01', '°/s'],
-  ['Bias (Full Temp)', '±36', '°/h'],
-  ['Bias Stability (Room Temp, 10s Std Dev)', '≤3', '°/h'],
-  ['Bias Stability (Full Temp, 10s Std Dev)', '≤10', '°/h'],
-  ['Bias Repeatability', '≤5', '°/h'],
-  ['Angular Random Walk', '≤0.07', '°/√h'],
-  ['Bias Instability (Allan Deviation)', '≤1.5', '°/h'],
-  ['Bandwidth (Amplitude)', '□90 □120 √150 □200 □250', 'Hz'],
-  ['Delay Time', '□2.6 √2.0 □1.6 □1.3 □0.6', 'ms'],
-]
-
-    
-  
-
+| Performance Parameter | Specification Range | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | 30 ± 5 | mA |
+| Weight (excluding leads) | 12 ± 2 | g |
+| Startup Time | ≤2 | s |
+| Measurement Range | √±400 □±500 □±1800 □Others | °/s |
+| Scale Factor | 1 ± 0.005 | - |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Scale Factor Repeatability | ≤100 | ppm |
+| Scale Factor Asymmetry | ≤100 | ppm |
+| Threshold / Resolution | ≤0.01 | °/s |
+| Bias (Full Temp) | ±36 | °/h |
+| Bias Stability (Room Temp, 10s Std Dev) | ≤3 | °/h |
+| Bias Stability (Full Temp, 10s Std Dev) | ≤10 | °/h |
+| Bias Repeatability | ≤5 | °/h |
+| Angular Random Walk | ≤0.07 | °/√h |
+| Bias Instability (Allan Deviation) | ≤1.5 | °/h |
+| Bandwidth (Amplitude) | □90 □120 √150 □200 □250 | Hz |
+| Delay Time | □2.6 √2.0 □1.6 □1.3 □0.6 | ms |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys11cj1x/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys11cj1x/)

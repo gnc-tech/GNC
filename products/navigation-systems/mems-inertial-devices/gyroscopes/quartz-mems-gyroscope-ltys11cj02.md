@@ -49,18 +49,16 @@ _Unit: mm_
 <ProductImage productId="D-Q-JDW-LTYS11CJ02" invertMode="light-only" />
 #### Electrical Interface
 Discrete wire interface (AFR/AF-250), length ≥ 200mm.
-    
-{
-  headers: ['Wire Color', 'Definition'],
-  rows: [
-['Red', 'Power +5V'],
-['Purple', 'Power +3.3V'],
-['Black', 'Power Ground'],
-['Green', 'SCK'],
-['Yellow', 'MISO'],
-['Blue', 'MOSI'],
-['White', 'CS'],
-  ]
+
+  | Wire Color | Definition |
+| --- | --- |
+| Red | Power +5V |
+| Purple | Power +3.3V |
+| Black | Power Ground |
+| Green | SCK |
+| Yellow | MISO |
+| Blue | MOSI |
+| White | CS |
 
 ### Applications
 
@@ -73,32 +71,26 @@ Discrete wire interface (AFR/AF-250), length ≥ 200mm.
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'Specification Range', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '51 ± 5', 'mA'],
-  ['Weight (excluding leads)', '8 ± 2', 'g'],
-  ['Startup Time', '≤2', 's'],
-  ['Measurement Range', '√±400 □±500 □±1800 □Others', '°/s'],
-  ['Scale Factor', '2000 ± 1', 'LSB/(°/s)'],
-  ['Scale Factor Nonlinearity', '≤100', 'ppm'],
-  ['Scale Factor Repeatability', '≤100', 'ppm'],
-  ['Scale Factor Asymmetry', '≤100', 'ppm'],
-  ['Threshold / Resolution', '≤0.005', '°/s'],
-  ['Bias (Full Temp)', '±72', '°/h'],
-  ['Bias Stability (Room Temp, 10s Std Dev)', '≤10', '°/h'],
-  ['Bias Stability (Full Temp, 10s Std Dev)', '≤20', '°/h'],
-  ['Bias Repeatability', '≤36', '°/h'],
-  ['Angular Random Walk', '≤0.15', '°/√h'],
-  ['Bias Instability (Allan Deviation)', '≤5', '°/h'],
-  ['Bandwidth (Amplitude)', '□90 □120 □150 □200 √250', 'Hz'],
-  ['Delay Time', '□2.6 √2.0 □1.6 □1.3 □0.6', 'ms'],
-]
-
-    
-  
-
+| Performance Parameter | Specification Range | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | 51 ± 5 | mA |
+| Weight (excluding leads) | 8 ± 2 | g |
+| Startup Time | ≤2 | s |
+| Measurement Range | √±400 □±500 □±1800 □Others | °/s |
+| Scale Factor | 2000 ± 1 | LSB/(°/s) |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Scale Factor Repeatability | ≤100 | ppm |
+| Scale Factor Asymmetry | ≤100 | ppm |
+| Threshold / Resolution | ≤0.005 | °/s |
+| Bias (Full Temp) | ±72 | °/h |
+| Bias Stability (Room Temp, 10s Std Dev) | ≤10 | °/h |
+| Bias Stability (Full Temp, 10s Std Dev) | ≤20 | °/h |
+| Bias Repeatability | ≤36 | °/h |
+| Angular Random Walk | ≤0.15 | °/√h |
+| Bias Instability (Allan Deviation) | ≤5 | °/h |
+| Bandwidth (Amplitude) | □90 □120 □150 □200 √250 | Hz |
+| Delay Time | □2.6 √2.0 □1.6 □1.3 □0.6 | ms |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys11cj02/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys11cj02/)

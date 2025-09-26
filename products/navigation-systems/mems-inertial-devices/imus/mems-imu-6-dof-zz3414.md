@@ -72,45 +72,36 @@ The diagram shows the outline dimensions of the JDWZZ3414, providing key measure
 
 #### Gyroscope Specifications
   
-{
-headers: ['Performance', 'Level 1', 'Level 2', 'Level 3', 'Unit'],
-rows: [
-  ['Measurement Range', '±4000', '±4000', '±4000', '°/s'],
-  ['Zero Bias Stability', '≤50', '≤30', '≤30', '°/h(1σ)'],
-  ['Full Temperature¹ Zero Bias Stability', '-', '≤100', '≤50', '°/h(1σ)'],
-  ['Zero Bias Repeatability', '≤50', '≤30', '≤30', '°/h(1σ)'],
-  ['Full Temperature¹ Zero Bias Repeatability', '-', '≤100', '≤50', '°/h(1σ)'],
-  ['Full Temperature Zero Bias²', '-', '≤500', '≤300', '°/h(1σ)'],
-  ['Scale Factor Nonlinearity', '≤100', '≤100', '≤100', 'ppm']
-]
-
+| Performance | Level 1 | Level 2 | Level 3 | Unit |
+| --- | --- | --- | --- | --- |
+| Measurement Range | ±4000 | ±4000 | ±4000 | °/s |
+| Zero Bias Stability | ≤50 | ≤30 | ≤30 | °/h(1σ) |
+| Full Temperature¹ Zero Bias Stability | - | ≤100 | ≤50 | °/h(1σ) |
+| Zero Bias Repeatability | ≤50 | ≤30 | ≤30 | °/h(1σ) |
+| Full Temperature¹ Zero Bias Repeatability | - | ≤100 | ≤50 | °/h(1σ) |
+| Full Temperature Zero Bias² | - | ≤500 | ≤300 | °/h(1σ) |
+| Scale Factor Nonlinearity | ≤100 | ≤100 | ≤100 | ppm |
 #### Accelerometer Specifications
   
-{
-headers: ['Performance', 'Level 1', 'Level 2', 'Level 3', 'Unit'],
-rows: [
-  ['Measurement Range', '±30', '±30', '±30', 'g'],
-  ['Zero Bias Stability', '≤1', '≤0.8', '≤0.5', 'mg(1σ)'],
-  ['Zero Bias Repeatability', '≤1', '≤0.8', '≤0.5', 'mg(1σ)'],
-  ['Scale Factor Error', '≤1500', '≤1500', '≤1500', 'ppm'],
-  ['Scale Factor Nonlinearity', '≤5000', '≤5000', '≤1500', 'ppm'],
-  ['Orthogonality', '6', '6', '6', '°']
-]
-
+| Performance | Level 1 | Level 2 | Level 3 | Unit |
+| --- | --- | --- | --- | --- |
+| Measurement Range | ±30 | ±30 | ±30 | g |
+| Zero Bias Stability | ≤1 | ≤0.8 | ≤0.5 | mg(1σ) |
+| Zero Bias Repeatability | ≤1 | ≤0.8 | ≤0.5 | mg(1σ) |
+| Scale Factor Error | ≤1500 | ≤1500 | ≤1500 | ppm |
+| Scale Factor Nonlinearity | ≤5000 | ≤5000 | ≤1500 | ppm |
+| Orthogonality | 6 | 6 | 6 | ° |
 #### Common Specifications
   
-{
-headers: ['Parameters', 'Value', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5±0.25', 'V'],
-  ['Power Consumption', '≤0.2', 'W'],
-  ['Weight', '≤10', 'g'],
-  ['Startup Time (Full Temperature Environment)', '≤3', 's'],
-  ['Sampling Period', '2.5', 'ms'],
-  ['Operating Temperature', '-40~85', '°C'],
-  ['Resistant To Overload', '10000', 'g']
-]
-
+| Parameters | Value | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5±0.25 | V |
+| Power Consumption | ≤0.2 | W |
+| Weight | ≤10 | g |
+| Startup Time (Full Temperature Environment) | ≤3 | s |
+| Sampling Period | 2.5 | ms |
+| Operating Temperature | -40~85 | °C |
+| Resistant To Overload | 10000 | g |
 ### Notes
 
 1. Results at three temperatures -40℃,-25℃,85℃

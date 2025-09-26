@@ -49,20 +49,18 @@ The LTTB10CJ01 is a single-axis quartz MEMS gyroscope designed for high-reliabil
 _Unit: mm_
 <ProductImage productId="D-Q-JDW-LTTB10CJ01" invertMode="light-only" />
 #### Electrical Interface
-    
-{
-  headers: ['Pin', 'Definition', 'Function', 'Description'],
-  rows: [
-['0', 'GND', 'Power Ground', 'Ground'],
-['1', 'VCC', 'I/O Power Supply', 'Digital power input 3.2V–3.4V'],
-['2', 'VSS', 'Digital Ground', 'Ground'],
-['3', 'LPRC', 'External Filtering', 'Connect to external filtering circuit'],
-['4', 'GND', 'Power Ground', 'Ground'],
-['5', 'VIN', 'Power Supply Input', 'External input 4.8V–5.2V'],
-['6', 'GND', 'Power Ground', 'Ground'],
-['7', 'GND', 'Power Ground', 'Ground'],
-['8', 'ECLK', 'Clock Reference', 'NC (Not Connected)'],
-  ]
+
+  | Pin | Definition | Function | Description |
+| --- | --- | --- | --- |
+| 0 | GND | Power Ground | Ground |
+| 1 | VCC | I/O Power Supply | Digital power input 3.2V–3.4V |
+| 2 | VSS | Digital Ground | Ground |
+| 3 | LPRC | External Filtering | Connect to external filtering circuit |
+| 4 | GND | Power Ground | Ground |
+| 5 | VIN | Power Supply Input | External input 4.8V–5.2V |
+| 6 | GND | Power Ground | Ground |
+| 7 | GND | Power Ground | Ground |
+| 8 | ECLK | Clock Reference | NC (Not Connected) |
 
 ### Applications
 
@@ -75,40 +73,31 @@ _Unit: mm_
 
 #### Performance Specifications
   
-{
-headers: ['Performance Parameter', 'Typical Value', 'Unit'],
-rows: [
-  ['Power Supply Voltage', '5 ± 0.2', 'V'],
-  ['Operating Current', '≤10', 'mA'],
-  ['Weight', '≤1.5', 'g'],
-  ['Outline Dimensions', '13.6 × 8 × 2.8', 'mm'],
-  ['Initialization Time', '≤1', 's'],
-  ['Measurement Range', '±400', '°/s'],
-  ['Scale Factor Nonlinearity', '≤100', 'ppm'],
-  ['Scale Factor Repeatability', '≤100', 'ppm'],
-  ['Resolution', '≤0.005', '°/s'],
-  ['Bias (Full Temperature Range)', '≤50', '°/h'],
-  ['Bias Instability (Allan Deviation)', '≤2.5', '°/h'],
-  ['Bias Stability', '≤5', '°/h'],
-  ['Bias Repeatability', '≤10', '°/h'],
-  ['Angular Random Walk', '≤0.15', '°/√h'],
-  ['Bandwidth', '≥150', 'Hz'],
-]
-
+| Performance Parameter | Typical Value | Unit |
+| --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | V |
+| Operating Current | ≤10 | mA |
+| Weight | ≤1.5 | g |
+| Outline Dimensions | 13.6 × 8 × 2.8 | mm |
+| Initialization Time | ≤1 | s |
+| Measurement Range | ±400 | °/s |
+| Scale Factor Nonlinearity | ≤100 | ppm |
+| Scale Factor Repeatability | ≤100 | ppm |
+| Resolution | ≤0.005 | °/s |
+| Bias (Full Temperature Range) | ≤50 | °/h |
+| Bias Instability (Allan Deviation) | ≤2.5 | °/h |
+| Bias Stability | ≤5 | °/h |
+| Bias Repeatability | ≤10 | °/h |
+| Angular Random Walk | ≤0.15 | °/√h |
+| Bandwidth | ≥150 | Hz |
 #### Environmental Adaptability
   
-{
-headers: ['Test Description', 'Limit Value', 'Unit'],
-rows: [
-  ['Vibration Resistance (6.06g RMS @ 20Hz~2000Hz)', '≤0.01', '°/s'],
-  ['Half-Sine Shock (200g @ 6ms)', '≤0.01', '°/s'],
-  ['Operating Temperature Range', '-45 ~ +85', '℃'],
-  ['Storage Temperature Range', '-50 ~ +90', '℃'],
-]
-
-    
-  
-
+| Test Description | Limit Value | Unit |
+| --- | --- | --- |
+| Vibration Resistance (6.06g RMS @ 20Hz~2000Hz) | ≤0.01 | °/s |
+| Half-Sine Shock (200g @ 6ms) | ≤0.01 | °/s |
+| Operating Temperature Range | -45 ~ +85 | ℃ |
+| Storage Temperature Range | -50 ~ +90 | ℃ |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj01/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj01/)

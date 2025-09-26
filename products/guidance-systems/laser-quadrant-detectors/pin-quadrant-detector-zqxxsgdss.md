@@ -43,36 +43,29 @@ The **ZQXXSGDSS** series single-tube PIN quadrant detectors integrate four photo
 
 #### Structural/Maximum Absolute Rating
   
-{
-headers: ['Parameter', 'ZQXXSGDSS01', 'ZQXXSGDSS02', 'ZQXXSGDSS03', 'ZQXXSGDSS04', 'ZQXXSGDSS05', 'Unit'],
-rows: [
-  ['Package Form', 'T0-8', 'T0-20', 'MBCY026-W7W', 'MBCY031-W7W', 'MBCY031-W7W', '-'],
-  ['Active Area', 'Φ5.3', 'Φ10.0', 'Φ11.3', 'Φ14.0', 'Φ16.0', 'mm'],
-  ['Quadrant Gap', '70', '150', '130', '200', '200', 'μm'],
-  ['Maximum Operating Voltage', '150', '100', '200', '100', '100', 'V'],
-  ['Operating Temperature', '-40~100', '-40~100', '-40~100', '-40~100', '-40~100', '°C'],
-  ['Storage Temperature', '-55~125', '-55~125', '-55~125', '-55~125', '-55~125', '°C'],
-  ['Soldering Temperature', '260', '260', '260', '260', '260', '°C'],
-  ['Saturated Optical Power', '0.3', '0.3', '0.3', '0.3', '0.3', 'W/cm²']
-]
-
+| Parameter | ZQXXSGDSS01 | ZQXXSGDSS02 | ZQXXSGDSS03 | ZQXXSGDSS04 | ZQXXSGDSS05 | Unit |
+| --- | --- | --- | --- | --- | --- | --- |
+| Package Form | T0-8 | T0-20 | MBCY026-W7W | MBCY031-W7W | MBCY031-W7W | - |
+| Active Area | Φ5.3 | Φ10.0 | Φ11.3 | Φ14.0 | Φ16.0 | mm |
+| Quadrant Gap | 70 | 150 | 130 | 200 | 200 | μm |
+| Maximum Operating Voltage | 150 | 100 | 200 | 100 | 100 | V |
+| Operating Temperature | -40~100 | -40~100 | -40~100 | -40~100 | -40~100 | °C |
+| Storage Temperature | -55~125 | -55~125 | -55~125 | -55~125 | -55~125 | °C |
+| Soldering Temperature | 260 | 260 | 260 | 260 | 260 | °C |
+| Saturated Optical Power | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | W/cm² |
 #### Photoelectric Performance (@Ta=23±2°C)
   
-{
-headers: ['Parameter', 'Specification', 'Unit'],
-rows: [
-  ['Spectral Response Range', '400~1150', 'nm'],
-  ['Peak Response Wavelength', '980', 'nm'],
-  ['Responsivity @1064nm', '0.5', 'A/W'],
-  ['Dark Current', '10~20', 'nA'],
-  ['Rise Time (λ = 1064 nm, Rₗ = 50 Ω)', '12~20', 'ns'],
-  ['Junction Capacitance (f=1MHz)', '4~20', 'pF'],
-  ['Response Non-uniformity', '3', '%'],
-  ['Crosstalk', '2', '%'],
-  ['Breakdown Voltage', '>150 ~250', 'V']
-]
-  
-    
+| Parameter | Specification | Unit |
+| --- | --- | --- |
+| Spectral Response Range | 400~1150 | nm |
+| Peak Response Wavelength | 980 | nm |
+| Responsivity @1064nm | 0.5 | A/W |
+| Dark Current | 10~20 | nA |
+| Rise Time (λ = 1064 nm, Rₗ = 50 Ω) | 12~20 | ns |
+| Junction Capacitance (f=1MHz) | 4~20 | pF |
+| Response Non-uniformity | 3 | % |
+| Crosstalk | 2 | % |
+| Breakdown Voltage | >150 ~250 | V |    
 <ProductImage productId="Z-Q-XXSGDSS" type="package" subType="CURVE" invertMode="light-only" />
 
 ### package
@@ -81,17 +74,14 @@ rows: [
 ---
 ##### ZQXXSGDSS01 (T0-8 Package)
     
-{
-headers: ['Pin', 'Define'],
-rows: [
-  ['1', 'Quadrant 1'],
-  ['2', 'Empty'],
-  ['3', 'Quadrant 2'],
-  ['4', 'Quadrant 3'],
-  ['5', 'Total N poles'],
-  ['6', 'Quadrant 4']
-]
-
+| Pin | Define |
+| --- | --- |
+| 1 | Quadrant 1 |
+| 2 | Empty |
+| 3 | Quadrant 2 |
+| 4 | Quadrant 3 |
+| 5 | Total N poles |
+| 6 | Quadrant 4 |
 <ProductImage 
   productId="Z-Q-XXSGDSS" 
   type="package" 
@@ -101,16 +91,13 @@ rows: [
 
 ##### ZQXXSGDSS02 (T0-20 Package)
     
-{
-headers: ['Pin', 'Define'],
-rows: [
-  ['1', 'Public N-pole'],
-  ['2', 'Quadrant 1'],
-  ['3', 'Quadrant 2'],
-  ['4', 'Quadrant 3'],
-  ['5', 'Quadrant 4']
-]
-
+| Pin | Define |
+| --- | --- |
+| 1 | Public N-pole |
+| 2 | Quadrant 1 |
+| 3 | Quadrant 2 |
+| 4 | Quadrant 3 |
+| 5 | Quadrant 4 |
 <ProductImage 
   productId="Z-Q-XXSGDSS" 
   type="package" 
@@ -120,18 +107,15 @@ rows: [
 
 ##### ZQXXSGDSS03 (MBCY026-W7W Package)
     
-{
-headers: ['Pin', 'Define'],
-rows: [
-  ['1', 'Quadrant 4'],
-  ['2', 'Quadrant 1'],
-  ['3', 'Ring'],
-  ['4', 'Quadrant 2'],
-  ['5', 'Case'],
-  ['6', 'Quadrant 3'],
-  ['7', 'Public P-pole']
-]
-
+| Pin | Define |
+| --- | --- |
+| 1 | Quadrant 4 |
+| 2 | Quadrant 1 |
+| 3 | Ring |
+| 4 | Quadrant 2 |
+| 5 | Case |
+| 6 | Quadrant 3 |
+| 7 | Public P-pole |
 <ProductImage 
   productId="Z-Q-XXSGDSS" 
   type="package" 
@@ -141,18 +125,15 @@ rows: [
 
 ##### ZQXXSGDSS04/ZQXXSGDSS05 (MBCY031-W7W Package)
     
-{
-headers: ['Pin', 'Define'],
-rows: [
-  ['1', 'Quadrant 1'],
-  ['2', 'Public N-pole'],
-  ['3', 'Quadrant 2'],
-  ['4', 'Ring'],
-  ['5', 'Quadrant 3'],
-  ['6', 'Pipe shell'],
-  ['7', 'Quadrant 4']
-]
-
+| Pin | Define |
+| --- | --- |
+| 1 | Quadrant 1 |
+| 2 | Public N-pole |
+| 3 | Quadrant 2 |
+| 4 | Ring |
+| 5 | Quadrant 3 |
+| 6 | Pipe shell |
+| 7 | Quadrant 4 |
 <ProductImage 
   productId="Z-Q-XXSGDSS" 
   type="package" 

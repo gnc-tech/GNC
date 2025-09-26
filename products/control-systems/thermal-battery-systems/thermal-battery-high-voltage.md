@@ -49,17 +49,11 @@ The High-Voltage Ultra-High-Power Thermal Battery Pack is specifically engineere
 
 ### Specifications
 
-{
-headers: ['Indicator parameters', 'FXYG1LGGC'],
-rows: [
-  ['Fast Activation', '✔'],
-  ['High Power Output', '✔'],
-  ['Insulation Protection', '✔']
-]
-
-    
-  
-
+| Indicator parameters | FXYG1LGGC |
+| --- | --- |
+| Fast Activation | ✔ |
+| High Power Output | ✔ |
+| Insulation Protection | ✔ |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-high-voltage/](https://www.gnc-tech.com/products/thermal-battery-high-voltage/)

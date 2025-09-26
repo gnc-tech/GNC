@@ -53,24 +53,18 @@ The **MLZ128YS** 128×128 Cooled Detector Assembly series, comprising models MLZ
 
 ### Specifications
 
-{
-headers: ['Parameter', 'MLZ128YS15', 'MLZ128YS30', 'MLZ128YS50'],
-rows: [
-  ['Material', 'InSb', 'InSb', 'InSb'],
-  ['Format', '128×128', '128×128', '128×128'],
-  ['Pixel Size (μm)', '15×15', '30×30', '50×50'],
-  ['Spectral Responsive (μm)', '3.7 ~ 4.8', '3.7 ~ 4.8', '3.7 ~ 4.8'],
-  ['NETD (mk)', '≤ 15', '≤ 13', '≤ 13'],
-  ['Operability', '≥ 99.5%', '≥ 99.5%', '≥ 99.5%'],
-  ['Response Non-uniformity', '≤ 6%', '≤ 6%', '≤ 8%'],
-  ['Dynamic Range (dB)', '≥ 75', '≥ 75', '≥ 75'],
-  ['Cooling Type', 'J-T', 'J-T', 'J-T'],
-  ['Weight (g)', '≤360', '≤ 360', '≤ 360']
-]
-
-    
-  
-
+| Parameter | MLZ128YS15 | MLZ128YS30 | MLZ128YS50 |
+| --- | --- | --- | --- |
+| Material | InSb | InSb | InSb |
+| Format | 128×128 | 128×128 | 128×128 |
+| Pixel Size (μm) | 15×15 | 30×30 | 50×50 |
+| Spectral Responsive (μm) | 3.7 ~ 4.8 | 3.7 ~ 4.8 | 3.7 ~ 4.8 |
+| NETD (mk) | ≤ 15 | ≤ 13 | ≤ 13 |
+| Operability | ≥ 99.5% | ≥ 99.5% | ≥ 99.5% |
+| Response Non-uniformity | ≤ 6% | ≤ 6% | ≤ 8% |
+| Dynamic Range (dB) | ≥ 75 | ≥ 75 | ≥ 75 |
+| Cooling Type | J-T | J-T | J-T |
+| Weight (g) | ≤360 | ≤ 360 | ≤ 360 |
 ---
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/cooled-detector-assembly-mlz128ys/](https://www.gnc-tech.com/products/cooled-detector-assembly-mlz128ys/)
