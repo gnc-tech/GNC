@@ -23,92 +23,63 @@
 
 ## 📖 Detailed Technical Information
 
-
 ## D-Q-TQG-HXG46XY715
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The custom-shaped fiber optic coil is designed to meet specialized application requirements with non-standard geometries. Based on customer specifications, we provide tailored solutions using elliptical and other custom shapes while maintaining high performance and reliability.
-  
+The custom-shaped fiber optic coil is designed to meet specialized application requirements with non-standard geometries. Based on customer specifications, we provide tailored solutions using elliptical and other custom shapes while maintaining high performance and reliability.
 
-  
-### slider
+### Product Images
 
-    
-#### Product Images
+![Product Image](https://www.gnc-tech.com/products/navigation/fog/foc/D-Q-TQG-HXG46XY/D-Q-TQG-HXG46XY-Slide-01.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/D-Q-TQG-HXG46XY-Slide-01.webp)
+### Features
 
+- High reliability
+- Batch consistency
+- Excellent temperature and vibration performance
 
-  
-
-  
-### features
-
-    - High reliability
-    - Batch consistency
-    - Excellent temperature and vibration performance
-  
-
-  
 ### customization
 
-    - Customizable dimensions and shapes
-    - Available with or without skeleton design
-    - UV-cured and thermal-cured adhesive options
-    - Flexible winding pattern customization
-    - Customizable layer count
-  
+- Customizable dimensions and shapes
+- Available with or without skeleton design
+- UV-cured and thermal-cured adhesive options
+- Flexible winding pattern customization
+- Customizable layer count
 
-  
-### applications
+### Applications
 
-    - Specialized fiber optic gyroscopes (FOG)
-    - Space-constrained installations
-    - Custom sensing applications
-    - Special industrial equipment
-  
+- Specialized fiber optic gyroscopes (FOG)
+- Space-constrained installations
+- Custom sensing applications
+- Special industrial equipment
 
-  
-### specifications
+### Specifications
 
-    
-      #### Design Parameters
-      
-```json
+#### Design Parameters
+  
 {
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Inner Diameter', 'mm', '15~250'],
-          ['Layer Count', '/', '10~120'],
-          ['Fiber Length', 'm', '20~20000']
-        ]
-      
-```
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Inner Diameter', 'mm', '15~250'],
+  ['Layer Count', '/', '10~120'],
+  ['Fiber Length', 'm', '20~20000']
+]
 
-
-      #### Customization Options
-      
-```json
+#### Customization Options
+  
 {
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Coil Type', '/', 'Elliptical and Custom Shapes'],
-          ['Fiber Type', '/', 'According to Customer Requirements'],
-          ['Performance', '/', 'According to Customer Requirements'],
-          ['Temperature Performance', '/', 'According to Customer Requirements']
-        ]
-      
-```
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Coil Type', '/', 'Elliptical and Custom Shapes'],
+  ['Fiber Type', '/', 'According to Customer Requirements'],
+  ['Performance', '/', 'According to Customer Requirements'],
+  ['Temperature Performance', '/', 'According to Customer Requirements']
+]
 
     
   
 
 ---
-
-*This document is automatically generated from source file `navigation\fog\foc\D-Q-TQG-HXG46XY.mdx` *
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/fiber-coil-custom-hxg46xy/](https://www.gnc-tech.com/products/fiber-coil-custom-hxg46xy/)

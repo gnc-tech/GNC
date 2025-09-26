@@ -23,68 +23,44 @@
 
 ## 📖 Detailed Technical Information
 
-
 ## K-RFX-JK100MH
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The Fast Activation Thermal Battery achieves breakthrough performance in activation speed through innovative ultra-fast ignition and heating technologies. Specifically designed for aircraft ejection seats and other scenarios requiring ultra-rapid power delivery.
-  
+The Fast Activation Thermal Battery achieves breakthrough performance in activation speed through innovative ultra-fast ignition and heating technologies. Specifically designed for aircraft ejection seats and other scenarios requiring ultra-rapid power delivery.
 
-  
-### slider
+### Product Images
 
-    
-#### Product Images
+![Product Image](https://www.gnc-tech.com/products/control/thermal-battery/K-RFX-JK100MH/K-RFX-JK100MH-Slide-01.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/K-RFX-JK100MH-Slide-01.webp)
+![Product Image](https://www.gnc-tech.com/products/control/thermal-battery/K-RFX-JK100MH/K-RFX-JK100MH-Slide-02.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/K-RFX-JK100MH-Slide-02.webp)
+### Features
 
+- Ultra-fast activation time
+- Advanced ignition technology
+- Rapid heating design
+- Stable voltage building characteristics
+- Long storage life over 15 years
 
-  
+### Applications
 
-  
-### features
+- Aircraft Ejection Systems
+- Emergency Power Systems
+- Rapid-Response Military Equipment
 
-    - Ultra-fast activation time
-    - Advanced ignition technology
-    - Rapid heating design
-    - Stable voltage building characteristics
-    - Long storage life over 15 years
-  
+### Specifications
 
-  
-### applications
-
-    - Aircraft Ejection Systems
-    - Emergency Power Systems
-    - Rapid-Response Military Equipment
-  
-
-  
-### specifications
-
-    
-      
-```json
 {
-        headers: ['Indicator parameters', 'FXJK100MH'],
-        rows: [
-          ['Activation Time (s)', '0.1'],
-          ['Storage Life (years)', '>20']
-        ]
-      
-```
+headers: ['Indicator parameters', 'FXJK100MH'],
+rows: [
+  ['Activation Time (s)', '0.1'],
+  ['Storage Life (years)', '>20']
+]
 
     
   
 
 ---
-
-*This document is automatically generated from source file `control\thermal-battery\K-RFX-JK100MH.mdx` *
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-fast-activation/](https://www.gnc-tech.com/products/thermal-battery-fast-activation/)

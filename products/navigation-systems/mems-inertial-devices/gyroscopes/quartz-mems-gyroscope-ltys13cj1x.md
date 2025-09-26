@@ -24,208 +24,161 @@
 
 ## 📖 Detailed Technical Information
 
-
 ## D-Q-JDW-LTYS13CJ1A
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The LTYS13CJ1A is a tri-axis quartz MEMS gyroscope with three orthogonally mounted single-axis gyros. It delivers exceptional performance with ultra-low noise, superior bias stability, and outstanding environmental adaptability. Featuring advanced micromachining technology, compact structure, and full solid-state design, it provides reliable real-time angular velocity measurements for critical aerospace, navigation, and high-end industrial applications.
-  
-  
-### slider
+The LTYS13CJ1A is a tri-axis quartz MEMS gyroscope with three orthogonally mounted single-axis gyros. It delivers exceptional performance with ultra-low noise, superior bias stability, and outstanding environmental adaptability. Featuring advanced micromachining technology, compact structure, and full solid-state design, it provides reliable real-time angular velocity measurements for critical aerospace, navigation, and high-end industrial applications.
 
-    
-#### Product Images
+### Product Images
 
-![Product Image](https://www.gnc-tech.com/images/products/D-Q-JDW-LTYS13CJ1A-Slide-01.webp)
+![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTYS13CJ1X/D-Q-JDW-LTYS13CJ1A-Slide-01.webp)
 
+### Features
 
-  
-  
-### features
+- Tri-axis quartz MEMS gyroscope
+- Ultra-low noise and exceptional bias stability
+- Superior environmental adaptability
+- Real-time angular velocity output for all axes
+- Compact, lightweight, fast startup
+- Full solid-state design, high reliability
+- Strong resistance to shock and vibration
+- Designed for aerospace and high-end industrial applications
 
-    - Tri-axis quartz MEMS gyroscope
-    - Ultra-low noise and exceptional bias stability
-    - Superior environmental adaptability
-    - Real-time angular velocity output for all axes
-    - Compact, lightweight, fast startup
-    - Full solid-state design, high reliability
-    - Strong resistance to shock and vibration
-    - Designed for aerospace and high-end industrial applications
-  
-  
 ### package
 
-    #### LTYS13CJ1A Mechanical Dimensions
-    _Unit: mm_
-    <ProductImage 
-      productId="D-Q-JDW-LTYS13CJ1X" 
-      type="package"
-      subType="LTYS13CJ1A" 
-      invertMode="light-only" 
-    />
-    #### Electrical Interface
-    Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
+#### LTYS13CJ1A Mechanical Dimensions
+_Unit: mm_
+<ProductImage 
+  productId="D-Q-JDW-LTYS13CJ1X" 
+  type="package"
+  subType="LTYS13CJ1A" 
+  invertMode="light-only" 
+/>
+#### Electrical Interface
+Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
     
-```json
 {
-      headers: ['Wire Color', 'Function'],
-      rows: [
-        ['Red', 'Power +'],
-        ['Black', 'Ground'],
-        ['White', 'RS422_R+'],
-        ['Blue', 'RS422_R–'],
-        ['Brown', 'RS422_T+'],
-        ['Gray', 'RS422_T–'],
-        ]
-    
-```
+  headers: ['Wire Color', 'Function'],
+  rows: [
+['Red', 'Power +'],
+['Black', 'Ground'],
+['White', 'RS422_R+'],
+['Blue', 'RS422_R–'],
+['Brown', 'RS422_T+'],
+['Gray', 'RS422_T–'],
+]
 
-  
-  
-### applications
+### Applications
 
-    - Aerospace navigation and control
-    - Satellite attitude control
-    - Aircraft flight control systems
-    - High-precision motion detection
-    - Stabilization and control systems
-    - Marine navigation
-    - Industrial automation and robotics
-  
-  
-### specifications
+- Aerospace navigation and control
+- Satellite attitude control
+- Aircraft flight control systems
+- High-precision motion detection
+- Stabilization and control systems
+- Marine navigation
+- Industrial automation and robotics
 
-    
-      #### Performance Specifications
-      
-```json
+### Specifications
+
+#### Performance Specifications
+  
 {
-        headers: ['Performance Parameter', 'LTYS13CJ1A', 'Unit'],
-        rows: [
-          ['Power Supply Voltage', '5 ± 0.2', 'V'],
-          ['Operating Current', '80 ± 5', 'mA'],
-          ['Weight (excluding leads)', '30 ± 5', 'g'],
-          ['Startup Time', '≤3', 's'],
-          ['Measurement Range', '±200', '°/s'],
-          ['Scale Factor', '1 ± 0.005', '-'],
-          ['Scale Factor Nonlinearity', '≤200', 'ppm'],
-          ['Scale Factor Repeatability', '≤300', 'ppm'],
-          ['Scale Factor Asymmetry', '≤300', 'ppm'],
-          ['Cross-Axis Sensitivity', '≤0.005', '-'],
-          ['Threshold / Resolution', '≤0.005', '°/s'],
-          ['Bias (Full Temperature)', '±0.03', '°/s'],
-          ['Bias Stability (Room Temp, 10s Std Dev)', '≤10', '°/h'],
-          ['Bias Stability (Full Temp, 10s Std Dev)', '≤20', '°/h'],
-          ['Bias Repeatability', '≤20', '°/h'],
-          ['Angular Random Walk', '≤0.08', '°/√h'],
-          ['Bias Instability (Allan Deviation)', '≤5', '°/h'],
-          ['Bandwidth (Amplitude)', '≥120', 'Hz'],
-          ['Delay Time (within bandwidth)', '√2.0', 'ms'],
-        ]
-      
-```
+headers: ['Performance Parameter', 'LTYS13CJ1A', 'Unit'],
+rows: [
+  ['Power Supply Voltage', '5 ± 0.2', 'V'],
+  ['Operating Current', '80 ± 5', 'mA'],
+  ['Weight (excluding leads)', '30 ± 5', 'g'],
+  ['Startup Time', '≤3', 's'],
+  ['Measurement Range', '±200', '°/s'],
+  ['Scale Factor', '1 ± 0.005', '-'],
+  ['Scale Factor Nonlinearity', '≤200', 'ppm'],
+  ['Scale Factor Repeatability', '≤300', 'ppm'],
+  ['Scale Factor Asymmetry', '≤300', 'ppm'],
+  ['Cross-Axis Sensitivity', '≤0.005', '-'],
+  ['Threshold / Resolution', '≤0.005', '°/s'],
+  ['Bias (Full Temperature)', '±0.03', '°/s'],
+  ['Bias Stability (Room Temp, 10s Std Dev)', '≤10', '°/h'],
+  ['Bias Stability (Full Temp, 10s Std Dev)', '≤20', '°/h'],
+  ['Bias Repeatability', '≤20', '°/h'],
+  ['Angular Random Walk', '≤0.08', '°/√h'],
+  ['Bias Instability (Allan Deviation)', '≤5', '°/h'],
+  ['Bandwidth (Amplitude)', '≥120', 'Hz'],
+  ['Delay Time (within bandwidth)', '√2.0', 'ms'],
+]
 
     
   
-
-
 
 ## D-Q-JDW-LTYS13CJ1B
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The LTYS13CJ1B is a tri-axis quartz MEMS gyroscope with three orthogonally mounted single-axis gyros. It delivers exceptional performance with ultra-low noise, superior bias stability, and outstanding environmental adaptability. Featuring advanced micromachining technology, compact structure, and full solid-state design, it provides reliable real-time angular velocity measurements for critical aerospace, navigation, and high-end industrial applications.
-  
-  
-### slider
+The LTYS13CJ1B is a tri-axis quartz MEMS gyroscope with three orthogonally mounted single-axis gyros. It delivers exceptional performance with ultra-low noise, superior bias stability, and outstanding environmental adaptability. Featuring advanced micromachining technology, compact structure, and full solid-state design, it provides reliable real-time angular velocity measurements for critical aerospace, navigation, and high-end industrial applications.
 
-    
-#### Product Images
+### Product Images
 
-![Product Image](https://www.gnc-tech.com/images/products/D-Q-JDW-LTYS13CJ1B-Slide-01.webp)
+![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTYS13CJ1X/D-Q-JDW-LTYS13CJ1A-Slide-01.webp)
 
+### Features
 
-  
-  
-### features
-
-  
 ### package
 
-    #### LTYS13CJ1B Mechanical Dimensions
-    _Unit: mm_
-    <ProductImage 
-      productId="D-Q-JDW-LTYS13CJ1X" 
-      type="package"
-      subType="LTYS13CJ1B" 
-      invertMode="light-only" 
-    />
-    #### Electrical Interface
-    Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
+#### LTYS13CJ1B Mechanical Dimensions
+_Unit: mm_
+<ProductImage 
+  productId="D-Q-JDW-LTYS13CJ1X" 
+  type="package"
+  subType="LTYS13CJ1B" 
+  invertMode="light-only" 
+/>
+#### Electrical Interface
+Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
     
-```json
 {
-      headers: ['Wire Color', 'Function'],
-      rows: [
-        ['Red', 'Power +'],
-        ['Black', 'Ground'],
-        ['White', 'RS422_R+'],
-        ['Blue', 'RS422_R–'],
-        ['Brown', 'RS422_T+'],
-        ['Gray', 'RS422_T–'],
-      ]
-    
-```
+  headers: ['Wire Color', 'Function'],
+  rows: [
+['Red', 'Power +'],
+['Black', 'Ground'],
+['White', 'RS422_R+'],
+['Blue', 'RS422_R–'],
+['Brown', 'RS422_T+'],
+['Gray', 'RS422_T–'],
+  ]
 
-  
-  
-### applications
+### Applications
 
-  
-### specifications
+### Specifications
 
-    
-      #### Performance Specifications
-      
-```json
+#### Performance Specifications
+  
 {
-        headers: ['Performance Parameter', 'LTYS13CJ1B', 'Unit'],
-        rows: [
-          ['Power Supply Voltage', '5 ± 0.2', 'V'],
-          ['Operating Current', '80 ± 5', 'mA'],
-          ['Weight (excluding leads)', '30 ± 5', 'g'],
-          ['Startup Time', '≤3', 's'],
-          ['Measurement Range', '±200', '°/s'],
-          ['Scale Factor', '1 ± 0.005', '-'],
-          ['Scale Factor Nonlinearity', '≤200', 'ppm'],
-          ['Scale Factor Repeatability', '≤300', 'ppm'],
-          ['Scale Factor Asymmetry', '≤300', 'ppm'],
-          ['Cross-Axis Sensitivity', '≤0.005', '-'],
-          ['Threshold / Resolution', '≤0.005', '°/s'],
-          ['Bias (Full Temperature)', '±0.03', '°/s'],
-          ['Bias Stability (Room Temp, 10s Std Dev)', '≤10', '°/h'],
-          ['Bias Stability (Full Temp, 10s Std Dev)', '≤20', '°/h'],
-          ['Bias Repeatability', '≤20', '°/h'],
-          ['Angular Random Walk', '≤0.08', '°/√h'],
-          ['Bias Instability (Allan Deviation)', '≤5', '°/h'],
-          ['Bandwidth (Amplitude)', '≥120', 'Hz'],
-          ['Delay Time (within bandwidth)', '√2.0', 'ms'],
-        ]
-      
-```
+headers: ['Performance Parameter', 'LTYS13CJ1B', 'Unit'],
+rows: [
+  ['Power Supply Voltage', '5 ± 0.2', 'V'],
+  ['Operating Current', '80 ± 5', 'mA'],
+  ['Weight (excluding leads)', '30 ± 5', 'g'],
+  ['Startup Time', '≤3', 's'],
+  ['Measurement Range', '±200', '°/s'],
+  ['Scale Factor', '1 ± 0.005', '-'],
+  ['Scale Factor Nonlinearity', '≤200', 'ppm'],
+  ['Scale Factor Repeatability', '≤300', 'ppm'],
+  ['Scale Factor Asymmetry', '≤300', 'ppm'],
+  ['Cross-Axis Sensitivity', '≤0.005', '-'],
+  ['Threshold / Resolution', '≤0.005', '°/s'],
+  ['Bias (Full Temperature)', '±0.03', '°/s'],
+  ['Bias Stability (Room Temp, 10s Std Dev)', '≤10', '°/h'],
+  ['Bias Stability (Full Temp, 10s Std Dev)', '≤20', '°/h'],
+  ['Bias Repeatability', '≤20', '°/h'],
+  ['Angular Random Walk', '≤0.08', '°/√h'],
+  ['Bias Instability (Allan Deviation)', '≤5', '°/h'],
+  ['Bandwidth (Amplitude)', '≥120', 'Hz'],
+  ['Delay Time (within bandwidth)', '√2.0', 'ms'],
+]
 
     
   
 
 ---
-
-*This document is automatically generated from source file `navigation\quartz-mems\gyroscope\D-Q-JDW-LTYS13CJ1X.mdx` *
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys13cj1x/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys13cj1x/)

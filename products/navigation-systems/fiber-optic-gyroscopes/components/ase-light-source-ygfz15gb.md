@@ -25,372 +25,273 @@
 
 ## 📖 Detailed Technical Information
 
-
 ## D-Q-TQG-YGFZ15GBG30
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The **YGFZ15GBG30** is a high-performance ASE light source featuring a Gaussian spectral profile centered at 1530nm. It is specifically designed for fiber optic gyroscope applications requiring precise wavelength control and excellent stability.
-  
+The **YGFZ15GBG30** is a high-performance ASE light source featuring a Gaussian spectral profile centered at 1530nm. It is specifically designed for fiber optic gyroscope applications requiring precise wavelength control and excellent stability.
 
-  
-### slider
+### Product Images
 
-    
-#### Product Images
+![Product Image](https://www.gnc-tech.com/products/navigation/fog/light-source/D-Q-TQG-YGFZ15GB/D-Q-TQG-YGFZ15GB-Slide-01.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/D-Q-TQG-YGFZ15GBG30-Slide-01.webp)
+### Features
 
+- Gaussian spectral profile
+- High power stability
+- Low noise performance
+- Excellent temperature characteristics
+- Built-in optical isolation
+- Compact design
+- Multiple package options
 
-  
-
-  
-### features
-
-    - Gaussian spectral profile
-    - High power stability
-    - Low noise performance
-    - Excellent temperature characteristics
-    - Built-in optical isolation
-    - Compact design
-    - Multiple package options
-  
-
-  
 ### spectrum
 
-    <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="G30" />
+<ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="G30" />
+
+### Applications
+
+- Fiber optic gyroscopes (FOG)
+- Optical sensing systems
+- Test and measurement equipment
+
+### Specifications
+
+#### Optical Specification
   
+{
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Center Wavelength', 'nm', '1530'],
+  ['Output Power', 'mW', '≤50'],
+  ['Spectral Width', 'nm', '7'],
+  ['Power Stability @25°C', '%', '1'],
+  ['Power Stability @Full Temperature', '%', '5'],
+  ['Wavelength Stability @25°C', 'ppm', '5'],
+  ['Wavelength Stability @Full Temperature', 'ppm', '20'],
+  ['Spectral Modulation', 'dB', '0.03'],
+  ['Polarization Extinction Ratio', 'dB', '0.2']
+]
 
+#### Electrical Specification
   
-### applications
+{
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Supply Voltage', 'V', 'DC +5V/GND'],
+  ['Power Consumption @25°C', 'W', '≤1.5'],
+  ['Power Consumption @Full Temperature', 'W', '≤4.0']
+]
 
-    - Fiber optic gyroscopes (FOG)
-    - Optical sensing systems
-    - Test and measurement equipment
+#### Package Options
   
+{
+headers: ['Type', 'Specification', 'Remark'],
+rows: [
+  ['Package A', 'Φ45 mm', 'Compact size'],
+  ['Package B', 'Φ60 mm', 'Standard size'],
+  ['Package C', 'Φ98 mm', 'Enhanced cooling'],
+  ['Package D', '90 × 70 × 15 mm', 'Rack mount']
+]
 
+  <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
+  #### Fiber Options
   
-### specifications
-
-    
-      #### Optical Specification
-      
-```json
 {
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Center Wavelength', 'nm', '1530'],
-          ['Output Power', 'mW', '≤50'],
-          ['Spectral Width', 'nm', '7'],
-          ['Power Stability @25°C', '%', '1'],
-          ['Power Stability @Full Temperature', '%', '5'],
-          ['Wavelength Stability @25°C', 'ppm', '5'],
-          ['Wavelength Stability @Full Temperature', 'ppm', '20'],
-          ['Spectral Modulation', 'dB', '0.03'],
-          ['Polarization Extinction Ratio', 'dB', '0.2']
-        ]
-      
-```
+headers: ['Type', 'Specification'],
+rows: [
+  ['Standard', '80/170 μm SM'],
+  ['Optional', '125/250 μm SM'],
+  ['Jumper', 'SMF-28e, 900 μm']
+]
 
-      #### Electrical Specification
-      
-```json
+#### Environmental Specification
+  
 {
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Supply Voltage', 'V', 'DC +5V/GND'],
-          ['Power Consumption @25°C', 'W', '≤1.5'],
-          ['Power Consumption @Full Temperature', 'W', '≤4.0']
-        ]
-      
-```
-
-      #### Package Options
-      
-```json
-{
-        headers: ['Type', 'Specification', 'Remark'],
-        rows: [
-          ['Package A', 'Φ45 mm', 'Compact size'],
-          ['Package B', 'Φ60 mm', 'Standard size'],
-          ['Package C', 'Φ98 mm', 'Enhanced cooling'],
-          ['Package D', '90 × 70 × 15 mm', 'Rack mount']
-        ]
-      
-```
-
-      <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
-      #### Fiber Options
-      
-```json
-{
-        headers: ['Type', 'Specification'],
-        rows: [
-          ['Standard', '80/170 μm SM'],
-          ['Optional', '125/250 μm SM'],
-          ['Jumper', 'SMF-28e, 900 μm']
-        ]
-      
-```
-
-      #### Environmental Specification
-      
-```json
-{
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Working Temperature', '°C', '-40~+70']
-        ]
-      
-```
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Working Temperature', '°C', '-40~+70']
+]
 
     
   
-
-
 
 ## D-Q-TQG-YGFZ15GBG60
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The **YGFZ15GBG60** is a high-performance ASE light source featuring a Gaussian spectral profile centered at 1560nm. It provides excellent stability and reliability for demanding FOG applications.
-  
+The **YGFZ15GBG60** is a high-performance ASE light source featuring a Gaussian spectral profile centered at 1560nm. It provides excellent stability and reliability for demanding FOG applications.
 
-  
-### slider
+### Product Images
 
+### Features
 
-  
-### features
+- Gaussian spectral profile
+- High power stability
+- Low noise performance
+- Excellent temperature characteristics
+- Built-in optical isolation
+- Compact design
+- Multiple package options
 
-    - Gaussian spectral profile
-    - High power stability
-    - Low noise performance
-    - Excellent temperature characteristics
-    - Built-in optical isolation
-    - Compact design
-    - Multiple package options
-  
-
-  
 ### spectrum
 
-    <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="G60" />
+<ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="G60" />
+
+### Applications
+
+### Specifications
+
+#### Optical Specification
   
+{
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Center Wavelength', 'nm', '1560'],
+  ['Output Power', 'mW', '≤50'],
+  ['Spectral Width', 'nm', '11'],
+  ['Power Stability @25°C', '%', '1'],
+  ['Power Stability @Full Temperature', '%', '5'],
+  ['Wavelength Stability @25°C', 'ppm', '5'],
+  ['Wavelength Stability @Full Temperature', 'ppm', '150'],
+  ['Spectral Modulation', 'dB', '0.03'],
+  ['Polarization Extinction Ratio', 'dB', '0.2']
+]
 
+#### Electrical Specification
   
-### applications
+{
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Supply Voltage', 'V', 'DC +5V/GND'],
+  ['Power Consumption @25°C', 'W', '≤1.5'],
+  ['Power Consumption @Full Temperature', 'W', '≤4.0']
+]
 
-
+#### Package Options
   
-### specifications
-
-    
-      #### Optical Specification
-      
-```json
 {
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Center Wavelength', 'nm', '1560'],
-          ['Output Power', 'mW', '≤50'],
-          ['Spectral Width', 'nm', '11'],
-          ['Power Stability @25°C', '%', '1'],
-          ['Power Stability @Full Temperature', '%', '5'],
-          ['Wavelength Stability @25°C', 'ppm', '5'],
-          ['Wavelength Stability @Full Temperature', 'ppm', '150'],
-          ['Spectral Modulation', 'dB', '0.03'],
-          ['Polarization Extinction Ratio', 'dB', '0.2']
-        ]
-      
-```
+headers: ['Type', 'Specification', 'Remark'],
+rows: [
+  ['Package A', 'Φ45 mm', 'Compact size'],
+  ['Package B', 'Φ60 mm', 'Standard size'],
+  ['Package C', 'Φ98 mm', 'Enhanced cooling'],
+  ['Package D', '90 × 70 × 15 mm', 'Rack mount']
+]
 
-      #### Electrical Specification
-      
-```json
+  <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
+  #### Fiber Options
+  
 {
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Supply Voltage', 'V', 'DC +5V/GND'],
-          ['Power Consumption @25°C', 'W', '≤1.5'],
-          ['Power Consumption @Full Temperature', 'W', '≤4.0']
-        ]
-      
-```
+headers: ['Type', 'Specification'],
+rows: [
+  ['Standard', '80/170 μm SM'],
+  ['Optional', '125/250 μm SM'],
+  ['Jumper', 'SMF-28e, 900 μm']
+]
 
-      #### Package Options
-      
-```json
+#### Environmental Specification
+  
 {
-        headers: ['Type', 'Specification', 'Remark'],
-        rows: [
-          ['Package A', 'Φ45 mm', 'Compact size'],
-          ['Package B', 'Φ60 mm', 'Standard size'],
-          ['Package C', 'Φ98 mm', 'Enhanced cooling'],
-          ['Package D', '90 × 70 × 15 mm', 'Rack mount']
-        ]
-      
-```
-
-      <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
-      #### Fiber Options
-      
-```json
-{
-        headers: ['Type', 'Specification'],
-        rows: [
-          ['Standard', '80/170 μm SM'],
-          ['Optional', '125/250 μm SM'],
-          ['Jumper', 'SMF-28e, 900 μm']
-        ]
-      
-```
-
-      #### Environmental Specification
-      
-```json
-{
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Working Temperature', '°C', '-40~+70']
-        ]
-      
-```
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Working Temperature', '°C', '-40~+70']
+]
 
     
   
-
-
 
 ## D-Q-TQG-YGFZ15GBP50
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The **YGFZ15GBP50** features a flattened spectral profile with broad bandwidth, making it ideal for high-precision FOG applications requiring superior spectral stability and higher output power.
-  
+The **YGFZ15GBP50** features a flattened spectral profile with broad bandwidth, making it ideal for high-precision FOG applications requiring superior spectral stability and higher output power.
 
-  
-### slider
+### Product Images
 
+### Features
 
-  
-### features
+- Flattened spectral profile with broad bandwidth
+- High output power up to 200mW
+- Superior spectral flatness (≤1.5dB)
+- Power tunability for flexible applications
+- Enhanced temperature stability
+- Built-in optical isolation
+- Multiple package options
+- Extended wavelength coverage (1528~1566nm)
 
-    - Flattened spectral profile with broad bandwidth
-    - High output power up to 200mW
-    - Superior spectral flatness (≤1.5dB)
-    - Power tunability for flexible applications
-    - Enhanced temperature stability
-    - Built-in optical isolation
-    - Multiple package options
-    - Extended wavelength coverage (1528~1566nm)
-  
-
-  
 ### spectrum
 
-    <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="P50" />
-  
+<ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="P50" />
 
-  
-### applications
+### Applications
 
-    - High-precision fiber optic gyroscopes (FOG)
-    - Multi-axis inertial navigation systems
-    - Aerospace and military applications
-    - Advanced optical sensing systems
-    - High-end test and measurement equipment
-  
+- High-precision fiber optic gyroscopes (FOG)
+- Multi-axis inertial navigation systems
+- Aerospace and military applications
+- Advanced optical sensing systems
+- High-end test and measurement equipment
 
-  
 ### specifications
 
-    
-      #### Optical Specification
-      
-```json
+#### Optical Specification
+  
 {
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Wavelength Range', 'nm', '1528~1566'],
-          ['Output Power', 'mW', '≤200 (Tunable)'],
-          ['Spectral Width', 'nm', '38'],
-          ['Spectral Flatness', 'dB', '≤1.5'],
-          ['Power Stability @25°C', '%', '1'],
-          ['Power Stability @Full Temperature', '%', '5'],
-          ['Spectral Modulation', 'dB', '0.1'],
-          ['Polarization Extinction Ratio', 'dB', '0.2']
-        ]
-      
-```
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Wavelength Range', 'nm', '1528~1566'],
+  ['Output Power', 'mW', '≤200 (Tunable)'],
+  ['Spectral Width', 'nm', '38'],
+  ['Spectral Flatness', 'dB', '≤1.5'],
+  ['Power Stability @25°C', '%', '1'],
+  ['Power Stability @Full Temperature', '%', '5'],
+  ['Spectral Modulation', 'dB', '0.1'],
+  ['Polarization Extinction Ratio', 'dB', '0.2']
+]
 
-      #### Electrical Specification
-      
-```json
+#### Electrical Specification
+  
 {
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Supply Voltage', 'V', 'DC +5V/GND'],
-          ['Power Consumption @25°C', 'W', '≤1.5'],
-          ['Power Consumption @Full Temperature', 'W', '≤4.0']
-        ]
-      
-```
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Supply Voltage', 'V', 'DC +5V/GND'],
+  ['Power Consumption @25°C', 'W', '≤1.5'],
+  ['Power Consumption @Full Temperature', 'W', '≤4.0']
+]
 
-      #### Package Options
-      
-```json
+#### Package Options
+  
 {
-        headers: ['Type', 'Specification', 'Remark'],
-        rows: [
-          ['Package A', 'Φ45 mm', 'Compact size'],
-          ['Package B', 'Φ60 mm', 'Standard size'],
-          ['Package C', 'Φ98 mm', 'Enhanced cooling'],
-          ['Package D', '90 × 70 × 15 mm', 'Rack mount']
-        ]
-      
-```
+headers: ['Type', 'Specification', 'Remark'],
+rows: [
+  ['Package A', 'Φ45 mm', 'Compact size'],
+  ['Package B', 'Φ60 mm', 'Standard size'],
+  ['Package C', 'Φ98 mm', 'Enhanced cooling'],
+  ['Package D', '90 × 70 × 15 mm', 'Rack mount']
+]
 
-      <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
-      #### Fiber Options
-      
-```json
+  <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
+  #### Fiber Options
+  
 {
-        headers: ['Type', 'Specification'],
-        rows: [
-          ['Standard', '80/170 μm SM'],
-          ['Optional', '125/250 μm SM'],
-          ['Jumper', 'SMF-28e, 900 μm']
-        ]
-      
-```
+headers: ['Type', 'Specification'],
+rows: [
+  ['Standard', '80/170 μm SM'],
+  ['Optional', '125/250 μm SM'],
+  ['Jumper', 'SMF-28e, 900 μm']
+]
 
-      #### Environmental Specification
-      
-```json
+#### Environmental Specification
+  
 {
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Working Temperature', '°C', '-10~+60']
-        ]
-      
-```
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Working Temperature', '°C', '-10~+60']
+]
 
     
   
 
 ---
-
-*This document is automatically generated from source file `navigation\fog\light-source\D-Q-TQG-YGFZ15GB.mdx` *
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/ase-light-source-ygfz15gb/](https://www.gnc-tech.com/products/ase-light-source-ygfz15gb/)

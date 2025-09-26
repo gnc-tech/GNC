@@ -24,209 +24,148 @@
 
 ## 📖 Detailed Technical Information
 
-
 ## D-Q-TQG-HXG46JZ100
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The medium-precision fiber optic coil is engineered using fine-diameter fiber and advanced coating technology, backed by 20 years of research and production expertise. This coil delivers enhanced performance for applications requiring higher precision and stability.
-  
+The medium-precision fiber optic coil is engineered using fine-diameter fiber and advanced coating technology, backed by 20 years of research and production expertise. This coil delivers enhanced performance for applications requiring higher precision and stability.
 
-  
-### slider
+### Product Images
 
-    
-#### Product Images
+![Product Image](https://www.gnc-tech.com/products/navigation/fog/foc/D-Q-TQG-HXG46JZ/D-Q-TQG-HXG46JZ-Slide-01.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/D-Q-TQG-HXG46JZ-Slide-01.webp)
+![Product Image](https://www.gnc-tech.com/products/navigation/fog/foc/D-Q-TQG-HXG46JZ/D-Q-TQG-HXG46JZ-Slide-02.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/D-Q-TQG-HXG46JZ-Slide-02.webp)
+### Features
 
+- High reliability
+- Batch consistency
+- Excellent temperature and vibration performance
 
-  
-
-  
-### features
-
-    - High reliability
-    - Batch consistency
-    - Excellent temperature and vibration performance
-  
-
-  
 ### customization
 
-    - Customizable dimensions and length
-    - Available with or without skeleton design
-    - UV-cured and thermal-cured adhesive options
-    - Flexible winding pattern customization
+- Customizable dimensions and length
+- Available with or without skeleton design
+- UV-cured and thermal-cured adhesive options
+- Flexible winding pattern customization
+
+### Applications
+
+- High-precision fiber optic gyroscopes (FOG)
+- Advanced inertial navigation systems
+- Precision attitude measurement devices
+- Industrial control equipment
+
+### Specifications
+
+#### Geometry Parameters
   
+{
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Inner Diameter', 'mm', '80.0±0.1'],
+  ['Outer Diameter', 'mm', '≤100.0'],
+  ['Mean Diameter', 'mm', '90.0±0.5'],
+  ['Height', 'mm', '25.0±0.1']
+]
 
+#### Optical Parameters
   
-### applications
+{
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Fiber Length', 'm', '1000±10'],
+  ['Attenuation Coefficient', 'dB/km', '≤-0.7'],
+  ['Crosstalk (Normal Temp.)', 'dB', '≤-25'],
+  ['Crosstalk (Full Temp.)', 'dB', '≤-22']
+]
 
-    - High-precision fiber optic gyroscopes (FOG)
-    - Advanced inertial navigation systems
-    - Precision attitude measurement devices
-    - Industrial control equipment
+#### Performance Parameters
   
+{
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Bias', '°/h', '≤0.5'],
+  ['Thermal Drift', '°/h', '≤0.7'],
+  ['Magnetic Drift', '°/h/G', '≤0.6'],
+  ['Scale Factor Stability (Normal Temp.)', 'ppm', '≤30'],
+  ['Scale Factor Stability (Full Temp.)', 'ppm', '≤1500'],
+  ['Random Walk Coefficient', '°/√h', '≤0.008']
+]
 
+#### Environmental Parameters
   
-### specifications
-
-    
-      #### Geometry Parameters
-      
-```json
 {
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Inner Diameter', 'mm', '80.0±0.1'],
-          ['Outer Diameter', 'mm', '≤100.0'],
-          ['Mean Diameter', 'mm', '90.0±0.5'],
-          ['Height', 'mm', '25.0±0.1']
-        ]
-      
-```
-
-
-      #### Optical Parameters
-      
-```json
-{
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Fiber Length', 'm', '1000±10'],
-          ['Attenuation Coefficient', 'dB/km', '≤-0.7'],
-          ['Crosstalk (Normal Temp.)', 'dB', '≤-25'],
-          ['Crosstalk (Full Temp.)', 'dB', '≤-22']
-        ]
-      
-```
-
-
-      #### Performance Parameters
-      
-```json
-{
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Bias', '°/h', '≤0.5'],
-          ['Thermal Drift', '°/h', '≤0.7'],
-          ['Magnetic Drift', '°/h/G', '≤0.6'],
-          ['Scale Factor Stability (Normal Temp.)', 'ppm', '≤30'],
-          ['Scale Factor Stability (Full Temp.)', 'ppm', '≤1500'],
-          ['Random Walk Coefficient', '°/√h', '≤0.008']
-        ]
-      
-```
-
-
-      #### Environmental Parameters
-      
-```json
-{
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Operating Temperature', '°C', '-45~+80'],
-          ['MTTF', 'Yr.', '≥20']
-        ]
-      
-```
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Operating Temperature', '°C', '-45~+80'],
+  ['MTTF', 'Yr.', '≥20']
+]
 
     
   
-
-
 
 ## D-Q-TQG-HXG46JZ120
 
-  
 ### overview
 
-  
-### slider
+### Product Images
 
-  
-### features
+### Features
 
-  
 ### customization
 
+### Applications
+
+### Specifications
+
+#### Geometry Parameters
   
-### applications
+{
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Inner Diameter', 'mm', '90.0±0.1'],
+  ['Outer Diameter', 'mm', '≤120.0'],
+  ['Mean Diameter', 'mm', '105.0±0.5'],
+  ['Height', 'mm', '25.0±0.1']
+]
 
+#### Optical Parameters
   
-### specifications
-
-    
-      #### Geometry Parameters
-      
-```json
 {
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Inner Diameter', 'mm', '90.0±0.1'],
-          ['Outer Diameter', 'mm', '≤120.0'],
-          ['Mean Diameter', 'mm', '105.0±0.5'],
-          ['Height', 'mm', '25.0±0.1']
-        ]
-      
-```
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Fiber Length', 'm', '1500±10'],
+  ['Attenuation Coefficient', 'dB/km', '≤-0.6'],
+  ['Crosstalk (Normal Temp.)', 'dB', '≤-22'],
+  ['Crosstalk (Full Temp.)', 'dB', '≤-18']
+]
 
-
-      #### Optical Parameters
-      
-```json
+#### Performance Parameters
+  
 {
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Fiber Length', 'm', '1500±10'],
-          ['Attenuation Coefficient', 'dB/km', '≤-0.6'],
-          ['Crosstalk (Normal Temp.)', 'dB', '≤-22'],
-          ['Crosstalk (Full Temp.)', 'dB', '≤-18']
-        ]
-      
-```
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Bias', '°/h', '≤0.03'],
+  ['Thermal Drift', '°/h', '≤0.05'],
+  ['Magnetic Drift', '°/h/G', '≤0.04'],
+  ['Scale Factor Stability (Normal Temp.)', 'ppm', '≤20'],
+  ['Scale Factor Stability (Full Temp.)', 'ppm', '≤1200'],
+  ['Random Walk Coefficient', '°/√h', '≤0.003']
+]
 
-
-      #### Performance Parameters
-      
-```json
+#### Environmental Parameters
+  
 {
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Bias', '°/h', '≤0.03'],
-          ['Thermal Drift', '°/h', '≤0.05'],
-          ['Magnetic Drift', '°/h/G', '≤0.04'],
-          ['Scale Factor Stability (Normal Temp.)', 'ppm', '≤20'],
-          ['Scale Factor Stability (Full Temp.)', 'ppm', '≤1200'],
-          ['Random Walk Coefficient', '°/√h', '≤0.003']
-        ]
-      
-```
-
-
-      #### Environmental Parameters
-      
-```json
-{
-        headers: ['Parameter', 'Unit', 'Value'],
-        rows: [
-          ['Operating Temperature', '°C', '-45~+80'],
-          ['MTTF', 'Yr.', '≥20']
-        ]
-      
-```
+headers: ['Parameter', 'Unit', 'Value'],
+rows: [
+  ['Operating Temperature', '°C', '-45~+80'],
+  ['MTTF', 'Yr.', '≥20']
+]
 
     
   
 
 ---
-
-*This document is automatically generated from source file `navigation\fog\foc\D-Q-TQG-HXG46JZ.mdx` *
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/fiber-coil-hxg46jz/](https://www.gnc-tech.com/products/fiber-coil-hxg46jz/)

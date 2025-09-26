@@ -23,98 +23,67 @@
 
 ## 📖 Detailed Technical Information
 
-
 ## Z-Q-XXSMRSS
 
+### Overview
+
+The **ZQXXSMRSS** series integrates four identical silicon avalanche photodiodes in a single module with a built-in preamplifier circuit, enabling weak current signal amplification and conversion to voltage signal output, achieving "optical-electrical-signal amplification" conversion process.
+
+### Product Images
+
+![Product Image](https://www.gnc-tech.com/products/guidance/laser-quadrant/Z-Q-XXSMRSS/Z-Q-XXSMRSS-Slide-01.webp)
+
+### Features
+
+- Front-illuminated chip structure
+- High detector sensitivity
+
+### Applications
+
+- Laser guidance
+- Laser communication docking
+- Laser positioning
+
+### Specifications
+
+#### Package Parameters
   
-### overview
-
-    # Overview
-    ---
-    The **ZQXXSMRSS** series integrates four identical silicon avalanche photodiodes in a single module with a built-in preamplifier circuit, enabling weak current signal amplification and conversion to voltage signal output, achieving "optical-electrical-signal amplification" conversion process.
-  
-
-  
-### slider
-
-    
-#### Product Images
-
-![Product Image](https://www.gnc-tech.com/images/products/Z-Q-XXSMRSS-Slide-01.webp)
-
-
-  
-
-  
-### features
-
-    - Front-illuminated chip structure
-    - High detector sensitivity
-  
-
-  
-### applications
-
-    - Laser guidance
-    - Laser communication docking
-    - Laser positioning
-  
-
-  
-### specifications
-
-    
-      #### Package Parameters
-      
-```json
 {
-        headers: ['Model', 'Package Type'],
-        rows: [
-          ['ZQXXSMRSS01', 'TO-8'],
-          ['ZQXXSMRSS02', 'KF08'],
-          ['ZQXXSMRSS03', 'TO (32*15.8mm)'],
-          ['ZQXXSMRSS04', 'TO (24*7mm)']
-        ]
-      
-```
+headers: ['Model', 'Package Type'],
+rows: [
+  ['ZQXXSMRSS01', 'TO-8'],
+  ['ZQXXSMRSS02', 'KF08'],
+  ['ZQXXSMRSS03', 'TO (32*15.8mm)'],
+  ['ZQXXSMRSS04', 'TO (24*7mm)']
+]
 
-
-      #### Electrical Parameters (@Ta=22±3°C)
-      
-```json
+#### Electrical Parameters (@Ta=22±3°C)
+  
 {
-        headers: ['Model', 'Operating Voltage(V)', 'Responsivity(kV/W)\nM=100, λ=1064nm', 'RMS Noise(mV)', 'Maximum Output Swing(V)', 'Gain Control Stage and Factor', 'Signal Polarity'],
-        rows: [
-          ['ZQXXSMRSS01', '±5', '280', '3', '4', 'Single stage', 'Positive'],
-          ['ZQXXSMRSS02', '±5', '1500', '5', '11', 'Dual stage (2, 18 times)', 'Negative'],
-          ['ZQXXSMRSS03', '+12', '1000', '3', '5', 'Single stage (4, 3.5~4 times)', 'Positive'],
-          ['ZQXXSMRSS04', '±5', '100', '3', '4', 'Dual stage (2, 16 times)', 'Negative']
-        ]
-      
-```
+headers: ['Model', 'Operating Voltage(V)', 'Responsivity(kV/W)\nM=100, λ=1064nm', 'RMS Noise(mV)', 'Maximum Output Swing(V)', 'Gain Control Stage and Factor', 'Signal Polarity'],
+rows: [
+  ['ZQXXSMRSS01', '±5', '280', '3', '4', 'Single stage', 'Positive'],
+  ['ZQXXSMRSS02', '±5', '1500', '5', '11', 'Dual stage (2, 18 times)', 'Negative'],
+  ['ZQXXSMRSS03', '+12', '1000', '3', '5', 'Single stage (4, 3.5~4 times)', 'Positive'],
+  ['ZQXXSMRSS04', '±5', '100', '3', '4', 'Dual stage (2, 16 times)', 'Negative']
+]
 
-
-      #### Common Parameters for All Models
-      
-```json
+#### Common Parameters for All Models
+  
 {
-        headers: ['Parameter', 'Value'],
-        rows: [
-          ['Active Area Diameter', '4.0mm (Quadrant gap line width 0.1mm)'],
-          ['Spectral Range', '400~1100nm'],
-          ['Breakdown Voltage', '-400~-500V'],
-          ['Quadrant Non-uniformity', '5%'],
-          ['Crosstalk', '5%'],
-          ['Operating Temperature Coefficient', '3.2V/°C (Ta=-45°C~70°C)']
-        ]
-      
-```
+headers: ['Parameter', 'Value'],
+rows: [
+  ['Active Area Diameter', '4.0mm (Quadrant gap line width 0.1mm)'],
+  ['Spectral Range', '400~1100nm'],
+  ['Breakdown Voltage', '-400~-500V'],
+  ['Quadrant Non-uniformity', '5%'],
+  ['Crosstalk', '5%'],
+  ['Operating Temperature Coefficient', '3.2V/°C (Ta=-45°C~70°C)']
+]
 
     
   
 
 ---
-
-*This document is automatically generated from source file `guidance\laser-quadrant\Z-Q-XXSMRSS.mdx` *
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/apd-quadrant-module-zqxxsmrss/](https://www.gnc-tech.com/products/apd-quadrant-module-zqxxsmrss/)

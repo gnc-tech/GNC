@@ -1,0 +1,1696 @@
+{
+  "siteInfo": {
+    "siteName": "GNC Tech",
+    "siteBaseUrl": "https://gnc-tech.com"
+  },
+  "products": [
+    {
+      "title": "High-Precision Advanced Control System for Aerospace Applications",
+      "description": "Advanced linear electric actuator system with high precision control and multiple configuration options",
+      "keywords": [
+        "High-Precision Linear Electric Actuator",
+        "Linear Actuator",
+        "Precision Control",
+        "Guided Weapons",
+        "Aerospace Applications",
+        "actuator",
+        "control system",
+        "precision control",
+        "high-precision",
+        "advanced",
+        "control",
+        "aerospace"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/servos/K-JD-XZ60D200/K-JD-XZ60D200-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/linear-actuator-xz60d200",
+      "date": null,
+      "model": "XZ60D200"
+    },
+    {
+      "title": "High-Precision Compact Advanced Control System for Aerospace Applications",
+      "description": "Advanced rotary electric actuator system featuring high-precision control, high reliability, and compact design for precision-guided applications",
+      "keywords": [
+        "High-Precision Rotary Electric Actuator",
+        "Rotary Actuator",
+        "Precision Control",
+        "Precision-Guided Weapons",
+        "Aerospace Applications",
+        "actuator",
+        "control system",
+        "precision control",
+        "high-precision",
+        "compact",
+        "advanced",
+        "control",
+        "aerospace"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/servos/K-JD-ZX10D040/K-JD-ZX10D040-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/rotary-actuator-zx10d040",
+      "date": null,
+      "model": "ZX10D040"
+    },
+    {
+      "title": "High-Voltage Thermal Battery System",
+      "description": "High-voltage thermal battery series with voltage ranges from 82V to 150V, featuring power output up to 4400W and capacities from 880As to 40000As",
+      "keywords": [
+        "100V Thermal Battery",
+        "135V Thermal Battery",
+        "150V Thermal Battery",
+        "High-Voltage Thermal Battery",
+        "thermal battery",
+        "battery system",
+        "energy storage",
+        "power system",
+        "high voltage",
+        "power electronics",
+        "high-voltage",
+        "thermal",
+        "battery"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/thermal-battery/K-CDR-1XXFLX/K-CDR-1XXFLX-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/thermal-battery-100v-150v",
+      "date": null,
+      "model": "CDR157FLX"
+    },
+    {
+      "title": "Compact Thermal Battery System",
+      "description": "28V thermal battery series offering flexible power solutions from 35g to 6.2kg, with operating durations from 60s to 3600s and fast activation under 0.5s",
+      "keywords": [
+        "28V Thermal Battery",
+        "Flexible Power Solutions",
+        "High-Performance",
+        "Compact Design",
+        "thermal battery",
+        "battery system",
+        "energy storage",
+        "power system",
+        "compact",
+        "thermal",
+        "battery"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/thermal-battery/K-CDR-28FLX/K-CDR-28FLX-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/thermal-battery-28v",
+      "date": null,
+      "model": "CDR028FLX"
+    },
+    {
+      "title": "High-Voltage Thermal Battery System",
+      "description": "50V-56V thermal battery series featuring capacities from 450As to 18000As, with ultra-fast activation times and pulse currents up to 120A",
+      "keywords": [
+        "50V Thermal Battery",
+        "54V Thermal Battery",
+        "55V Thermal Battery",
+        "56V Thermal Battery",
+        "High-Voltage Thermal Battery",
+        "thermal battery",
+        "battery system",
+        "energy storage",
+        "power system",
+        "high-voltage",
+        "thermal",
+        "battery"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/thermal-battery/K-CDR-5XFLX/K-CDR-5XFLX-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/thermal-battery-50v-56v",
+      "date": null,
+      "model": "CDR56FLX"
+    },
+    {
+      "title": "High-Voltage Thermal Battery System",
+      "description": "90V thermal battery series with voltage range 71.6V-100V, featuring capacities from 400As to 24000As and pulse currents up to 180A",
+      "keywords": [
+        "90V Thermal Battery",
+        "High-Voltage Thermal Battery",
+        "Large Capacities",
+        "High Pulse Currents",
+        "thermal battery",
+        "battery system",
+        "energy storage",
+        "power system",
+        "high-voltage",
+        "thermal",
+        "battery"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/thermal-battery/K-CDR-90FLX/K-CDR-90FLX-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/thermal-battery-90v",
+      "date": null,
+      "model": "CDR090FLX"
+    },
+    {
+      "title": "Thermal Battery System",
+      "description": "Ultra-fast activation thermal battery for aircraft ejection systems",
+      "keywords": [
+        "Fast Activation Thermal Battery",
+        "Ultra-fast Activation",
+        "Aircraft Ejection Systems",
+        "thermal battery",
+        "battery system",
+        "energy storage",
+        "power system",
+        "thermal",
+        "battery"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/thermal-battery/K-RFX-JK100MH/K-RFX-JK100MH-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/thermal-battery-fast-activation",
+      "date": null,
+      "model": "FXJK100MH"
+    },
+    {
+      "title": "Thermal Battery System for Missile Systems",
+      "description": "Extended duration thermal battery for long-range missile systems",
+      "keywords": [
+        "Long Operating Time Thermal Battery",
+        "Extended Duration",
+        "Long-Range Missile Systems",
+        "Loitering Munitions",
+        "thermal battery",
+        "battery system",
+        "energy storage",
+        "power system",
+        "thermal",
+        "battery",
+        "missile",
+        "systems"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/thermal-battery/K-RFX-SC5800M/K-RFX-SC5800M-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/thermal-battery-long-operating-time",
+      "date": null,
+      "model": "FXSC5800M"
+    },
+    {
+      "title": "Ultra-Lightweight Thermal Battery System for Military Applications",
+      "description": "Ultra-lightweight thermal battery for individual soldier-carried weapons",
+      "keywords": [
+        "Micro Thermal Battery",
+        "Ultra-lightweight",
+        "Individual Soldier-Carried Weapons",
+        "Portable Military Applications",
+        "thermal battery",
+        "battery system",
+        "energy storage",
+        "power system",
+        "ultra-lightweight",
+        "thermal",
+        "battery",
+        "military"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/thermal-battery/K-RFX-XW13X28/K-RFX-XW13X28-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/thermal-battery-micro",
+      "date": null,
+      "model": "FXXW13X28"
+    },
+    {
+      "title": "High-Voltage Thermal Battery System for Underwater Applications",
+      "description": "High-performance thermal battery pack for underwater weapon systems",
+      "keywords": [
+        "High-Voltage Thermal Battery",
+        "Ultra-High-Power Pack",
+        "Underwater Weapon Systems",
+        "High-Speed Naval Applications",
+        "thermal battery",
+        "battery system",
+        "energy storage",
+        "power system",
+        "high-voltage",
+        "thermal",
+        "battery",
+        "underwater"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/control/thermal-battery/K-RFX-YG1LGGC/K-RFX-YG1LGGC-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/thermal-battery-high-voltage",
+      "date": null,
+      "model": "FXYG1LGGC"
+    },
+    {
+      "title": "Control System",
+      "description": "High-performance CMOS imaging series with multi-resolution options, featuring automatic exposure control and external triggering capabilities",
+      "keywords": [
+        "Visible Light CMOS Imaging Component Series",
+        "High-Performance CMOS Imaging Series",
+        "Multi-Resolution Options",
+        "Automatic Exposure Control",
+        "External Triggering",
+        "control"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/guidance/cmos-tv/Z-HY-GJKSSJQ/Z-HY-GJKSSJQ-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/cmos-imager-visible-light-gjkssjq",
+      "date": null,
+      "model": "HYGJKSSJQ"
+    },
+    {
+      "title": "MLZ128YS System",
+      "description": "High-performance cooled infrared detector series featuring 15μm, 30μm, and 50μm pixel size options for diverse application scenarios",
+      "keywords": [
+        "MW 128×128 Cooled Detector Assembly",
+        "High-Performance Cooled Infrared Detector",
+        "15μm, 30μm, 50μm Pixel Size",
+        "Diverse Application Scenarios",
+        "mlz128ys"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/guidance/iir/Z-WH-MLZ128YS/Z-WH-MLZ128YS-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/cooled-detector-assembly-mlz128ys",
+      "date": null,
+      "model": "MLZ128YS"
+    },
+    {
+      "title": "ZQXXSDRSS System",
+      "description": "High-performance APD quadrant detector with four identical silicon avalanche photodiodes integrated in a single tube, featuring high responsivity at 1064nm",
+      "keywords": [
+        "APD Quadrant Detector Single-Tube Series",
+        "High-Performance APD Quadrant Detector",
+        "Silicon Avalanche Photodiodes",
+        "Single-Tube Design",
+        "High Responsivity",
+        "zqxxsdrss"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/guidance/laser-quadrant/Z-Q-XXSDRSS/Z-Q-XXSDRSS-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/apd-quadrant-detector-zqxxsdrss",
+      "date": null,
+      "model": "ZQXXSDRSS"
+    },
+    {
+      "title": "ZQXXSGDSS System",
+      "description": "High-performance single-tube PIN quadrant detectors with integrated four-quadrant design for precise laser beam positioning and tracking applications",
+      "keywords": [
+        "XXSGDSS",
+        "Single-Tube PIN Quadrant Detector Series",
+        "High-Performance PIN Quadrant Detector",
+        "Integrated Four-Quadrant Design",
+        "Precise Laser Beam Positioning",
+        "Laser Beam Tracking",
+        "zqxxsgdss"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/guidance/laser-quadrant/Z-Q-XXSGDSS/Z-Q-XXSGDSS-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/pin-quadrant-detector-zqxxsgdss",
+      "date": null,
+      "model": "ZQXXSGDSS"
+    },
+    {
+      "title": "ZQXXSMRSS System",
+      "description": "High-performance APD quadrant module with four identical silicon avalanche photodiodes and built-in preamplifier circuit, featuring optical-electrical-signal amplification conversion",
+      "keywords": [
+        "XXSMRSS",
+        "APD Quadrant Module Series",
+        "High-Performance APD Quadrant Module",
+        "Silicon Avalanche Photodiodes",
+        "Built-in Preamplifier Circuit",
+        "Optical-Electrical-Signal Amplification Conversion",
+        "zqxxsmrss"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/guidance/laser-quadrant/Z-Q-XXSMRSS/Z-Q-XXSMRSS-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/apd-quadrant-module-zqxxsmrss",
+      "date": null,
+      "model": "ZQXXSMRSS"
+    },
+    {
+      "title": "ZQXXSZMSS System",
+      "description": "High-performance PIN quadrant detector modules with integrated pre-amplifier circuit for optical-to-electrical signal conversion and amplification",
+      "keywords": [
+        "XXSZMSS",
+        "PIN Quadrant Detector Module Series",
+        "High-Performance PIN Quadrant Detector Module",
+        "Integrated Pre-Amplifier Circuit",
+        "Optical-to-Electrical Signal Conversion",
+        "Amplification",
+        "zqxxszmss"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/guidance/laser-quadrant/Z-Q-XXSZMSS/Z-Q-XXSZMSS-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/pin-quadrant-detector-module-zqxxszmss",
+      "date": null,
+      "model": "ZQXXSZMSS"
+    },
+    {
+      "title": "HXG46JD090 System",
+      "description": "Standard-precision fiber optic sensing coils with fine-diameter fiber design and UV-cured coating for fiber optic gyroscope applications",
+      "keywords": [
+        "HXG46JD",
+        "Standard-Precision Fiber Optic Coil",
+        "Fine-Diameter Fiber Design",
+        "UV-Cured Coating",
+        "Fiber Optic Gyroscope Applications",
+        "hxg46jd090"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/foc/D-Q-TQG-HXG46JD/D-Q-TQG-HXG46JD-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/fiber-coil-hxg46jd",
+      "date": null,
+      "model": "HXG46JD090"
+    },
+    {
+      "title": "High-Precision Advanced Navigation System",
+      "description": "High-precision fiber optic sensing coils with advanced winding technology and exceptional stability for demanding navigation and measurement applications",
+      "keywords": [
+        "HXG46JG",
+        "High-Precision Fiber Optic Coil",
+        "Advanced Winding Technology",
+        "Exceptional Stability",
+        "Navigation and Measurement Applications",
+        "high-precision",
+        "advanced",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/foc/D-Q-TQG-HXG46JG/D-Q-TQG-HXG46JG-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/fiber-coil-hxg46jg",
+      "date": null,
+      "model": "HXG46JG230"
+    },
+    {
+      "title": "HXG46JZ120 System",
+      "description": "Medium-precision fiber optic sensing coils with advanced winding technology and superior temperature stability for demanding applications",
+      "keywords": [
+        "HXG46JZ",
+        "Medium-Precision Fiber Optic Coil",
+        "Advanced Winding Technology",
+        "Superior Temperature Stability",
+        "hxg46jz120"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/foc/D-Q-TQG-HXG46JZ/D-Q-TQG-HXG46JZ-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/fiber-coil-hxg46jz",
+      "date": null,
+      "model": "HXG46JZ120"
+    },
+    {
+      "title": "HXG46XY715 System",
+      "description": "Specialized custom-shaped fiber optic coils with flexible design options to meet unique application requirements",
+      "keywords": [
+        "HXG46XY",
+        "Custom-Shaped Fiber Optic Coil",
+        "Flexible Design Options",
+        "Unique Application Requirements",
+        "Elliptical and Custom Shapes",
+        "hxg46xy715"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/foc/D-Q-TQG-HXG46XY/D-Q-TQG-HXG46XY-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/fiber-coil-custom-hxg46xy",
+      "date": null,
+      "model": "HXG46XY715"
+    },
+    {
+      "title": "GJPB980FY10 System",
+      "description": "High-reliability 980nm pump laser module optimized for fiber optic gyroscope applications",
+      "keywords": [
+        "GJPB980FY10",
+        "980nm High-Power Pump Laser",
+        "High-Reliability Pump Laser",
+        "Fiber Optic Gyroscope Applications",
+        "980nm Pump Laser Module",
+        "980nm Pump Laser",
+        "gjpb980fy10"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/light-source/D-Q-TQG-GJPB980FY10/D-Q-TQG-GJPB980FY10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/pump-laser-980nm-gjp980fy10",
+      "date": null,
+      "model": "GJPB980FY10"
+    },
+    {
+      "title": "YGFZ15GBP50 System",
+      "description": "Advanced ASE light source offering multiple spectral profiles for fiber optic gyroscope applications",
+      "keywords": [
+        "YGFZ15GB",
+        "High Performance ASE Light Source",
+        "Fiber Optic Gyroscope Applications",
+        "Multiple Spectral Profiles",
+        "Gaussian Spectral Profile",
+        "ygfz15gbp50"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/light-source/D-Q-TQG-YGFZ15GB/D-Q-TQG-YGFZ15GBG30-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/ase-light-source-ygfz15gb",
+      "date": null,
+      "model": "YGFZ15GBP50"
+    },
+    {
+      "title": "DBY011550M System",
+      "description": "A lithium niobate optical chip integrating essential components like a polarizer, splitter, and phase modulator for advanced applications",
+      "keywords": [
+        "DBY01",
+        "Standard Multi-functional Integrated Optical Chip",
+        "Lithium Niobate Optical Chip",
+        "Polarizer",
+        "Splitter",
+        "Phase Modulator",
+        "Advanced Applications",
+        "dby011550m"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY01/D-Q-TQG-DBY011310M-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mioc-dby01",
+      "date": null,
+      "model": "DBY011550M"
+    },
+    {
+      "title": "DBY021550M System",
+      "description": "A mini lithium niobate optical chip designed for compact systems, integrating essential components while ensuring high performance and reliability",
+      "keywords": [
+        "DBY02",
+        "Miniaturized Multi-functional Integrated Optical Chip",
+        "Compact Systems",
+        "High Performance",
+        "Reliability",
+        "dby021550m"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY02/D-Q-TQG-DBY020830M-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mioc-dby02",
+      "date": null,
+      "model": "DBY021550M"
+    },
+    {
+      "title": "DBY031550H System",
+      "description": "A 1550nm lithium niobate optical chip with ultra-high extinction ratio, integrating essential optical components for advanced applications",
+      "keywords": [
+        "DBY03",
+        "High-Extinction Ratio Multi-functional Integrated Optical Chip",
+        "1550nm Lithium Niobate Optical Chip",
+        "Ultra-High Extinction Ratio",
+        "dby031550h"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY03/D-Q-TQG-DBY031550H-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mioc-dby03",
+      "date": null,
+      "model": "DBY031550H"
+    },
+    {
+      "title": "DBY041550L System",
+      "description": "A 1550nm lithium niobate optical chip with low half-wave voltage, integrating key optical components for advanced applications",
+      "keywords": [
+        "DBY04",
+        "Low Half-Wave Voltage Multi-functional Integrated Optical Chip",
+        "1550nm Lithium Niobate Optical Chip",
+        "Low Half-Wave Voltage",
+        "dby041550l"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY04/D-Q-TQG-DBY041550L-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mioc-dby04",
+      "date": null,
+      "model": "DBY041550L"
+    },
+    {
+      "title": "GJE46C020 System",
+      "description": "Advanced ceramic-packaged PIN-FET photodiode modules with superior noise performance and high reliability for precision fiber optic sensing applications",
+      "keywords": [
+        "GJE45C",
+        "Ceramic-Packaged PIN-FET Photodiode Module",
+        "High-Performance PIN-FET Photodiode",
+        "Precision Fiber Optic Sensing",
+        "Ceramic DIP8 Package",
+        "gje46c020"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/pin-fet/D-Q-TQG-GJE45C/D-Q-TQG-GJE45C028-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/pin-fet-photodiode-module-gje45c",
+      "date": null,
+      "model": "GJE46C020"
+    },
+    {
+      "title": "GJE45J216 System",
+      "description": "High-performance metal-packaged PIN-FET photodiode modules featuring low noise voltage and high sensitivity for fiber optic gyroscope applications",
+      "keywords": [
+        "GJE45J",
+        "Metal-Packaged PIN-FET Photodiode Module",
+        "High-Performance PIN-FET Photodiode",
+        "Fiber Optic Gyroscope Applications",
+        "Metal DIP14 Package",
+        "gje45j216"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/pin-fet/D-Q-TQG-GJE45J/D-Q-TQG-GJE45J027-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/pin-fet-photodiode-module-gje45j",
+      "date": null,
+      "model": "GJE45J216"
+    },
+    {
+      "title": "YFFB1550H980 System",
+      "description": "High-performance hybrid optical component integrating WDM and isolator functions for FOG applications",
+      "keywords": [
+        "YFFB1550H980",
+        "1550/980nm WDM Isolator Hybrid",
+        "High-Performance Hybrid Optical Component",
+        "Fiber Optic Gyroscope Applications",
+        "Wavelength Division Multiplexer",
+        "Optical Isolator",
+        "yffb1550h980"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/fog/wdm/D-Q-TQG-YFFB1550H980/D-Q-TQG-YFFB1550H980-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/wdm-isolator-hybrid-yffb1550h980",
+      "date": null,
+      "model": "YFFB1550H980"
+    },
+    {
+      "title": "YWJ01JG050 System",
+      "description": "Ultra-high precision gyroscopic theodolite with advanced automation for professional surveying and precise azimuth determination",
+      "keywords": [
+        "YWJ01JG",
+        "High Precision Gyro Theodolite Series",
+        "Ultra-High Precision",
+        "Advanced Automation",
+        "Professional Surveying",
+        "Precise Azimuth Determination",
+        "ywj01jg050"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01JG/D-TP-YWJ01JG035-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/gyro-theodolite-high-precision-ywj01jg",
+      "date": null,
+      "model": "YWJ01JG050"
+    },
+    {
+      "title": "YWJ01ZB150 System",
+      "description": "Professional gyro theodolite series offering reliable azimuth determination and precise angle measurement for various surveying applications",
+      "keywords": [
+        "YWJ01ZB",
+        "Standard Precision Gyro Theodolite Series",
+        "Reliable Azimuth Determination",
+        "Precise Angle Measurement",
+        "Surveying Applications",
+        "ywj01zb150"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01ZB/D-TP-YWJ01ZB025-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb",
+      "date": null,
+      "model": "YWJ01ZB150"
+    },
+    {
+      "title": "JDWDG070 System",
+      "description": "High-performance analog MEMS accelerometers with multiple measurement ranges, offering superior stability and reliability for precision sensing applications",
+      "keywords": [
+        "DG068-070",
+        "High-Precision Z/X-Axis MEMS Accelerometer Series",
+        "Multiple Measurement Ranges",
+        "Z-Axis and X-Axis Measurements",
+        "Precise Acceleration Sensing",
+        "jdwdg070"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/accelerometer/D-Q-JDW-DG068-070/D-Q-JDW-DG068-070-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-accelerometer-high-precision-dg068-070",
+      "date": null,
+      "model": "JDWDG070"
+    },
+    {
+      "title": "JDWDG076A System",
+      "description": "Analog output MEMS accelerometers offering excellent bias stability, low noise, and robust temperature performance for demanding applications",
+      "keywords": [
+        "DG075-76A",
+        "Dual-Axis MEMS Accelerometer Series",
+        "High-Precision MEMS Accelerometers",
+        "Dual-Axis Measurement",
+        "jdwdg076a"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/accelerometer/D-Q-JDW-DG075-76A/D-Q-JDW-DG075-76A-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-accelerometer-dual-axis-dg075-76a",
+      "date": null,
+      "model": "JDWDG076A"
+    },
+    {
+      "title": "Advanced Navigation System",
+      "description": "High-performance MEMS accelerometers with superior stability and precision for demanding industrial and navigation applications",
+      "keywords": [
+        "DG089-090",
+        "Advanced MEMS Accelerometer Series",
+        "High-Performance MEMS Accelerometers",
+        "Superior Stability and Precision",
+        "Demanding Industrial and Navigation Applications",
+        "advanced",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/accelerometer/D-Q-JDW-DG089-090/D-Q-JDW-DG089-090-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-accelerometer-advanced-dg089-090",
+      "date": null,
+      "model": "JDWDG090"
+    },
+    {
+      "title": "Advanced Control System",
+      "description": "High-performance MEMS accelerometers with advanced stability control and precise measurement capabilities",
+      "keywords": [
+        "DG72B-72C",
+        "Precision MEMS Accelerometer Series",
+        "Advanced Stability Control",
+        "Precise Measurement Capabilities",
+        "advanced",
+        "control"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/accelerometer/D-Q-JDW-DG72B-72C/D-Q-JDW-DG72B-72C-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-accelerometer-high-precision-dg72b-72c",
+      "date": null,
+      "model": "JDWDG072C"
+    },
+    {
+      "title": "JDWDG083 System",
+      "description": "Advanced MEMS gyroscopes offering multiple measurement ranges with superior stability and precision for demanding applications",
+      "keywords": [
+        "DG073-083",
+        "High-Performance MEMS Gyroscope Series",
+        "Advanced MEMS Gyroscopes",
+        "Multiple Measurement Ranges",
+        "jdwdg083"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-DG073-083/D-Q-JDW-DG073-083-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-gyroscope-advanced-dg073-083",
+      "date": null,
+      "model": "JDWDG083"
+    },
+    {
+      "title": "JDWDG088 System",
+      "description": "Advanced MEMS gyroscopes featuring exceptional stability and precision for high-performance angular rate measurement applications",
+      "keywords": [
+        "DG084-088",
+        "High-Stability MEMS Gyroscope Series",
+        "Exceptional Stability and Precision",
+        "High-Performance Angular Rate Measurement",
+        "jdwdg088"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-DG084-088/D-Q-JDW-DG084-088-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-gyroscope-high-stability-dg084-088",
+      "date": null,
+      "model": "JDWDG088"
+    },
+    {
+      "title": "LTM210S10 System",
+      "description": "High-precision, tactical-grade MEMS gyroscope for demanding inertial applications",
+      "keywords": [
+        "LTM210S10",
+        "Tactical-Grade MEMS Gyroscope",
+        "High-Precision Gyroscope",
+        "Aerospace Gyroscope",
+        "ltm210s10"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-LTM210S10/D-Q-JDW-LTM210S10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-gyroscope-tactical-grade-ltm210s10",
+      "date": null,
+      "model": "LTM210S10"
+    },
+    {
+      "title": "JDWZZ3411 System",
+      "description": "High-performance dual-axis MEMS gyroscope with ±300°/s measurement range, featuring superior zero bias stability (≤1°/h) and excellent scale factor characteristics",
+      "keywords": [
+        "ZZ3411",
+        "Dual-Axis MEMS Gyroscope",
+        "High-Performance MEMS Gyroscope",
+        "Precise Angular Rate Measurement",
+        "Dual-Axis Motion Sensing",
+        "jdwzz3411"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-ZZ3411/D-Q-JDW-ZZ3411-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-gyroscope-dual-axis-zz3411",
+      "date": null,
+      "model": "JDWZZ3411"
+    },
+    {
+      "title": "JDWZZ3416B System",
+      "description": "Advanced three-axis MEMS gyroscope module featuring ±400°/s measurement range with superior zero bias stability and comprehensive signal processing capabilities",
+      "keywords": [
+        "ZZ3416",
+        "High-Performance Three-Axis MEMS Gyroscope Module",
+        "Advanced Three-Axis MEMS Gyroscope",
+        "Comprehensive Signal Processing",
+        "jdwzz3416b"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-ZZ3416/D-Q-JDW-ZZ3416-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-gyroscope-3-axis-zz3416",
+      "date": null,
+      "model": "JDWZZ3416B"
+    },
+    {
+      "title": "CGM300S10 System",
+      "description": "High-performance MEMS IMU combining gyroscopes, accelerometers, and inclinometers in a compact design",
+      "keywords": [
+        "CGM300S10",
+        "Tactical-Grade MEMS IMU",
+        "High-Precision IMU",
+        "STIM300-Compatible IMU",
+        "cgm300s10"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-CGM300S10/D-Q-JDW-CGM300S10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-imu-tactical-grade-cgm300s10",
+      "date": null,
+      "model": "CGM300S10"
+    },
+    {
+      "title": "CGM66EK10 System",
+      "description": "High-performance MEMS IMU with integrated three-axis gyroscope and accelerometer",
+      "keywords": [
+        "CGM66EK10",
+        "MEMS IMU",
+        "Inertial Measurement Unit",
+        "Three-axis IMU",
+        "cgm66ek10"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-CGM66EK10/D-Q-JDW-CGM66EK10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-imu-3-axis-cgm66ek10",
+      "date": null,
+      "model": "CGM66EK10"
+    },
+    {
+      "title": "CGM91AD10 System",
+      "description": "A highly compatible alternative to ADIS16495, featuring precision tactical-grade 6DoF inertial measurement",
+      "keywords": [
+        "CGM91AD10",
+        "Tactical-Grade IMU",
+        "ADIS16495 Alternative",
+        "6DoF Inertial Sensor",
+        "cgm91ad10"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-CGM91AD10/D-Q-JDW-CGM91AD10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-imu-6-dof-cgm91ad10",
+      "date": null,
+      "model": "CGM91AD10"
+    },
+    {
+      "title": "High-Precision Sensor Module",
+      "description": "High-precision 10DoF IMU integrating gyroscopes, accelerometers, magnetometers, and barometric pressure sensor",
+      "keywords": [
+        "CGM92AD10",
+        "Tactical-Grade 10DoF IMU",
+        "ADIS16488 Alternative",
+        "10DoF Inertial Sensor",
+        "high-precision",
+        "sensor",
+        "module"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-CGM92AD10/D-Q-JDW-CGM92AD10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-imu-10-dof-cgm92ad10",
+      "date": null,
+      "model": "CGM92AD10"
+    },
+    {
+      "title": "JDWZZ1930B System",
+      "description": "Advanced 6-DOF MEMS IMU integrating three-axis gyroscope and accelerometer, featuring superior zero bias stability, excellent scale factor characteristics, and outstanding shock resistance capable of withstanding environments exceeding 10000g",
+      "keywords": [
+        "ZZ1930",
+        "High-Performance 6-DOF MEMS Inertial Measurement Unit",
+        "Shock Resistance >10000g",
+        "Advanced 6-DOF MEMS IMU",
+        "Superior Zero Bias Stability",
+        "jdwzz1930b"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-ZZ1930/D-Q-JDW-ZZ1930-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-imu-6-dof-zz1930",
+      "date": null,
+      "model": "JDWZZ1930B"
+    },
+    {
+      "title": "JDWZZ3414 System",
+      "description": "Advanced MEMS IMU integrating gyroscope (±4000°/s) and accelerometer (±30g), offering multi-level performance options, exceptional stability, and robust design specifically engineered for demanding applications requiring shock resistance above 10000g",
+      "keywords": [
+        "ZZ3414",
+        "High-Performance MEMS 6-DOF IMU",
+        "±4000°/s, ±30g, Shock Resistance >10000g",
+        "Advanced MEMS IMU",
+        "Robust Design",
+        "jdwzz3414"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-ZZ3414/D-Q-JDW-ZZ3414-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-imu-6-dof-zz3414",
+      "date": null,
+      "model": "JDWZZ3414"
+    },
+    {
+      "title": "JDWZZ3415 System",
+      "description": "Advanced MEMS micro-IMU integrating three-axis gyroscope (±3600°/s) and three-axis accelerometer (±20g), featuring superior stability and precision performance",
+      "keywords": [
+        "ZZ3415",
+        "High-Performance MEMS Micro-Inertial Measurement Unit",
+        "Advanced MEMS Micro-IMU",
+        "Superior Stability and Precision",
+        "jdwzz3415"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-ZZ3415/D-Q-JDW-ZZ3415-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-imu-micro-zz3415",
+      "date": null,
+      "model": "JDWZZ3415"
+    },
+    {
+      "title": "Advanced Sensor Module",
+      "description": "Advanced 9-DOF MEMS IMU integrating three-axis gyroscope, accelerometer, and magnetic sensor, featuring exceptional stability and comprehensive motion sensing capabilities",
+      "keywords": [
+        "ZZ3430",
+        "High-Performance 9-DOF MEMS Inertial Measurement Unit",
+        "Exceptional Stability and Comprehensive Motion Sensing",
+        "Advanced 9-DOF MEMS IMU",
+        "advanced",
+        "sensor",
+        "module"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-ZZ3430/D-Q-JDW-ZZ3430-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/mems-imu-9-dof-zz3430",
+      "date": null,
+      "model": "JDWZZ3430D"
+    },
+    {
+      "title": "Compact Sensor Module for Aerospace Applications",
+      "description": "High-performance inertial sensor optimized for compact aerospace, defense, and industrial applications",
+      "keywords": [
+        "BJGM18T01",
+        "Miniature Tactical-Grade Accelerometer",
+        "Compact Accelerometer",
+        "Aerospace Accelerometer",
+        "aerospace technology",
+        "defense systems",
+        "compact",
+        "sensor",
+        "module",
+        "aerospace"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-BJGM18T01/D-Q-BYS-BJGM18T01-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/qac-accelerometer-miniature-bjgm18t01",
+      "date": null,
+      "model": "BJGM18T01"
+    },
+    {
+      "title": "High-Precision Navigation System",
+      "description": "High-precision, large-range inertial navigation-grade accelerometer",
+      "keywords": [
+        "BJGM25A01",
+        "Quartz Flexure Accelerometer",
+        "Inertial Navigation",
+        "US Standard",
+        "high-precision",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-BJGM25A01/D-Q-BYS-BJGM25A01-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/qac-accelerometer-flexure-bjgm25a01",
+      "date": null,
+      "model": "BJGM25A01"
+    },
+    {
+      "title": "High-Precision Navigation System for Aerospace Applications",
+      "description": "High-performance, navigation-grade accelerometer for aerospace, industrial, and defense applications",
+      "keywords": [
+        "BJGM25N01",
+        "Navigation Grade Accelerometer",
+        "High-Precision Accelerometer",
+        "Aerospace Accelerometer",
+        "aerospace technology",
+        "defense systems",
+        "high-precision",
+        "navigation",
+        "aerospace"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-BJGM25N01/D-Q-BYS-BJGM25N01-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/qac-accelerometer-navigation-bjgm25n01",
+      "date": null,
+      "model": "BJGM25N01"
+    },
+    {
+      "title": "High-Precision Navigation System",
+      "description": "Miniaturized, high-precision, large-range inertial tactical & navigation-grade accelerometer with excellent stability, repeatability, and reliability",
+      "keywords": [
+        "JDSJ18TK01",
+        "Quartz Flexure Accelerometer",
+        "Inertial Navigation",
+        "high-precision",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-JDSJ18TK01/D-Q-BYS-JDSJ18TK01-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj18tk01",
+      "date": null,
+      "model": "JDSJ18TK01"
+    },
+    {
+      "title": "High-Precision Navigation System",
+      "description": "High-precision inertial navigation-grade sensor renowned for exceptional long-term stability, repeatability, and high reliability",
+      "keywords": [
+        "JDSJ25TK01",
+        "Quartz Flexure Accelerometer",
+        "Inertial Navigation",
+        "high-precision",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-JDSJ25TK01/D-Q-BYS-JDSJ25TK01-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk01",
+      "date": null,
+      "model": "JDSJ25TK01"
+    },
+    {
+      "title": "High-Precision Navigation System",
+      "description": "High-precision, high-range inertial navigation-grade accelerometer featuring excellent stability, repeatability, and reliability for applications up to 100g",
+      "keywords": [
+        "JDSJ25TK02",
+        "Quartz Flexure Accelerometer",
+        "Inertial Navigation",
+        "high-precision",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-JDSJ25TK02/D-Q-BYS-JDSJ25TK02-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk02",
+      "date": null,
+      "model": "JDSJ25TK02"
+    },
+    {
+      "title": "High-Precision Advanced Control System",
+      "description": "Advanced quartz pendulum components featuring precise dimensional control and superior metallization for accelerometer applications",
+      "keywords": [
+        "PBYS18D22",
+        "High-Precision Quartz Pendulum",
+        "Quartz Pendulum Components",
+        "Accelerometer Applications",
+        "high-precision",
+        "advanced",
+        "control"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-PBYS18D22/D-Q-BYS-PBYS18D22-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-pendulum-pbys18d22",
+      "date": null,
+      "model": "PBYS18D22"
+    },
+    {
+      "title": "BJTB20CJ01 System",
+      "description": "Single-axis, high-reliability quartz MEMS accelerometer with digital output, compact size, and robust performance.",
+      "keywords": [
+        "BJTB20CJ01",
+        "Quartz MEMS Accelerometer",
+        "Single-axis",
+        "Digital Output",
+        "High Reliability",
+        "bjtb20cj01"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/accelerometer/D-Q-JDW-BJTB20CJ01/D-Q-JDW-BJTB20CJ01-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-accelerometer-bjtb20cj01",
+      "date": null,
+      "model": "BJTB20CJ01"
+    },
+    {
+      "title": "LTTB10CJ01 System",
+      "description": "Single-axis, high-reliability quartz MEMS gyroscope with dual-tine fork structure, digital output, and robust performance.",
+      "keywords": [
+        "LTTB10CJ01",
+        "Quartz MEMS Gyroscope",
+        "Single-axis",
+        "Digital Output",
+        "Dual-tine Fork Structure",
+        "lttb10cj01"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTTB10CJ01/D-Q-JDW-LTTB10CJ01-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj01",
+      "date": null,
+      "model": "LTTB10CJ01"
+    },
+    {
+      "title": "LTTB10CJ02 System",
+      "description": "Single-axis, high-reliability quartz MEMS gyroscope with dual-tine fork structure, digital output, compact size, and robust environmental adaptability.",
+      "keywords": [
+        "LTTB10CJ02",
+        "Quartz MEMS Gyroscope",
+        "Single-axis",
+        "Digital Output",
+        "Dual-tine Fork Structure",
+        "lttb10cj02"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTTB10CJ02/D-Q-JDW-LTTB10CJ02-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj02",
+      "date": null,
+      "model": "LTTB10CJ02"
+    },
+    {
+      "title": "LTYS11CJ01 System",
+      "description": "Single-axis analog quartz MEMS gyroscope, high reliability, fast response, wide measurement range, suitable for attitude measurement and stabilization platforms.",
+      "keywords": [
+        "LTYS11CJ01",
+        "Quartz MEMS Gyroscope",
+        "Single-axis",
+        "Analog Output",
+        "ltys11cj01"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTYS11CJ01/D-Q-JDW-LTYS11CJ01-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys11cj01",
+      "date": null,
+      "model": "LTYS11CJ01"
+    },
+    {
+      "title": "LTYS11CJ02 System",
+      "description": "Single-axis SPI quartz MEMS gyroscope, compact, high reliability, fast response, suitable for attitude measurement and stabilization platforms.",
+      "keywords": [
+        "LTYS11CJ02",
+        "Quartz MEMS Gyroscope",
+        "Single-axis",
+        "SPI Output",
+        "ltys11cj02"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTYS11CJ02/D-Q-JDW-LTYS11CJ02-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys11cj02",
+      "date": null,
+      "model": "LTYS11CJ02"
+    },
+    {
+      "title": "LTYS11CJ1A System",
+      "description": "Digital output single-axis quartz MEMS gyroscope series, high reliability, fast response, suitable for attitude measurement and stabilization.",
+      "keywords": [
+        "LTYS11CJ10",
+        "LTYS11CJ1A",
+        "Quartz MEMS Gyroscope",
+        "Digital Output",
+        "ltys11cj1a"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTYS11CJ1X/D-Q-JDW-LTYS11CJ10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys11cj1x",
+      "date": null,
+      "model": "LTYS11CJ1A"
+    },
+    {
+      "title": "LTYS12CJ1B System",
+      "description": "Dual-axis quartz MEMS gyroscope series, high precision, high reliability, suitable for attitude measurement and stabilization.",
+      "keywords": [
+        "LTYS12CJ10",
+        "LTYS12CJ1A",
+        "LTYS12CJ1B",
+        "Quartz MEMS Gyroscope",
+        "Dual-axis",
+        "ltys12cj1b"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTYS12CJ1X/D-Q-JDW-LTYS12CJ10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys12cj1x",
+      "date": null,
+      "model": "LTYS12CJ1B"
+    },
+    {
+      "title": "Navigation System",
+      "description": "Dual-axis quartz MEMS gyroscope, high precision, high reliability, suitable for navigation, attitude measurement, and stabilization.",
+      "keywords": [
+        "LTYS12CJ2A",
+        "LTYS12CJ2B",
+        "Quartz MEMS Gyroscope",
+        "Dual-axis",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTYS12CJ2X/D-Q-JDW-LTYS12CJ2A-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys12cj2x",
+      "date": null,
+      "model": "LTYS12CJ2B"
+    },
+    {
+      "title": "Navigation System for Aerospace Applications",
+      "description": "Tri-axis quartz MEMS gyroscope, featuring ultra-low noise, exceptional bias stability, and superior environmental adaptability. Designed for aerospace, navigation, and high-end industrial applications.",
+      "keywords": [
+        "LTYS13CJ1A",
+        "LTYS13CJ1B",
+        "Tri-Axis Quartz MEMS Gyroscope",
+        "Aerospace",
+        "aerospace technology",
+        "defense systems",
+        "navigation",
+        "aerospace"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTYS13CJ1X/D-Q-JDW-LTYS13CJ1A-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys13cj1x",
+      "date": null,
+      "model": "LTYS13CJ1B"
+    },
+    {
+      "title": "Compact Guidance Control Unit",
+      "description": "Tri-axis quartz MEMS gyroscope, featuring compact design, fast startup, and robust reliability. Ideal for autopilots, stabilized platforms, guidance systems, and industrial applications.",
+      "keywords": [
+        "LTYS13CJ2A",
+        "Tri-Axis Domestic Gyroscope",
+        "Autopilot",
+        "guidance system",
+        "navigation",
+        "control unit",
+        "compact",
+        "guidance",
+        "control",
+        "unit"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTYS13CJ2A/D-Q-JDW-LTYS13CJ2A-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-gyroscope-ltys13cj2a",
+      "date": null,
+      "model": "LTYS13CJ2A"
+    },
+    {
+      "title": "Compact Navigation System",
+      "description": "Three-axis quartz MEMS gyroscope and accelerometer integrated IMU, high reliability, compact, for navigation and industrial applications.",
+      "keywords": [
+        "CGSM40CJ1A",
+        "CGSM40CJ11",
+        "Quartz MEMS IMU",
+        "Three-axis Gyroscope",
+        "Three-axis Accelerometer",
+        "compact",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/imu/D-Q-JDW-CGSM40CJ1X/D-Q-JDW-CGSM40CJ1A-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-imu-cgsm40cj1",
+      "date": null,
+      "model": "CGSM40CJ11"
+    },
+    {
+      "title": "Navigation System for Aerospace Applications",
+      "description": "High-reliability quartz MEMS inertial measurement unit (IMU), integrates 3-axis gyroscope and 3-axis accelerometer, suitable for aerospace, navigation, and industrial control.",
+      "keywords": [
+        "CGYS30CJ1A",
+        "CGYS30CJ1B",
+        "Quartz MEMS IMU",
+        "aerospace technology",
+        "defense systems",
+        "navigation",
+        "aerospace"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/imu/D-Q-JDW-CGYS30CJ1X/D-Q-JDW-CGYS30CJ1A-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj1x",
+      "date": null,
+      "model": "CGYS30CJ1B"
+    },
+    {
+      "title": "Navigation System for Aerospace Applications",
+      "description": "High-reliability quartz MEMS inertial measurement unit, integrates 3-axis gyroscope and 3-axis accelerometer, suitable for navigation, aerospace, robotics, and industrial control.",
+      "keywords": [
+        "CGYS30CJ2A",
+        "CGYS30CJ2B",
+        "Quartz MEMS IMU",
+        "aerospace technology",
+        "defense systems",
+        "navigation",
+        "aerospace"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/imu/D-Q-JDW-CGYS30CJ2X/D-Q-JDW-CGYS30CJ2A-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj2x",
+      "date": null,
+      "model": "CGYS30CJ2B"
+    },
+    {
+      "title": "Compact Navigation System",
+      "description": "Compact, high-reliability 6-DOF MEMS inertial sensor, integrates 3-axis quartz MEMS gyroscope and 3-axis MEMS accelerometer, suitable for navigation, motion tracking, and stabilization.",
+      "keywords": [
+        "CGYS30CJ3A",
+        "CGYS30CJ3B",
+        "Quartz MEMS IMU",
+        "compact",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/imu/D-Q-JDW-CGYS30CJ3X/D-Q-JDW-CGYS30CJ3A-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj3x",
+      "date": null,
+      "model": "CGYS30CJ3B"
+    },
+    {
+      "title": "Navigation System for Aerospace Applications",
+      "description": "High-reliability MEMS inertial navigation system, integrates 3-axis quartz MEMS gyroscope, 3-axis MEMS accelerometer, signal processing and navigation software, suitable for aerospace, mechanical control, exploration, marine, and port applications.",
+      "keywords": [
+        "DGYS60CJ10",
+        "Quartz MEMS Inertial Navigation",
+        "aerospace technology",
+        "defense systems",
+        "navigation",
+        "aerospace"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/nav-modules/D-Q-JDW-DGYS60CJ10/D-Q-JDW-DGYS60CJ10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-nav-dgys60cj10",
+      "date": null,
+      "model": "DGYS60CJ10"
+    },
+    {
+      "title": "High-Precision Navigation System",
+      "description": "High-reliability MEMS inertial/GNSS integrated navigation system with single-antenna GNSS, featuring high-precision differential positioning, orientation, and ranging capabilities.",
+      "keywords": [
+        "HDTD80CJ1X",
+        "Single-Antenna Integrated Navigation",
+        "MEMS Inertial/GNSS",
+        "high-precision",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/nav-modules/D-Q-JDW-HDTD80CJ1X/D-Q-JDW-HDTD80CJ11-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj1x",
+      "date": null,
+      "model": "HDTD80CJ12"
+    },
+    {
+      "title": "High-Precision Navigation System",
+      "description": "High-reliability dual-antenna MEMS inertial/GNSS integrated navigation system, featuring high-precision differential positioning, orientation, and ranging capabilities.",
+      "keywords": [
+        "HDTS90CJ1X",
+        "Dual-Antenna Integrated Navigation",
+        "MEMS Inertial/GNSS",
+        "high-precision",
+        "navigation"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/nav-modules/D-Q-JDW-HDTS90CJ1X/D-Q-JDW-HDTS90CJ11-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-nav-hdts90cj1x",
+      "date": null,
+      "model": "HDTS90CJ13"
+    },
+    {
+      "title": "JQYS50CJ1A System",
+      "description": "Domestic high-precision MEMS inclinometer, composed of three single-axis accelerometers, capable of measuring horizontal attitude angles, suitable for railway, construction, and mechanical industries.",
+      "keywords": [
+        "JQYS50CJ1A",
+        "Quartz MEMS Inclinometer",
+        "jqys50cj1a"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/nav-modules/D-Q-JDW-JQYS50CJ1A/D-Q-JDW-JQYS50CJ1A-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-nav-jqys50cj1a",
+      "date": null,
+      "model": "JQYS50CJ1A"
+    },
+    {
+      "title": "Compact Sensor Module",
+      "description": "Compact, cost-effective AHRS, integrates six-axis quartz MEMS IMU, three-axis magnetic sensor, and signal processing circuits, suitable for industrial equipment, gimbals, and platforms.",
+      "keywords": [
+        "ZHYS70CJ10",
+        "Quartz MEMS AHRS",
+        "compact",
+        "sensor",
+        "module"
+      ],
+      "tags": [],
+      "useCases": [],
+      "status": {
+        "isNew": false,
+        "isRecommended": false
+      },
+      "image": "https://www.gnc-tech.com/products/navigation/quartz-mems/nav-modules/D-Q-JDW-ZHYS70CJ10/D-Q-JDW-ZHYS70CJ10-Slide-01.webp",
+      "url": "https://www.gnc-tech.com/products/quartz-mems-nav-zhys70cj10",
+      "date": null,
+      "model": "ZHYS70CJ10"
+    }
+  ]
+}

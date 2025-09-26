@@ -23,71 +23,47 @@
 
 ## 📖 Detailed Technical Information
 
-
 ## K-RFX-XW13X28
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The Micro Thermal Battery is designed for ultra-lightweight guided weapons carried by individual soldiers. Through miniaturization technology, it achieves an extremely compact size while maintaining reliable power output characteristics, making it ideal for portable military applications.
-  
+The Micro Thermal Battery is designed for ultra-lightweight guided weapons carried by individual soldiers. Through miniaturization technology, it achieves an extremely compact size while maintaining reliable power output characteristics, making it ideal for portable military applications.
 
-  
-### slider
+### Product Images
 
-    
-#### Product Images
+![Product Image](https://www.gnc-tech.com/products/control/thermal-battery/K-RFX-XW13X28/K-RFX-XW13X28-Slide-01.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/K-RFX-XW13X28-Slide-01.webp)
+![Product Image](https://www.gnc-tech.com/products/control/thermal-battery/K-RFX-XW13X28/K-RFX-XW13X28-Slide-02.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/K-RFX-XW13X28-Slide-02.webp)
+![Product Image](https://www.gnc-tech.com/products/control/thermal-battery/K-RFX-XW13X28/K-RFX-XW13X28-Slide-03.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/K-RFX-XW13X28-Slide-03.webp)
+### Features
 
+- Ultra-compact dimensions (Φ13×28 mm)
+- Extremely lightweight design (13g)
+- Cost-effective solution
+- Stable operating voltage
 
-  
+### Applications
 
-  
-### features
+- Individual Soldier-Carried Guided Weapons
+- Lightweight Military Equipment
+- Portable Guided Systems
 
-    - Ultra-compact dimensions (Φ13×28 mm)
-    - Extremely lightweight design (13g)
-    - Cost-effective solution
-    - Stable operating voltage
-  
+### Specifications
 
-  
-### applications
-
-    - Individual Soldier-Carried Guided Weapons
-    - Lightweight Military Equipment
-    - Portable Guided Systems
-  
-
-  
-### specifications
-
-    
-      
-```json
 {
-        headers: ['Indicator parameters', 'FXXW13X28'],
-        rows: [
-          ['Dimensions (mm)', 'φ13 × 28'],
-          ['Weight (g)', '13'],
-          ['Operating Voltage (V)', '13'],
-          ['Operating Time (s) @ 1A', '20']
-        ]
-      
-```
+headers: ['Indicator parameters', 'FXXW13X28'],
+rows: [
+  ['Dimensions (mm)', 'φ13 × 28'],
+  ['Weight (g)', '13'],
+  ['Operating Voltage (V)', '13'],
+  ['Operating Time (s) @ 1A', '20']
+]
 
     
   
 
 ---
-
-*This document is automatically generated from source file `control\thermal-battery\K-RFX-XW13X28.mdx` *
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-micro/](https://www.gnc-tech.com/products/thermal-battery-micro/)

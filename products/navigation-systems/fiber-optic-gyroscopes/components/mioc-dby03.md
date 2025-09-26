@@ -23,128 +23,94 @@
 
 ## 📖 Detailed Technical Information
 
-
 ## D-Q-TQG-DBY031550H
 
-  
-### overview
+### Overview
 
-    # Overview
-    ---
-    The 1550nm ultra-high extinction ratio lithium niobate multi-functional integrated optical chip (MIOC) is manufactured using micro-electronics technology. It integrates several functional units on a single chip, including a polarizer, splitter, combiner, and phase modulator.
-  
+The 1550nm ultra-high extinction ratio lithium niobate multi-functional integrated optical chip (MIOC) is manufactured using micro-electronics technology. It integrates several functional units on a single chip, including a polarizer, splitter, combiner, and phase modulator.
 
-  
-### slider
+### Product Images
 
-    
-#### Product Images
+![Product Image](https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY03/D-Q-TQG-DBY03-Slide-01.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/D-Q-TQG-DBY031550H-Slide-01.webp)
+![Product Image](https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY03/D-Q-TQG-DBY03-Slide-02.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/D-Q-TQG-DBY031550H-Slide-02.webp)
+![Product Image](https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY03/D-Q-TQG-DBY03-Slide-03.webp)
 
-![Product Image](https://www.gnc-tech.com/images/products/D-Q-TQG-DBY031550H-Slide-03.webp)
+### Features
 
+- Ultra-high extinction ratio
+- Low insertion loss
+- LiNbO3 X-Cut Y-Prop
+- APE waveguide
+- Push-pull electrode
+- Excellent long-term stability
+- Small packaging and light weight
 
-  
-
-  
-### features
-
-    - Ultra-high extinction ratio
-    - Low insertion loss
-    - LiNbO3 X-Cut Y-Prop
-    - APE waveguide
-    - Push-pull electrode
-    - Excellent long-term stability
-    - Small packaging and light weight
-  
-
-  
 ### package
 
-    <ProductImage 
-      productId="D-Q-TQG-DBY03" 
-      type="package" 
-      subType="dimensions" 
-      invertMode="light-only"
-    />
+<ProductImage 
+  productId="D-Q-TQG-DBY03" 
+  type="package" 
+  subType="dimensions" 
+  invertMode="light-only"
+/>
+
+### Applications
+
+- Fiber optic gyroscopes (FOG)
+- Optical fiber sensing
+
+### Specifications
+
+#### Optical Specification
   
+{
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Operating Wavelength', 'nm', '1550±25'],
+  ['Insertion Loss', 'dB', '≤4.0'],
+  ['Maximum Optical Input Power', 'mW', '200'],
+  ['Split Ratio', '-', '48/52~52/48'],
+  ['Pigtail Polarization Crosstalk', 'dB', '≤-30'],
+  ['Polarization Extinction Ratio-chip', 'dB', '≥80'],
+  ['Optical Return Loss', 'dB', '≤-60'],
+  ['Additional Intensity Modulating', '-', '≤0.1%']
+]
 
+#### Electrical Specification
   
-### applications
+{
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Half Wave Voltage', 'V', '≤3.5'],
+  ['Maximum Voltage on DC Input', 'V', '±15'],
+  ['Electrode Type', '-', 'Push-pull modulating'],
+  ['Operating Frequency', 'MHz', 'DC-200']
+]
 
-    - Fiber optic gyroscopes (FOG)
-    - Optical fiber sensing
+#### Mechanical Specification
   
+{
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Electrical Connector', '-', '3 Pins'],
+  ['Pigtail Type', '-', 'PM or SM Fiber'],
+  ['Pigtail Diameter', 'μm', '60/100, 80/165 or 125/250']
+]
 
+#### Environmental Specification
   
-### specifications
-
-    
-      #### Optical Specification
-      
-```json
 {
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Operating Wavelength', 'nm', '1550±25'],
-          ['Insertion Loss', 'dB', '≤4.0'],
-          ['Maximum Optical Input Power', 'mW', '200'],
-          ['Split Ratio', '-', '48/52~52/48'],
-          ['Pigtail Polarization Crosstalk', 'dB', '≤-30'],
-          ['Polarization Extinction Ratio-chip', 'dB', '≥80'],
-          ['Optical Return Loss', 'dB', '≤-60'],
-          ['Additional Intensity Modulating', '-', '≤0.1%']
-        ]
-      
-```
-
-      #### Electrical Specification
-      
-```json
-{
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Half Wave Voltage', 'V', '≤3.5'],
-          ['Maximum Voltage on DC Input', 'V', '±15'],
-          ['Electrode Type', '-', 'Push-pull modulating'],
-          ['Operating Frequency', 'MHz', 'DC-200']
-        ]
-      
-```
-
-      #### Mechanical Specification
-      
-```json
-{
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Electrical Connector', '-', '3 Pins'],
-          ['Pigtail Type', '-', 'PM or SM Fiber'],
-          ['Pigtail Diameter', 'μm', '60/100, 80/165 or 125/250']
-        ]
-      
-```
-
-      #### Environmental Specification
-      
-```json
-{
-        headers: ['Parameters', 'Unit', 'Value'],
-        rows: [
-          ['Operating Temperature', '°C', '-55~+85'],
-          ['Storage Temperature', '°C', '-55~+85']
-        ]
-      
-```
+headers: ['Parameters', 'Unit', 'Value'],
+rows: [
+  ['Operating Temperature', '°C', '-55~+85'],
+  ['Storage Temperature', '°C', '-55~+85']
+]
 
     
   
 
 ---
-
-*This document is automatically generated from source file `navigation\fog\mioc\D-Q-TQG-DBY03.mdx` *
 
 **🔗 View Online**: [https://www.gnc-tech.com/products/mioc-dby03/](https://www.gnc-tech.com/products/mioc-dby03/)
