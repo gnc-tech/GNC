@@ -1,3 +1,12 @@
+---
+title: "Frequently Asked Questions - GNC Tech"
+description: "Comprehensive FAQ section for GNC Tech's precision guidance, navigation, and control systems. Find technical answers, product comparisons, and application guidance."
+category: "General"
+lastUpdated: "2025-09-27"
+tags: ["FAQ", "guidance systems", "navigation", "control systems", "technical support"]
+difficulty: "beginner"
+---
+
 # ❓ Frequently Asked Questions
 
 Welcome to the comprehensive FAQ section for GNC Tech's precision guidance, navigation, and control systems. Find answers to common technical questions, product comparisons, and application guidance.

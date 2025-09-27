@@ -1,3 +1,12 @@
+---
+title: "Complete Technology Selection Guide for Precision Sensors"
+description: "Comprehensive guide for selecting the right precision sensor technology (FOG, Quartz MEMS, Silicon MEMS) based on application requirements and constraints."
+category: "Technology"
+lastUpdated: "2025-09-27"
+tags: ["sensor selection", "FOG", "MEMS", "quartz MEMS", "precision sensors", "technology guide"]
+difficulty: "intermediate"
+---
+
 # Complete Technology Selection Guide for Precision Sensors
 
 > **Quick Answer:** Choose FOG for highest precision navigation, Quartz MEMS for tactical applications requiring durability, and MEMS for cost-effective commercial applications. Selection depends on precision requirements, environmental conditions, size constraints, and budget.

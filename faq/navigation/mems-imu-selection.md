@@ -1,3 +1,12 @@
+---
+title: "MEMS IMU Selection Criteria: Complete Guide"
+description: "Comprehensive guide for selecting MEMS Inertial Measurement Units (IMUs) with performance categories, selection criteria, and application-specific recommendations."
+category: "Navigation"
+lastUpdated: "2025-09-27"
+tags: ["MEMS IMU", "selection criteria", "tactical grade", "industrial grade", "inertial sensors", "gyroscopes", "accelerometers"]
+difficulty: "intermediate"
+---
+
 # MEMS IMU Selection Criteria: Complete Guide
 
 > **Quick Answer:** MEMS IMU selection depends on your precision requirements (1-10°/h for industrial, 0.1-1°/h for tactical), environmental conditions (shock resistance, temperature range), size constraints, and budget. Choose tactical-grade for aerospace/defense, industrial-grade for robotics/automotive, and commercial-grade for consumer applications.

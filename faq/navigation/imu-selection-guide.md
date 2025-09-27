@@ -1,3 +1,12 @@
+---
+title: "How to Select the Right IMU for Navigation Applications"
+description: "Complete guide for selecting the right Inertial Measurement Unit (IMU) for navigation applications with decision framework and product recommendations."
+category: "Navigation"
+lastUpdated: "2025-09-27"
+tags: ["IMU selection", "inertial measurement unit", "navigation", "FOG", "MEMS", "quartz MEMS", "sensor selection"]
+difficulty: "intermediate"
+---
+
 # How to Select the Right IMU for Navigation Applications
 
 > **Quick Answer:** IMU selection depends on your precision requirements, environmental conditions, size constraints, and budget. Navigation-grade applications need FOG-based IMUs, tactical applications use Quartz MEMS, and commercial applications typically use MEMS IMUs.

@@ -1,3 +1,12 @@
+---
+title: "Inertial Navigation System (INS) Design and Implementation Guide"
+description: "Comprehensive guide for designing and implementing Inertial Navigation Systems (INS) with sensor selection, algorithms, system architecture, and integration considerations."
+category: "Navigation"
+lastUpdated: "2025-09-27"
+tags: ["INS", "inertial navigation", "system design", "Kalman filter", "navigation algorithms", "sensor fusion", "implementation"]
+difficulty: "advanced"
+---
+
 # Inertial Navigation System (INS) Design and Implementation Guide
 
 > **Quick Answer:** INS design requires selecting appropriate inertial sensors (FOG for highest precision, Quartz MEMS for tactical applications), implementing proper navigation algorithms (Kalman filtering), and integrating with external references (GPS) for optimal performance. System architecture depends on precision requirements, mission duration, and environmental conditions.

@@ -1,3 +1,12 @@
+---
+title: "Gyroscope Technology Comparison: FOG vs MEMS vs Quartz MEMS"
+description: "Detailed comparison of gyroscope technologies including FOG, MEMS, and Quartz MEMS with performance specifications, applications, and selection criteria."
+category: "Technology"
+lastUpdated: "2025-09-27"
+tags: ["gyroscopes", "FOG", "MEMS", "quartz MEMS", "technology comparison", "precision", "navigation"]
+difficulty: "advanced"
+---
+
 # Gyroscope Technology Comparison: FOG vs MEMS vs Quartz MEMS
 
 > **Quick Answer:** FOG gyroscopes offer the highest precision (0.001-0.01°/h bias stability) for navigation applications, Quartz MEMS provides tactical-grade performance (0.1-1°/h) with excellent shock resistance, while Silicon MEMS delivers cost-effective solutions (1-10°/h) for commercial applications.

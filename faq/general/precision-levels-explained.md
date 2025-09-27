@@ -1,3 +1,12 @@
+---
+title: "Precision Levels Explained: Navigation vs Tactical vs Industrial Grade"
+description: "Complete guide to understanding precision grades in inertial sensors including navigation, tactical, industrial, and commercial grade specifications and applications."
+category: "Technology"
+lastUpdated: "2025-09-27"
+tags: ["precision grades", "navigation grade", "tactical grade", "industrial grade", "sensor classification", "bias stability"]
+difficulty: "intermediate"
+---
+
 # Precision Levels Explained: Navigation vs Tactical vs Industrial Grade
 
 > **Quick Answer:** Navigation-grade sensors offer the highest precision (<0.01°/h bias stability) for critical navigation applications, Tactical-grade provides balanced performance (0.1-1°/h) for military and aerospace use, while Industrial-grade delivers cost-effective solutions (1-10°/h) for commercial applications.

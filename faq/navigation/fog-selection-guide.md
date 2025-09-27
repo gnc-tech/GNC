@@ -1,3 +1,12 @@
+---
+title: "Fiber Optic Gyroscope (FOG) Selection Guide"
+description: "Comprehensive guide for selecting the right Fiber Optic Gyroscope (FOG) based on precision requirements, environmental conditions, and application constraints."
+category: "Navigation"
+lastUpdated: "2025-09-27"
+tags: ["FOG", "fiber optic gyroscope", "selection guide", "navigation grade", "tactical grade", "precision sensors"]
+difficulty: "advanced"
+---
+
 # Fiber Optic Gyroscope (FOG) Selection Guide
 
 > **Quick Answer:** FOG selection depends on your precision requirements, environmental conditions, and application constraints. Navigation-grade FOGs offer the highest precision (<0.01°/h) for critical applications, while tactical-grade FOGs provide excellent performance for most aerospace and defense needs.
