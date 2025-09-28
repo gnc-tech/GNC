@@ -7,6 +7,9 @@ This section covers technical aspects of precision navigation and control system
 ### Thermal Management
 - **[Thermal Management for Precision Inertial Sensors](thermal-management-precision-inertial-sensors.md)** - Comprehensive guide to temperature control strategies, thermal stability techniques, and compensation methods for optimal sensor performance.
 
+### Calibration & Testing
+- **[Accelerometer Calibration for Aerospace Applications](accelerometer-calibration-aerospace-applications.md)** - Step-by-step guide for calibrating high-precision accelerometers in aerospace applications with procedures and best practices.
+
 ### Coming Soon
 - Vibration Isolation Techniques for Sensitive Inertial Sensors
 - IMU Troubleshooting: Complete Guide to Performance Issues

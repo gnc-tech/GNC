@@ -41,6 +41,7 @@ Welcome to the comprehensive FAQ section for GNC Tech's precision guidance, navi
 ### Applications & Integration
 - **[Best practices for IMU integration in aerospace systems](applications/aerospace-integration-guide.md)**
 - **[Thermal Management for Precision Inertial Sensors](technical/thermal-management-precision-inertial-sensors.md)** ⭐ *New*
+- **[Accelerometer Calibration for Aerospace Applications](technical/accelerometer-calibration-aerospace-applications.md)** ⭐ *New*
 - **[Power requirements for different sensor types](support/power-requirements.md)**
 
 ## 📊 Browse by Product Category
