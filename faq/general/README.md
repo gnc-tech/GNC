@@ -1,7 +1,7 @@
 ---
 title: "General Technology FAQs"
 description: "Comprehensive answers to fundamental questions about precision guidance, navigation, and control technologies including FOG, MEMS, and Quartz MEMS."
-category: "Technology"
+category: "general"
 lastUpdated: "2025-09-27"
 tags: ["technology", "FOG", "MEMS", "quartz MEMS", "comparison", "selection"]
 difficulty: "intermediate"

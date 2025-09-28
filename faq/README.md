@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Questions - GNC Tech"
 description: "Comprehensive FAQ section for GNC Tech's precision guidance, navigation, and control systems. Find technical answers, product comparisons, and application guidance."
-category: "General"
+category: "general"
 lastUpdated: "2025-09-27"
 tags: ["FAQ", "guidance systems", "navigation", "control systems", "technical support"]
 difficulty: "beginner"
@@ -17,12 +17,8 @@ Welcome to the comprehensive FAQ section for GNC Tech's precision guidance, navi
 |----------|-------------|----------------|
 | 🎯 **[General Technology](general/README.md)** | Technology overviews and comparisons | FOG vs MEMS, Technology basics, Selection guidance |
 | 🧭 **[Navigation Systems](navigation/README.md)** | Navigation product FAQs | Gyroscopes, IMUs, Accelerometers, Precision instruments |
-| 🎮 **[Control Systems](control/README.md)** | Control system FAQs | Servo actuators, Thermal batteries, Power systems |
-| 🎯 **[Guidance Systems](guidance/README.md)** | Guidance product FAQs | CMOS sensors, Laser detectors, Imaging systems |
-| 🔧 **[Technical](technical/README.md)** | Technical implementation and design | Thermal management, Vibration isolation, Calibration, Troubleshooting |
-| 🏭 **[Applications](applications/README.md)** | Industry and use case FAQs | Aerospace, Defense, Industrial automation |
-| 🌍 **[Regional & Compliance](regional/README.md)** | Geographic and regulatory FAQs | Standards, Certifications, Regional requirements |
-| 🛠️ **[Technical Support](support/README.md)** | Support and troubleshooting | Installation, Integration, Maintenance |
+| 🔧 **[Technical Support](technical/README.md)** | Technical implementation and design | Thermal management, Vibration isolation, Calibration, Troubleshooting |
+| 🏭 **[Applications](applications/README.md)** | Industry and use case FAQs | Aerospace, Defense, Industrial automation, Control systems, Guidance systems |
 
 ## 🔥 Most Popular Questions
 

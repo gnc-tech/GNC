@@ -1,7 +1,7 @@
 ---
 title: "Navigation Systems FAQs"
 description: "Comprehensive technical questions and answers for GNC Tech's navigation systems including FOG, MEMS, Quartz MEMS technologies, and precision instruments."
-category: "Navigation"
+category: "navigation"
 lastUpdated: "2025-09-27"
 tags: ["navigation systems", "FOG", "MEMS", "quartz MEMS", "IMU", "gyroscopes", "accelerometers"]
 difficulty: "intermediate"

@@ -1,7 +1,7 @@
 ---
 title: "Applications & Industry FAQs"
 description: "Comprehensive guidance for implementing GNC Tech's precision sensors across aerospace, defense, marine, industrial, and scientific applications."
-category: "Applications"
+category: "applications"
 lastUpdated: "2025-09-27"
 tags: ["applications", "aerospace", "defense", "marine", "industrial", "implementation", "industry guidance"]
 difficulty: "intermediate"
