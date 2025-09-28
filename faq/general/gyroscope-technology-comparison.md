@@ -1,10 +1,23 @@
 ---
 title: "Gyroscope Technology Comparison: FOG vs MEMS vs Quartz MEMS"
 description: "Detailed comparison of gyroscope technologies including FOG, MEMS, and Quartz MEMS with performance specifications, applications, and selection criteria."
-category: "Technology"
+category: "general"
 lastUpdated: "2025-09-27"
 tags: ["gyroscopes", "FOG", "MEMS", "quartz MEMS", "technology comparison", "precision", "navigation"]
 difficulty: "advanced"
+seoKeywords: {
+  primary: "gyroscope technology comparison",
+  secondary: ["FOG vs MEMS", "quartz MEMS gyroscope", "gyroscope types"],
+  longTail: ["FOG vs MEMS vs quartz MEMS comparison", "gyroscope technology selection guide"]
+}
+searchIntent: "informational"
+estimatedReadTime: "12 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "gyroscope technology comparison",
+  audience: "technical professionals"
+}
+canonical: "/faq/general/gyroscope-technology-comparison"
 ---
 
 # Gyroscope Technology Comparison: FOG vs MEMS vs Quartz MEMS

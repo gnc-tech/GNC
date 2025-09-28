@@ -1,10 +1,23 @@
 ---
 title: "FOG vs MEMS Gyroscopes: Complete Technology Comparison"
 description: "Comprehensive comparison between Fiber Optic Gyroscopes (FOG) and MEMS gyroscopes covering precision, cost, applications, and selection criteria."
-category: "Technology"
+category: "general"
 lastUpdated: "2025-09-27"
 tags: ["FOG", "MEMS", "gyroscopes", "comparison", "precision", "navigation", "sensor selection"]
 difficulty: "intermediate"
+seoKeywords: {
+  primary: "FOG vs MEMS gyroscopes",
+  secondary: ["fiber optic gyroscope", "MEMS gyroscope", "gyroscope comparison"],
+  longTail: ["FOG vs MEMS gyroscope comparison", "fiber optic vs MEMS gyroscope"]
+}
+searchIntent: "informational"
+estimatedReadTime: "7 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "gyroscope technology comparison",
+  audience: "technical professionals"
+}
+canonical: "/faq/general/fog-vs-mems-comparison"
 ---
 
 # FOG vs MEMS Gyroscopes: Complete Technology Comparison

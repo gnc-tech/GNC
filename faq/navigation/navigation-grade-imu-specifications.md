@@ -1,18 +1,23 @@
 ---
 title: "Navigation-Grade IMU Specifications: Complete Selection Guide"
 description: "Comprehensive guide to navigation-grade IMU specifications. Learn key parameters, performance criteria, and selection best practices for precision navigation applications."
-category: "Navigation"
+category: "navigation"
 lastUpdated: "2024-12-28"
 tags: ["navigation grade IMU specifications", "IMU selection criteria", "navigation sensor specs", "precision IMU", "bias stability", "scale factor", "misalignment"]
 difficulty: "advanced"
-seoTitle: "Navigation-Grade IMU Specifications: Complete Selection Guide"
-metaDescription: "Comprehensive guide to navigation-grade IMU specifications. Learn key parameters, performance criteria, and selection best practices."
-keywords: 
-  primary: "navigation grade IMU specifications"
-  secondary: ["IMU selection criteria", "navigation sensor specs", "precision IMU"]
+seoKeywords: {
+  primary: "navigation grade IMU specifications",
+  secondary: ["IMU selection criteria", "navigation sensor specs", "precision IMU"],
   longTail: ["how to select navigation grade IMU", "IMU specifications for navigation"]
+}
 searchIntent: "informational"
-schemaType: "HowTo"
+estimatedReadTime: "12 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "navigation grade IMU specifications",
+  audience: "technical professionals"
+}
+canonical: "/faq/navigation/navigation-grade-imu-specifications"
 ---
 
 # Navigation-Grade IMU Specifications: Complete Selection Guide

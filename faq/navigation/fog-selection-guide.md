@@ -1,10 +1,23 @@
 ---
 title: "Fiber Optic Gyroscope (FOG) Selection Guide"
 description: "Comprehensive guide for selecting the right Fiber Optic Gyroscope (FOG) based on precision requirements, environmental conditions, and application constraints."
-category: "Navigation"
+category: "navigation"
 lastUpdated: "2025-09-27"
 tags: ["FOG", "fiber optic gyroscope", "selection guide", "navigation grade", "tactical grade", "precision sensors"]
 difficulty: "advanced"
+seoKeywords: {
+  primary: "fiber optic gyroscope selection guide",
+  secondary: ["FOG selection", "fiber optic gyroscope guide", "navigation grade FOG"],
+  longTail: ["how to select fiber optic gyroscope", "FOG selection criteria navigation"]
+}
+searchIntent: "informational"
+estimatedReadTime: "15 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "fiber optic gyroscope selection",
+  audience: "technical professionals"
+}
+canonical: "/faq/navigation/fog-selection-guide"
 ---
 
 # Fiber Optic Gyroscope (FOG) Selection Guide

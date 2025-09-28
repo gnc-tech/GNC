@@ -1,18 +1,23 @@
 ---
 title: "Thermal Management for Precision Inertial Sensors: Best Practices"
 description: "Expert guide on thermal management for precision inertial sensors. Learn temperature control strategies and thermal stability techniques for optimal performance."
-category: "Technical"
+category: "technical"
 lastUpdated: "2024-12-28"
 tags: ["thermal management inertial sensors", "precision sensor thermal control", "gyroscope temperature stability", "IMU thermal design", "temperature compensation", "thermal drift", "thermal stability"]
 difficulty: "advanced"
-seoTitle: "Thermal Management for Precision Inertial Sensors: Best Practices"
-metaDescription: "Expert guide on thermal management for precision inertial sensors. Learn temperature control strategies and thermal stability techniques."
-keywords: 
-  primary: "thermal management inertial sensors"
-  secondary: ["precision sensor thermal control", "gyroscope temperature stability", "IMU thermal design"]
+seoKeywords: {
+  primary: "thermal management inertial sensors",
+  secondary: ["precision sensor thermal control", "gyroscope temperature stability", "IMU thermal design"],
   longTail: ["how to manage temperature in precision sensors", "thermal stability inertial navigation"]
+}
 searchIntent: "informational"
-schemaType: "HowTo"
+estimatedReadTime: "9 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "thermal management inertial sensors",
+  audience: "technical professionals"
+}
+canonical: "/faq/technical/thermal-management-precision-inertial-sensors"
 ---
 
 # Thermal Management for Precision Inertial Sensors: Best Practices

@@ -1,10 +1,23 @@
 ---
 title: "MEMS IMU Selection Criteria: Complete Guide"
 description: "Comprehensive guide for selecting MEMS Inertial Measurement Units (IMUs) with performance categories, selection criteria, and application-specific recommendations."
-category: "Navigation"
+category: "navigation"
 lastUpdated: "2025-09-27"
 tags: ["MEMS IMU", "selection criteria", "tactical grade", "industrial grade", "inertial sensors", "gyroscopes", "accelerometers"]
 difficulty: "intermediate"
+seoKeywords: {
+  primary: "MEMS IMU selection criteria",
+  secondary: ["MEMS IMU selection", "inertial measurement unit selection", "MEMS IMU guide"],
+  longTail: ["how to select MEMS IMU", "MEMS IMU selection criteria guide"]
+}
+searchIntent: "informational"
+estimatedReadTime: "14 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "MEMS IMU selection",
+  audience: "technical professionals"
+}
+canonical: "/faq/navigation/mems-imu-selection"
 ---
 
 # MEMS IMU Selection Criteria: Complete Guide

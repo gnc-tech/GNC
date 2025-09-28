@@ -1,10 +1,23 @@
 ---
 title: "Precision Levels Explained: Navigation vs Tactical vs Industrial Grade"
 description: "Complete guide to understanding precision grades in inertial sensors including navigation, tactical, industrial, and commercial grade specifications and applications."
-category: "Technology"
+category: "general"
 lastUpdated: "2025-09-27"
 tags: ["precision grades", "navigation grade", "tactical grade", "industrial grade", "sensor classification", "bias stability"]
 difficulty: "intermediate"
+seoKeywords: {
+  primary: "precision levels inertial sensors",
+  secondary: ["navigation grade", "tactical grade", "industrial grade"],
+  longTail: ["navigation vs tactical vs industrial grade sensors", "precision levels explained inertial sensors"]
+}
+searchIntent: "informational"
+estimatedReadTime: "10 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "precision levels inertial sensors",
+  audience: "technical professionals"
+}
+canonical: "/faq/general/precision-levels-explained"
 ---
 
 # Precision Levels Explained: Navigation vs Tactical vs Industrial Grade

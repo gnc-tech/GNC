@@ -1,18 +1,23 @@
 ---
 title: "Accelerometer Calibration for Aerospace: Complete Procedure Guide"
 description: "Step-by-step guide for calibrating high-precision accelerometers in aerospace applications. Learn procedures and best practices for optimal performance."
-category: "Technical"
+category: "technical"
 lastUpdated: "2024-12-28"
 tags: ["accelerometer calibration aerospace", "precision accelerometer calibration", "aerospace sensor calibration", "accelerometer testing", "calibration procedure", "aerospace grade", "precision testing"]
 difficulty: "advanced"
-seoTitle: "Accelerometer Calibration for Aerospace: Complete Procedure Guide"
-metaDescription: "Step-by-step guide for calibrating high-precision accelerometers in aerospace applications. Learn procedures and best practices."
-keywords: 
-  primary: "accelerometer calibration aerospace"
-  secondary: ["precision accelerometer calibration", "aerospace sensor calibration", "accelerometer testing"]
+seoKeywords: {
+  primary: "accelerometer calibration aerospace",
+  secondary: ["precision accelerometer calibration", "aerospace sensor calibration", "accelerometer testing"],
   longTail: ["how to calibrate accelerometer for aerospace", "aerospace accelerometer calibration procedure"]
+}
 searchIntent: "informational"
-schemaType: "HowTo"
+estimatedReadTime: "11 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "accelerometer calibration aerospace",
+  audience: "technical professionals"
+}
+canonical: "/faq/technical/accelerometer-calibration-aerospace-applications"
 ---
 
 # Accelerometer Calibration for Aerospace: Complete Procedure Guide

@@ -1,10 +1,23 @@
 ---
 title: "How to Select the Right IMU for Navigation Applications"
 description: "Complete guide for selecting the right Inertial Measurement Unit (IMU) for navigation applications with decision framework and product recommendations."
-category: "Navigation"
+category: "navigation"
 lastUpdated: "2025-09-27"
 tags: ["IMU selection", "inertial measurement unit", "navigation", "FOG", "MEMS", "quartz MEMS", "sensor selection"]
 difficulty: "intermediate"
+seoKeywords: {
+  primary: "IMU selection navigation applications",
+  secondary: ["inertial measurement unit selection", "navigation IMU guide", "IMU selection criteria"],
+  longTail: ["how to select IMU for navigation", "IMU selection guide navigation applications"]
+}
+searchIntent: "informational"
+estimatedReadTime: "11 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "IMU selection navigation",
+  audience: "technical professionals"
+}
+canonical: "/faq/navigation/imu-selection-guide"
 ---
 
 # How to Select the Right IMU for Navigation Applications

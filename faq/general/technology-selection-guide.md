@@ -1,10 +1,23 @@
 ---
 title: "Complete Technology Selection Guide for Precision Sensors"
 description: "Comprehensive guide for selecting the right precision sensor technology (FOG, Quartz MEMS, Silicon MEMS) based on application requirements and constraints."
-category: "Technology"
+category: "general"
 lastUpdated: "2025-09-27"
 tags: ["sensor selection", "FOG", "MEMS", "quartz MEMS", "precision sensors", "technology guide"]
 difficulty: "intermediate"
+seoKeywords: {
+  primary: "precision sensor selection guide",
+  secondary: ["sensor technology selection", "FOG vs MEMS selection", "precision sensor guide"],
+  longTail: ["how to select precision sensor technology", "precision sensor selection criteria"]
+}
+searchIntent: "informational"
+estimatedReadTime: "9 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "precision sensor selection",
+  audience: "technical professionals"
+}
+canonical: "/faq/general/technology-selection-guide"
 ---
 
 # Complete Technology Selection Guide for Precision Sensors

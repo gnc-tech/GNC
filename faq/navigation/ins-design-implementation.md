@@ -1,10 +1,23 @@
 ---
 title: "Inertial Navigation System (INS) Design and Implementation Guide"
 description: "Comprehensive guide for designing and implementing Inertial Navigation Systems (INS) with sensor selection, algorithms, system architecture, and integration considerations."
-category: "Navigation"
+category: "navigation"
 lastUpdated: "2025-09-27"
 tags: ["INS", "inertial navigation", "system design", "Kalman filter", "navigation algorithms", "sensor fusion", "implementation"]
 difficulty: "advanced"
+seoKeywords: {
+  primary: "inertial navigation system design",
+  secondary: ["INS implementation", "navigation system design", "inertial navigation guide"],
+  longTail: ["how to design inertial navigation system", "INS design implementation guide"]
+}
+searchIntent: "informational"
+estimatedReadTime: "18 min"
+schema: {
+  type: "FAQPage",
+  mainEntity: "inertial navigation system design",
+  audience: "technical professionals"
+}
+canonical: "/faq/navigation/ins-design-implementation"
 ---
 
 # Inertial Navigation System (INS) Design and Implementation Guide
