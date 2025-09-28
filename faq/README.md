@@ -19,6 +19,7 @@ Welcome to the comprehensive FAQ section for GNC Tech's precision guidance, navi
 | 🧭 **[Navigation Systems](navigation/README.md)** | Navigation product FAQs | Gyroscopes, IMUs, Accelerometers, Precision instruments |
 | 🎮 **[Control Systems](control/README.md)** | Control system FAQs | Servo actuators, Thermal batteries, Power systems |
 | 🎯 **[Guidance Systems](guidance/README.md)** | Guidance product FAQs | CMOS sensors, Laser detectors, Imaging systems |
+| 🔧 **[Technical](technical/README.md)** | Technical implementation and design | Thermal management, Vibration isolation, Calibration, Troubleshooting |
 | 🏭 **[Applications](applications/README.md)** | Industry and use case FAQs | Aerospace, Defense, Industrial automation |
 | 🌍 **[Regional & Compliance](regional/README.md)** | Geographic and regulatory FAQs | Standards, Certifications, Regional requirements |
 | 🛠️ **[Technical Support](support/README.md)** | Support and troubleshooting | Installation, Integration, Maintenance |
@@ -27,17 +28,19 @@ Welcome to the comprehensive FAQ section for GNC Tech's precision guidance, navi
 
 ### Technology Selection
 - **[What is the difference between FOG and MEMS gyroscopes?](general/fog-vs-mems-comparison.md)**
+- **[FOG vs MEMS Gyroscope: Complete Guide for Tactical Applications](general/fog-vs-mems-tactical-applications.md)** ⭐ *New*
 - **[How to select the right IMU for navigation applications?](navigation/imu-selection-guide.md)**
 - **[Which gyroscope technology offers the best performance?](general/gyroscope-technology-comparison.md)**
 
 ### Product Specifications
+- **[Navigation-Grade IMU Specifications: Complete Selection Guide](navigation/navigation-grade-imu-specifications.md)** ⭐ *New*
 - **[What are the key specifications for tactical-grade IMUs?](navigation/tactical-grade-imu-specs.md)**
 - **[How do I choose between different precision levels?](general/precision-levels-explained.md)**
 - **[What shock resistance levels are available?](navigation/shock-resistance-guide.md)**
 
 ### Applications & Integration
 - **[Best practices for IMU integration in aerospace systems](applications/aerospace-integration-guide.md)**
-- **[Thermal management considerations for precision sensors](support/thermal-management.md)**
+- **[Thermal Management for Precision Inertial Sensors](technical/thermal-management-precision-inertial-sensors.md)** ⭐ *New*
 - **[Power requirements for different sensor types](support/power-requirements.md)**
 
 ## 📊 Browse by Product Category
@@ -102,7 +105,7 @@ Can't find what you're looking for? We're here to help:
 
 ---
 
-*Last Updated: 2025-09-27 | Total FAQ Categories: 7 | Questions: 50+*
+*Last Updated: 2024-12-28 | Total FAQ Categories: 8 | Questions: 52+*
 
 **🔗 Related Links:**
 - [Main Documentation](../README.md)

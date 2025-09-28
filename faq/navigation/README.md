@@ -57,6 +57,7 @@ Comprehensive technical questions and answers for GNC Tech's navigation systems,
 ## 🎯 Application-Specific Guidance
 
 ### Inertial Navigation Systems (INS)
+- **[Navigation-Grade IMU Specifications](navigation-grade-imu-specifications.md)** - Complete selection guide for precision navigation
 - **[INS Architecture Design](ins-architecture.md)** - System design principles
 - **[Sensor Fusion Techniques](sensor-fusion.md)** - Combining multiple sensors
 - **[Kalman Filter Implementation](kalman-filter.md)** - Navigation algorithms

@@ -21,6 +21,7 @@ Comprehensive answers to fundamental questions about precision guidance, navigat
 
 ### Technology Comparisons
 - **[FOG vs MEMS vs Quartz MEMS: Complete comparison](technology-comparison-matrix.md)**
+- **[FOG vs MEMS Gyroscope: Complete Guide for Tactical Applications](fog-vs-mems-tactical-applications.md)** ⭐ *New*
 - **[Which gyroscope technology offers the best performance?](gyroscope-technology-comparison.md)**
 - **[Precision levels explained: Tactical vs Navigation grade](precision-levels-explained.md)**
 - **[Cost vs Performance analysis for different technologies](cost-performance-analysis.md)**
@@ -98,7 +99,7 @@ Comprehensive answers to fundamental questions about precision guidance, navigat
 
 ---
 
-*Last Updated: 2025-09-27 | Questions: 25+ | Technologies Covered: FOG, MEMS, Quartz MEMS*
+*Last Updated: 2024-12-28 | Questions: 26+ | Technologies Covered: FOG, MEMS, Quartz MEMS*
 
 **🔗 Navigation:**
 - [← Back to FAQ Home](../README.md)
