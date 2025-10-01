@@ -36,3 +36,4 @@ out/
 .cache/
 gnc-tech.json
 .augment/
+node_modules/
