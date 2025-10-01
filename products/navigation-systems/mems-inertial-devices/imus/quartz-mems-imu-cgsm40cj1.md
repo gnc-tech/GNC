@@ -1,209 +1,70 @@
-# Quartz MEMS IMU CGSM40CJ1X Series
-
-> Three-axis quartz MEMS gyroscope and accelerometer integrated IMU, high reliability, compact, for navigation and industrial applications.
-
-![Quartz MEMS IMU CGSM40CJ1X Series](https://www.gnc-tech.com/images/products/navigation/quartz-mems/imu/D-Q-JDW-CGSM40CJ1X/D-Q-JDW-CGSM40CJ1X.webp)
-
-## 📋 Basic Information
-
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-CGSM40CJ1X` |
-| **Product Category** | navigation / quartz-mems / imu |
-| **Product Page** | [https://www.gnc-tech.com/products/quartz-mems-imu-cgsm40cj1/](https://www.gnc-tech.com/products/quartz-mems-imu-cgsm40cj1/) |
-| **Source File Path** | `navigation\quartz-mems\imu\D-Q-JDW-CGSM40CJ1X.mdx` |
-
-## 🔧 Available Models
-
-- **CGSM40CJ1A** (`D-Q-JDW-CGSM40CJ1A`)
-- **CGSM40CJ11** (`D-Q-JDW-CGSM40CJ11`)
-
-## 🏷️ Keywords
-
-`CGSM40CJ1A` • `CGSM40CJ11` • `Quartz MEMS IMU` • `Three-axis Gyroscope` • `Three-axis Accelerometer`
-
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-CGSM40CJ1A
-
-### Overview
-
-The CGSM40CJ1A is a compact, high-reliability inertial measurement unit integrating three orthogonally mounted quartz MEMS gyroscopes, three-axis MEMS accelerometers, and digital control circuitry. Advanced compensation for bias, scale factor, and installation errors enables precise angular velocity and acceleration measurement in aerospace, navigation, industrial, and marine applications.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/imu/D-Q-JDW-CGSM40CJ1X/D-Q-JDW-CGSM40CJ1A-Slide-01.webp)
-
-### Features
-
-- Integrated three-axis quartz MEMS gyroscope and accelerometer
-- Advanced digital compensation and calibration
-- Compact and lightweight
-- Wide operating temperature range
-- High bias stability and repeatability
-- Suitable for aerospace, navigation, and industrial control
-
-### package
-
-#### CGSM40CJ1A Mechanical Dimensions
-_Unit: mm_
-<ProductImage 
-  productId="D-Q-JDW-CGSM40CJ1X" 
-  type="package"
-  subType="CGSM40CJ1A" 
-  invertMode="light-only" 
-/>
-#### Electrical Interface
-Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-
-  | Wire Color | Definition |
-| --- | --- |
-| Red | Power + |
-| Black | Power Ground |
-| White | RS422_T+ |
-| Blue | RS422_T– |
-| Purple | RS422_R– |
-| Green | RS422_R+ |
-
-### Applications
-
-- Inertial navigation
-- Motion and attitude measurement
-- Aerospace and marine equipment
-- Industrial control systems
-
-### Specifications
-
-#### General Specifications
-  
-| Parameter | CGSM40CJ1A | Unit |
-| --- | --- | --- |
-| Power Supply Voltage | 5 ± 0.2 | V |
-| Operating Current | 19 ± 5 | mA |
-| Weight | 12 ± 5 | g |
-| Startup Time | ≤2 | s |
-#### Gyroscope Specifications
-  
-| Parameter | CGSM40CJ1A | Unit |
-| --- | --- | --- |
-| Measurement Range | ±300 | °/s |
-| Scale Factor | 1 ± 0.005 | - |
-| Scale Factor Nonlinearity | ≤200 | ppm |
-| Scale Factor Repeatability | ≤200 | ppm |
-| Scale Factor Asymmetry | ≤200 | ppm |
-| Cross-Axis Sensitivity | ≤0.005 | - |
-| Threshold / Resolution | ≤0.005 | °/s |
-| Bias (Full Temperature) | ±0.05 | °/s |
-| Bias Stability (Room Temp) | ≤10 | °/h |
-| Bias Stability (Full Temp) | ≤50 | °/h |
-| Bias Repeatability | ≤15 | °/h |
-| Angular Random Walk | ≤0.08 | °/√h |
-| Bias Instability (Allan Deviation) | ≤2 | °/h |
-| Bandwidth (Amplitude) | 200 | Hz |
-| Delay Time | √2.0 | ms |
-#### Accelerometer Specifications
-  
-| Parameter | CGSM40CJ1A | Unit |
-| --- | --- | --- |
-| Measurement Range | ±110 | g |
-| Bias (Full Temperature) | ±10 | mg |
-| Bias Stability (Room Temp) | ≤0.1 | mg |
-| Bias Stability (Full Temp) | ≤1 | mg |
-| Bias Repeatability | ≤0.1 | mg |
-#### Environmental Adaptability
-  
-| Test Item | CGSM40CJ1A | Unit |
-| --- | --- | --- |
-| Vibration (Gyroscope, 6.06g RMS) | ≤36 | °/h |
-| Shock (Gyroscope, 200g, 6ms) | ≤36 | °/h |
-| Vibration (Accelerometer) | ≤10 | mg |
-| Shock (Accelerometer) | ≤10 | mg |
-| Operating Temperature | -45 ~ +85 | ℃ |
-| Storage Temperature | -55 ~ +85 | ℃ |
-## D-Q-JDW-CGSM40CJ11
-
-### Overview
-
-The CGSM40CJ11 is a compact, high-reliability inertial measurement unit integrating three orthogonally mounted quartz MEMS gyroscopes, three-axis MEMS accelerometers, and digital control circuitry. Advanced compensation for bias, scale factor, and installation errors enables precise angular velocity and acceleration measurement in aerospace, navigation, industrial, and marine applications.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/imu/D-Q-JDW-CGSM40CJ1X/D-Q-JDW-CGSM40CJ1A-Slide-01.webp)
-
-### Features
-
-### package
-
-#### CGSM40CJ11 Mechanical Dimensions
-_Unit: mm_
-<ProductImage 
-  productId="D-Q-JDW-CGSM40CJ1X" 
-  type="package"
-  subType="CGSM40CJ11" 
-  invertMode="light-only" 
-/>
-#### Electrical Interface
-Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-
-  | Wire Color | Definition |
-| --- | --- |
-| Red | Power + |
-| Black | Power Ground |
-| White | RS422_T+ |
-| Blue | RS422_T– |
-| Purple | RS422_R– |
-| Green | RS422_R+ |
-
-### Applications
-
-### Specifications
-
-#### General Specifications
-  
-| Parameter | CGSM40CJ11 | Unit |
-| --- | --- | --- |
-| Power Supply Voltage | 5 ± 0.2 | V |
-| Operating Current | 18 ± 4 | mA |
-| Weight | ≤20 | g |
-| Startup Time | ≤2 | s |
-#### Gyroscope Specifications
-  
-| Parameter | CGSM40CJ11 | Unit |
-| --- | --- | --- |
-| Measurement Range | ±300 | °/s |
-| Scale Factor | 1 ± 0.005 | - |
-| Scale Factor Nonlinearity | ≤200 | ppm |
-| Scale Factor Repeatability | ≤200 | ppm |
-| Scale Factor Asymmetry | ≤200 | ppm |
-| Cross-Axis Sensitivity | ≤0.005 | - |
-| Threshold / Resolution | ≤0.005 | °/s |
-| Bias (Full Temperature) | ±0.05 | °/s |
-| Bias Stability (Room Temp) | ≤10 | °/h |
-| Bias Stability (Full Temp) | ≤30 | °/h |
-| Bias Repeatability | ≤10 | °/h |
-| Angular Random Walk | ≤0.2 | °/√h |
-| Bias Instability (Allan Deviation) | ≤2 | °/h |
-| Bandwidth (Amplitude) | 120 | Hz |
-| Delay Time | √2.0 | ms |
-#### Accelerometer Specifications
-  
-| Parameter | CGSM40CJ11 | Unit |
-| --- | --- | --- |
-| Measurement Range | ±16 | g |
-| Bias (Full Temperature) | ±5 | mg |
-| Bias Stability (Room Temp) | ≤0.2 | mg |
-| Bias Stability (Full Temp) | ≤1 | mg |
-| Bias Repeatability | ≤0.4 | mg |
-#### Environmental Adaptability
-  
-| Test Item | CGSM40CJ11 | Unit |
-| --- | --- | --- |
-| Vibration (Gyroscope, 6.06g RMS) | ≤36 | °/h |
-| Shock (Gyroscope, 200g, 6ms) | ≤36 | °/h |
-| Vibration (Accelerometer) | — | mg |
-| Shock (Accelerometer) | ≤10 | mg |
-| Operating Temperature | -40 ~ +80 | ℃ |
-| Storage Temperature | -45 ~ +85 | ℃ |
+---
+title: "CGSM40CJ1X Quartz MEMS IMU - Technical Reference"
+description: "Explore the CGSM40CJ1X Series, a three-axis quartz MEMS gyroscope and accelerometer integrated IMU designed for high reliability and compact applications in navigation and industrial sectors."
+keywords: "CGSM40CJ1X, Quartz MEMS IMU, Three-axis Gyroscope, Three-axis Accelerometer"
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-imu-cgsm40cj1/](https://www.gnc-tech.com/products/quartz-mems-imu-cgsm40cj1/)
+# CGSM40CJ1X Quartz MEMS IMU
+
+> **Quick Answer**: The CGSM40CJ1X Series consists of high-reliability, compact inertial measurement units (IMUs) that integrate three-axis quartz MEMS gyroscopes and accelerometers. These sensors are ideal for precise navigation and industrial applications, providing advanced digital compensation for accurate measurements of angular velocity and acceleration.
+
+## What is CGSM40CJ1X?
+
+The CGSM40CJ1X is a series of advanced inertial measurement units (IMUs) that utilize three orthogonally mounted quartz MEMS gyroscopes and MEMS accelerometers. They are designed for high reliability and compactness, making them suitable for a variety of applications including aerospace, marine, and industrial control. The integrated digital control circuitry ensures precise compensation for bias, scale factor, and installation errors, thereby enabling accurate measurements of angular velocity and acceleration.
+
+**Key Specifications:**
+- Power Supply Voltage: 5 ± 0.2 V
+- Operating Current: 19 ± 5 mA (CGSM40CJ1A), 18 ± 4 mA (CGSM40CJ11)
+- Measurement Range: ±300 °/s (Gyroscope), ±110 g (Accelerometer)
+
+## Technical Quick Reference
+
+### Performance Specifications
+| Parameter | CGSM40CJ1A | CGSM40CJ11 | Unit |
+| --- | --- | --- | --- |
+| Power Supply Voltage | 5 ± 0.2 | 5 ± 0.2 | V |
+| Operating Current | 19 ± 5 | 18 ± 4 | mA |
+| Weight | 12 ± 5 | ≤20 | g |
+| Startup Time | ≤2 | ≤2 | s |
+
+### When to Use CGSM40CJ1X?
+- ✅ Inertial navigation systems
+- ✅ Motion and attitude measurement
+- ✅ Aerospace and marine equipment
+- ✅ Industrial control systems
+
+### Integration Guide
+**Power Requirements:**
+- Power Supply Voltage: 5 ± 0.2 V
+
+**Pin Configuration:**
+- Wire configuration: discrete leads (AFR/AF-250), length ≥ 200 mm.
+
+| Wire Color | Definition |
+| --- | --- |
+| Red | Power + |
+| Black | Power Ground |
+| White | RS422_T+ |
+| Blue | RS422_T– |
+| Purple | RS422_R– |
+| Green | RS422_R+ |
+
+**Mounting:**
+- Ensure proper alignment and secure mounting to maintain measurement accuracy.
+
+## Comparison with Alternatives
+
+| Model | Measurement Range (Gyro) | Measurement Range (Accel) | Operating Current | Weight |
+| --- | --- | --- | --- | --- |
+| CGSM40CJ1A | ±300 °/s | ±110 g | 19 ± 5 mA | 12 ± 5 g |
+| CGSM40CJ11 | ±300 °/s | ±16 g | 18 ± 4 mA | ≤20 g |
+
+## Related Products
+- [CGSM40CJ1A](https://www.gnc-tech.com/products/quartz-mems-imu-cgsm40cj1a/)
+- [CGSM40CJ11](https://www.gnc-tech.com/products/quartz-mems-imu-cgsm40cj11/)
+
+---
+
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/quartz-mems-imu-cgsm40cj1/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

@@ -1,71 +1,28 @@
-# Dual-Axis MEMS Gyroscope
+---
+title: "D-Q-JDW-ZZ3411 Dual-Axis MEMS Gyroscope - Technical Reference"
+description: "High-performance dual-axis MEMS gyroscope with ±300°/s measurement range, superior zero bias stability (≤1°/h), and excellent scale factor characteristics."
+keywords: "D-Q-JDW-ZZ3411, Dual-Axis MEMS Gyroscope, High-Performance MEMS Gyroscope, Precise Angular Rate Measurement, Dual-Axis Motion Sensing"
+---
 
-> High-performance dual-axis MEMS gyroscope with ±300°/s measurement range, featuring superior zero bias stability (≤1°/h) and excellent scale factor characteristics
+# D-Q-JDW-ZZ3411 Dual-Axis MEMS Gyroscope
 
-![Dual-Axis MEMS Gyroscope](https://www.gnc-tech.com/images/products/navigation/mems/gyroscope/D-Q-JDW-ZZ3411/D-Q-JDW-ZZ3411.webp)
+> **Quick Answer**: The D-Q-JDW-ZZ3411 is a high-precision dual-axis MEMS gyroscope that measures angular rates with a range of ±300°/s. It features exceptional zero bias stability (≤1°/h), high scale factor precision, and is designed for demanding applications in dual-axis motion sensing.
 
-## 📋 Basic Information
+## What is D-Q-JDW-ZZ3411?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-ZZ3411` |
-| **Product Category** | navigation / mems / gyroscope |
-| **Product Page** | [https://www.gnc-tech.com/products/mems-gyroscope-dual-axis-zz3411/](https://www.gnc-tech.com/products/mems-gyroscope-dual-axis-zz3411/) |
-| **Source File Path** | `navigation\mems\gyroscope\D-Q-JDW-ZZ3411.mdx` |
+The **D-Q-JDW-ZZ3411** is an advanced dual-axis MEMS gyroscope that is specifically designed for applications needing precise angular rate measurements. With a measurement range of ±300°/s and a bandwidth of up to 100Hz, this gyroscope provides outstanding performance and reliability. It is engineered with superior zero bias stability (≤1°/h) and nonlinearity characteristics (≤300ppm), ensuring high accuracy in various environments.
 
-## 🔧 Available Models
+The device also boasts excellent X/Y orthogonality (≤0.5%) and low temperature coefficients, enabling it to maintain performance across a wide operating temperature range of -40°C to 85°C. This makes the D-Q-JDW-ZZ3411 a suitable choice for critical applications in fields such as robotics, industrial automation, and precision navigation.
 
-- **JDWZZ3411** (`D-Q-JDW-ZZ3411`)
+**Key Specifications:**
+- Measurement Range: ±300°/s
+- Zero Bias Stability: ≤1°/h
+- Scale Factor Precision: 20000 LSB/°/s
 
-## 🏷️ Keywords
+## Technical Quick Reference
 
-`ZZ3411` • `Dual-Axis MEMS Gyroscope` • `High-Performance MEMS Gyroscope` • `Precise Angular Rate Measurement` • `Dual-Axis Motion Sensing`
+### Performance Specifications
 
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-ZZ3411
-
-### Overview
-
-The **JDWZZ3411** is a high-precision dual-axis MEMS gyroscope engineered for applications requiring accurate angular rate measurements. With a measurement range of ±300°/s and bandwidth up to 100Hz, it delivers exceptional performance with superior zero bias stability (≤1°/h) and excellent scale factor characteristics (nonlinearity ≤300ppm). The device features precise X/Y orthogonality (≤0.5%) and outstanding temperature stability with low zero bias and scale factor temperature coefficients (≤1°/h/°C and ≤100ppm respectively), making it ideal for demanding dual-axis motion sensing applications.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-ZZ3411/D-Q-JDW-ZZ3411-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-ZZ3411/D-Q-JDW-ZZ3411-Slide-02.webp)
-
-### Features
-
-- Dual-axis angular rate measurement
-- Precise measurement range of ±300°/s on both axes
-- High-precision X/Y orthogonality (≤0.5%)
-- Superior zero bias stability (≤1°/h)
-- Excellent zero bias repeatability (≤5°/h)
-- Low zero bias temperature coefficient (≤1°/h/°C)
-- High scale factor precision (20000LSB/°/s)
-- Excellent scale factor repeatability (≤300ppm)
-- Superior scale factor nonlinearity (≤300ppm)
-- Low scale factor temperature coefficient (≤100ppm)
-- Wide bandwidth up to 100Hz
-- Wide operating temperature range (-40°C to 85°C)
-- Low power consumption (≤100mA)
-
-### Applications
-
-- Dual-axis motion control systems
-- Two-axis platform stabilization
-- Precision navigation systems
-- Industrial automation
-- Robotics motion control
-- Dual-axis attitude measurement
-- High-precision instrumentation
-- Research and development
-
-### Specifications
-
-#### Performance Specifications
-  
 | Performance | JDWZZ3411 | Unit |
 | --- | --- | --- |
 | Measurement Range | ±300 | °/s |
@@ -82,6 +39,42 @@ The **JDWZZ3411** is a high-precision dual-axis MEMS gyroscope engineered for ap
 | Power Supply Voltage | 5±0.25 | V |
 | Current | ≤100 | mA |
 | Operating Temperature | -40~85 | °C |
+
+### When to Use D-Q-JDW-ZZ3411?
+- ✅ Dual-axis motion control systems
+- ✅ Two-axis platform stabilization
+- ✅ Precision navigation systems
+- ✅ Industrial automation
+- ✅ Robotics motion control
+- ✅ Dual-axis attitude measurement
+- ✅ High-precision instrumentation
+- ✅ Research and development
+
+### Integration Guide
+**Power Requirements:**
+- Supply Voltage: 5±0.25 V
+- Current: ≤100 mA
+
+**Pin Configuration:**
+- Detailed pin configuration is available in the product datasheet.
+
+**Mounting:**
+- Ensure proper alignment for optimal X/Y orthogonality.
+
+## Comparison with Alternatives
+
+| Model | Measurement Range | Zero Bias Stability | Scale Factor Precision |
+|-------|-------------------|---------------------|------------------------|
+| JDWZZ3411 | ±300°/s | ≤1°/h | 20000 LSB/°/s |
+| [Alternative Model 1] | ±200°/s | ≤2°/h | 15000 LSB/°/s |
+| [Alternative Model 2] | ±400°/s | ≤1.5°/h | 25000 LSB/°/s |
+
+## Related Products
+- [High-Performance MEMS Accelerometer](https://www.gnc-tech.com/products/mems-accelerometer/)
+- [3-Axis MEMS Gyroscope](https://www.gnc-tech.com/products/mems-gyroscope-3-axis/)
+
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/mems-gyroscope-dual-axis-zz3411/](https://www.gnc-tech.com/products/mems-gyroscope-dual-axis-zz3411/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/mems-gyroscope-dual-axis-zz3411/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

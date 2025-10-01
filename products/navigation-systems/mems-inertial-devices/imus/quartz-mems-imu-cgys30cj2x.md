@@ -1,193 +1,68 @@
-# Quartz MEMS IMU CGYS30CJ2X Series
-
-> High-reliability quartz MEMS inertial measurement unit, integrates 3-axis gyroscope and 3-axis accelerometer, suitable for navigation, aerospace, robotics, and industrial control.
-
-![Quartz MEMS IMU CGYS30CJ2X Series](https://www.gnc-tech.com/images/products/navigation/quartz-mems/imu/D-Q-JDW-CGYS30CJ2X/D-Q-JDW-CGYS30CJ2X.webp)
-
-## 📋 Basic Information
-
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-CGYS30CJ2X` |
-| **Product Category** | navigation / quartz-mems / imu |
-| **Product Page** | [https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj2x/](https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj2x/) |
-| **Source File Path** | `navigation\quartz-mems\imu\D-Q-JDW-CGYS30CJ2X.mdx` |
-
-## 🔧 Available Models
-
-- **CGYS30CJ2A** (`D-Q-JDW-CGYS30CJ2A`)
-- **CGYS30CJ2B** (`D-Q-JDW-CGYS30CJ2B`)
-
-## 🏷️ Keywords
-
-`CGYS30CJ2A` • `CGYS30CJ2B` • `Quartz MEMS IMU`
-
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-CGYS30CJ2A
-
-### Overview
-
-The CGYS30CJ2A is a high-reliability quartz MEMS inertial measurement unit integrating three-axis MEMS gyroscopes and three-axis accelerometers, enabling full 3D angular velocity and acceleration measurement. Suitable for submarines, aircraft, spacecraft, robots, and other motion control or displacement estimation applications.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/imu/D-Q-JDW-CGYS30CJ2X/D-Q-JDW-CGYS30CJ2A-Slide-01.webp)
-
-### Features
-
-- High-reliability quartz MEMS IMU
-- 3-axis gyroscope + 3-axis accelerometer
-- Digital compensation for bias, scale factor, misalignment
-- Full 3D angular velocity and acceleration output
-- Navigation, aerospace, robotics, industrial grade
-
-### package
-
-#### CGYS30CJ2A Mechanical Dimensions
-_Unit: mm_
-<ProductImage productId="D-Q-JDW-CGYS30CJ2X" type="package" subType="CGYS30CJ2A" invertMode="light-only" />
-#### Electrical Interface
-Connector: 1.0 mm pitch, dual-row 24-pin header
-
-  | Pin No. | Definition |
-| --- | --- |
-| 10–12,23 | Power + |
-| 13–15 | Ground |
-| 1–2,7,9 | I/O |
-| 3 | SPI-CLK |
-| 4 | SPI-MISO |
-| 5 | SPI-MOSI |
-
-### Applications
-
-- Submarines
-- Aircraft
-- Spacecraft
-- Robotics
-- Industrial control
-
-### Specifications
-
-#### Key Technical Specifications
-  
-| Parameter | Unit | CGYS30CJ2A |
-| --- | --- | --- |
-| Power Supply Voltage | V | 5 ± 0.2 |
-| Operating Current | mA | 170 ± 5 |
-| Weight | g | 67 ± 5 |
-| Startup Time | s | ≤2 |
-##### Gyroscope Specifications
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Measurement Range | °/s | √±300 |
-| Scale Factor | - | 1 ± 0.005 |
-| Scale Factor Nonlinearity | ppm | ≤100 |
-| Scale Factor Repeatability | ppm | ≤300 |
-| Scale Factor Asymmetry | ppm | ≤100 |
-| Cross-Axis Sensitivity | - | ≤0.005 |
-| Threshold / Resolution | °/s | ≤0.01 |
-| Bias (Full Temperature) | °/s | ±0.02 |
-| Bias Stability (Room Temp) | °/h | ≤3 |
-| Bias Stability (Full Temp) | °/h | ≤10 |
-| Bias Repeatability | °/h | ≤5 |
-| Angular Random Walk | °/√h | ≤0.08 |
-| Bias Instability (Allan Deviation) | °/h | ≤1.5 |
-| Bandwidth (Amplitude) | Hz | √120 |
-| Delay Time | ms | √2.0 |
-##### Accelerometer Specifications
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Measurement Range | g | √±20 |
-| Bias (Full Temperature) | mg | ±5 |
-| Bias Stability (Room Temp) | mg | ≤0.1 |
-| Bias Stability (Full Temp) | mg | ≤1 |
-| Bias Repeatability | mg | ≤0.1 |
-##### Environmental Adaptability
-  
-| Test Item | Unit | Gyroscope | Accelerometer |
-| --- | --- | --- | --- |
-| Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤10 |
-| Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤10 |
-| Operating Temperature | ℃ | -45 ~ +85 |  |
-| Storage Temperature | ℃ | -55 ~ +85 |  |
-## D-Q-JDW-CGYS30CJ2B
-
-### Overview
-
-The CGYS30CJ2B is a high-reliability quartz MEMS inertial measurement unit integrating three-axis MEMS gyroscopes and three-axis accelerometers, enabling full 3D angular velocity and acceleration measurement. Suitable for submarines, aircraft, spacecraft, robots, and other motion control or displacement estimation applications.
-
-### Product Images
-
-### Features
-
-### package
-
-#### CGYS30CJ2B Mechanical Dimensions
-_Unit: mm_
-<ProductImage productId="D-Q-JDW-CGYS30CJ2X" type="package" subType="CGYS30CJ2B" invertMode="light-only" />
-#### Electrical Interface
-Connector: 1.0 mm pitch, dual-row 24-pin header
-
-  | Pin No. | Definition |
-| --- | --- |
-| 10–12,23 | Power + |
-| 13–15 | Ground |
-| 1–2,7,9 | I/O |
-| 3 | SPI-CLK |
-| 4 | SPI-MISO |
-| 5 | SPI-MOSI |
-
-### Applications
-
-### Specifications
-
-#### Key Technical Specifications
-  
-| Parameter | Unit | CGYS30CJ2B |
-| --- | --- | --- |
-| Power Supply Voltage | V | 5 ± 0.2 |
-| Operating Current | mA | 115 ± 5 |
-| Weight | g | 34 ± 5 |
-| Startup Time | s | ≤2 |
-##### Gyroscope Specifications
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Measurement Range | °/s | √±300 |
-| Scale Factor | - | 1 ± 0.005 |
-| Scale Factor Nonlinearity | ppm | ≤100 |
-| Scale Factor Repeatability | ppm | ≤100 |
-| Scale Factor Asymmetry | ppm | ≤100 |
-| Cross-Axis Sensitivity | - | ≤0.001 |
-| Threshold / Resolution | °/s | ≤0.01 |
-| Bias (Full Temperature) | °/s | ±0.02 |
-| Bias Stability (Room Temp) | °/h | ≤10 |
-| Bias Stability (Full Temp) | °/h | ≤50 |
-| Bias Repeatability | °/h | ≤10 |
-| Angular Random Walk | °/√h | ≤0.2 |
-| Bias Instability (Allan Deviation) | °/h | ≤1.5 |
-| Bandwidth (Amplitude) | Hz | √120 |
-| Delay Time | ms | √2.0 |
-##### Accelerometer Specifications
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Measurement Range | g | √±20 |
-| Bias (Full Temperature) | mg | ±5 |
-| Bias Stability (Room Temp) | mg | ≤0.1 |
-| Bias Stability (Full Temp) | mg | ≤1 |
-| Bias Repeatability | mg | ≤0.1 |
-##### Environmental Adaptability
-  
-| Test Item | Unit | Gyroscope | Accelerometer |
-| --- | --- | --- | --- |
-| Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤10 |
-| Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤10 |
-| Operating Temperature | ℃ | -45 ~ +85 |  |
-| Storage Temperature | ℃ | -55 ~ +85 |  |
+---
+title: "CGYS30CJ2X Quartz MEMS IMU - Technical Reference"
+description: "High-reliability quartz MEMS IMU integrating 3-axis gyroscope and 3-axis accelerometer, ideal for navigation and industrial applications."
+keywords: "CGYS30CJ2X, Quartz MEMS IMU, navigation, gyroscope, accelerometer"
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj2x/](https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj2x/)
+# CGYS30CJ2X Quartz MEMS IMU
+
+> **Quick Answer**: The CGYS30CJ2X Series is a high-reliability quartz MEMS inertial measurement unit (IMU) that combines a 3-axis gyroscope and a 3-axis accelerometer. It is designed for precise navigation and control in applications such as aerospace, robotics, and industrial automation.
+
+## What is CGYS30CJ2X?
+
+The CGYS30CJ2X Series consists of high-performance quartz MEMS inertial measurement units that leverage advanced technology to provide accurate 3D angular velocity and acceleration measurements. These IMUs are particularly suited for demanding applications in submarines, aircraft, spacecraft, and robotics, where reliable motion control and displacement estimation are critical.
+
+The series includes two models, CGYS30CJ2A and CGYS30CJ2B, each offering unique specifications tailored to different operational requirements. Both models feature digital compensation to enhance measurement accuracy and stability across various conditions.
+
+**Key Specifications:**
+- Power Supply Voltage: 5 ± 0.2 V
+- Operating Current: 170 ± 5 mA (CGYS30CJ2A), 115 ± 5 mA (CGYS30CJ2B)
+- Weight: 67 ± 5 g (CGYS30CJ2A), 34 ± 5 g (CGYS30CJ2B)
+
+## Technical Quick Reference
+
+### Performance Specifications
+| Parameter | Unit | CGYS30CJ2A | CGYS30CJ2B |
+| --- | --- | --- | --- |
+| Power Supply Voltage | V | 5 ± 0.2 | 5 ± 0.2 |
+| Operating Current | mA | 170 ± 5 | 115 ± 5 |
+| Weight | g | 67 ± 5 | 34 ± 5 |
+| Startup Time | s | ≤2 | ≤2 |
+
+### When to Use CGYS30CJ2X?
+- ✅ Navigation systems for submarines and aircraft
+- ✅ Robotics applications requiring precise motion tracking
+- ✅ Industrial control systems needing reliable IMU data
+
+### Integration Guide
+**Power Requirements:**
+- Voltage: 5 ± 0.2 V
+
+**Pin Configuration:**
+| Pin No. | Definition |
+| --- | --- |
+| 10–12,23 | Power + |
+| 13–15 | Ground |
+| 1–2,7,9 | I/O |
+| 3 | SPI-CLK |
+| 4 | SPI-MISO |
+| 5 | SPI-MOSI |
+
+**Mounting:**
+- Mechanical dimensions and mounting specifications available for each model.
+
+## Comparison with Alternatives
+| Model | Weight (g) | Operating Current (mA) | Measurement Range (°/s) |
+| --- | --- | --- | --- |
+| CGYS30CJ2A | 67 ± 5 | 170 ± 5 | √±300 |
+| CGYS30CJ2B | 34 ± 5 | 115 ± 5 | √±300 |
+
+## Related Products
+- [CGYS30CJ2A](https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj2a/)
+- [CGYS30CJ2B](https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj2b/)
+
+---
+
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/quartz-mems-imu-cgys30cj2x/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

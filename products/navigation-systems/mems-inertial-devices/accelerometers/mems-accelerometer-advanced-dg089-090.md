@@ -1,71 +1,28 @@
-# Advanced MEMS Accelerometer Series
+---
+title: "D-Q-JDW-DG089-090 Advanced MEMS Accelerometer Series - Technical Reference"
+description: "High-performance MEMS accelerometers with superior stability and precision for demanding industrial and navigation applications."
+keywords: "D-Q-JDW-DG089, D-Q-JDW-DG090, Advanced MEMS Accelerometer Series, High-Performance MEMS Accelerometers"
+---
 
-> High-performance MEMS accelerometers with superior stability and precision for demanding industrial and navigation applications
+# D-Q-JDW-DG089-090 Advanced MEMS Accelerometer Series
 
-![Advanced MEMS Accelerometer Series](https://www.gnc-tech.com/images/products/navigation/mems/accelerometer/D-Q-JDW-DG089-090/D-Q-JDW-DG089-090.webp)
+> **Quick Answer**: The D-Q-JDW-DG089-090 series features high-performance MEMS accelerometers designed for precise X-axis acceleration measurements. With ranges of ±20g, ±50g, and ±100g, these accelerometers provide exceptional stability and reliability, making them ideal for various industrial and navigation applications.
 
-## 📋 Basic Information
+## What is D-Q-JDW-DG089-090?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-DG089-090` |
-| **Product Category** | navigation / mems / accelerometer |
-| **Product Page** | [https://www.gnc-tech.com/products/mems-accelerometer-advanced-dg089-090/](https://www.gnc-tech.com/products/mems-accelerometer-advanced-dg089-090/) |
-| **Source File Path** | `navigation\mems\accelerometer\D-Q-JDW-DG089-090.mdx` |
+The **D-Q-JDW-DG089-090** series includes high-precision MEMS accelerometers engineered for demanding applications. The JDWDG089 model offers a measurement range of ±20g, while the JDWDG090 model comes with two range options: ±50g and ±100g. Both models feature outstanding zero bias stability, high bandwidth, and low power consumption. Their digital SPI interface and professional packaging facilitate seamless integration into various systems, ensuring high accuracy and reliability for motion sensing and industrial monitoring.
 
-## 🔧 Available Models
+**Key Specifications:**
+- Measurement Range: ±20g (JDWDG089), ±50g and ±100g (JDWDG090)
+- Bandwidth: 100Hz
+- Zero Bias Stability: ≤0.05mg (JDWDG089), ≤0.05mg (JDWDG090 ±50g), ≤0.1mg (JDWDG090 ±100g)
 
-- **JDWDG089** (`D-Q-JDW-DG089`)
-- **JDWDG090** (`D-Q-JDW-DG090`)
+## Technical Quick Reference
 
-## 🏷️ Keywords
+### Performance Specifications
 
-`DG089-090` • `Advanced MEMS Accelerometer Series` • `High-Performance MEMS Accelerometers` • `Superior Stability and Precision` • `Demanding Industrial and Navigation Applications`
+#### JDWDG089 Performance Specifications
 
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-DG089
-
-### Overview
-
-The **JDWDG089** is a high-precision MEMS accelerometer designed for precise X-axis acceleration measurements. With a measurement range of ±20g, it delivers exceptional stability and reliability for demanding applications. The device features superior zero bias stability of ≤0.05mg and excellent repeatability of ≤0.3mg, making it ideal for high-precision motion sensing and industrial monitoring. With its SPI interface and professional LCC48 packaging, it offers seamless integration into various measurement and control systems while maintaining high accuracy and reliability.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/mems/accelerometer/D-Q-JDW-DG089-090/D-Q-JDW-DG089-090-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/mems/accelerometer/D-Q-JDW-DG089-090/D-Q-JDW-DG089-090-Slide-02.webp)
-
-### Features
-
-- High-precision ±20g measurement range
-- 100Hz bandwidth for accurate measurements
-- Superior zero bias stability (≤0.05mg)
-- Excellent zero bias repeatability (≤0.3mg)
-- Ultra-low temperature coefficient (≤0.02mg/°C)
-- Digital SPI interface
-- Professional LCC48 packaging
-- High overload resistance (≥20000g)
-- Wide operating temperature range (-40°C to 85°C)
-- Low power consumption (≤20mA)
-
-### Applications
-
-- High-precision motion control
-- Industrial automation systems
-- Structural health monitoring
-- Seismic monitoring
-- Platform stabilization
-- Navigation systems
-- Precision instrumentation
-- Research and development
-- Vehicle dynamics testing
-- Aerospace applications
-
-### Specifications
-
-#### Performance Specifications
-  
 | Performance | JDWDG089 | Unit |
 | --- | --- | --- |
 | Measurement Range | ±20 | g |
@@ -83,44 +40,9 @@ The **JDWDG089** is a high-precision MEMS accelerometer designed for precise X-a
 | Operating Temperature | -40~85 | °C |
 | Power Supply Voltage | 5±0.1 | V |
 | Current | ≤20 | mA |
-## D-Q-JDW-DG090
 
-### Overview
+#### JDWDG090 Performance Specifications
 
-The **JDWDG090** is a versatile MEMS accelerometer engineered for precise X-axis acceleration measurements. Available in two measurement ranges (±50g, ±100g), it combines excellent stability with reliable performance for demanding applications. The device features optimized zero bias stability and temperature compensation, ensuring accurate measurements across varying environmental conditions. Its LCC48 packaging and SPI interface provide robust performance and easy integration for industrial automation and motion control systems.
-
-### Product Images
-
-### Features
-
-- Multiple measurement ranges: ±50g and ±100g
-- 100Hz bandwidth for precise measurements
-- Excellent zero bias stability (≤0.05mg for ±50g, ≤0.1mg for ±100g)
-- Superior zero bias repeatability (≤0.5mg for ±50g, ≤1mg for ±100g)
-- Low temperature coefficient (≤0.05mg/°C for ±50g, ≤0.1mg/°C for ±100g)
-- Digital SPI interface
-- Professional LCC48 packaging
-- High overload resistance (≥20000g)
-- Wide operating temperature range (-40°C to 85°C)
-- Low power consumption (≤20mA)
-
-### Applications
-
-- Industrial vibration monitoring
-- Impact testing and analysis
-- Structural dynamics measurement
-- Transportation and vehicle testing
-- Machine health monitoring
-- Robotics and automation
-- Military and defense applications
-- Aerospace testing
-- Research and development
-- High-g testing applications
-
-### Specifications
-
-#### Performance Specifications
-  
 | Performance | JDWDG090-050 | JDWDG090-100 | Unit |
 | --- | --- | --- | --- |
 | Measurement Range | ±50 | ±100 | g |
@@ -138,6 +60,40 @@ The **JDWDG090** is a versatile MEMS accelerometer engineered for precise X-axis
 | Operating Temperature | -40~85 | -40~85 | °C |
 | Power Supply Voltage | 5±0.1 | 5±0.1 | V |
 | Current | ≤20 | ≤20 | mA |
+
+### When to Use D-Q-JDW-DG089-090?
+- ✅ High-precision motion control
+- ✅ Industrial automation systems
+- ✅ Seismic monitoring
+- ✅ Navigation systems
+- ✅ Aerospace applications
+- ✅ Robotics and automation
+- ✅ Impact testing and analysis
+
+### Integration Guide
+**Power Requirements:**
+- Power Supply Voltage: 5±0.1 V
+- Current: ≤20 mA
+
+**Pin Configuration:**
+- Digital SPI interface for communication
+
+**Mounting:**
+- Professional LCC48 packaging ensures secure installation and integration.
+
+## Comparison with Alternatives
+
+| Model | Measurement Range | Zero Bias Stability | Overload Resistance | Unit |
+|-------|-------------------|---------------------|---------------------|------|
+| JDWDG089 | ±20 | ≤0.05 | ≥20000 | g |
+| JDWDG090-050 | ±50 | ≤0.05 | ≥20000 | g |
+| JDWDG090-100 | ±100 | ≤0.1 | ≥20000 | g |
+
+## Related Products
+- [Explore more MEMS accelerometers](https://www.gnc-tech.com/products/mems-accelerometer-advanced-dg089-090/)
+
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/mems-accelerometer-advanced-dg089-090/](https://www.gnc-tech.com/products/mems-accelerometer-advanced-dg089-090/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/mems-accelerometer-advanced-dg089-090/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

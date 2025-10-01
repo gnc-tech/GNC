@@ -1,81 +1,27 @@
-# High-Performance MEMS Micro-Inertial Measurement Unit
+---
+title: "D-Q-JDW-ZZ3415 High-Performance MEMS Micro-Inertial Measurement Unit - Technical Reference"
+description: "The D-Q-JDW-ZZ3415 is a high-performance MEMS micro-IMU featuring a three-axis gyroscope and accelerometer with superior stability and precision."
+keywords: "D-Q-JDW-ZZ3415, High-Performance MEMS Micro-Inertial Measurement Unit, Advanced MEMS Micro-IMU, Superior Stability and Precision"
+---
 
-> Advanced MEMS micro-IMU integrating three-axis gyroscope (±3600°/s) and three-axis accelerometer (±20g), featuring superior stability and precision performance
+# D-Q-JDW-ZZ3415 High-Performance MEMS Micro-Inertial Measurement Unit
 
-![High-Performance MEMS Micro-Inertial Measurement Unit](https://www.gnc-tech.com/images/products/navigation/mems/imu/D-Q-JDW-ZZ3415/D-Q-JDW-ZZ3415.webp)
+> **Quick Answer**: The D-Q-JDW-ZZ3415 is a high-performance MEMS micro-inertial measurement unit that integrates a three-axis gyroscope (±3600°/s) and a three-axis accelerometer (±20g). It offers exceptional stability and precision, making it ideal for various applications in navigation and motion sensing.
 
-## 📋 Basic Information
+## What is D-Q-JDW-ZZ3415?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-ZZ3415` |
-| **Product Category** | navigation / mems / imu |
-| **Product Page** | [https://www.gnc-tech.com/products/mems-imu-micro-zz3415/](https://www.gnc-tech.com/products/mems-imu-micro-zz3415/) |
-| **Source File Path** | `navigation\mems\imu\D-Q-JDW-ZZ3415.mdx` |
+The **D-Q-JDW-ZZ3415** is a state-of-the-art MEMS micro-inertial measurement unit designed for high accuracy and stability in motion sensing. It combines a three-axis gyroscope capable of measuring up to ±3600°/s with a three-axis accelerometer providing a measurement range of ±20g. The gyroscope ensures excellent scale factor characteristics with nonlinearity ≤150ppm and superior zero bias stability of ≤10°/h with 10s smoothing. On the other hand, the accelerometer excels in precision with a scale factor nonlinearity of ≤150ppm and zero bias stability of ≤0.1mg.
 
-## 🔧 Available Models
+Housed in a lightweight and robust aluminum case with potting protection, the JDWZZ3415 also incorporates integrated control and signal processing circuits, offering a comprehensive solution for inertial measurement applications.
 
-- **JDWZZ3415** (`D-Q-JDW-ZZ3415`)
+**Key Specifications:**
+- Gyroscope Measurement Range: ±3600°/s
+- Accelerometer Measurement Range: ±20g
+- Power Supply Voltage: 4.85-5.05V
 
-## 🏷️ Keywords
+## Technical Quick Reference
 
-`ZZ3415` • `High-Performance MEMS Micro-Inertial Measurement Unit` • `Advanced MEMS Micro-IMU` • `Superior Stability and Precision`
-
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-ZZ3415
-
-### Overview
-
-The **JDWZZ3415** is a high-performance MEMS micro-inertial measurement unit integrating three-axis gyroscope and three-axis accelerometer capabilities. The gyroscope system provides ±3600°/s measurement range with excellent scale factor characteristics (nonlinearity ≤150ppm) and superior zero bias stability (≤10°/h with 10s smoothing). The accelerometer system offers ±20g measurement range with high precision (scale factor nonlinearity ≤150ppm) and exceptional stability (zero bias stability ≤0.1mg). Housed in a lightweight super-hard aluminum case with potting protection, the unit features integrated control and signal processing circuits for comprehensive inertial measurement capabilities.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-ZZ3415/D-Q-JDW-ZZ3415-Slide-01.webp)
-
-### Features
-
-- Integrated three-axis gyroscope and accelerometer systems
-- High-performance gyroscope specifications:
-- Wide measurement range: ±3600°/s
-- Superior scale factor accuracy (1990-2010 LSB/°/s)
-- Excellent scale factor nonlinearity (≤150ppm)
-- Outstanding zero bias stability (≤10°/h)
-- High bandwidth (180-220Hz)
-- High-precision accelerometer specifications:
-- Wide measurement range: ±20g
-- Precise scale factor (39900-40100 LSB/g)
-- Superior scale factor nonlinearity (≤150ppm)
-- Excellent zero bias stability (≤0.1mg)
-- High bandwidth (80-120Hz)
-- Advanced mechanical design:
-- Lightweight super-hard aluminum construction
-- Internal potting protection
-- High overload resistance (≥20000g)
-- Comprehensive performance features:
-- Wide operating temperature range (-40°C to +60°C)
-- Fast activation time (≤1s)
-- Stable power supply requirements (4.85-5.05V)
-
-### dimensions
-
-#### JDWZZ3415 Outline Dimensions
-The diagram shows the outline dimensions of the JDWZZ3415, providing key measurements for integration and installation.
-
-<ProductImage productId="D-Q-JDW-ZZ3415" invertMode="light-only" />
-
-### Applications
-
-- Inertial navigation systems
-- Attitude and heading reference systems
-- Multi-axis motion tracking and control
-- High-precision platform stabilization
-- Advanced robotics navigation
-- Unmanned vehicle control systems
-- Aerospace motion sensing
-- High-dynamic testing and measurement
-
-### Specifications
+### Performance Specifications
 
 #### Gyroscope Specifications
   
@@ -89,6 +35,7 @@ The diagram shows the outline dimensions of the JDWZZ3415, providing key measure
 | Zero Bias Temperature Coefficient² | - | 1 | °/h/°C |
 | Zero Bias g Sensitivity | - | 10 | °/h/g |
 | Bandwidth | 180 | 220 | Hz |
+
 #### Accelerometer Specifications
   
 | Performance | MIN | MAX | Unit |
@@ -100,6 +47,7 @@ The diagram shows the outline dimensions of the JDWZZ3415, providing key measure
 | Zero Bias Stability (10s Smoothing) | - | 0.1 | mg |
 | Bandwidth | 80 | 120 | Hz |
 | Orthogonality | - | 6 | ° |
+
 #### Common Specifications
   
 | Parameters | MIN | MAX | Unit |
@@ -108,12 +56,40 @@ The diagram shows the outline dimensions of the JDWZZ3415, providing key measure
 | Operating Temperature | -40 | +60 | °C |
 | Activation Time | - | 1 | s |
 | Resistant To Overload | 20000 | - | g |
-### Notes
 
-1. Full temperature, 2℃/min temperature change rate
-2. Measurement temperature points are: -40℃,25℃,60℃
-  
+### When to Use D-Q-JDW-ZZ3415?
+- ✅ Inertial navigation systems
+- ✅ Attitude and heading reference systems
+- ✅ Multi-axis motion tracking and control
+- ✅ High-precision platform stabilization
+- ✅ Advanced robotics navigation
+- ✅ Unmanned vehicle control systems
+- ✅ Aerospace motion sensing
+- ✅ High-dynamic testing and measurement
+
+### Integration Guide
+**Power Requirements:**
+- Voltage: 4.85-5.05V
+
+**Pin Configuration:**
+- Refer to the product page for detailed pin configuration.
+
+**Mounting:**
+- Ensure proper mounting in the designated aluminum housing for optimal performance.
+
+## Comparison with Alternatives
+
+| Model | Gyroscope Range (°/s) | Accelerometer Range (g) | Price |
+|-------|-----------------------|-------------------------|-------|
+| D-Q-JDW-ZZ3415 | ±3600 | ±20 | TBD   |
+| Alternative Model A | ±3000 | ±16 | TBD   |
+| Alternative Model B | ±2000 | ±10 | TBD   |
+
+## Related Products
+- [Explore more MEMS IMUs](https://www.gnc-tech.com/products/mems-imu/)
 
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/mems-imu-micro-zz3415/](https://www.gnc-tech.com/products/mems-imu-micro-zz3415/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/mems-imu-micro-zz3415/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

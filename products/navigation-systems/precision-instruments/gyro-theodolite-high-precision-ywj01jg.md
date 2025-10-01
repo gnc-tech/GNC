@@ -1,199 +1,67 @@
-# High Precision Gyro Theodolite Series
-
-> Ultra-high precision gyroscopic theodolite with advanced automation for professional surveying and precise azimuth determination
-
-![High Precision Gyro Theodolite Series](https://www.gnc-tech.com/images/products/navigation/gyro-theodolite/D-TP-YWJ01JG/D-TP-YWJ01JG.webp)
-
-## 📋 Basic Information
-
-| Item | Information |
-|------|------|
-| **Product Model** | `D-TP-YWJ01JG` |
-| **Product Category** | Navigation Systems / 陀螺经纬仪 |
-| **Product Page** | [https://www.gnc-tech.com/products/gyro-theodolite-high-precision-ywj01jg/](https://www.gnc-tech.com/products/gyro-theodolite-high-precision-ywj01jg/) |
-| **Source File Path** | `navigation\gyro-theodolite\D-TP-YWJ01JG.mdx` |
-
-## 🔧 Available Models
-
-- **YWJ01JG035** (`D-TP-YWJ01JG035`)
-- **YWJ01JG050** (`D-TP-YWJ01JG050`)
-
-## 🏷️ Keywords
-
-`YWJ01JG` • `High Precision Gyro Theodolite Series` • `Ultra-High Precision` • `Advanced Automation` • `Professional Surveying` • `Precise Azimuth Determination`
-
-## 📖 Detailed Technical Information
-
-## D-TP-YWJ01JG035
-
-### Overview
-
-The ultra-high precision gyro theodolite (ZB02) represents the pinnacle of our gyroscopic measurement technology. With superior azimuth accuracy and comprehensive automation features, it delivers exceptional performance for the most demanding surveying and alignment applications.
-
-### Features
-
-#### Features
 ---
-###### Measurement System
-- Ultra-high azimuth accuracy: ±3.5 arc seconds
-- Advanced digital angle reading system
-- Fully automated measurement process
-- Comprehensive self-checking capabilities
-- Digital display with silicon photosensitive system
+title: "D-TP-YWJ01JG High Precision Gyro Theodolite - Technical Reference"
+description: "Explore the D-TP-YWJ01JG series, featuring ultra-high precision gyroscopic theodolites with advanced automation for professional surveying."
+keywords: "D-TP-YWJ01JG, High Precision Gyro Theodolite, Ultra-High Precision, Advanced Automation"
+---
 
-###### Physical Specifications
+# D-TP-YWJ01JG High Precision Gyro Theodolite
+
+> **Quick Answer**: The D-TP-YWJ01JG series features ultra-high precision gyroscopic theodolites designed for professional surveying and precise azimuth determination, providing exceptional accuracy and automation. This series includes models with azimuth accuracy as fine as ±3.5 arc seconds.
+
+## What is D-TP-YWJ01JG?
+
+The D-TP-YWJ01JG represents a cutting-edge series of gyroscopic theodolites tailored for high-precision applications in surveying and engineering. These instruments utilize advanced gyroscopic technology to offer users unparalleled azimuth accuracy and reliability. With features such as fully automated measurement processes, comprehensive self-checking capabilities, and robust physical specifications, the D-TP-YWJ01JG series is ideal for demanding environments and professional applications.
+
+**Key Specifications:**
+- Ultra-high azimuth accuracy: ±3.5 to ±5 arc seconds
 - Operating temperature: -20°C to +50°C
-- Storage temperature: -40°C to +70°C
-- Water/Dust protection: IP66
+- IP66 water and dust protection
 - Weight: ≤13.5 kg
 - Battery life: 12 hours
 
-###### Advanced Features
-- Single-window LCD display
-- Silicon photosensitive keyboard
-- Menu-driven interface
-- Full digital measurement process
-- Automatic data storage and output
+## Technical Quick Reference
 
-### customization
+### Performance Specifications
 
-#### Customization Options
----
-###### Software Options
-- Multiple language packages
-- Custom measurement modes
-- Advanced data processing software
+| Parameter                  | Unit | D-TP-YWJ01JG035 | D-TP-YWJ01JG050 |
+|---------------------------|------|-----------------|-----------------|
+| Azimuth Accuracy           | arcsec | ≤3.5           | ≤5              |
+| Measurement Time           | min  | ≤13            | ≤12             |
+| Main Unit Weight           | kg   | ≤13.5          | ≤13             |
+| Data Storage               | groups | 100            | 100             |
 
-###### Hardware Options
-- External battery pack
-- Bluetooth data transfer module
-- Precision tribrach
-- Weather protection cover
+### When to Use D-TP-YWJ01JG?
+- ✅ High-precision tunnel alignment
+- ✅ Military equipment orientation
+- ✅ Mining industry surveys
+- ✅ Precision engineering projects
+- ✅ Infrastructure monitoring
+- ✅ Scientific research facilities
+- ✅ Professional education and training
 
-###### Service Options
-- Extended calibration services
-- On-site training programs
-- Extended warranty package
-
-### Applications
-
-#### Applications
----
-- High-precision tunnel alignment
-- Military equipment orientation
-- Mining industry surveys
-- Precision engineering projects
-- Infrastructure monitoring
-- Scientific research facilities
-- Professional education and training
-
-### Specifications
-
-#### Measurement Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Azimuth Accuracy | arcsec | ≤3.5 |
-| Measurement Time | min | ≤13 |
-| Main Unit Weight | kg | ≤13.5 |
-| Data Storage | groups | 100 |
-#### Operation Parameters
-  
-| Parameter | Value |
-| --- | --- |
-| Operation Mode | One-key Full Auto |
-| Operation Safety | Anti-shock, Anti-static, Anti-interference |
-| Measurement Process | Self-checking |
-| Display | Digital Display |
-| Result Output | Auto Storage and Output |
-### accessories
-
-#### Accessories
----
-###### Standard Accessories
-<ProductImage 
-  productId="D-TP-YWJ01ZB"
-  type="accessories"
-  subType="standard"
-/>
-
-###### Optional Accessories
-<ProductImage 
-  productId="D-TP-YWJ01ZB"
-  type="accessories"
-  subType="optional"
-/>
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01JG/D-TP-YWJ01JG035-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01JG/D-TP-YWJ01JG035-Slide-02.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01JG/D-TP-YWJ01JG035-Slide-03.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01JG/D-TP-YWJ01JG035-Slide-04.webp)
-
-  
-
-## D-TP-YWJ01JG050
-
-### Overview
-
-The high-precision gyro theodolite (ZB05) combines excellent accuracy with robust reliability. Featuring fully automated operation and comprehensive digital capabilities, it provides professional-grade performance for precise surveying and alignment tasks.
-
-### Features
-
-#### Features
----
-###### Measurement System
-- High azimuth accuracy: ±5 arc seconds
-- Advanced digital angle reading system
-- Fully automated measurement process
-- Comprehensive self-checking capabilities
-- Digital display with silicon photosensitive system
-
-###### Physical Specifications
-- Operating temperature: -20°C to +50°C
-- Storage temperature: -40°C to +70°C
-- Water/Dust protection: IP66
-- Weight: ≤13 kg
+### Integration Guide
+**Power Requirements:**
 - Battery life: 12 hours
 
-###### Advanced Features
-- Single-window LCD display
-- Silicon photosensitive keyboard
+**Pin Configuration:**
+- Digital display with silicon photosensitive keyboard
 - Menu-driven interface
-- Full digital measurement process
-- Automatic data storage and output
 
-### Specifications
+**Mounting:**
+- Suitable for standard tripod mounting
 
-#### Measurement Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Azimuth Accuracy | arcsec | ≤5 |
-| Measurement Time | min | ≤12 |
-| Main Unit Weight | kg | ≤13 |
-| Data Storage | groups | 100 |
-#### Operation Parameters
-  
-| Parameter | Value |
-| --- | --- |
-| Operation Mode | One-key Full Auto |
-| Operation Safety | Anti-shock, Anti-static, Anti-interference |
-| Measurement Process | Self-checking |
-| Display | Digital Display |
-| Result Output | Auto Storage and Output |
-### customization
+## Comparison with Alternatives
 
-### Applications
+| Model                     | Azimuth Accuracy | Weight | Measurement Time |
+|--------------------------|------------------|--------|-------------------|
+| D-TP-YWJ01JG035         | ≤3.5 arcsec      | ≤13.5 kg | ≤13 min           |
+| D-TP-YWJ01JG050         | ≤5 arcsec        | ≤13 kg  | ≤12 min           |
 
-### accessories
-
-### Product Images
+## Related Products
+- [Explore other Gyro Theodolites](https://www.gnc-tech.com/products/gyro-theodolite-high-precision-ywj01jg/)
 
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/gyro-theodolite-high-precision-ywj01jg/](https://www.gnc-tech.com/products/gyro-theodolite-high-precision-ywj01jg/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/gyro-theodolite-high-precision-ywj01jg/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

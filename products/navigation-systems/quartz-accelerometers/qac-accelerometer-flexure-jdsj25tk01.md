@@ -1,57 +1,46 @@
-# JDSJ25TK01 Series Quartz Flexure Accelerometer
+---
+title: "D-Q-BYS-JDSJ25TK01 Quartz Flexure Accelerometer - Technical Reference"
+description: "High-precision inertial navigation-grade sensor with exceptional stability, repeatability, and reliability for various applications."
+keywords: "D-Q-BYS-JDSJ25TK01, Quartz Flexure Accelerometer, Inertial Navigation"
+---
 
-> High-precision inertial navigation-grade sensor renowned for exceptional long-term stability, repeatability, and high reliability
+# D-Q-BYS-JDSJ25TK01 Quartz Flexure Accelerometer
 
-![JDSJ25TK01 Series Quartz Flexure Accelerometer](https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-JDSJ25TK01/D-Q-BYS-JDSJ25TK01.webp)
+> **Quick Answer**: The D-Q-BYS-JDSJ25TK01 series quartz flexure accelerometer is designed for high-precision inertial navigation applications. It offers exceptional long-term stability and reliability, making it suitable for static and dynamic testing, as well as vibration and tilt sensing.
 
-## 📋 Basic Information
+## What is D-Q-BYS-JDSJ25TK01?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-BYS-JDSJ25TK01` |
-| **Product Category** | Navigation Systems / Quartz Accelerometers |
-| **Product Page** | [https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk01/](https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk01/) |
-| **Source File Path** | `navigation\qac\D-Q-BYS-JDSJ25TK01.mdx` |
+The D-Q-BYS-JDSJ25TK01 is a state-of-the-art quartz flexure accelerometer that excels in inertial navigation applications. Its design ensures remarkable long-term stability and repeatability, which are crucial for precision measurements. The sensor is adaptable to various environmental conditions and features a linear output current proportional to the applied force or acceleration. Users can customize sampling resistors for high-precision outputs, and it can optionally include an internal temperature sensor to minimize the impact of temperature variations on measurements.
 
-## 🔧 Available Models
+**Key Specifications:**
+- Measurement Range: ±50g, ±60g, ±70g
+- Operating Temperature Range: -55°C to +85°C
+- Power Supply: ±12 to ±15 V
 
-- **JDSJ25TK01** (`D-Q-BYS-JDSJ25TK01`)
+## Technical Quick Reference
 
-## 🏷️ Keywords
+### Performance Specifications
 
-`JDSJ25TK01` • `Quartz Flexure Accelerometer` • `Inertial Navigation`
+| Parameters | JDSJ25TK01-01 | JDSJ25TK01-02 | JDSJ25TK01-03 |
+| --- | --- | --- | --- |
+| Bias Comprehensive Repeatability σK₀ (1σ, 1 month) | ≤10 µg | ≤15 µg | ≤25 µg |
+| Scale Factor Comprehensive Repeatability σK₁/K₁ (1σ, 1 month) | ≤10 ppm | ≤20 ppm | ≤30 ppm |
+| Nonlinearity Coefficient Comprehensive Repeatability K₂/K₁ (1σ, 1 month) | ≤±10 µg/g² | ≤±15 µg/g² | ≤±20 µg/g² |
+| Bias Temperature Coefficient (Average over Full Temperature Range) | ≤±10 µg/°C | ≤±20 µg/°C | ≤±30 µg/°C |
+| Scale Factor Temperature Coefficient (Average over Full Temperature Range) | ≤±10 ppm/°C | ≤±30 ppm/°C | ≤±50 ppm/°C |
+| Noise (Sampling Resistor at 840 Ω) | ≤5 mV | ≤8.4 mV | ≤8.4 mV |
 
-## 📖 Detailed Technical Information
+### When to Use D-Q-BYS-JDSJ25TK01?
+- ✅ For high-precision inertial navigation systems
+- ✅ In aerospace and aviation applications
+- ✅ For maritime navigation and vibration isolation testing
 
-## D-Q-BYS-JDSJ25TK01
+### Integration Guide
+**Power Requirements:**
+- Power Supply: ±12 to ±15 V
 
-### Overview
-
-The JDSJ25TK01 series quartz flexure accelerometer is a high-precision inertial navigation-grade sensor renowned for its exceptional long-term stability, repeatability, startup performance, environmental adaptability, and high reliability. It is suitable for both static and dynamic testing and also functions effectively as a standard vibration and tilt sensor. The accelerometer's output current maintains a linear relationship with the applied force or acceleration, allowing users to select appropriate sampling resistors to achieve high-precision outputs. Additionally, an internal temperature sensor can be integrated upon request to compensate for bias and scale factor variations, thereby minimizing environmental temperature influences.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-JDSJ25TK01/D-Q-BYS-JDSJ25TK01-Slide-01.webp)
-
-### Features
-
-- Exceptional long-term stability
-- Superior repeatability performance
-- Excellent startup characteristics
-- High environmental adaptability
-- Enhanced reliability design
-- Linear output current to acceleration relationship
-- Customizable sampling resistors
-- Optional integrated temperature sensor
-- Low bias temperature coefficient
-- High shock resistance (100g)
-- Wide operating temperature range (-55°C to +85°C)
-
-### package
-
-#### Standard Pin Definitions
-
-  | Pin Number | Function |
+**Pin Configuration:**
+| Pin Number | Function |
 | --- | --- |
 | 1 | Signal Output |
 | 2 | Not Connected |
@@ -64,75 +53,22 @@ The JDSJ25TK01 series quartz flexure accelerometer is a high-precision inertial 
 | 9 | -9V Output |
 | 10 | +9V Output |
 
-#### Outline Drawings
-<ProductImage 
-productId="D-Q-BYS-JDSJ25TK01" 
-type="package" 
-subType="dimensions" 
-invertMode="light-only" 
-/>
+**Mounting:**
+- Ensure appropriate installation based on outline dimensions (Ø25.4 × 30 mm).
 
-### Applications
+## Comparison with Alternatives
 
-- High-precision inertial navigation systems
-- Aerospace applications
-- Aviation systems
-- Maritime navigation
-- Vibration isolation testing
-- Precision instruments and equipment
-- Standard vibration measurement
-- Tilt sensing applications
+| Model | Range | Threshold | Bias K₀/K₁ | Scale Factor K₁ |
+| --- | --- | --- | --- | --- |
+| JDSJ25TK01-01 | ±50g, ±60g, ±70g | 5 µg | ≤±3 mg | 1.05–1.30 mA/g |
+| JDSJ25TK01-02 | ±50g, ±60g, ±70g | 5 µg | ≤±3 mg | 1.05–1.30 mA/g |
+| JDSJ25TK01-03 | ±50g, ±60g, ±70g | 5 µg | ≤±5 mg | 1.05–1.30 mA/g |
 
-### Notes
+## Related Products
+- [Explore more accelerometers](https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk01/)
 
-1. - The scale factor can be adjusted according to user requirements.
-2. - Temperature sensor options include AD590, PT1000, and 18B20.
-3. - Testing intervals can be customized based on user needs, such as 1 month, 3 months, 6 months, or 12 months.
-4. - The outline dimensions can be slightly adjusted according to user installation requirements; other testing requirements can also be customized based on client specifications.
-
-### Specifications
-
-#### General Specifications
-  
-| Parameters | JDSJ25TK01-01 | JDSJ25TK01-02 | JDSJ25TK01-03 |
-| --- | --- | --- | --- |
-| Range | ±50g, ±60g, ±70g | ±50g, ±60g, ±70g | ±50g, ±60g, ±70g |
-| Threshold | 5 µg | 5 µg | 5 µg |
-| Bias K₀/K₁ | ≤±3 mg | ≤±3 mg | ≤±5 mg |
-| Scale Factor K₁ | 1.05–1.30 mA/g | 1.05–1.30 mA/g | 1.05–1.30 mA/g |
-| Second-Order Nonlinearity Coefficient K₂ | ≤±10 µg/g² | ≤±15 µg/g² | ≤±20 µg/g² |
-| 0g 4-Hour Short-Term Stability | ≤10 µg | ≤10 µg | ≤10 µg |
-| 1g 4-Hour Short-Term Stability | ≤10 ppm | ≤10 ppm | ≤10 ppm |
-#### Performance Specifications
-  
-| Parameters | JDSJ25TK01-01 | JDSJ25TK01-02 | JDSJ25TK01-03 |
-| --- | --- | --- | --- |
-| Bias Comprehensive Repeatability σK₀ (1σ, 1 month) | ≤10 µg | ≤15 µg | ≤25 µg |
-| Scale Factor Comprehensive Repeatability σK₁/K₁ (1σ, 1 month) | ≤10 ppm | ≤20 ppm | ≤30 ppm |
-| Nonlinearity Coefficient Comprehensive Repeatability K₂/K₁ (1σ, 1 month) | ≤±10 µg/g² | ≤±15 µg/g² | ≤±20 µg/g² |
-| Bias Temperature Coefficient (Average over Full Temperature Range) | ≤±10 µg/°C | ≤±20 µg/°C | ≤±30 µg/°C |
-| Scale Factor Temperature Coefficient (Average over Full Temperature Range) | ≤±10 ppm/°C | ≤±30 ppm/°C | ≤±50 ppm/°C |
-| Noise (Sampling Resistor at 840 Ω) | ≤5 mV | ≤8.4 mV | ≤8.4 mV |
-#### Physical and Environmental Specifications
-  
-| Parameters | JDSJ25TK01-01 | JDSJ25TK01-02 | JDSJ25TK01-03 |
-| --- | --- | --- | --- |
-| Natural Frequency | 400–800 Hz | 400–800 Hz | 400–800 Hz |
-| Bandwidth | 800–2500 Hz | 800–2500 Hz | 800–2500 Hz |
-| Random Vibration | 6g (20–2000 Hz) | 6g (20–2000 Hz) | 6g (20–2000 Hz) |
-| Shock | 100g, 8 ms, 1/2 sin | 100g, 8 ms, 1/2 sin | 100g, 8 ms, 1/2 sin |
-| Operating Temperature Range | -55°C to +85°C | -55°C to +85°C | -55°C to +85°C |
-| Storage Temperature Range | -60°C to +120°C | -60°C to +120°C | -60°C to +120°C |
-| Dimensions | Ø25.4 × 30 mm | Ø25.4 × 30 mm | Ø25.4 × 30 mm |
-| Weight | ≤80 g | ≤80 g | ≤80 g |
-#### Electrical Specifications (Common to All Models)
-  
-| Parameters | Specification |
-| --- | --- |
-| Power Supply | ±12 to ±15 V |
-| Power Consumption | ≤±20 mA |
-| Temperature Sensor | Customizable (AD590, PT1000, 18B20) |
-| Pin Configuration | 10-pin standard (customizable) |
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk01/](https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk01/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/qac-accelerometer-flexure-jdsj25tk01)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

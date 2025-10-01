@@ -1,204 +1,71 @@
-# High-Performance 9-DOF MEMS Inertial Measurement Unit
+---
+title: "D-Q-JDW-ZZ3430 9-DOF MEMS Inertial Measurement Unit - Technical Reference"
+description: "High-performance 9-DOF MEMS IMU integrating gyroscope, accelerometer, and magnetic sensor with exceptional stability and comprehensive motion sensing capabilities."
+keywords: "D-Q-JDW-ZZ3430, 9-DOF MEMS IMU, gyroscope, accelerometer, magnetic sensor"
+---
 
-> Advanced 9-DOF MEMS IMU integrating three-axis gyroscope, accelerometer, and magnetic sensor, featuring exceptional stability and comprehensive motion sensing capabilities
+# D-Q-JDW-ZZ3430 9-DOF MEMS Inertial Measurement Unit
 
-![High-Performance 9-DOF MEMS Inertial Measurement Unit](https://www.gnc-tech.com/images/products/navigation/mems/imu/D-Q-JDW-ZZ3430/D-Q-JDW-ZZ3430.webp)
+> **Quick Answer**: The D-Q-JDW-ZZ3430 is an advanced 9-DOF MEMS Inertial Measurement Unit that combines a three-axis gyroscope, accelerometer, and magnetic sensor. It provides exceptional stability and high precision across a wide range of applications, with sampling rates up to 1000Hz.
 
-## 📋 Basic Information
+## What is D-Q-JDW-ZZ3430?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-ZZ3430` |
-| **Product Category** | navigation / mems / imu |
-| **Product Page** | [https://www.gnc-tech.com/products/mems-imu-9-dof-zz3430/](https://www.gnc-tech.com/products/mems-imu-9-dof-zz3430/) |
-| **Source File Path** | `navigation\mems\imu\D-Q-JDW-ZZ3430.mdx` |
+The D-Q-JDW-ZZ3430 is a high-precision MEMS Inertial Measurement Unit (IMU) designed to measure motion and orientation across nine degrees of freedom. It integrates three sensor types: a gyroscope, an accelerometer, and a magnetic sensor. Each sensor operates with high stability and resolution, making the D-Q-JDW-ZZ3430 suitable for demanding applications such as inertial navigation, robotics, and motion tracking. With a sampling rate of up to 1000Hz and comprehensive signal processing, this IMU is engineered for high-performance tracking and analysis.
 
-## 🔧 Available Models
+**Key Specifications:**
+- Measurement Range (Gyroscope): ±100°/s
+- Measurement Range (Accelerometer): ±10g
+- Measurement Range (Magnetic Sensor): ±8G
+- Sampling Rate: Up to 1000Hz
 
-- **JDWZZ3430B** (`D-Q-JDW-ZZ3430B`)
-- **JDWZZ3430C** (`D-Q-JDW-ZZ3430C`)
-- **JDWZZ3430D** (`D-Q-JDW-ZZ3430D`)
+## Technical Quick Reference
 
-## 🏷️ Keywords
+### Performance Specifications
 
-`ZZ3430` • `High-Performance 9-DOF MEMS Inertial Measurement Unit` • `Exceptional Stability and Comprehensive Motion Sensing` • `Advanced 9-DOF MEMS IMU`
+| Performance               | Value   | Unit      |
+|---------------------------|---------|-----------|
+| **Gyroscope**             |         |           |
+| Measurement Range          | ±100    | °/s      |
+| Zero Bias Stability¹       | ≤0.1    | °/h      |
+| **Accelerometer**         |         |           |
+| Measurement Range          | ±10     | g        |
+| Zero Bias Stability¹       | ≤50     | μg       |
+| **Magnetic Sensor**       |         |           |
+| Measurement Range          | ±8      | G        |
 
-## 📖 Detailed Technical Information
+### When to Use D-Q-JDW-ZZ3430?
+- ✅ Inertial navigation systems
+- ✅ Advanced robotics control
+- ✅ High-precision platform stabilization
+- ✅ Motion tracking and analysis
+- ✅ Multi-sensor fusion applications
 
-## D-Q-JDW-ZZ3430B
+### Integration Guide
+**Power Requirements:**
+- Voltage: 5~8V
+- Current: ≤300mA
 
-### Overview
+**Pin Configuration:**
+- Standard pin assignments for easy integration.
 
-The **JDWZZ3430B** is a high-precision 9-DOF MEMS inertial measurement unit integrating three complementary sensor systems. The gyroscope provides ±100°/s measurement range with exceptional zero bias stability (≤0.1°/h), the accelerometer offers ±10g range with superior stability (≤50μg), and the magnetic sensor features ±8G range with high resolution (3000LSB/G). All three sensing systems are supported by comprehensive signal processing capabilities and operate at up to 1000Hz sampling rate, with the magnetic sensor data available at up to 200Hz. This integration enables high-precision motion and orientation measurement across nine degrees of freedom.
+**Mounting:**
+- Compact design for versatile installation options.
 
-### Product Images
+## Comparison with Alternatives
 
-![Product Image](https://www.gnc-tech.com/products/navigation/mems/imu/D-Q-JDW-ZZ3430/D-Q-JDW-ZZ3430-Slide-01.webp)
+| Model        | Gyroscope Range | Accelerometer Range | Magnetic Sensor Range | Sampling Rate | Stability     |
+|--------------|------------------|---------------------|-----------------------|---------------|---------------|
+| JDWZZ3430B  | ±100°/s          | ±10g                | ±8G                   | 1000Hz        | ≤0.1°/h      |
+| JDWZZ3430C  | ±400°/s          | ±20g                | ±8G                   | 1000Hz        | ≤1°/h        |
+| JDWZZ3430D  | ±500°/s          | ±50g                | ±8G                   | 1000Hz        | ≤5°/h        |
 
-### Features
-
-#### High-performance gyroscope system:
-  - Measurement range: ±100°/s
-  - Exceptional zero bias stability (≤0.1°/h)
-  - Superior g-sensitivity (≤0.5°/h/g)
-  - Excellent scale factor nonlinearity (≤50ppm)
-  - Configurable bandwidth up to 25Hz
-#### Precision accelerometer system:
-  - Measurement range: ±10g
-  - Outstanding zero bias stability (≤50μg)
-  - Low temperature coefficient (≤0.02mg/°C)
-  - Low scale factor nonlinearity (≤300ppm)
-  - High bandwidth up to 100Hz
-#### Advanced magnetic sensor system:
-  - Measurement range: ±8G
-  - High resolution (3000LSB/G)
-  - Superior scale factor nonlinearity (≤0.3%)
-  - Update rate up to 200Hz
-#### System integration features:
-  - 24-bit resolution for gyro
-  - High sampling rate (1000Hz)
-  - Precise orthogonality (6°)
-  - Fast activation time (≤1s)
-  - Wide operating temperature range (-40°C to +85°C)
-  - High overload resistance (1000g)
-
-### dimensions
-
-#### JDWZZ3430 Series Outline Dimensions
-The diagram shows the outline dimensions of the JDWZZ3430 series, providing key measurements for integration and installation.
-
-<ProductImage productId="D-Q-JDW-ZZ3430" invertMode="light-only" />
-
-### Applications
-
-- Complete attitude and heading determination
-- Inertial navigation systems
-- Advanced motion tracking and analysis
-- High-precision platform stabilization
-- Multi-sensor fusion applications
-- Advanced robotics control
-- Unmanned vehicle navigation
-- High-end industrial automation
-
-### Specifications
-
-#### Gyroscope Specifications
-  
-| Performance | Value | Unit |
-| --- | --- | --- |
-| Measurement Range | ±100 | °/s |
-| Zero Bias Stability¹ | ≤0.1 | °/h |
-| Zero Bias Temperature Drift² | ≤5 | °/h(1σ) |
-| Zero Bias g Sensitivity | ≤0.5 | °/h/g |
-| Scale Factor Nonlinearity | ≤50 | ppm |
-| Bandwidth³ | 25 | Hz |
-| Resolution | 24 | bit |
-#### Accelerometer Specifications
-  
-| Performance | Value | Unit |
-| --- | --- | --- |
-| Measurement Range | ±10 | g |
-| Zero Bias Stability¹ | ≤50 | μg |
-| Zero Bias Temperature Coefficient | ≤0.02 | mg/°C |
-| Scale Factor Nonlinearity | ≤300 | ppm |
-| Bandwidth³ | 100 | Hz |
-#### Magnetic Sensor Specifications
-  
-| Performance | Value | Unit |
-| --- | --- | --- |
-| Measurement Range | ±8 | G |
-| Resolution | 3000 | LSB/G |
-| Scale Factor Nonlinearity | ≤0.3 | %(1σ) |
-#### Common Specifications
-  
-| Parameters | Value | Unit |
-| --- | --- | --- |
-| Orthogonality | 6 | ° |
-| Sampling Rate⁴ | 1000 | Hz |
-| Activation Time | ≤1 | s |
-| Power Supply Voltage | 5~8 | V |
-| Current | ≤300 | mA |
-| Operating Temperature | -40~+85 | °C |
-| Resistant To Overload | 1000 | g |
-### Notes
-
-1. 10s smoothing
-2. full temperature
-3. bandwidth can be customized
-4. sampling rate can be customized, magnetic sensor data up to 200Hz
-
-### Overview
-
-The **JDWZZ3430C** is an enhanced version of the 9-DOF MEMS IMU, featuring extended measurement ranges for dynamic applications. The gyroscope system provides ±400°/s range with excellent stability (≤1°/h), while the accelerometer offers ±20g range with high precision (≤100μg stability). This variant maintains the comprehensive magnetic sensing capabilities of the B model while providing higher bandwidth and enhanced dynamic performance, making it ideal for applications requiring wider measurement ranges with high precision.
-
-### Product Images
-
-### Features
-
-### dimensions
-
-### Applications
-
-### Specifications
-
-#### Gyroscope Specifications
-  
-| Performance | Value | Unit |
-| --- | --- | --- |
-| Measurement Range | ±400 | °/s |
-| Zero Bias Stability¹ | ≤1 | °/h |
-| Zero Bias Temperature Drift² | ≤5 | °/h(1σ) |
-| Zero Bias g Sensitivity | ≤1 | °/h/g |
-| Scale Factor Nonlinearity | ≤100 | ppm |
-| Bandwidth³ | 200 | Hz |
-| Resolution | 24 | bit |
-#### Accelerometer Specifications
-  
-| Performance | Value | Unit |
-| --- | --- | --- |
-| Measurement Range | ±20 | g |
-| Zero Bias Stability¹ | ≤100 | μg |
-| Zero Bias Temperature Coefficient | ≤0.02 | mg/°C |
-| Scale Factor Nonlinearity | ≤300 | ppm |
-| Bandwidth³ | 100 | Hz |
-### Notes
-
-### Overview
-
-The **JDWZZ3430D** represents the extended-range variant of the 9-DOF MEMS IMU series, designed for high-dynamic applications. It features the widest measurement ranges with ±500°/s for the gyroscope and ±50g for the accelerometer, while maintaining good stability characteristics (gyro stability ≤5°/h, accelerometer stability ≤200μg). This model is optimized for applications requiring maximum measurement range capability while providing reliable performance across all nine degrees of freedom.
-
-### Product Images
-
-### Features
-
-### dimensions
-
-### Applications
-
-### specifications
-
-#### Gyroscope Specifications
-  
-| Performance | Value | Unit |
-| --- | --- | --- |
-| Measurement Range | ±500 | °/s |
-| Zero Bias Stability¹ | ≤5 | °/h |
-| Zero Bias Temperature Drift² | ≤15 | °/h(1σ) |
-| Zero Bias g Sensitivity | ≤1 | °/h/g |
-| Scale Factor Nonlinearity | ≤100 | ppm |
-| Bandwidth³ | 200 | Hz |
-| Resolution | 24 | bit |
-#### Accelerometer Specifications
-  
-| Performance | Value | Unit |
-| --- | --- | --- |
-| Measurement Range | ±50 | g |
-| Zero Bias Stability¹ | ≤200 | μg |
-| Zero Bias Temperature Coefficient | ≤0.02 | mg/°C |
-| Scale Factor Nonlinearity | ≤300 | ppm |
-| Bandwidth³ | 100 | Hz |
-### Notes
+## Related Products
+- [JDWZZ3430B](https://www.gnc-tech.com/products/mems-imu-9-dof-zz3430b/)
+- [JDWZZ3430C](https://www.gnc-tech.com/products/mems-imu-9-dof-zz3430c/)
+- [JDWZZ3430D](https://www.gnc-tech.com/products/mems-imu-9-dof-zz3430d/)
 
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/mems-imu-9-dof-zz3430/](https://www.gnc-tech.com/products/mems-imu-9-dof-zz3430/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/mems-imu-9-dof-zz3430/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

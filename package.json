@@ -1,0 +1,16 @@
+{
+  "name": "gnc-docs",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "rewrite-products": "node scripts/rewrite-products.js",
+    "rewrite-faq": "node scripts/rewrite-faq-to-ai.js",
+    "test-product": "node scripts/rewrite-products.js",
+    "test-faq": "node scripts/rewrite-faq-to-ai.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
+

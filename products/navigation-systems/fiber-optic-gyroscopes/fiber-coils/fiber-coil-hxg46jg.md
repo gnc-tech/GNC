@@ -1,82 +1,25 @@
-# High-Precision Fiber Optic Coil
+---
+title: "D-Q-TQG-HXG46JG High-Precision Fiber Optic Coil - Technical Reference"
+description: "Explore the D-Q-TQG-HXG46JG high-precision fiber optic coil with advanced winding technology and exceptional stability for navigation and measurement applications."
+keywords: "D-Q-TQG-HXG46JG, High-Precision Fiber Optic Coil, Navigation Systems, Fiber Optic Gyroscopes"
+---
 
-> High-precision fiber optic sensing coils with advanced winding technology and exceptional stability for demanding navigation and measurement applications
+# D-Q-TQG-HXG46JG High-Precision Fiber Optic Coil
 
-![High-Precision Fiber Optic Coil](https://www.gnc-tech.com/images/products/navigation/fog/foc/D-Q-TQG-HXG46JG/D-Q-TQG-HXG46JG.webp)
+> **Quick Answer**: The D-Q-TQG-HXG46JG high-precision fiber optic coil offers cutting-edge performance with advanced winding technology, making it ideal for demanding navigation and precision measurement applications. It features customizable dimensions, outstanding stability, and long operational life.
 
-## 📋 Basic Information
+## What is D-Q-TQG-HXG46JG?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-TQG-HXG46JG` |
-| **Product Category** | Navigation Systems / Fiber Optic Gyroscopes / Fiber Coils |
-| **Product Page** | [https://www.gnc-tech.com/products/fiber-coil-hxg46jg/](https://www.gnc-tech.com/products/fiber-coil-hxg46jg/) |
-| **Source File Path** | `navigation\fog\foc\D-Q-TQG-HXG46JG.mdx` |
+The D-Q-TQG-HXG46JG is a state-of-the-art fiber optic sensing coil that integrates over 20 years of research and production experience. Its design is aimed at delivering superior reliability and performance in various demanding applications, including inertial navigation systems and precision measurement devices. This coil is engineered with advanced materials and innovative winding techniques to ensure exceptional stability and performance under challenging conditions.
 
-## 🔧 Available Models
+**Key Specifications:**
+- Model: D-Q-TQG-HXG46JG
+- Category: Fiber Optic Gyroscopes / Fiber Coils
+- Operating Temperature: -45°C to +80°C
 
-- **HXG46JG150** (`D-Q-TQG-HXG46JG150`)
-- **HXG46JG180** (`D-Q-TQG-HXG46JG180`)
-- **HXG46JG230** (`D-Q-TQG-HXG46JG230`)
+## Technical Quick Reference
 
-## 🏷️ Keywords
-
-`HXG46JG` • `High-Precision Fiber Optic Coil` • `Advanced Winding Technology` • `Exceptional Stability` • `Navigation and Measurement Applications`
-
-## 📖 Detailed Technical Information
-
-## D-Q-TQG-HXG46JG150
-
-### Overview
-
-The high-precision fiber optic coil represents the pinnacle of our fiber optic sensing technology, incorporating 20 years of research and production excellence. This coil delivers superior performance and stability for the most demanding applications in navigation and precision measurement.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/fog/foc/D-Q-TQG-HXG46JG/D-Q-TQG-HXG46JG-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/fog/foc/D-Q-TQG-HXG46JG/D-Q-TQG-HXG46JG-Slide-02.webp)
-
-### Features
-
-- Superior reliability
-- Exceptional batch consistency
-- Outstanding temperature and vibration performance
-
-### customization
-
-- Customizable dimensions and length
-- Available with or without skeleton design
-- UV-cured and thermal-cured adhesive options
-- Flexible winding pattern customization
-
-### Applications
-
-- High-precision fiber optic gyroscopes (FOG)
-- Strategic-grade inertial navigation systems
-- High-precision attitude measurement devices
-- Advanced industrial control equipment
-
-### Specifications
-
-#### Geometry Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Inner Diameter | mm | 130.0±0.5 |
-| Outer Diameter | mm | ≤150.0 |
-| Mean Diameter | mm | 140.0±0.5 |
-| Height | mm | 15.0±0.1 |
-#### Optical Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Fiber Length | m | 2000±10 |
-| Attenuation Coefficient | dB/km | ≤-0.6 |
-| Crosstalk (Normal Temp.) | dB | ≤-20 |
-| Crosstalk (Full Temp.) | dB | ≤-17 |
-#### Performance Parameters
-  
+### Performance Specifications
 | Parameter | Unit | Value |
 | --- | --- | --- |
 | Bias | °/h | ≤0.01 |
@@ -85,104 +28,38 @@ The high-precision fiber optic coil represents the pinnacle of our fiber optic s
 | Scale Factor Stability (Normal Temp.) | ppm | ≤10 |
 | Scale Factor Stability (Full Temp.) | ppm | ≤700 |
 | Random Walk Coefficient | °/√h | ≤0.002 |
-#### Environmental Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Operating Temperature | °C | -45~+80 |
-| MTTF | Yr. | ≥20 |
-## D-Q-TQG-HXG46JG180
 
-### overview
+### When to Use D-Q-TQG-HXG46JG?
+- ✅ For high-precision fiber optic gyroscopes (FOG)
+- ✅ In strategic-grade inertial navigation systems
+- ✅ For high-precision attitude measurement devices
+- ✅ In advanced industrial control equipment
 
-### Product Images
+### Integration Guide
+**Power Requirements:**
+- Operating Temperature: -45°C to +80°C
+- MTTF: ≥20 Years
 
-### Features
+**Pin Configuration:**
+- Customizable dimensions and lengths available.
+- Flexible winding pattern customization.
 
-### customization
+**Mounting:**
+- Designed for easy integration into various applications.
 
-### Applications
+## Comparison with Alternatives
 
-### Specifications
+| Model | Inner Diameter | Outer Diameter | Fiber Length | Bias (°/h) |
+|-------|----------------|----------------|--------------|------------|
+| D-Q-TQG-HXG46JG150 | 130.0±0.5 mm | ≤150.0 mm | 2000±10 m | ≤0.01 |
+| D-Q-TQG-HXG46JG180 | 160.0±0.5 mm | ≤180.0 mm | 2500±10 m | ≤0.005 |
+| D-Q-TQG-HXG46JG230 | 210.0±0.5 mm | ≤230.0 mm | 3000±10 m | ≤0.001 |
 
-#### Geometry Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Inner Diameter | mm | 160.0±0.5 |
-| Outer Diameter | mm | ≤180.0 |
-| Mean Diameter | mm | 170.0±0.5 |
-| Height | mm | 18.0±0.1 |
-#### Optical Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Fiber Length | m | 2500±10 |
-| Attenuation Coefficient | dB/km | ≤-0.6 |
-| Crosstalk (Normal Temp.) | dB | ≤-18 |
-| Crosstalk (Full Temp.) | dB | ≤-16 |
-#### Performance Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Bias | °/h | ≤0.005 |
-| Thermal Drift | °/h | ≤0.006 |
-| Magnetic Drift | °/h/G | ≤0.002 |
-| Scale Factor Stability (Normal Temp.) | ppm | ≤5 |
-| Scale Factor Stability (Full Temp.) | ppm | ≤400 |
-| Random Walk Coefficient | °/√h | ≤0.001 |
-#### Environmental Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Operating Temperature | °C | -45~+80 |
-| MTTF | Yr. | ≥20 |
-## D-Q-TQG-HXG46JG230
+## Related Products
+- [Explore more fiber optic coils](https://www.gnc-tech.com/products/fiber-coil-hxg46jg/)
 
-### overview
-
-### Product Images
-
-### Features
-
-### customization
-
-### Applications
-
-### specifications
-
-#### Geometry Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Inner Diameter | mm | 210.0±0.5 |
-| Outer Diameter | mm | ≤230.0 |
-| Mean Diameter | mm | 220.0±0.5 |
-| Height | mm | 20.0±0.1 |
-#### Optical Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Fiber Length | m | 3000±10 |
-| Attenuation Coefficient | dB/km | ≤-0.6 |
-| Crosstalk (Normal Temp.) | dB | ≤-16 |
-| Crosstalk (Full Temp.) | dB | ≤-14 |
-#### Performance Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Bias | °/h | ≤0.001 |
-| Thermal Drift | °/h | ≤0.002 |
-| Magnetic Drift | °/h/G | ≤0.001 |
-| Scale Factor Stability (Normal Temp.) | ppm | ≤1 |
-| Scale Factor Stability (Full Temp.) | ppm | ≤100 |
-| Random Walk Coefficient | °/√h | ≤0.0005 |
-#### Environmental Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Operating Temperature | °C | -45~+80 |
-| MTTF | Yr. | ≥20 |
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/fiber-coil-hxg46jg/](https://www.gnc-tech.com/products/fiber-coil-hxg46jg/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/fiber-coil-hxg46jg/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

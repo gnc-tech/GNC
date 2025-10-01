@@ -1,97 +1,26 @@
+---
+title: "BJGM25N01 High-Precision Navigation Grade Accelerometer - Technical Reference"
+description: "High-performance navigation-grade accelerometer for aerospace, industrial, and defense applications with advanced features and specifications."
+keywords: "BJGM25N01, Navigation Grade Accelerometer, High-Precision Accelerometer, Aerospace Accelerometer"
+---
+
 # BJGM25N01 High-Precision Navigation Grade Accelerometer
 
-> High-performance, navigation-grade accelerometer for aerospace, industrial, and defense applications
+> **Quick Answer**: The **BJGM25N01** is a high-performance navigation-grade accelerometer, ideal for aerospace, industrial, and defense applications. It offers exceptional long-term stability, low noise, and precise analog current outputs, all within a rugged hermetically sealed stainless steel enclosure.
 
-![BJGM25N01 High-Precision Navigation Grade Accelerometer](https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-BJGM25N01/D-Q-BYS-BJGM25N01.webp)
+## What is BJGM25N01?
 
-## 📋 Basic Information
+The **BJGM25N01** is a sophisticated accelerometer designed for applications that demand high precision and reliability, such as aerospace guidance, industrial machinery monitoring, and defense-grade motion tracking. With its advanced thermal compensation and integrated temperature sensor, it maintains consistent performance across a wide temperature range. Its robust design ensures that it can withstand harsh environments, making it suitable for various critical applications.
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-BYS-BJGM25N01` |
-| **Product Category** | Navigation Systems / Quartz Accelerometers |
-| **Product Page** | [https://www.gnc-tech.com/products/qac-accelerometer-navigation-bjgm25n01/](https://www.gnc-tech.com/products/qac-accelerometer-navigation-bjgm25n01/) |
-| **Source File Path** | `navigation\qac\D-Q-BYS-BJGM25N01.mdx` |
+### Key Specifications:
+- Input Range: ±60 g
+- Bias Error: ≤ 4 mg
+- Weight: < 80 g
 
-## 🔧 Available Models
+## Technical Quick Reference
 
-- **BJGM25N01** (`D-Q-BYS-BJGM25N01`)
+### Performance Specifications
 
-## 🏷️ Keywords
-
-`BJGM25N01` • `Navigation Grade Accelerometer` • `High-Precision Accelerometer` • `Aerospace Accelerometer`
-
-## 📖 Detailed Technical Information
-
-## D-Q-BYS-BJGM25N01
-
-### Overview
-
-The **BJGM25N01** is a high-performance, navigation-grade accelerometer designed for aerospace, industrial, and defense applications. It features outstanding long-term stability, low noise characteristics, and precise analog current outputs in a rugged, hermetically sealed stainless steel enclosure.
-
-With advanced thermal compensation and integrated temperature sensor, this device ensures consistent performance across a wide temperature range, making it ideal for critical applications requiring high precision and reliability.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-BJGM25N01/D-Q-BYS-BJGM25N01-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/qac/D-Q-BYS-BJGM25N01/D-Q-BYS-BJGM25N01-Slide-02.webp)
-
-### Features
-
-- High bias stability and low noise performance
-- Integrated temperature sensor with high repeatability
-- Excellent thermal modeling and calibration-free operation
-- Resistant to vibration, shock, humidity, and magnetic fields
-- Hermetically sealed, corrosion-resistant stainless steel housing
-
-### package
-
-#### Dimensions(mm)
-<ProductImage 
-productId="D-Q-BYS-BJGM25N01" 
-type="package" 
-subType="dimensions" 
-invertMode="light-only" 
-/>
-
-  | Attribute | Value |
-| --- | --- |
-| Flange Shape | Triangular |
-| Mounting Hole Type | 3 × M3 Screws |
-| Maximum Diameter (Base) | < 25.45 mm |
-| Overall Height | ~14.85 mm |
-| Hole-to-Hole Span | ~24.75 mm |
-
-#### Pins
-<ProductImage 
-productId="D-Q-BYS-BJGM25N01" 
-type="package" 
-subType="pins" 
-invertMode="light-only" 
-/>
-
-  | Pin | Function | Type |
-| --- | --- | --- |
-| 1 | Acceleration Signal Output | Analog |
-| 3 | Negative Power Supply | Power |
-| 4 | Positive Power Supply | Power |
-| 6 | Temperature Sensor Output | Analog |
-| 8 | Signal and Power Return | Ground |
-| Others | Not Used / Optional | Analog |
-
-### Applications
-
-- Aerospace guidance and inertial navigation
-- Tactical and defense-grade motion tracking
-- Industrial machinery monitoring
-- Seismic and structural vibration sensing
-- Harsh environment test instrumentation
-
-### Specifications
-
-#### Performance Specifications
-  
 | Parameter | Unit | Value |
 | --- | --- | --- |
 | Input Range | g | ±60 |
@@ -115,32 +44,45 @@ invertMode="light-only"
 | Residual Axis Misalignment Modeling Error (max. 5°C/min) | µrad | ≤ 20 (1σ) |
 | Resolution / Threshold | µg | ≤ 1 |
 | Bandwidth | Hz | ≥ 300 |
-#### Electrical Specifications
-  
-| Parameter | Value |
-| --- | --- |
-| Input Voltage Range | ±13 VDC to ±16 VDC |
-| Nominal Operating Voltage | ±15 VDC |
-| Quiescent Current per Supply | < 20 mA |
-| Quiescent Power at ±15 VDC | < 600 mW |
-| Maximum Full-Scale Current | < 100 mA |
-| Output Signal Type (Accel & Temp) | Analog Current |
-#### Mechanical Specifications
-  
-| Parameter | Value |
-| --- | --- |
-| Housing Material | 300 Series Stainless Steel |
-| Weight | < 80 g |
-| Mounting | 3 x M3 Screws |
-| Flange Shape | Triangular |
-| Maximum Base Diameter | 25.45 mm |
-| Natural Frequency | ≥ 800 Hz |
-#### Temperature Sensor Specifications
-  
-| Parameter | Unit | Value |
+
+### When to Use BJGM25N01?
+- ✅ Aerospace guidance and inertial navigation
+- ✅ Tactical and defense-grade motion tracking
+- ✅ Industrial machinery monitoring
+- ✅ Seismic and structural vibration sensing
+- ✅ Harsh environment test instrumentation
+
+### Integration Guide
+**Power Requirements:**
+- Input Voltage Range: ±13 VDC to ±16 VDC
+- Nominal Operating Voltage: ±15 VDC
+
+**Pin Configuration:**
+
+| Pin | Function | Type |
 | --- | --- | --- |
-| Sensitivity | µA/°C | 1 |
-| Error Repeatability | °C | ±0.1 |
+| 1 | Acceleration Signal Output | Analog |
+| 3 | Negative Power Supply | Power |
+| 4 | Positive Power Supply | Power |
+| 6 | Temperature Sensor Output | Analog |
+| 8 | Signal and Power Return | Ground |
+| Others | Not Used / Optional | Analog |
+
+**Mounting:**
+- 3 x M3 Screws
+- Triangular flange shape
+
+## Comparison with Alternatives
+| Model | Input Range | Bias Error | Weight |
+| --- | --- | --- | --- |
+| BJGM25N01 | ±60 g | ≤ 4 mg | < 80 g |
+| [其他型号] | [参数] | [参数] | [参数] |
+
+## Related Products
+- [View Related Products](https://www.gnc-tech.com/products/)
+
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/qac-accelerometer-navigation-bjgm25n01/](https://www.gnc-tech.com/products/qac-accelerometer-navigation-bjgm25n01/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/qac-accelerometer-navigation-bjgm25n01)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

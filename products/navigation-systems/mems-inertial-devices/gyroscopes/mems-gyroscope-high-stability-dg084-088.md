@@ -1,280 +1,74 @@
-# High-Stability MEMS Gyroscope Series
-
-> Advanced MEMS gyroscopes featuring exceptional stability and precision for high-performance angular rate measurement applications
-
-![High-Stability MEMS Gyroscope Series](https://www.gnc-tech.com/images/products/navigation/mems/gyroscope/D-Q-JDW-DG084-088/D-Q-JDW-DG084-088.webp)
-
-## 📋 Basic Information
-
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-DG084-088` |
-| **Product Category** | navigation / mems / gyroscope |
-| **Product Page** | [https://www.gnc-tech.com/products/mems-gyroscope-high-stability-dg084-088/](https://www.gnc-tech.com/products/mems-gyroscope-high-stability-dg084-088/) |
-| **Source File Path** | `navigation\mems\gyroscope\D-Q-JDW-DG084-088.mdx` |
-
-## 🔧 Available Models
-
-- **JDWDG084** (`D-Q-JDW-DG084`)
-- **JDWDG085** (`D-Q-JDW-DG085`)
-- **JDWDG086** (`D-Q-JDW-DG086`)
-- **JDWDG087** (`D-Q-JDW-DG087`)
-- **JDWDG088** (`D-Q-JDW-DG088`)
-
-## 🏷️ Keywords
-
-`DG084-088` • `High-Stability MEMS Gyroscope Series` • `Exceptional Stability and Precision` • `High-Performance Angular Rate Measurement`
-
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-DG084
-
-### Overview
-
-The **JDWDG084** is a high-precision MEMS gyroscope engineered for ultra-stable angular rate measurements. Featuring a measurement range of ±100°/s and a specialized low-pass bandwidth of 12.5Hz, it achieves exceptional stability with superior zero bias stability of ≤0.1°/h. The device's excellent scale factor characteristics (nonlinearity ≤200ppm, repeatability ≤50ppm) and high overload resistance (≥10000g) make it ideal for precision-critical applications requiring superior performance.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-DG084-088/D-Q-JDW-DG084-088-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-DG084-088/D-Q-JDW-DG084-088-Slide-02.webp)
-
-### Features
-
-- Precise measurement range of ±100°/s
-- Specialized 12.5Hz bandwidth
-- Superior scale factor nonlinearity (≤200ppm)
-- Excellent scale factor repeatability (≤50ppm)
-- Low scale factor temperature coefficient (≤300ppm/°C)
-- Outstanding zero bias stability (≤0.1°/h)
-- Excellent zero bias repeatability (≤0.1°/h)
-- High overload resistance (≥10000g)
-- Wide operating temperature range (-40°C to 85°C)
-- Low power consumption (≤55mA)
-
-### Applications
-
-- High-precision motion control
-- Platform stabilization
-- Navigation systems
-- Industrial automation
-- Aerospace applications
-- Research instrumentation
-- Precision measurement systems
-- Robotics
-
-### Specifications
-
-#### Performance Specifications
-  
-| Performance | JDWDG084 | Unit |
-| --- | --- | --- |
-| Measurement Range | ±100 | °/s |
-| Bandwidth | 12.5 | Hz |
-| Scale Factor Nonlinearity | ≤200 | ppm |
-| Scale Factor Repeatability | ≤50 | ppm |
-| Scale Factor Temperature Coefficient | ≤300 | ppm/°C |
-| Zero Bias Stability (1σ) | ≤0.1 | °/h |
-| Zero Bias Repeatability (1σ) | ≤0.1 | °/h |
-| Resistant To Overload (Notenergized) | ≥10000 | g |
-| Operating Temperature | -40~85 | °C |
-| Dimensions | 13.97×11.43×3.3 | mm³ |
-| Power Supply Voltage | 5±0.1 | V |
-| Current | ≤55 | mA |
-## D-Q-JDW-DG085
-
-### Overview
-
-The **JDWDG085** is a high-performance MEMS gyroscope designed for extended range angular rate measurements. With a measurement range of ±1500°/s and 200Hz bandwidth, it delivers exceptional dynamic response combined with superior scale factor performance (nonlinearity ≤100ppm, repeatability ≤20ppm). The device maintains excellent zero bias stability (≤1.5°/h) across its wide measurement range, making it ideal for applications requiring both extended range and high precision.
-
-### Product Images
-
-### Features
-
-- Extended measurement range of ±1500°/s
-- High bandwidth of 200Hz
-- Excellent scale factor nonlinearity (≤100ppm)
-- Superior scale factor repeatability (≤20ppm)
-- Low scale factor temperature coefficient (≤100ppm/°C)
-- Good zero bias stability (≤1.5°/h)
-- Excellent zero bias repeatability (≤1°/h)
-- Wide operating temperature range
-- Compact dimensions
-
-### Applications
-
-- Dynamic motion measurement
-- Industrial automation
-- Platform stabilization
-- Navigation systems
-- Robotics applications
-- Vehicle dynamics testing
-- Research and development
-- High-rate motion control
-
-### Specifications
-
-#### Performance Specifications
-  
-| Performance | JDWDG085 | Unit |
-| --- | --- | --- |
-| Measurement Range | ±1500 | °/s |
-| Bandwidth | 200 | Hz |
-| Scale Factor Nonlinearity | ≤100 | ppm |
-| Scale Factor Repeatability | ≤20 | ppm |
-| Scale Factor Temperature Coefficient | ≤100 | ppm/°C |
-| Zero Bias Stability (1σ) | ≤1.5 | °/h |
-| Zero Bias Repeatability (1σ) | ≤1 | °/h |
-| Operating Temperature | -40~85 | °C |
-| Dimensions | 11×11×1.8 | mm³ |
-| Power Supply Voltage | 5±0.1 | V |
-| Current | ≤45 | mA |
-## D-Q-JDW-DG086
-
-### Overview
-
-The **JDWDG086** is a high-range MEMS gyroscope optimized for wide-range angular rate measurements. Featuring a measurement range of ±2000°/s and 150Hz bandwidth, it combines exceptional scale factor performance (nonlinearity ≤100ppm, repeatability ≤20ppm) with reliable zero bias stability (≤3°/h). The device's high overload resistance (≥20000g) and vibration tolerance (6.06grms) ensure reliable operation in demanding dynamic environments.
-
-### Product Images
-
-### Features
-
-- Wide measurement range of ±2000°/s
-- 150Hz bandwidth
-- Excellent scale factor nonlinearity (≤100ppm)
-- Superior scale factor repeatability (≤20ppm)
-- Low scale factor temperature coefficient (≤100ppm/°C)
-- Good zero bias stability (≤3°/h)
-- Excellent zero bias repeatability (≤1°/h)
-- Vibratory rating of 6.06grms
-- High overload resistance (≥20000g)
-
-### Applications
-
-- High-rate motion measurement
-- Industrial automation
-- Platform stabilization
-- Navigation systems
-- Robotics
-- Vehicle dynamics testing
-- Research and development
-- Motion control systems
-
-### specifications
-
-#### Performance Specifications
-  
-| Performance | JDWDG086 | Unit |
-| --- | --- | --- |
-| Measurement Range | ±2000 | °/s |
-| Bandwidth | 150 | Hz |
-| Scale Factor Nonlinearity | ≤100 | ppm |
-| Scale Factor Repeatability | ≤20 | ppm |
-| Scale Factor Temperature Coefficient | ≤100 | ppm/°C |
-| Zero Bias Stability (1σ) | ≤3 | °/h |
-| Zero Bias Repeatability (1σ) | ≤1 | °/h |
-| Vibratory | 6.06 | grms |
-| Resistant To Overload (Notenergized) | ≥20000 | g |
-| Operating Temperature | -40~85 | °C |
-| Dimensions | 11×11×1.8 | mm³ |
-| Power Supply Voltage | 5±0.1 | V |
-| Current | ≤45 | mA |
-## D-Q-JDW-DG087
-
-### Overview
-
-The **JDWDG087** is an extended-range MEMS gyroscope engineered for high-rate angular motion measurements. With a measurement range of ±4000°/s and 200Hz bandwidth, it delivers robust dynamic response while maintaining good scale factor characteristics (nonlinearity ≤200ppm, repeatability ≤20ppm). The device provides consistent performance across its wide measurement range with specified zero bias stability (≤15°/h), making it suitable for high-dynamic applications.
-
-### Product Images
-
-### Features
-
-- Extended measurement range of ±4000°/s
-- High bandwidth of 200Hz
-- Good scale factor nonlinearity (≤200ppm)
-- Superior scale factor repeatability (≤20ppm)
-- Low scale factor temperature coefficient (≤100ppm/°C)
-- Zero bias stability (≤15°/h)
-- Good zero bias repeatability (≤10°/h)
-- Wide operating temperature range
-- Compact dimensions
-
-### Applications
-
-- High-rate motion measurement
-- Industrial automation
-- Platform stabilization
-- Navigation systems
-- Robotics
-- Vehicle dynamics testing
-- Research and development
-- Motion control systems
-
-### specifications
-
-#### Performance Specifications
-  
-| Performance | JDWDG087 | Unit |
-| --- | --- | --- |
-| Measurement Range | ±4000 | °/s |
-| Bandwidth | 200 | Hz |
-| Scale Factor Nonlinearity | ≤200 | ppm |
-| Scale Factor Repeatability | ≤20 | ppm |
-| Scale Factor Temperature Coefficient | ≤100 | ppm/°C |
-| Zero Bias Stability (1σ) | ≤15 | °/h |
-| Zero Bias Repeatability (1σ) | ≤10 | °/h |
-| Operating Temperature | -40~85 | °C |
-| Dimensions | 11×11×1.8 | mm³ |
-| Power Supply Voltage | 5±0.1 | V |
-| Current | ≤45 | mA |
-## D-Q-JDW-DG088
-
-### Overview
-
-The **JDWDG088** is an ultra-wide range MEMS gyroscope designed for extreme angular rate measurements. Featuring an exceptional measurement range of ±8000°/s and 200Hz bandwidth, it maintains excellent scale factor performance (nonlinearity ≤100ppm, repeatability ≤20ppm) even at high angular rates. The device's specified zero bias stability (≤20°/h) and consistent performance characteristics make it ideal for applications requiring ultra-wide measurement range capabilities.
-
-### Product Images
-
-### Features
-
-- Ultra-wide measurement range of ±8000°/s
-- High bandwidth of 200Hz
-- Excellent scale factor nonlinearity (≤100ppm)
-- Superior scale factor repeatability (≤20ppm)
-- Low scale factor temperature coefficient (≤100ppm/°C)
-- Zero bias stability (≤20°/h)
-- Good zero bias repeatability (≤10°/h)
-- Wide operating temperature range
-- Compact dimensions
-
-### Applications
-
-- Ultra-high-rate motion measurement
-- Advanced industrial automation
-- High-dynamic platform stabilization
-- Specialized navigation systems
-- Advanced robotics
-- High-speed vehicle dynamics testing
-- Research and development
-- Extreme motion control systems
-
-### specifications
-
-#### Performance Specifications
-  
-| Performance | JDWDG088 | Unit |
-| --- | --- | --- |
-| Measurement Range | ±8000 | °/s |
-| Bandwidth | 200 | Hz |
-| Scale Factor Nonlinearity | ≤100 | ppm |
-| Scale Factor Repeatability | ≤20 | ppm |
-| Scale Factor Temperature Coefficient | ≤100 | ppm/°C |
-| Zero Bias Stability (1σ) | ≤20 | °/h |
-| Zero Bias Repeatability (1σ) | ≤10 | °/h |
-| Operating Temperature | -40~85 | °C |
-| Dimensions | 11×11×1.8 | mm³ |
-| Power Supply Voltage | 5±0.1 | V |
-| Current | ≤45 | mA |
+---
+title: "D-Q-JDW-DG084-088 High-Stability MEMS Gyroscope - Technical Reference"
+description: "Explore the D-Q-JDW-DG084-088 series of high-stability MEMS gyroscopes designed for precision angular rate measurements. Featuring models with measurement ranges from ±100°/s to ±8000°/s."
+keywords: "D-Q-JDW-DG084, D-Q-JDW-DG085, D-Q-JDW-DG086, D-Q-JDW-DG087, D-Q-JDW-DG088, High-Stability MEMS Gyroscope, Angular Rate Measurement"
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/mems-gyroscope-high-stability-dg084-088/](https://www.gnc-tech.com/products/mems-gyroscope-high-stability-dg084-088/)
+# High-Stability MEMS Gyroscope Series
+
+> **Quick Answer**: The D-Q-JDW-DG084-088 series consists of advanced MEMS gyroscopes that provide exceptional stability and precision for angular rate measurement. With measurement ranges from ±100°/s to ±8000°/s and low power consumption, these gyroscopes are ideal for various high-performance applications in navigation, robotics, and industrial automation.
+
+## What is D-Q-JDW-DG084-088?
+
+The D-Q-JDW-DG084-088 series features high-performance MEMS gyroscopes that are engineered for precise angular rate measurements. These devices utilize advanced MEMS technology to deliver outstanding stability, low bias drift, and high overload resistance, making them suitable for applications that demand high accuracy and reliability. Each model in this series has been optimized for specific measurement ranges and bandwidths, ensuring that users can select the most appropriate gyroscope for their needs.
+
+**Key Specifications:**
+- Measurement range from ±100°/s to ±8000°/s
+- Bandwidths ranging from 12.5Hz to 200Hz
+- Superior zero bias stability and repeatability
+- Wide operating temperature range (-40°C to 85°C)
+
+## Technical Quick Reference
+
+### Performance Specifications
+
+| Performance | JDWDG084 | JDWDG085 | JDWDG086 | JDWDG087 | JDWDG088 | Unit |
+| --- | --- | --- | --- | --- | --- | --- |
+| Measurement Range | ±100 | ±1500 | ±2000 | ±4000 | ±8000 | °/s |
+| Bandwidth | 12.5 | 200 | 150 | 200 | 200 | Hz |
+| Scale Factor Nonlinearity | ≤200 | ≤100 | ≤100 | ≤200 | ≤100 | ppm |
+| Scale Factor Repeatability | ≤50 | ≤20 | ≤20 | ≤20 | ≤20 | ppm |
+| Scale Factor Temperature Coefficient | ≤300 | ≤100 | ≤100 | ≤100 | ≤100 | ppm/°C |
+| Zero Bias Stability (1σ) | ≤0.1 | ≤1.5 | ≤3 | ≤15 | ≤20 | °/h |
+| Zero Bias Repeatability (1σ) | ≤0.1 | ≤1 | ≤1 | ≤10 | ≤10 | °/h |
+| Resistant To Overload (Notenergized) | ≥10000 | - | ≥20000 | - | - | g |
+| Operating Temperature | -40~85 | -40~85 | -40~85 | -40~85 | -40~85 | °C |
+| Dimensions | 13.97×11.43×3.3 | 11×11×1.8 | 11×11×1.8 | 11×11×1.8 | 11×11×1.8 | mm³ |
+| Power Supply Voltage | 5±0.1 | 5±0.1 | 5±0.1 | 5±0.1 | 5±0.1 | V |
+| Current | ≤55 | ≤45 | ≤45 | ≤45 | ≤45 | mA |
+
+### When to Use D-Q-JDW-DG084-088?
+- ✅ High-precision motion control applications
+- ✅ Platform stabilization for navigation systems
+- ✅ Industrial automation requiring accurate angular measurements
+- ✅ Research instrumentation and robotics applications
+- ✅ Aerospace applications needing reliable performance under dynamic conditions
+
+### Integration Guide
+**Power Requirements:**
+- Operating Voltage: 5±0.1 V
+
+**Pin Configuration:**
+- Please refer to the specific model datasheet for detailed pin configuration.
+
+**Mounting:**
+- Ensure proper mounting to prevent mechanical stress and ensure optimal performance.
+
+## Comparison with Alternatives
+
+| Model | Measurement Range | Bandwidth | Zero Bias Stability | Overload Resistance |
+|-------|------------------|-----------|---------------------|---------------------|
+| JDWDG084 | ±100°/s | 12.5Hz | ≤0.1°/h | ≥10000g |
+| JDWDG085 | ±1500°/s | 200Hz | ≤1.5°/h | - |
+| JDWDG086 | ±2000°/s | 150Hz | ≤3°/h | ≥20000g |
+| JDWDG087 | ±4000°/s | 200Hz | ≤15°/h | - |
+| JDWDG088 | ±8000°/s | 200Hz | ≤20°/h | - |
+
+## Related Products
+- [Explore Additional Gyroscope Models](https://www.gnc-tech.com/products/mems-gyroscope-high-stability-dg084-088/)
+
+---
+
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/mems-gyroscope-high-stability-dg084-088/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

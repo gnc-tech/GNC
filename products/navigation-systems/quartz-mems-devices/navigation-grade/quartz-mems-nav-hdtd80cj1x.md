@@ -1,233 +1,68 @@
-# Single-Antenna Integrated Navigation System HDTD80CJ1X
-
-> High-reliability MEMS inertial/GNSS integrated navigation system with single-antenna GNSS, featuring high-precision differential positioning, orientation, and ranging capabilities.
-
-![Single-Antenna Integrated Navigation System HDTD80CJ1X](https://www.gnc-tech.com/images/products/navigation/quartz-mems/nav-modules/D-Q-JDW-HDTD80CJ1X/D-Q-JDW-HDTD80CJ1X.webp)
-
-## 📋 Basic Information
-
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-HDTD80CJ1X` |
-| **Product Category** | navigation / quartz-mems / nav-modules |
-| **Product Page** | [https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj1x/](https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj1x/) |
-| **Source File Path** | `navigation\quartz-mems\nav-modules\D-Q-JDW-HDTD80CJ1X.mdx` |
-
-## 🔧 Available Models
-
-- **HDTD80CJ11** (`D-Q-JDW-HDTD80CJ11`)
-- **HDTD80CJ12** (`D-Q-JDW-HDTD80CJ12`)
-
-## 🏷️ Keywords
-
-`HDTD80CJ1X` • `Single-Antenna Integrated Navigation` • `MEMS Inertial/GNSS`
-
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-HDTD80CJ11
-
-### Overview
-
-The HDTD80CJ11 is a high-reliability MEMS inertial/GNSS integrated navigation system. It integrates a three-axis quartz MEMS gyroscope, a three-axis MEMS accelerometer, a high-precision single-antenna GNSS positioning module, signal processing circuits, and integrated navigation software. This configuration enables high-precision differential positioning, orientation, navigation, and ranging capabilities, making it ideal for aerospace, mechanical control, exploration, marine, and port applications.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/nav-modules/D-Q-JDW-HDTD80CJ1X/D-Q-JDW-HDTD80CJ11-Slide-01.webp)
-
-### Features
-
-- Three-axis quartz MEMS gyroscope and accelerometer
-- High-precision single-antenna GNSS module
-- Integrated signal processing and navigation software
-- High-precision differential positioning and orientation
-- High reliability for aerospace and industrial applications
-
-### package
-
-#### HDTD80CJ11 Mechanical Dimensions
-_Unit: mm_
-<ProductImage 
-  productId="D-Q-JDW-HDTD80CJ1X"
-  type="package"
-  subType="HDTD80CJ11"
-  invertMode="light-only"
-/>
-#### Electrical Interface
-Connector type: J30J-15ZK
-
-  | Pin No. | Definition |
-| --- | --- |
-| 1 | Power + |
-| 2 | Ground |
-| 3 | RS232_RXD |
-| 4 | RS232_TXD |
-| 5 | RS232_GND |
-| 6 | RS422_R+ |
-
-### Applications
-
-- Aerospace
-- Mechanical control
-- Exploration
-- Marine
-- Port applications
-
-### Specifications
-
-#### Key Technical Specifications
-  
-| Parameter | Unit | HDTD80CJ11 |
-| --- | --- | --- |
-| Power Supply Voltage | V | 5 ± 0.2 |
-| Operating Current @12V | mA | 135 ± 10 |
-| Weight | g | 75 ± 5 |
-##### Gyroscope Specifications
-  
-| Parameter | Unit | HDTD80CJ11 |
-| --- | --- | --- |
-| Measurement Range | °/s | ±300 |
-| Scale Factor | - | 1 ± 0.005 |
-| Scale Factor Nonlinearity | ppm | ≤300 |
-| Scale Factor Repeatability | ppm | ≤300 |
-| Scale Factor Asymmetry | ppm | ≤300 |
-| Cross-Axis Sensitivity | - | ≤0.005 |
-| Threshold / Resolution | °/s | ≤0.01 |
-| Bias (Full Temperature) | °/s | ±0.1 |
-| Bias Stability (Room Temp) | °/h | ≤20 |
-| Bias Stability (Full Temp) | °/h | ≤50 |
-| Bias Repeatability | °/h | ≤10 |
-| Angular Random Walk | °/√h | ≤0.08 |
-| Bias Instability (Allan Deviation) | °/h | ≤2 |
-##### Accelerometer Specifications
-  
-| Parameter | Unit | HDTD80CJ11 |
-| --- | --- | --- |
-| Measurement Range | g | ±10 |
-| Bias (Full Temperature) | mg | ±5 |
-| Bias Stability (Room Temp) | mg | ≤0.2 |
-| Bias Stability (Full Temp) | mg | ≤2 |
-| Bias Repeatability | mg | ≤0.2 |
-##### Integrated Navigation Performance (with 1m GNSS baseline)
-  
-| Parameter | Unit | HDTD80CJ11 |
-| --- | --- | --- |
-| Heading Accuracy (Speed ≥ 5 m/s) | ° | ≤0.3 |
-| Attitude Accuracy (Pitch/Roll) | ° | ≤0.1 |
-| Velocity Accuracy | m/s | ≤0.1 |
-| Horizontal Position Accuracy | m | ≤3 |
-| Vertical Position Accuracy | m | ≤5 |
-##### System Measurement Ranges
-
-| Parameter | Unit | Range |
-| --- | --- | --- |
-| Heading Measurement Range | ° | 0 ~ 360 (Clockwise from North) |
-| Attitude Measurement Range | ° | Roll: -180 ~ +180 |
-|  |  | Pitch: -85 ~ +85 |
-
-##### Environmental Adaptability
-  
-| Test Item | Unit | Gyroscope | Accelerometer |
-| --- | --- | --- | --- |
-| Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤10 |
-| Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤10 |
-| Operating Temperature | ℃ | -45 ~ +85 |  |
-| Storage Temperature | ℃ | -55 ~ +85 |  |
-## D-Q-JDW-HDTD80CJ12
-
-### Overview
-
-The HDTD80CJ12 is a high-reliability MEMS inertial/GNSS integrated navigation system. It integrates a three-axis quartz MEMS gyroscope, a three-axis MEMS accelerometer, a high-precision single-antenna GNSS positioning module, signal processing circuits, and integrated navigation software. This configuration enables high-precision differential positioning, orientation, navigation, and ranging capabilities, making it ideal for aerospace, mechanical control, exploration, marine, and port applications.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/nav-modules/D-Q-JDW-HDTD80CJ1X/D-Q-JDW-HDTD80CJ11-Slide-01.webp)
-
-### Features
-
-### package
-
-#### HDTD80CJ12 Mechanical Dimensions
-_Unit: mm_
-<ProductImage 
-  productId="D-Q-JDW-HDTD80CJ1X"
-  type="package"
-  subType="HDTD80CJ12"
-  invertMode="light-only"
-/>
-#### Electrical Interface
-Connector type: J30J-15ZK
-
-  | Pin No. | Definition |
-| --- | --- |
-| 1 | Power + |
-| 2 | Ground |
-| 3 | RS232_RXD |
-| 4 | RS232_TXD |
-| 5 | RS232_GND |
-| 6 | RS422_R+ |
-
-### Applications
-
-### Specifications
-
-#### Key Technical Specifications
-  
-| Parameter | Unit | HDTD80CJ12 |
-| --- | --- | --- |
-| Power Supply Voltage | V | 5 ± 0.2 |
-| Operating Current @12V | mA | 55 ± 10 |
-| Weight | g | 80 ± 5 |
-##### Gyroscope Specifications
-  
-| Parameter | Unit | HDTD80CJ12 |
-| --- | --- | --- |
-| Measurement Range | °/s | ±400 |
-| Scale Factor | - | 1 ± 0.005 |
-| Scale Factor Nonlinearity | ppm | ≤100 |
-| Scale Factor Repeatability | ppm | ≤100 |
-| Scale Factor Asymmetry | ppm | ≤100 |
-| Cross-Axis Sensitivity | - | ≤0.005 |
-| Threshold / Resolution | °/s | ≤0.01 |
-| Bias (Full Temperature) | °/s | ±0.1 |
-| Bias Stability (Room Temp) | °/h | ≤10 |
-| Bias Stability (Full Temp) | °/h | - |
-| Bias Repeatability | °/h | ≤10 |
-| Angular Random Walk | °/√h | ≤0.08 |
-| Bias Instability (Allan Deviation) | °/h | ≤2 |
-##### Accelerometer Specifications
-  
-| Parameter | Unit | HDTD80CJ12 |
-| --- | --- | --- |
-| Measurement Range | g | ±40 |
-| Bias (Full Temperature) | mg | ±5 |
-| Bias Stability (Room Temp) | mg | ≤0.2 |
-| Bias Stability (Full Temp) | mg | ≤2 |
-| Bias Repeatability | mg | ≤0.2 |
-##### Integrated Navigation Performance (with 1m GNSS baseline)
-  
-| Parameter | Unit | HDTD80CJ12 |
-| --- | --- | --- |
-| Heading Accuracy (Speed ≥ 5 m/s) | ° | ≤0.3 |
-| Attitude Accuracy (Pitch/Roll) | ° | ≤0.1 |
-| Velocity Accuracy | m/s | ≤0.1 |
-| Horizontal Position Accuracy | m | ≤3 |
-| Vertical Position Accuracy | m | ≤5 |
-##### System Measurement Ranges
-
-| Parameter | Unit | Range |
-| --- | --- | --- |
-| Heading Measurement Range | ° | 0 ~ 360 (Clockwise from North) |
-| Attitude Measurement Range | ° | Roll: -180 ~ +180 |
-|  |  | Pitch: -85 ~ +85 |
-
-##### Environmental Adaptability
-  
-| Test Item | Unit | Gyroscope | Accelerometer |
-| --- | --- | --- | --- |
-| Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤10 |
-| Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤10 |
-| Operating Temperature | ℃ | -45 ~ +85 |  |
-| Storage Temperature | ℃ | -55 ~ +85 |  |
+---
+title: "D-Q-JDW-HDTD80CJ1X Single-Antenna Integrated Navigation System - Technical Reference"
+description: "High-reliability MEMS inertial/GNSS integrated navigation system with single-antenna GNSS, offering high-precision differential positioning and orientation capabilities."
+keywords: "HDTD80CJ1X, Single-Antenna Integrated Navigation, MEMS Inertial/GNSS"
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj1x/](https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj1x/)
+# D-Q-JDW-HDTD80CJ1X Single-Antenna Integrated Navigation System
+
+> **Quick Answer**: The D-Q-JDW-HDTD80CJ1X is a high-reliability MEMS inertial/GNSS integrated navigation system designed for various applications, including aerospace and marine. It features high-precision differential positioning and orientation capabilities, making it an ideal choice for accurate navigation.
+
+## What is D-Q-JDW-HDTD80CJ1X?
+
+The D-Q-JDW-HDTD80CJ1X is a cutting-edge integrated navigation system that combines MEMS inertial sensors with GNSS technology. This system incorporates a three-axis quartz MEMS gyroscope and accelerometer, providing robust performance in orientation and navigation tasks. With its high-precision single-antenna GNSS module, the HDTD80CJ1X excels in applications that demand accurate positioning and real-time data for various industries, including aerospace, mechanical control, exploration, and marine.
+
+**Key Specifications:**
+- Product Model: `D-Q-JDW-HDTD80CJ1X`
+- Product Category: navigation / quartz-mems / nav-modules
+- Power Supply Voltage: 5 ± 0.2 V
+- Operating Current @12V: 135 ± 10 mA for HDTD80CJ11, 55 ± 10 mA for HDTD80CJ12
+
+## Technical Quick Reference
+
+### Performance Specifications
+| Parameter | Unit | HDTD80CJ11 | HDTD80CJ12 |
+| --- | --- | --- | --- |
+| Power Supply Voltage | V | 5 ± 0.2 | 5 ± 0.2 |
+| Operating Current @12V | mA | 135 ± 10 | 55 ± 10 |
+| Weight | g | 75 ± 5 | 80 ± 5 |
+
+### When to Use D-Q-JDW-HDTD80CJ1X?
+- ✅ Aerospace applications requiring high reliability
+- ✅ Mechanical control systems needing precise orientation
+- ✅ Exploration tasks where accurate navigation is critical
+- ✅ Marine applications demanding robust positioning data
+- ✅ Port operations with high-precision requirements
+
+### Integration Guide
+**Power Requirements:**
+- Voltage: 5 ± 0.2 V
+
+**Pin Configuration:**
+| Pin No. | Definition |
+| --- | --- |
+| 1 | Power + |
+| 2 | Ground |
+| 3 | RS232_RXD |
+| 4 | RS232_TXD |
+| 5 | RS232_GND |
+| 6 | RS422_R+ |
+
+**Mounting:**
+- Ensure adequate space for thermal management and signal integrity.
+
+## Comparison with Alternatives
+| Model | Weight (g) | Operating Current @12V (mA) | Measurement Range (°/s) |
+| --- | --- | --- | --- |
+| HDTD80CJ11 | 75 ± 5 | 135 ± 10 | ±300 |
+| HDTD80CJ12 | 80 ± 5 | 55 ± 10 | ±400 |
+
+## Related Products
+- [HDTD80CJ11](https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj11/)
+- [HDTD80CJ12](https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj12/)
+
+---
+
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/quartz-mems-nav-hdtd80cj1x/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

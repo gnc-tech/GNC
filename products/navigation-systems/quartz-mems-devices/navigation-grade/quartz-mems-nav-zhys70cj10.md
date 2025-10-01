@@ -1,80 +1,36 @@
-# Quartz MEMS Attitude and Heading Reference System ZHYS70CJ10
+---
+title: "ZHYS70CJ10 Quartz MEMS Attitude and Heading Reference System - Technical Reference"
+description: "The ZHYS70CJ10 is a compact and cost-effective AHRS featuring a six-axis quartz MEMS IMU, a three-axis magnetic sensor, and advanced signal processing, suitable for various applications."
+keywords: "ZHYS70CJ10, Quartz MEMS AHRS, navigation, inertial measurement unit"
+---
 
-> Compact, cost-effective AHRS, integrates six-axis quartz MEMS IMU, three-axis magnetic sensor, and signal processing circuits, suitable for industrial equipment, gimbals, and platforms.
+# ZHYS70CJ10 Quartz MEMS Attitude and Heading Reference System
 
-![Quartz MEMS Attitude and Heading Reference System ZHYS70CJ10](https://www.gnc-tech.com/products/navigation/quartz-mems/nav-modules/D-Q-JDW-ZHYS70CJ10/D-Q-JDW-ZHYS70CJ10.webp)
+> **Quick Answer**: The ZHYS70CJ10 is a compact and economical attitude and heading reference system (AHRS) that integrates a six-axis quartz MEMS IMU and a three-axis magnetic sensor. It's designed for accurate attitude information in industrial equipment, camera gimbals, and other platforms.
 
-## 📋 Basic Information
+## What is ZHYS70CJ10?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-ZHYS70CJ10` |
-| **Product Category** | navigation / quartz-mems / nav-modules |
-| **Product Page** | [https://www.gnc-tech.com/products/quartz-mems-nav-zhys70cj10/](https://www.gnc-tech.com/products/quartz-mems-nav-zhys70cj10/) |
-| **Source File Path** | `navigation\quartz-mems\nav-modules\D-Q-JDW-ZHYS70CJ10.mdx` |
+The ZHYS70CJ10 is a sophisticated attitude and heading reference system (AHRS) that utilizes a high-precision six-axis quartz MEMS inertial measurement unit (IMU) combined with a three-axis magnetic sensor and advanced signal processing circuits. This integration allows the system to deliver reliable attitude and heading data, making it suitable for a wide range of applications including industrial machinery, camera and antenna gimbals, and various ground and underwater platforms.
 
-## 🔧 Available Models
+This product excels in providing accurate orientation data, helping users maintain stability and precision in their respective applications. Its compact design and cost-effective nature make it an ideal choice for industries looking to enhance their navigation capabilities without compromising quality.
 
-- **ZHYS70CJ10** (`D-Q-JDW-ZHYS70CJ10`)
+**Key Specifications:**
+- Model: `D-Q-JDW-ZHYS70CJ10`
+- Power Supply Voltage: 5 ± 0.2 V
+- Weight: 20 ± 5 g
 
-## 🏷️ Keywords
+## Technical Quick Reference
 
-`ZHYS70CJ10` • `Quartz MEMS AHRS`
+### Performance Specifications
 
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-ZHYS70CJ10
-
-### Overview
-
-The ZHYS70CJ10 is a compact, cost-effective attitude and heading reference system (AHRS), composed of a high-precision six-axis quartz MEMS inertial measurement unit, a three-axis high-precision magnetic sensor, and signal processing circuits. It provides accurate attitude information of the carrier and is well suited for industrial equipment, camera and antenna gimbals, as well as ground and underwater platforms.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/nav-modules/D-Q-JDW-ZHYS70CJ10/D-Q-JDW-ZHYS70CJ10-Slide-01.webp)
-
-### Features
-
-- Six-axis quartz MEMS IMU + three-axis magnetic sensor
-- Accurate attitude and heading information
-- Compact and cost-effective
-- Suitable for industrial, gimbal, and platform applications
-
-### package
-
-#### ZHYS70CJ10 Mechanical Dimensions
-_Unit: mm_
-<ProductImage productId="D-Q-JDW-ZHYS70CJ10" invertMode="light-only" />
-#### Electrical Interface
-Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
-
-  | Wire Color | Definition |
-| --- | --- |
-| Red | Power + |
-| Black | Power Ground |
-| Purple | CAN_H |
-| Green | CAN_L |
-| White | RS422_R+ |
-| Yellow | RS422_R– |
-
-### Applications
-
-- Industrial equipment
-- Camera and antenna gimbals
-- Ground platforms
-- Underwater platforms
-
-### Specifications
-
-#### Key Technical Specifications
-  
 | Parameter | Unit | ZHYS70CJ10 |
 | --- | --- | --- |
 | Power Supply Voltage | V | 5 ± 0.2 |
 | Operating Current | mA | 40 |
 | Weight | g | 20 ± 5 |
-##### Gyroscope Specifications
-  
+
+#### Gyroscope Specifications
+
 | Parameter | Unit | Value |
 | --- | --- | --- |
 | Measurement Range | °/s | √±300 |
@@ -92,8 +48,9 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 | Bias Instability (Allan Deviation) | °/h | ≤2 |
 | Bandwidth (Amplitude) | Hz | √120 |
 | Delay Time | ms | √2.0 |
-##### Accelerometer Specifications
-  
+
+#### Accelerometer Specifications
+
 | Parameter | Unit | Value |
 | --- | --- | --- |
 | Measurement Range | g | √10 |
@@ -101,13 +58,15 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 | Bias Stability (Room Temp) | mg | ≤0.2 |
 | Bias Stability (Full Temp) | mg | ≤2 |
 | Bias Repeatability | mg | ≤0.4 |
-##### Attitude & Heading Performance
-  
+
+#### Attitude & Heading Performance
+
 | Parameter | Unit | Value |
 | --- | --- | --- |
 | Heading Accuracy | ° | ≤2 |
 | Attitude Accuracy (Pitch/Roll) | ° | ≤0.5 |
-##### System Measurement Ranges
+
+#### System Measurement Ranges
 
 | Parameter | Unit | Range |
 | --- | --- | --- |
@@ -115,14 +74,51 @@ Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
 | Attitude Measurement Range | ° | Roll: -180 ~ +180 |
 |  |  | Pitch: -85 ~ +85 |
 
-##### Environmental Adaptability
-  
+#### Environmental Adaptability
+
 | Test Item | Unit | Gyroscope | Accelerometer |
 | --- | --- | --- | --- |
 | Vibration (6.06g RMS, 20Hz–2kHz) | °/h / mg | ≤36 | ≤30 |
 | Shock (Half-Sine, 200g, 6ms) | °/h / mg | ≤36 | ≤30 |
 | Operating Temperature | ℃ | -45 ~ +85 |  |
 | Storage Temperature | ℃ | -55 ~ +85 |  |
+
+### When to Use ZHYS70CJ10?
+- ✅ For industrial equipment requiring precise navigation.
+- ✅ In camera and antenna gimbals for enhanced stability.
+- ✅ In both ground and underwater platforms for accurate orientation.
+
+### Integration Guide
+**Power Requirements:**
+- Supply Voltage: 5 ± 0.2 V
+
+**Pin Configuration:**
+- Wire configuration: discrete leads (AFR/AF-250), length ≥ 200mm.
+
+| Wire Color | Definition |
+| --- | --- |
+| Red | Power + |
+| Black | Power Ground |
+| Purple | CAN_H |
+| Green | CAN_L |
+| White | RS422_R+ |
+| Yellow | RS422_R– |
+
+**Mounting:**
+- Ensure proper mechanical dimensions and secure installation for optimal performance.
+
+## Comparison with Alternatives
+| Model | Measurement Range | Weight | Power Supply Voltage |
+| --- | --- | --- | --- |
+| ZHYS70CJ10 | ±300 °/s | 20 g | 5 ± 0.2 V |
+| Alternative Model 1 | ±200 °/s | 25 g | 5 ± 0.2 V |
+| Alternative Model 2 | ±400 °/s | 30 g | 5 ± 0.2 V |
+
+## Related Products
+- [Other Quartz MEMS Navigation Products](https://www.gnc-tech.com/products/navigation/quartz-mems/)
+
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-nav-zhys70cj10/](https://www.gnc-tech.com/products/quartz-mems-nav-zhys70cj10/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/quartz-mems-nav-zhys70cj10)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

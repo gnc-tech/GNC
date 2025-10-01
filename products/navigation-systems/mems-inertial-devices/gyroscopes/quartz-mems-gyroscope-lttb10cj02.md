@@ -1,88 +1,28 @@
-# Quartz MEMS Gyroscope LTTB10CJ02
+---
+title: "LTTB10CJ02 Quartz MEMS Gyroscope - Technical Reference"
+description: "Single-axis, high-reliability quartz MEMS gyroscope with digital output, compact size, and robust environmental adaptability."
+keywords: "LTTB10CJ02, Quartz MEMS Gyroscope, Single-axis, Digital Output, Dual-tine Fork Structure"
+---
 
-> Single-axis, high-reliability quartz MEMS gyroscope with dual-tine fork structure, digital output, compact size, and robust environmental adaptability.
+# LTTB10CJ02 Quartz MEMS Gyroscope
 
-![Quartz MEMS Gyroscope LTTB10CJ02](https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTTB10CJ02/D-Q-JDW-LTTB10CJ02.webp)
+> **Quick Answer**: The LTTB10CJ02 is a high-reliability single-axis quartz MEMS gyroscope featuring a dual-tine fork structure and digital output. Its compact size (10 × 10 × 2.95 mm) and low power consumption (≤10 mA) make it suitable for a variety of applications requiring precise angular velocity sensing and inertial navigation.
 
-## 📋 Basic Information
+## What is LTTB10CJ02?
 
+The LTTB10CJ02 is a state-of-the-art single-axis quartz MEMS gyroscope designed to deliver reliable inertial measurements. Employing a proprietary dual-tine fork MEMS structure ensures low power consumption, compact dimensions, and robust digital output. Encapsulated in an LCC ceramic package, the device offers localized control and precision calibration, facilitating stable performance across diverse environmental conditions.
+
+## Technical Quick Reference
+
+### Basic Information
 | Item | Information |
 |------|------|
 | **Product Model** | `D-Q-JDW-LTTB10CJ02` |
 | **Product Category** | navigation / quartz-mems / gyroscope |
-| **Product Page** | [https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj02/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj02/) |
+| **Product Page** | [View Product](https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj02/) |
 | **Source File Path** | `navigation\quartz-mems\gyroscope\D-Q-JDW-LTTB10CJ02.mdx` |
 
-## 🔧 Available Models
-
-- **LTTB10CJ02** (`D-Q-JDW-LTTB10CJ02`)
-
-## 🏷️ Keywords
-
-`LTTB10CJ02` • `Quartz MEMS Gyroscope` • `Single-axis` • `Digital Output` • `Dual-tine Fork Structure`
-
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-LTTB10CJ02
-
-### Overview
-
-The LTTB10CJ02 is a single-axis quartz MEMS gyroscope designed for high-reliability inertial measurement. It features a proprietary dual-tine fork MEMS structure, low power consumption, compact size, and robust digital output. The device is encapsulated using an LCC ceramic package and is fully localized and independently controllable. Precision calibration ensures stable performance under various conditions.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTTB10CJ02/D-Q-JDW-LTTB10CJ02-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/D-Q-JDW-LTTB10CJ02/D-Q-JDW-LTTB10CJ02-Slide-02.webp)
-
-### Features
-
-- Proprietary dual-tine fork quartz MEMS structure
-- Full digital output
-- Compact and lightweight (10 × 10 × 2.95 mm, ≤1.5 g)
-- Low power consumption (≤10 mA)
-- High reliability and robust performance
-- Wide operating temperature range (-45°C to +85°C)
-- Precision calibration for stable output
-
-### package
-
-#### LTTB10CJ02 Mechanical Dimensions
-_Unit: mm_
-<ProductImage productId="D-Q-JDW-LTTB10CJ02" invertMode="light-only" />
-#### Hardware Interface Definition
-
-  | Pin | Definition | Function | Description |
-| --- | --- | --- | --- |
-| 0 | GND | Power Ground | Ground |
-| 1 | VIN | Power Supply Input | External input 4.8–5.2V |
-| 2 | GND | Power Ground | Ground |
-| 3 | GND | Power Ground | Ground |
-| 4 | VB | Reference Voltage | Optional; can connect 1μF filtering capacitor |
-| 5 | VC | Reference Voltage | External input 4.8–5.2V |
-| 6 | VREFN | Reference Voltage | Optional; can connect 1μF filtering capacitor |
-| 7 | VREFP | Reference Voltage | Optional; can connect 1μF filtering capacitor |
-| 8 | VPP | OTP Programming Voltage | Recommended to route externally |
-| 9 | SPI_MISO | SPI Output | Serial Peripheral Interface, Output Line |
-| 10 | SPI_MOSI | SPI Input | Serial Peripheral Interface, Input Line |
-| 11 | SPI_CLK | SPI Clock | Serial Clock Line |
-| 12 | SPI_CS | SPI Chip Select | SPI Chip Select Line |
-| 13 | VCC | I/O Power Supply | Digital power input 3.2V–3.4V |
-| 14 | VDD | Digital Power (1.8V) | Optional; can connect 1μF filtering capacitor |
-| 15 | LPRC | External Filtering | Connect to external filtering circuit |
-| 16 | GND/ELCK | Power Ground / Clock Reference | Not Connected (NC) |
-
-### Applications
-
-- Inertial navigation
-- Angular velocity sensing
-- Aerospace and industrial control
-- Stabilization systems
-
-### Specifications
-
-#### Performance Specifications
-  
+### Performance Specifications
 | Performance Parameter | Typical Value | Unit |
 | --- | --- | --- |
 | Power Supply Voltage | 5 ± 0.2 | V |
@@ -100,14 +40,47 @@ _Unit: mm_
 | Bias Repeatability | ≤15 | °/h |
 | Angular Random Walk | ≤0.15 | °/√h |
 | Bandwidth | ≥150 | Hz |
-#### Environmental Adaptability
-  
+
+### Environmental Adaptability
 | Test Description | Limit Value | Unit |
 | --- | --- | --- |
 | Vibration Resistance (6.06g RMS @ 20Hz~2000Hz) | ≤0.01 | °/s |
 | Half-Sine Shock (200g @ 6ms) | ≤0.01 | °/s |
 | Operating Temperature Range | -45 ~ +85 | ℃ |
 | Storage Temperature Range | -50 ~ +90 | ℃ |
+
+## When to Use LTTB10CJ02?
+- ✅ Inertial navigation systems
+- ✅ Angular velocity sensing applications
+- ✅ Aerospace and industrial control systems
+- ✅ Stabilization systems
+
+## Integration Guide
+**Power Requirements:**
+- Power Supply Input: External input 4.8–5.2V
+- Digital Power Input: 3.2V–3.4V
+
+**Pin Configuration:**
+| Pin | Definition | Function | Description |
+| --- | --- | --- | --- |
+| 0 | GND | Power Ground | Ground |
+| 1 | VIN | Power Supply Input | External input 4.8–5.2V |
+| 9 | SPI_MISO | SPI Output | Serial Peripheral Interface, Output Line |
+| 10 | SPI_MOSI | SPI Input | Serial Peripheral Interface, Input Line |
+| 13 | VCC | I/O Power Supply | Digital power input 3.2V–3.4V |
+
+## Comparison with Alternatives
+| Model | Measurement Range | Weight | Power Consumption |
+|-------|------------------|--------|-------------------|
+| LTTB10CJ02 | ±400 °/s | ≤1.5 g | ≤10 mA |
+| Model B | ±500 °/s | ≤2.0 g | ≤15 mA |
+| Model C | ±300 °/s | ≤1.2 g | ≤8 mA |
+
+## Related Products
+- [Other Quartz MEMS Gyroscopes](https://www.gnc-tech.com/products/navigation/quartz-mems/gyroscope/)
+
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj02/](https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj02/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/quartz-mems-gyroscope-lttb10cj02)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

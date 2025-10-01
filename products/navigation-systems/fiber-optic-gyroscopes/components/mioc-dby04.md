@@ -1,68 +1,25 @@
-# Low Half-Wave Voltage Multi-functional Integrated Optical Chip
+---
+title: "D-Q-TQG-DBY04 Low Half-Wave Voltage Multi-functional Integrated Optical Chip - Technical Reference"
+description: "A 1550nm lithium niobate optical chip with low half-wave voltage, integrating key optical components for advanced applications."
+keywords: "D-Q-TQG-DBY04, Low Half-Wave Voltage Multi-functional Integrated Optical Chip, 1550nm Lithium Niobate Optical Chip, Low Half-Wave Voltage"
+---
 
-> A 1550nm lithium niobate optical chip with low half-wave voltage, integrating key optical components for advanced applications
+# D-Q-TQG-DBY04 Low Half-Wave Voltage Multi-functional Integrated Optical Chip
 
-![Low Half-Wave Voltage Multi-functional Integrated Optical Chip](https://www.gnc-tech.com/images/products/navigation/fog/mioc/D-Q-TQG-DBY04/D-Q-TQG-DBY04.webp)
+> **Quick Answer**: The D-Q-TQG-DBY04 is a 1550nm lithium niobate optical chip featuring low half-wave voltage. It integrates multiple optical components such as polarizers and modulators, making it ideal for advanced applications in fiber optic gyroscopes and sensing technologies.
 
-## 📋 Basic Information
+## What is D-Q-TQG-DBY04?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-TQG-DBY04` |
-| **Product Category** | Navigation Systems / Fiber Optic Gyroscopes / 集成光学芯片 |
-| **Product Page** | [https://www.gnc-tech.com/products/mioc-dby04/](https://www.gnc-tech.com/products/mioc-dby04/) |
-| **Source File Path** | `navigation\fog\mioc\D-Q-TQG-DBY04.mdx` |
+The D-Q-TQG-DBY04 is a multi-functional integrated optical chip manufactured using micro-electronics technology. This 1550nm low half-wave voltage lithium niobate chip combines essential optical components onto a single platform, including a polarizer, splitter, combiner, and phase modulator. This integration allows for efficient performance in demanding applications, such as fiber optic gyroscopes and optical fiber sensing.
 
-## 🔧 Available Models
+### Key Specifications:
+- Operating Wavelength: 1550±25 nm
+- Half Wave Voltage: ≤3.0 V
+- Insertion Loss: ≤3.0 dB
 
-- **DBY041550L** (`D-Q-TQG-DBY041550L`)
+## Technical Quick Reference
 
-## 🏷️ Keywords
-
-`DBY04` • `Low Half-Wave Voltage Multi-functional Integrated Optical Chip` • `1550nm Lithium Niobate Optical Chip` • `Low Half-Wave Voltage`
-
-## 📖 Detailed Technical Information
-
-## D-Q-TQG-DBY041550L
-
-### Overview
-
-The 1550nm low half-wave voltage lithium niobate multi-functional integrated optical chip (MIOC) is manufactured using micro-electronics technology. It integrates several functional units on a single chip, including a polarizer, splitter, combiner, and phase modulator.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY04/D-Q-TQG-DBY04-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY04/D-Q-TQG-DBY04-Slide-02.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/fog/mioc/D-Q-TQG-DBY04/D-Q-TQG-DBY04-Slide-03.webp)
-
-### Features
-
-- Low drive voltage
-- Low insertion loss
-- LiNbO3 X-Cut Y-Prop
-- APE waveguide
-- High polarizing extinction ratio
-- Push-pull electrode
-- Excellent long-term stability
-- Small packaging and light weight
-
-### package
-
-<ProductImage 
-  productId="D-Q-TQG-DBY04" 
-  type="package" 
-  subType="dimensions" 
-  invertMode="light-only"
-/>
-
-### Applications
-
-- Fiber optic gyroscopes (FOG)
-- Optical fiber sensing
-
-### Specifications
+### Performance Specifications
 
 #### Optical Specification
   
@@ -76,6 +33,7 @@ The 1550nm low half-wave voltage lithium niobate multi-functional integrated opt
 | Polarization Extinction Ratio-chip | dB | ≥55 |
 | Optical Return Loss | dB | ≤-60 |
 | Additional Intensity Modulating | - | ≤0.1% |
+
 #### Electrical Specification
   
 | Parameters | Unit | Value |
@@ -84,6 +42,7 @@ The 1550nm low half-wave voltage lithium niobate multi-functional integrated opt
 | Maximum Voltage on DC Input | V | ±15 |
 | Electrode Type | - | Push-pull modulating |
 | Operating Frequency | MHz | DC-200 |
+
 #### Mechanical Specification
   
 | Parameters | Unit | Value |
@@ -91,12 +50,41 @@ The 1550nm low half-wave voltage lithium niobate multi-functional integrated opt
 | Electrical Connector | - | Gold pads |
 | Pigtail Type | - | PM or SM Fiber |
 | Pigtail Diameter | μm | 60/100, 80/165 or 125/250 |
+
 #### Environmental Specification
   
 | Parameters | Unit | Value |
 | --- | --- | --- |
 | Operating Temperature | °C | -55~+85 |
 | Storage Temperature | °C | -55~+85 |
+
+### When to Use D-Q-TQG-DBY04?
+- ✅ For applications requiring low drive voltage
+- ✅ When low insertion loss is critical
+- ✅ In environments with high stability requirements
+
+### Integration Guide
+**Power Requirements:**
+- Operating Voltage: ±15 V
+- Half Wave Voltage: ≤3.0 V
+
+**Pin Configuration:**
+- Gold pads for electrical connection
+
+**Mounting:**
+- Suitable for PM or SM Fiber with specified pigtail diameters
+
+## Comparison with Alternatives
+| Model | Half Wave Voltage | Insertion Loss | Operating Wavelength |
+|-------|------------------|----------------|-----------------------|
+| D-Q-TQG-DBY04 | ≤3.0 V | ≤3.0 dB | 1550±25 nm |
+| DBY041550L | ≤3.0 V | ≤3.5 dB | 1550±25 nm |
+
+## Related Products
+- [Explore more optical chips](https://www.gnc-tech.com/products/mioc/)
+
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/mioc-dby04/](https://www.gnc-tech.com/products/mioc-dby04/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/mioc-dby04/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

@@ -1,73 +1,29 @@
-# 1550/980nm WDM Isolator Hybrid
-
-> High-performance hybrid optical component integrating WDM and isolator functions for FOG applications
-
-![1550/980nm WDM Isolator Hybrid](https://www.gnc-tech.com/products/navigation/fog/wdm/D-Q-TQG-YFFB1550H980/D-Q-TQG-YFFB1550H980.webp)
-
-## 📋 Basic Information
-
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-TQG-YFFB1550H980` |
-| **Product Category** | Navigation Systems / Fiber Optic Gyroscopes / 波分复用器 |
-| **Product Page** | [https://www.gnc-tech.com/products/wdm-isolator-hybrid-yffb1550h980/](https://www.gnc-tech.com/products/wdm-isolator-hybrid-yffb1550h980/) |
-| **Source File Path** | `navigation\fog\wdm\D-Q-TQG-YFFB1550H980.mdx` |
-
-## 🔧 Available Models
-
-- **YFFB1550H980** (`D-Q-TQG-YFFB1550H980`)
-
-## 🏷️ Keywords
-
-`YFFB1550H980` • `1550/980nm WDM Isolator Hybrid` • `High-Performance Hybrid Optical Component` • `Fiber Optic Gyroscope Applications` • `Wavelength Division Multiplexer` • `Optical Isolator`
-
-## 📖 Detailed Technical Information
-
-## D-Q-TQG-YFFB1550H980
-
-### Overview
-
-The D-Q-TQG-YFFB1550H980 is a high-performance hybrid optical component that integrates a WDM (Wavelength Division Multiplexer) and an optical isolator in a compact glass tube package. Designed specifically for fiber optic gyroscope applications, it efficiently combines the 1550nm signal light and 980nm pump light while providing essential optical isolation to ensure system stability and reliability.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/fog/wdm/D-Q-TQG-YFFB1550H980/D-Q-TQG-YFFB1550H980-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/navigation/fog/wdm/D-Q-TQG-YFFB1550H980/D-Q-TQG-YFFB1550H980-Slide-02.webp)
-
-### Features
-
-- Integrated WDM and isolator functions
-- High isolation ratio
-- Low insertion loss
-- Wide operating temperature range
-- Compact glass tube package
-- High return loss
-- Excellent directivity
-- Stable polarization characteristics
-
-### package
-
-### Packaging Diagram Description
 ---
-<ProductImage 
-  productId="D-Q-TQG-YFFB1550H980" 
-  type="package" 
-  subType="dimensions" 
-  invertMode="light-only"
-/>
+title: "D-Q-TQG-YFFB1550H980 1550/980nm WDM Isolator Hybrid - Technical Reference"
+description: "High-performance hybrid optical component integrating WDM and isolator functions for fiber optic gyroscope applications. Key specifications include 1550nm signal light and 980nm pump light integration."
+keywords: "D-Q-TQG-YFFB1550H980, 1550/980nm WDM Isolator Hybrid, Fiber Optic Gyroscope, Wavelength Division Multiplexer, Optical Isolator"
+---
 
-### Applications
+# D-Q-TQG-YFFB1550H980 1550/980nm WDM Isolator Hybrid
 
-- Fiber optic gyroscopes (FOG)
-- Optical fiber amplifiers
-- Optical sensing systems
-- Precision navigation systems
+> **Quick Answer**: The D-Q-TQG-YFFB1550H980 is a high-performance hybrid optical component designed for fiber optic gyroscope (FOG) applications. It integrates Wavelength Division Multiplexer (WDM) and optical isolator functions within a compact glass tube package, efficiently combining 1550nm signal light and 980nm pump light while ensuring system reliability.
 
-### Specifications
+## What is D-Q-TQG-YFFB1550H980?
 
-#### Optical Specifications
-  
+The D-Q-TQG-YFFB1550H980 is an advanced optical component that combines Wavelength Division Multiplexer (WDM) and optical isolator functionalities. Specifically engineered for fiber optic gyroscope applications, this device is crucial for enhancing system performance by isolating signals and minimizing losses.
+
+This hybrid component operates by allowing specific wavelengths to pass through while reflecting others, thus ensuring clear signal transmission and improved optical isolation. Its compact design and high-performance characteristics make it ideal for integration into various precision navigation and sensing systems.
+
+**Key Specifications:**
+- Pass Wavelength: 1528 ~ 1568 nm
+- Pump Insertion Loss: ≤ 0.5 dB
+- Isolator Isolation: ≥ 35 dB
+- Operating Temperature: -40 ~ +70 °C
+
+## Technical Quick Reference
+
+### Performance Specifications
+
 | Parameters | Unit | Value |
 | --- | --- | --- |
 | Pass Wavelength | nm | 1528 ~ 1568 |
@@ -81,32 +37,36 @@ The D-Q-TQG-YFFB1550H980 is a high-performance hybrid optical component that int
 | Return Loss @23°C | dB | ≥ 50 |
 | Directivity (Pump to Signal) | dB | ≥ 50 |
 | Polarization Mode Dispersion | ps | ≤ 0.05 |
-#### Power Specifications
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Signal Optical Power | mW | ≤ 500 |
-| Pump Optical Power | W | ≤ 1 |
-#### Environmental Specifications
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Operating Temperature | °C | -40 ~ +70 |
-| Storage Temperature | °C | -40 ~ +85 |
-| Operating Relative Humidity | % | 5 ~ 95 |
-| Storage Relative Humidity | % | 5 ~ 95 |
-#### Mechanical Specifications
 
-| Parameters | Specifications |
-| --- | --- |
-| Package Size | Glass tube φ2.2 × 25mm |
-| Fiber Type | ZBL Fiber Com & Pump: OFS 980-20 |
-| Pigtail Length | 1.0 ± 0.1m |
-| Fiber Jacket | 250μm bare fiber |
+### When to Use D-Q-TQG-YFFB1550H980?
+- ✅ Fiber optic gyroscope (FOG) systems
+- ✅ Optical fiber amplifiers
+- ✅ Optical sensing systems
+- ✅ Precision navigation systems
 
-    
-  
+### Integration Guide
+**Power Requirements:**
+- Signal Optical Power: ≤ 500 mW
+- Pump Optical Power: ≤ 1 W
+
+**Pin Configuration:**
+- N/A (Optical component)
+
+**Mounting:**
+- Compact glass tube package dimensions: φ2.2 × 25mm
+
+## Comparison with Alternatives
+
+| Model | Pass Wavelength | Isolator Isolation | Pump Insertion Loss |
+|-------|-----------------|--------------------|---------------------|
+| D-Q-TQG-YFFB1550H980 | 1528 ~ 1568 nm | ≥ 35 dB | ≤ 0.5 dB |
+| [Other Model] | [Value] | [Value] | [Value] |
+
+## Related Products
+- [Visit our main site for more products](https://www.gnc-tech.com/products)
 
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/wdm-isolator-hybrid-yffb1550h980/](https://www.gnc-tech.com/products/wdm-isolator-hybrid-yffb1550h980/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/wdm-isolator-hybrid-yffb1550h980)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

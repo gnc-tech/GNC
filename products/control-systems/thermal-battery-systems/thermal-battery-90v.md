@@ -1,68 +1,25 @@
-# 90V
+---
+title: "K-CDR-90FLX Thermal Battery - Technical Reference"
+description: "The K-CDR-90FLX is a high-voltage thermal battery series with a voltage range of 71.6V-100V and capacities from 400As to 24000As, ideal for demanding applications."
+keywords: "K-CDR-90FLX, Thermal Battery, High-Voltage Thermal Battery, Large Capacities, High Pulse Currents"
+---
 
-> 90V thermal battery series with voltage range 71.6V-100V, featuring capacities from 400As to 24000As and pulse currents up to 180A
+# K-CDR-90FLX Thermal Battery
 
-![90V](https://www.gnc-tech.com/images/products/control/thermal-battery/K-CDR-90FLX/K-CDR-90FLX.webp)
+> **Quick Answer**: The K-CDR-90FLX thermal battery series operates within a voltage range of 71.6V to 100V, featuring capacities from 400As to 24000As and capable of delivering pulse currents up to 180A. This series is designed for high-demand applications in military and tactical environments.
 
-## 📋 Basic Information
+## What is K-CDR-90FLX?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `K-CDR-90FLX` |
-| **Product Category** | Control Systems / Thermal Batteries |
-| **Product Page** | [https://www.gnc-tech.com/products/thermal-battery-90v/](https://www.gnc-tech.com/products/thermal-battery-90v/) |
-| **Source File Path** | `control\thermal-battery\K-CDR-90FLX.mdx` |
+The **K-CDR-90FLX** series is a state-of-the-art thermal battery platform, offering high-voltage power solutions tailored for demanding applications. With a nominal voltage of 90V and a broad voltage range, these batteries provide reliable performance under various conditions. The series is characterized by ultra-fast activation times and extensive capacity options, making it suitable for advanced weapon systems, missile platforms, and other heavy-duty military equipment.
 
-## 🔧 Available Models
+**Key Specifications:**
+- Voltage Range: 71.6V - 100V
+- Capacity: 400As to 24000As
+- Pulse Current: Up to 180A
 
-- **CDR090FLX** (`K-CDR-90FLX`)
+## Technical Quick Reference
 
-## 🏷️ Keywords
-
-`90V Thermal Battery` • `High-Voltage Thermal Battery` • `Large Capacities` • `High Pulse Currents`
-
-## 📖 Detailed Technical Information
-
-## K-CDR-90FLX
-
-### Overview
-
-The **CDR090FLX** series represents our 90V platform thermal batteries, offering a wide voltage range of 71.6V-100V. With capacities from 400As to 24000As and pulse currents up to 180A, this series provides robust power solutions for high-voltage applications requiring substantial power delivery.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/control/thermal-battery/K-CDR-90FLX/K-CDR-90FLX-Slide-01.webp)
-
-![Product Image](https://www.gnc-tech.com/products/control/thermal-battery/K-CDR-90FLX/K-CDR-90FLX-Slide-02.webp)
-
-![Product Image](https://www.gnc-tech.com/products/control/thermal-battery/K-CDR-90FLX/K-CDR-90FLX-Slide-03.webp)
-
-![Product Image](https://www.gnc-tech.com/products/control/thermal-battery/K-CDR-90FLX/K-CDR-90FLX-Slide-04.webp)
-
-### Features
-
-- 90V nominal voltage platform
-- Wide voltage range 71.6V-100V
-- Ultra-fast activation time ≤1.0s
-- Capacity range 400-24000As
-- High pulse current up to 180A
-- Power output up to 5373W
-
-### Applications
-
-- High-voltage weapon systems
-- Advanced missile platforms
-- Heavy-duty military equipment
-- Long-range defense systems
-- High-power tactical applications
-
-### Notes
-
-1. Operating temperature range: -40°C to +70°C;
-2. Pulse current capability refers to the maximum current amplitude the battery can withstand;
-3. Working current profiles are optimized for specific application scenarios.
-
-### Specifications
+### Performance Specifications
 
 #### Basic Parameters
   
@@ -71,6 +28,7 @@ The **CDR090FLX** series represents our 90V platform thermal batteries, offering
 | CDR090FLX01 | Φ45×110 mm | 0.450 kg |
 | CDR090FLX02 | Φ85×180 mm | 2.800 kg |
 | CDR090FLX03 | Φ95×290 mm | 5.250 kg |
+
 #### Electrical Parameters
   
 | Model | Capacity | Nominal Voltage | Working Current |
@@ -78,6 +36,7 @@ The **CDR090FLX** series represents our 90V platform thermal batteries, offering
 | CDR090FLX01 | 400 As | 90 V | 1A/400s; 5A/75s |
 | CDR090FLX02 | 5300 As | 90 V | 10A/530s; 15A/340s |
 | CDR090FLX03 | 24000 As | 90 V | 10A/2400s; 30A/800s |
+
 #### Performance Parameters
   
 | Model | Pulse Current | Activation Time | Operating Duration |
@@ -85,6 +44,38 @@ The **CDR090FLX** series represents our 90V platform thermal batteries, offering
 | CDR090FLX01 | 20 A | <0.8 s | 363 s |
 | CDR090FLX02 | 180 A | <1.0 s | 400 s |
 | CDR090FLX03 | 120 A | <1.0 s | 1639 s |
+
+### When to Use K-CDR-90FLX?
+- ✅ High-voltage weapon systems
+- ✅ Advanced missile platforms
+- ✅ Heavy-duty military equipment
+- ✅ Long-range defense systems
+- ✅ High-power tactical applications
+
+### Integration Guide
+**Power Requirements:**
+- Nominal Voltage: 90V
+- Operating Temperature Range: -40°C to +70°C
+
+**Pin Configuration:**
+Basic pin configuration details can be found in the full documentation.
+
+**Mounting:**
+Ensure proper mounting as per specified dimensions for optimal performance.
+
+## Comparison with Alternatives
+
+| Model | Capacity | Pulse Current | Activation Time |
+| --- | --- | --- | --- |
+| CDR090FLX01 | 400 As | 20 A | <0.8 s |
+| CDR090FLX02 | 5300 As | 180 A | <1.0 s |
+| CDR090FLX03 | 24000 As | 120 A | <1.0 s |
+
+## Related Products
+- [Explore other Thermal Battery options](https://www.gnc-tech.com/products/thermal-battery-90v/)
+
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/thermal-battery-90v/](https://www.gnc-tech.com/products/thermal-battery-90v/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/thermal-battery-90v/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

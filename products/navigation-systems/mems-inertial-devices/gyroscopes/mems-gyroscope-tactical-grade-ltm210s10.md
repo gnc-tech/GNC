@@ -1,103 +1,28 @@
-# LTM210S10 Series Tactical-Grade MEMS Gyroscope
+---
+title: "LTM210S10 Tactical-Grade MEMS Gyroscope - Technical Reference"
+description: "LTM210S10 is a high-precision, tactical-grade MEMS gyroscope with exceptional bias stability and ultra-low noise, ideal for aerospace and defense applications."
+keywords: "LTM210S10, Tactical-Grade MEMS Gyroscope, High-Precision Gyroscope, Aerospace Gyroscope"
+---
 
-> High-precision, tactical-grade MEMS gyroscope for demanding inertial applications
+# LTM210S10 Tactical-Grade MEMS Gyroscope
 
-![LTM210S10 Series Tactical-Grade MEMS Gyroscope](https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-LTM210S10/D-Q-JDW-LTM210S10.webp)
+> **Quick Answer**: The LTM210S10 is a high-precision, tactical-grade MEMS gyroscope engineered for demanding inertial applications. With a bias instability of 0.05 °/h and a wide input range of ±400 °/s, it serves as a drop-in replacement for the STIM210 series, featuring a compact hermetically sealed housing and an RS-422 digital interface.
 
-## 📋 Basic Information
+## What is LTM210S10?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-JDW-LTM210S10` |
-| **Product Category** | navigation / mems / gyroscope |
-| **Product Page** | [https://www.gnc-tech.com/products/mems-gyroscope-tactical-grade-ltm210s10/](https://www.gnc-tech.com/products/mems-gyroscope-tactical-grade-ltm210s10/) |
-| **Source File Path** | `navigation\mems\gyroscope\D-Q-JDW-LTM210S10.mdx` |
+The **LTM210S10** is a tactical-grade MEMS gyroscope specifically designed to meet the needs of high-precision applications in aerospace, defense, and robotics. This device is a direct replacement for the STIM210 series, boasting exceptional bias stability, ultra-low noise, and high shock resistance. It is available in 1-, 2-, and 3-axis configurations, making it versatile for various applications including inertial navigation systems and platform stabilization.
 
-## 🔧 Available Models
+The gyroscope features a compact metal housing with hermetic sealing, ensuring durability and reliability in challenging environments. Its RS-422 digital output allows for configurable communication, making it compatible with existing systems. The LTM210S10 provides significant performance advantages while remaining cost-effective.
 
-- **LTM210S10** (`D-Q-JDW-LTM210S10`)
+**Key Specifications:**
+- Bias instability: 0.05 °/h
+- Measuring range: ±400 °/s
+- Operating temperature: -45 to +85 °C
 
-## 🏷️ Keywords
+## Technical Quick Reference
 
-`LTM210S10` • `Tactical-Grade MEMS Gyroscope` • `High-Precision Gyroscope` • `Aerospace Gyroscope`
+### Performance Specifications
 
-## 📖 Detailed Technical Information
-
-## D-Q-JDW-LTM210S10
-
-### Overview
-
-The **LTM210S10** is a high-precision, tactical-grade MEMS gyroscope designed as a direct replacement for the STIM210 series. Offering exceptional bias stability, ultra-low noise, and high shock resistance, it provides superior performance and cost advantages while maintaining full compatibility with existing STIM210-based systems.
-
-Available in 1-, 2-, and 3-axis configurations, this device features a compact hermetically sealed housing and an RS-422 digital interface, making it ideal for aerospace, defense, robotics, and navigation systems. Its drop-in replacement capability ensures seamless integration into existing applications.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/mems/gyroscope/D-Q-JDW-LTM210S10/D-Q-JDW-LTM210S10-Slide-01.webp)
-
-### Features
-
-- Tactical-grade bias instability down to 0.05 °/h
-- Angular random walk as low as 0.03 °/√h
-- Wide input range up to ±400 °/s
-- Compact metal housing with hermetic sealing
-- Fully temperature-compensated over -45°C to +85°C
-- RS-422 digital output with configurable communication
-- No export control (non-ITAR)
-- Drop-in alternative to STIM210 series gyros
-
-### package
-
-#### Dimensions(mm)
-<ProductImage 
-productId="D-Q-JDW-LTM210S10" 
-type="package" 
-subType="dimensions" 
-invertMode="light-only" 
-/>
-| Attribute | Value |
-| --- | --- |
-| Weight | 52 ± 5 g |
-| Startup Time | ≤ 1 s |
-| Connector Type | Micro-D 15-pin, 1.27 mm pitch |
-| Mating Connector | Micro-D 15-pin, 1.27 mm pitch |
-
-#### Pins
-<ProductImage 
-productId="D-Q-JDW-LTM210S10" 
-type="package" 
-subType="pins" 
-invertMode="light-only" 
-/>
-
-  | Pin | Signal Name | Direction | Function |
-| --- | --- | --- | --- |
-| 1 | TxD− | Output | RS422 transmit (negative) |
-| 2 | RxD− | Input | RS422 receive (negative) |
-| 4 | TOV | Output | Time of Validity output (optional, 3.3V pull-up) |
-| 5 | NRST | Input | External Reset (optional, 3.3V pull-up) |
-| 6 | GND | Input | Signal Ground |
-| 8 | VSUP | Supply | Positive power input |
-| 9 | TxD+ | Output | RS422 transmit (positive) |
-| 10 | RxD+ | Input | RS422 receive (positive) |
-| 11 | ExtTrig | Input | External Trigger (optional, 3.3V pull-up) |
-| 12/13 | GND | Input | Additional ground |
-| 15 | GND | Supply | Power ground |
-| 3/7/14 | Reserved | — | Manufacturer reserved (do not connect) |
-
-### Applications
-
-- Inertial Navigation Systems (INS)
-- UAV, UUV, and ground vehicle guidance
-- Tactical missile control
-- Gimbal and platform stabilization
-- Robotics and industrial automation
-- Mapping, surveying, and positioning
-
-### Specifications
-
-#### Performance Specifications
-  
 | Parameter | Unit | Test Condition | LTM210S10 | LTM210S1A | LTM210S1B |
 | --- | --- | --- | --- | --- | --- |
 | Measuring Range | °/s | — | ±400 | ±400 | ±300 |
@@ -113,8 +38,9 @@ invertMode="light-only"
 | Scale Factor Repeatability | ppm | Q=3, normal temperature | 20 | 20 | 20 |
 | Zero Bias Repeatability | °/h | Q=6, normal temperature | 1 | 0.5 | 0.25 |
 | Cross-Coupling | % | Room temperature | 0.2 | 0.2 | 0.2 |
-#### Environmental and Electrical Specifications
-  
+
+### Environmental and Electrical Specifications
+
 | Parameter | Unit | Value |
 | --- | --- | --- |
 | Operating Temperature | °C | -45 to +85 |
@@ -123,13 +49,49 @@ invertMode="light-only"
 | Start-up Current | mA | < 400 |
 | Power Consumption | W | < 1.4 |
 | Output Ripple | mV | ≤100 |
-### Notes
 
-1. > **Positioning & Compatibility**
-2. >
-3. > The LTM210S10 series is engineered as a **drop-in replacement for STIM210** tactical gyroscopes, offering comparable or better performance in bias stability, noise, temperature resilience, and SWaP (Size, Weight, and Power) efficiency. Its use of RS-422 digital output and compact footprint enables seamless transition for applications previously designed around fiber optic or high-grade MEMS gyros.
-  
+### When to Use LTM210S10?
+- ✅ Inertial Navigation Systems (INS)
+- ✅ UAV, UUV, and ground vehicle guidance
+- ✅ Tactical missile control
+- ✅ Gimbal and platform stabilization
+- ✅ Robotics and industrial automation
+- ✅ Mapping, surveying, and positioning
+
+### Integration Guide
+**Power Requirements:**
+- Supply Voltage: +5 ± 0.5 V
+
+**Pin Configuration:**
+
+| Pin | Signal Name | Direction | Function |
+| --- | --- | --- | --- |
+| 1 | TxD− | Output | RS422 transmit (negative) |
+| 2 | RxD− | Input | RS422 receive (negative) |
+| 4 | TOV | Output | Time of Validity output (optional, 3.3V pull-up) |
+| 5 | NRST | Input | External Reset (optional, 3.3V pull-up) |
+| 6 | GND | Input | Signal Ground |
+| 8 | VSUP | Supply | Positive power input |
+| 9 | TxD+ | Output | RS422 transmit (positive) |
+| 10 | RxD+ | Input | RS422 receive (positive) |
+| 11 | ExtTrig | Input | External Trigger (optional, 3.3V pull-up) |
+| 12/13 | GND | Input | Additional ground |
+| 15 | GND | Supply | Power ground |
+| 3/7/14 | Reserved | — | Manufacturer reserved (do not connect) |
+
+## Comparison with Alternatives
+
+| Model | Bias Instability | Measuring Range |
+| --- | --- | --- |
+| LTM210S10 | 0.05 °/h | ±400 °/s |
+| LTM210S1A | 0.1 °/h | ±400 °/s |
+| LTM210S1B | 0.05 °/h | ±300 °/s |
+
+## Related Products
+- [View other MEMS Gyroscopes](https://www.gnc-tech.com/products/mems-gyroscopes/)
 
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/mems-gyroscope-tactical-grade-ltm210s10/](https://www.gnc-tech.com/products/mems-gyroscope-tactical-grade-ltm210s10/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/mems-gyroscope-tactical-grade-ltm210s10)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

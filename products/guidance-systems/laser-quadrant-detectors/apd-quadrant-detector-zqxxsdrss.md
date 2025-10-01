@@ -1,71 +1,46 @@
-# APD Quadrant Detector Single-Tube Series
+---
+title: "Z-Q-XXSDRSS APD Quadrant Detector - Technical Reference"
+description: "High-performance APD quadrant detector with integrated silicon avalanche photodiodes, designed for laser guidance and communication."
+keywords: "Z-Q-XXSDRSS, APD Quadrant Detector, Silicon Avalanche Photodiodes, High Responsivity"
+---
 
-> High-performance APD quadrant detector with four identical silicon avalanche photodiodes integrated in a single tube, featuring high responsivity at 1064nm
+# Z-Q-XXSDRSS APD Quadrant Detector
 
-![APD Quadrant Detector Single-Tube Series](https://www.gnc-tech.com/images/products/guidance/laser-quadrant/Z-Q-XXSDRSS/Z-Q-XXSDRSS.webp)
+> **Quick Answer**: The Z-Q-XXSDRSS is a high-performance APD quadrant detector featuring four identical silicon avalanche photodiodes in a single tube. It provides excellent responsivity at 1064nm, making it suitable for various laser applications including guidance and communication.
 
-## 📋 Basic Information
+## What is Z-Q-XXSDRSS?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `Z-Q-XXSDRSS` |
-| **Product Category** | Guidance Systems / Laser Quadrant Detectors |
-| **Product Page** | [https://www.gnc-tech.com/products/apd-quadrant-detector-zqxxsdrss/](https://www.gnc-tech.com/products/apd-quadrant-detector-zqxxsdrss/) |
-| **Source File Path** | `guidance\laser-quadrant\Z-Q-XXSDRSS.mdx` |
+The **Z-Q-XXSDRSS** series is an advanced quadrant detector that integrates four identical silicon avalanche photodiodes in a compact single tube design. This configuration allows for high responsivity and sensitivity in detecting laser signals across a wide spectral range, from visible to near-infrared light. With a peak responsivity of 40A/W at 1064nm, it is particularly effective in laser guidance, communication, and positioning tasks.
 
-## 🔧 Available Models
+### Key Specifications:
+- **Model**: Z-Q-XXSDRSS
+- **Peak Responsivity**: 40A/W at 1064nm
+- **Active Area Diameter**: Available in 4.0mm, 6.0mm, and 10.0mm
 
-- **ZQXXSDRSS** (`Z-Q-XXSDRSS`)
+## Technical Quick Reference
 
-## 🏷️ Keywords
-
-`APD Quadrant Detector Single-Tube Series` • `High-Performance APD Quadrant Detector` • `Silicon Avalanche Photodiodes` • `Single-Tube Design` • `High Responsivity`
-
-## 📖 Detailed Technical Information
-
-## Z-Q-XXSDRSS
-
-### Overview
-
-The **ZQXXSDRSS** series integrates four identical silicon avalanche photodiodes in a single tube. The spectral response range extends from visible light to near-infrared, with peak response at 980nm and responsivity reaching 40A/W at 1064nm wavelength.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/guidance/laser-quadrant/Z-Q-XXSDRSS/Z-Q-XXSDRSS-Slide-01.webp)
-
-### Features
-
-- Front-illuminated chip structure
-- High response frequency and gain
-- Large receiving field of view
-
-### Applications
-
-- Laser guidance
-- Laser communication docking
-- Laser positioning
-
-### Specifications
+### Performance Specifications
 
 #### Basic Parameters
   
-| Model | Package Type | Active Area Diameter(mm) |
-| --- | --- | --- |
+| Model | Package Type | Active Area Diameter (mm) |
+|-------|--------------|----------------------------|
 | ZQXXSDRSS01 | TO-8 | 4.0 |
 | ZQXXSDRSS02 | TO-8 | 6.0 |
 | ZQXXSDRSS03 | Φ26.4*4.4mm | 10.0 |
+
 #### Electrical Parameters (@Ta=22±3°C)
   
-| Model | Dark Current (M=100, λ=1064nm)(nA)
-Typ./Max. | Response Time(ns) | Total Capacitance(pF) |
-| --- | --- | --- | --- |
+| Model | Dark Current (M=100, λ=1064nm)(nA) Typ./Max. | Response Time (ns) | Total Capacitance (pF) |
+|-------|--------------------------------------------|---------------------|-------------------------|
 | ZQXXSDRSS01 | 40/100 | 3.5 | 4.0 |
 | ZQXXSDRSS02 | 40/150 | 5.0 | 8.0 |
 | ZQXXSDRSS03 | 80/200 | 7.0 | 20 |
+
 #### Common Parameters for All Models
   
 | Parameter | Value |
-| --- | --- |
+|-----------|-------|
 | Spectral Range | 400~1100nm |
 | Responsivity (M=100, λ=1064nm) | 40A/W |
 | Operating Voltage Temperature Coefficient (-40°C~85°C) | 3.2V/°C |
@@ -74,6 +49,35 @@ Typ./Max. | Response Time(ns) | Total Capacitance(pF) |
 | Maximum Quadrant Non-uniformity | 5% |
 | Maximum Crosstalk | 5% |
 | Quadrant Gap Line Width | 0.1mm |
+
+### When to Use Z-Q-XXSDRSS?
+- ✅ Laser guidance applications
+- ✅ Laser communication docking systems
+- ✅ Precision laser positioning tasks
+
+### Integration Guide
+**Power Requirements:**
+- Operating voltage: Up to 500V
+
+**Pin Configuration:**
+- Standard TO-8 or Φ26.4*4.4mm configurations
+
+**Mounting:**
+- Ensure proper alignment for optimal performance in laser detection applications.
+
+## Comparison with Alternatives
+
+| Model | Responsivity (A/W) | Active Area Diameter (mm) | Package Type |
+|-------|---------------------|----------------------------|--------------|
+| ZQXXSDRSS01 | 40 | 4.0 | TO-8 |
+| ZQXXSDRSS02 | 40 | 6.0 | TO-8 |
+| ZQXXSDRSS03 | 40 | 10.0 | Φ26.4*4.4mm |
+
+## Related Products
+- [Explore more APD detectors →](https://www.gnc-tech.com/products/)
+
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/apd-quadrant-detector-zqxxsdrss/](https://www.gnc-tech.com/products/apd-quadrant-detector-zqxxsdrss/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/apd-quadrant-detector-zqxxsdrss/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

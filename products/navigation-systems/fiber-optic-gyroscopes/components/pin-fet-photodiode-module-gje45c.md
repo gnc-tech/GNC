@@ -1,106 +1,62 @@
-# Ceramic-Packaged PIN-FET Photodiode Module
+---
+title: "D-Q-TQG-GJE45C Ceramic-Packaged PIN-FET Photodiode Module - Technical Reference"
+description: "Advanced ceramic-packaged PIN-FET photodiode modules with superior noise performance and reliability for precision fiber optic sensing applications."
+keywords: "D-Q-TQG-GJE45C, Ceramic-Packaged PIN-FET Photodiode Module, High-Performance PIN-FET Photodiode, Fiber Optic Sensing, Ceramic DIP8 Package"
+---
 
-> Advanced ceramic-packaged PIN-FET photodiode modules with superior noise performance and high reliability for precision fiber optic sensing applications
+# D-Q-TQG-GJE45C Ceramic-Packaged PIN-FET Photodiode Module
 
-![Ceramic-Packaged PIN-FET Photodiode Module](https://www.gnc-tech.com/images/products/navigation/fog/pin-fet/D-Q-TQG-GJE45C/D-Q-TQG-GJE45C.webp)
+> **Quick Answer**: The D-Q-TQG-GJE45C is a high-performance ceramic DIP8 packaged PIN-FET photodiode module, designed for fiber optic gyroscope applications. It features ultra-low noise voltage, high sensitivity, and an integrated transimpedance amplifier, making it ideal for precision sensing tasks.
 
-## 📋 Basic Information
+## What is D-Q-TQG-GJE45C?
 
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-TQG-GJE45C` |
-| **Product Category** | Navigation Systems / Fiber Optic Gyroscopes / PIN-FETDetectors |
-| **Product Page** | [https://www.gnc-tech.com/products/pin-fet-photodiode-module-gje45c/](https://www.gnc-tech.com/products/pin-fet-photodiode-module-gje45c/) |
-| **Source File Path** | `navigation\fog\pin-fet\D-Q-TQG-GJE45C.mdx` |
+The D-Q-TQG-GJE45C is a ceramic-packaged PIN-FET photodiode module that integrates a high-performance PIN photodiode with a transimpedance amplifier. This combination ensures exceptional optical-to-electrical signal conversion while minimizing noise interference. It is engineered for applications requiring high precision and reliability, particularly in fiber optic gyroscopes and sensing systems.
 
-## 🔧 Available Models
+**Key Specifications:**
+- Operating Voltage: ±5 ± 0.3 V
+- Noise Voltage: 0.4 mV
+- Dynamic Range: 25 dB
 
-- **GJE45C028** (`D-Q-TQG-GJE45C028`)
-- **GJE45C215** (`D-Q-TQG-GJE45C215`)
-- **GJE46C020** (`D-Q-TQG-GJE46C020`)
+## Technical Quick Reference
 
-## 🏷️ Keywords
+### Performance Specifications
+| Parameters          | Unit | Value                            |
+|---------------------|------|----------------------------------|
+| Operating Voltage    | V    | ±5 ± 0.3                        |
+| Noise Voltage        | mV   | 0.4                             |
+| Voltage Response     | V/W  | 0.9* (Selectable 20kΩ ∼ 1200kΩ) |
+| Dark Output Voltage   | V    | -1.2 ∼ -0.6 or -2.0 ∼ -1.4    |
+| Dynamic Range        | dB   | 25                               |
+| Fiber Core Diameter  | μm   | 6/80/165 or 9/125/250           |
 
-`GJE45C` • `Ceramic-Packaged PIN-FET Photodiode Module` • `High-Performance PIN-FET Photodiode` • `Precision Fiber Optic Sensing` • `Ceramic DIP8 Package`
+### When to Use D-Q-TQG-GJE45C?
+- ✅ High-precision fiber optic gyroscope (FOG) applications
+- ✅ Fiber optic current sensors
+- ✅ Underwater acoustic detection systems
+- ✅ High-sensitivity optical measurement
 
-## 📖 Detailed Technical Information
+### Integration Guide
+**Power Requirements:**
+- Operating Voltage: ±5 ± 0.3 V
 
-## D-Q-TQG-GJE45C028
+**Pin Configuration:**
+- Standard DIP8 pinout
 
-### Overview
+**Mounting:**
+- Suitable for PCB mounting
 
-The D-Q-TQG-GJE45C028 is a high-performance ceramic DIP8 packaged PIN-FET photodiode module specifically engineered for fiber optic gyroscope applications. This device combines a PIN photodiode with an integrated transimpedance amplifier, providing exceptional optical-to-electrical signal conversion with minimal noise interference.
+## Comparison with Alternatives
+| Model                  | Package Type | Key Features                       |
+|-----------------------|--------------|------------------------------------|
+| D-Q-TQG-GJE45C028     | DIP8         | Ultra-low noise, High sensitivity   |
+| D-Q-TQG-GJE45C215     | DIP8         | High reliability, Integrated amplifier |
+| D-Q-TQG-GJE46C020     | DIP6         | Compact design, Excellent stability  |
 
-### Product Images
+## Related Products
+- [View Online](https://www.gnc-tech.com/products/pin-fet-photodiode-module-gje45c/)
 
-![Product Image](https://www.gnc-tech.com/products/navigation/fog/pin-fet/D-Q-TQG-GJE45C/D-Q-TQG-GJE45C028-Slide-01.webp)
+---
 
-### Features
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/pin-fet-photodiode-module-gje45c/)
 
-- Ultra-low noise voltage
-- High sensitivity
-- Ceramic DIP8 package
-- Integrated transimpedance amplifier
-- Superior thermal stability
-- Enhanced environmental protection
-- Excellent long-term reliability
-
-### Applications
-
-- High-precision fiber optic gyroscopes (FOG)
-- Fiber optic current sensors
-- Underwater acoustic detection systems
-- High-sensitivity optical measurement
-
-### Specifications
-
-#### Optical and Electrical Specifications (@Ta=22±3℃)
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Operating Voltage | V | ±5 ± 0.3 |
-| Noise Voltage | mV | 0.4 |
-| Voltage Response | V/W | 0.9* (Selectable 20kΩ ∼ 1200kΩ) |
-| Dark Output Voltage | V | -1.2 ∼ -0.6 or -2.0 ∼ -1.4 |
-| Dynamic Range | dB | 25 |
-| Fiber Core Diameter | μm | 6/80/165 or 9/125/250 |
-## D-Q-TQG-GJE45C215
-
-### overview
-
-### Product Images
-
-### Features
-
-### Applications
-
-### Specifications
-
-## D-Q-TQG-GJE46C020
-
-### Overview
-
-The D-Q-TQG-GJE46C020 is a ceramic DIP6 packaged PIN-FET photodiode module designed for space-critical applications. This compact device maintains high performance while offering the smallest form factor in the series, perfect for miniaturized optical systems.
-
-### Product Images
-
-### specifications
-
-### Features
-
-- Ultra-low noise voltage
-- High sensitivity
-- Ceramic DIP6 package
-- Integrated transimpedance amplifier
-- Compact form factor
-- Excellent thermal stability
-- High reliability
-
-### Applications
-
-- Miniaturized fiber optic gyroscopes (FOG)
-- Compact optical sensing systems
-- Space-constrained installations
-- Portable optical measurement devices
-- ---
-- - **🔗 View Online**: [https://www.gnc-tech.com/products/pin-fet-photodiode-module-gje45c/](https://www.gnc-tech.com/products/pin-fet-photodiode-module-gje45c/)
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

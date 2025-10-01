@@ -1,243 +1,72 @@
-# High Performance ASE Light Source
-
-> Advanced ASE light source offering multiple spectral profiles for fiber optic gyroscope applications
-
-![High Performance ASE Light Source](https://www.gnc-tech.com/images/products/navigation/fog/light-source/D-Q-TQG-YGFZ15GB/D-Q-TQG-YGFZ15GB.webp)
-
-## 📋 Basic Information
-
-| Item | Information |
-|------|------|
-| **Product Model** | `D-Q-TQG-YGFZ15GB` |
-| **Product Category** | Navigation Systems / Fiber Optic Gyroscopes / 光源 |
-| **Product Page** | [https://www.gnc-tech.com/products/ase-light-source-ygfz15gb/](https://www.gnc-tech.com/products/ase-light-source-ygfz15gb/) |
-| **Source File Path** | `navigation\fog\light-source\D-Q-TQG-YGFZ15GB.mdx` |
-
-## 🔧 Available Models
-
-- **YGFZ15GBG30** (`D-Q-TQG-YGFZ15GBG30`)
-- **YGFZ15GBG60** (`D-Q-TQG-YGFZ15GBG60`)
-- **YGFZ15GBP50** (`D-Q-TQG-YGFZ15GBP50`)
-
-## 🏷️ Keywords
-
-`YGFZ15GB` • `High Performance ASE Light Source` • `Fiber Optic Gyroscope Applications` • `Multiple Spectral Profiles` • `Gaussian Spectral Profile`
-
-## 📖 Detailed Technical Information
-
-## D-Q-TQG-YGFZ15GBG30
-
-### Overview
-
-The **YGFZ15GBG30** is a high-performance ASE light source featuring a Gaussian spectral profile centered at 1530nm. It is specifically designed for fiber optic gyroscope applications requiring precise wavelength control and excellent stability.
-
-### Product Images
-
-![Product Image](https://www.gnc-tech.com/products/navigation/fog/light-source/D-Q-TQG-YGFZ15GB/D-Q-TQG-YGFZ15GB-Slide-01.webp)
-
-### Features
-
-- Gaussian spectral profile
-- High power stability
-- Low noise performance
-- Excellent temperature characteristics
-- Built-in optical isolation
-- Compact design
-- Multiple package options
-
-### spectrum
-
-<ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="G30" />
-
-### Applications
-
-- Fiber optic gyroscopes (FOG)
-- Optical sensing systems
-- Test and measurement equipment
-
-### Specifications
-
-#### Optical Specification
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Center Wavelength | nm | 1530 |
-| Output Power | mW | ≤50 |
-| Spectral Width | nm | 7 |
-| Power Stability @25°C | % | 1 |
-| Power Stability @Full Temperature | % | 5 |
-| Wavelength Stability @25°C | ppm | 5 |
-| Wavelength Stability @Full Temperature | ppm | 20 |
-| Spectral Modulation | dB | 0.03 |
-| Polarization Extinction Ratio | dB | 0.2 |
-#### Electrical Specification
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Supply Voltage | V | DC +5V/GND |
-| Power Consumption @25°C | W | ≤1.5 |
-| Power Consumption @Full Temperature | W | ≤4.0 |
-#### Package Options
-  
-| Type | Specification | Remark |
-| --- | --- | --- |
-| Package A | Φ45 mm | Compact size |
-| Package B | Φ60 mm | Standard size |
-| Package C | Φ98 mm | Enhanced cooling |
-| Package D | 90 × 70 × 15 mm | Rack mount |
-  <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
-  #### Fiber Options
-  
-| Type | Specification |
-| --- | --- |
-| Standard | 80/170 μm SM |
-| Optional | 125/250 μm SM |
-| Jumper | SMF-28e, 900 μm |
-#### Environmental Specification
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Working Temperature | °C | -40~+70 |
-## D-Q-TQG-YGFZ15GBG60
-
-### Overview
-
-The **YGFZ15GBG60** is a high-performance ASE light source featuring a Gaussian spectral profile centered at 1560nm. It provides excellent stability and reliability for demanding FOG applications.
-
-### Product Images
-
-### Features
-
-- Gaussian spectral profile
-- High power stability
-- Low noise performance
-- Excellent temperature characteristics
-- Built-in optical isolation
-- Compact design
-- Multiple package options
-
-### spectrum
-
-<ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="G60" />
-
-### Applications
-
-### Specifications
-
-#### Optical Specification
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Center Wavelength | nm | 1560 |
-| Output Power | mW | ≤50 |
-| Spectral Width | nm | 11 |
-| Power Stability @25°C | % | 1 |
-| Power Stability @Full Temperature | % | 5 |
-| Wavelength Stability @25°C | ppm | 5 |
-| Wavelength Stability @Full Temperature | ppm | 150 |
-| Spectral Modulation | dB | 0.03 |
-| Polarization Extinction Ratio | dB | 0.2 |
-#### Electrical Specification
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Supply Voltage | V | DC +5V/GND |
-| Power Consumption @25°C | W | ≤1.5 |
-| Power Consumption @Full Temperature | W | ≤4.0 |
-#### Package Options
-  
-| Type | Specification | Remark |
-| --- | --- | --- |
-| Package A | Φ45 mm | Compact size |
-| Package B | Φ60 mm | Standard size |
-| Package C | Φ98 mm | Enhanced cooling |
-| Package D | 90 × 70 × 15 mm | Rack mount |
-  <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
-  #### Fiber Options
-  
-| Type | Specification |
-| --- | --- |
-| Standard | 80/170 μm SM |
-| Optional | 125/250 μm SM |
-| Jumper | SMF-28e, 900 μm |
-#### Environmental Specification
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Working Temperature | °C | -40~+70 |
-## D-Q-TQG-YGFZ15GBP50
-
-### Overview
-
-The **YGFZ15GBP50** features a flattened spectral profile with broad bandwidth, making it ideal for high-precision FOG applications requiring superior spectral stability and higher output power.
-
-### Product Images
-
-### Features
-
-- Flattened spectral profile with broad bandwidth
-- High output power up to 200mW
-- Superior spectral flatness (≤1.5dB)
-- Power tunability for flexible applications
-- Enhanced temperature stability
-- Built-in optical isolation
-- Multiple package options
-- Extended wavelength coverage (1528~1566nm)
-
-### spectrum
-
-<ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="P50" />
-
-### Applications
-
-- High-precision fiber optic gyroscopes (FOG)
-- Multi-axis inertial navigation systems
-- Aerospace and military applications
-- Advanced optical sensing systems
-- High-end test and measurement equipment
-
-### specifications
-
-#### Optical Specification
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Wavelength Range | nm | 1528~1566 |
-| Output Power | mW | ≤200 (Tunable) |
-| Spectral Width | nm | 38 |
-| Spectral Flatness | dB | ≤1.5 |
-| Power Stability @25°C | % | 1 |
-| Power Stability @Full Temperature | % | 5 |
-| Spectral Modulation | dB | 0.1 |
-| Polarization Extinction Ratio | dB | 0.2 |
-#### Electrical Specification
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Supply Voltage | V | DC +5V/GND |
-| Power Consumption @25°C | W | ≤1.5 |
-| Power Consumption @Full Temperature | W | ≤4.0 |
-#### Package Options
-  
-| Type | Specification | Remark |
-| --- | --- | --- |
-| Package A | Φ45 mm | Compact size |
-| Package B | Φ60 mm | Standard size |
-| Package C | Φ98 mm | Enhanced cooling |
-| Package D | 90 × 70 × 15 mm | Rack mount |
-  <ProductImage productId="D-Q-TQG-YGFZ15GB" type="package" subType="dimensions" />
-  #### Fiber Options
-  
-| Type | Specification |
-| --- | --- |
-| Standard | 80/170 μm SM |
-| Optional | 125/250 μm SM |
-| Jumper | SMF-28e, 900 μm |
-#### Environmental Specification
-  
-| Parameters | Unit | Value |
-| --- | --- | --- |
-| Working Temperature | °C | -10~+60 |
+---
+title: "D-Q-TQG-YGFZ15GB High Performance ASE Light Source - Technical Reference"
+description: "Advanced ASE light source for fiber optic gyroscope applications, featuring Gaussian spectral profiles and high power stability."
+keywords: "D-Q-TQG-YGFZ15GB, High Performance ASE Light Source, Fiber Optic Gyroscope Applications, Multiple Spectral Profiles, Gaussian Spectral Profile"
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/ase-light-source-ygfz15gb/](https://www.gnc-tech.com/products/ase-light-source-ygfz15gb/)
+# D-Q-TQG-YGFZ15GB High Performance ASE Light Source
+
+> **Quick Answer**: The D-Q-TQG-YGFZ15GB is a high-performance ASE light source designed for fiber optic gyroscope applications. It offers multiple spectral profiles, including Gaussian, with exceptional stability and low noise performance. This light source is suitable for demanding high-precision applications.
+
+## What is D-Q-TQG-YGFZ15GB?
+
+The D-Q-TQG-YGFZ15GB is an advanced ASE (Amplified Spontaneous Emission) light source tailored for fiber optic gyroscopes (FOG). It features a Gaussian spectral profile, ensuring precise wavelength control and stability. This light source is critical in optical sensing systems, offering low noise and high power stability, making it ideal for applications that require accurate and reliable performance.
+
+**Key Specifications:**
+- Center Wavelength: 1530nm (for YGFZ15GBG30) / 1560nm (for YGFZ15GBG60) / 1528~1566nm (for YGFZ15GBP50)
+- Output Power: Up to 200mW (tunable)
+- Power Stability: ≤1% @25°C
+
+## Technical Quick Reference
+
+### Performance Specifications
+
+| Parameters | Unit | Value |
+| --- | --- | --- |
+| Center Wavelength (YGFZ15GBG30) | nm | 1530 |
+| Center Wavelength (YGFZ15GBG60) | nm | 1560 |
+| Center Wavelength (YGFZ15GBP50) | nm | 1528~1566 |
+| Output Power (YGFZ15GBG30/YGFZ15GBG60) | mW | ≤50 |
+| Output Power (YGFZ15GBP50) | mW | ≤200 (Tunable) |
+| Spectral Width (YGFZ15GBG30) | nm | 7 |
+| Spectral Width (YGFZ15GBG60) | nm | 11 |
+| Spectral Width (YGFZ15GBP50) | nm | 38 |
+| Power Stability @25°C | % | 1 |
+| Power Stability @Full Temperature | % | 5 |
+| Working Temperature Range | °C | -40~+70 (YGFZ15GBG30/YGFZ15GBG60), -10~+60 (YGFZ15GBP50) |
+
+### When to Use D-Q-TQG-YGFZ15GB?
+- ✅ High-precision fiber optic gyroscope applications
+- ✅ Optical sensing systems
+- ✅ Test and measurement equipment
+- ✅ Aerospace and military applications
+- ✅ Advanced optical sensing systems
+
+### Integration Guide
+**Power Requirements:**
+- Supply Voltage: DC +5V/GND
+
+**Pin Configuration:**
+- Standard pin layout for seamless integration
+
+**Mounting:**
+- Available in multiple package options for flexible installation
+
+## Comparison with Alternatives
+
+| Model | Center Wavelength | Output Power | Spectral Width | Power Stability @25°C | Working Temperature |
+|-------|-------------------|--------------|----------------|-----------------------|---------------------|
+| YGFZ15GBG30 | 1530nm | ≤50mW | 7nm | 1% | -40~+70°C |
+| YGFZ15GBG60 | 1560nm | ≤50mW | 11nm | 1% | -40~+70°C |
+| YGFZ15GBP50 | 1528~1566nm | ≤200mW | 38nm | 1% | -10~+60°C |
+
+## Related Products
+- [YGFZ15GBG30](https://www.gnc-tech.com/products/ase-light-source-ygfz15gbg30/)
+- [YGFZ15GBG60](https://www.gnc-tech.com/products/ase-light-source-ygfz15gbg60/)
+- [YGFZ15GBP50](https://www.gnc-tech.com/products/ase-light-source-ygfz15gbp50/)
+
+---
+
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/ase-light-source-ygfz15gb/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)

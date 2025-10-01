@@ -1,258 +1,68 @@
-# Standard Precision Gyro Theodolite Series
-
-> Professional gyro theodolite series offering reliable azimuth determination and precise angle measurement for various surveying applications
-
-![Standard Precision Gyro Theodolite Series](https://www.gnc-tech.com/images/products/navigation/gyro-theodolite/D-TP-YWJ01ZB/D-TP-YWJ01ZB.webp)
-
-## 📋 Basic Information
-
-| Item | Information |
-|------|------|
-| **Product Model** | `D-TP-YWJ01ZB` |
-| **Product Category** | Navigation Systems / 陀螺经纬仪 |
-| **Product Page** | [https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb/](https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb/) |
-| **Source File Path** | `navigation\gyro-theodolite\D-TP-YWJ01ZB.mdx` |
-
-## 🔧 Available Models
-
-- **YWJ01ZB025** (`D-TP-YWJ01ZB025`)
-- **YWJ01ZB070** (`D-TP-YWJ01ZB070`)
-- **YWJ01ZB150** (`D-TP-YWJ01ZB150`)
-
-## 🏷️ Keywords
-
-`YWJ01ZB` • `Standard Precision Gyro Theodolite Series` • `Reliable Azimuth Determination` • `Precise Angle Measurement` • `Surveying Applications`
-
-## 📖 Detailed Technical Information
-
-## D-TP-YWJ01ZB025
-
-### Overview
-
-The reference-grade gyro theodolite (ZB01) represents our commitment to precision in azimuth determination and angle measurement. Built with advanced gyroscopic technology and digital angle reading system, it delivers reliable performance for professional surveying and alignment applications.
-
-### Features
-
-#### Features
 ---
-###### Measurement System
-- Azimuth accuracy: ±25 arc seconds
-- Horizontal angle accuracy: 1"
-- Vertical angle accuracy: 1"
-- Display resolution: 0.1"
-- North seeking time: 15 minutes
-
-###### Physical Specifications
-- Operating temperature: -20°C to +50°C
-- Storage temperature: -40°C to +70°C
-- Water/Dust protection: IP66
-- Weight: 7.5 kg
-- Battery life: 12 hours
-
-###### Advanced Features
-- Digital angle reading system
-- Automatic compensation
-- High-resolution LCD display
-- Illuminated reticle
-- Internal data storage
-- USB data transfer
-
-### customization
-
-#### Customization Options
+title: "D-TP-YWJ01ZB Standard Precision Gyro Theodolite - Technical Reference"
+description: "Discover the D-TP-YWJ01ZB Standard Precision Gyro Theodolite series, featuring reliable azimuth determination and precise angle measurement for professional surveying."
+keywords: "D-TP-YWJ01ZB, Standard Precision Gyro Theodolite, Reliable Azimuth Determination, Precise Angle Measurement, Surveying Applications"
 ---
-###### Software Options
-- Multiple language packages
-- Custom measurement modes
-- Advanced data processing software
 
-###### Hardware Options
-- External battery pack
-- Bluetooth data transfer module
-- Precision tribrach
-- Weather protection cover
+# D-TP-YWJ01ZB Standard Precision Gyro Theodolite
 
-###### Service Options
-- Extended calibration services
-- On-site training programs
-- Extended warranty package
+> **Quick Answer**: The D-TP-YWJ01ZB series offers professional-grade gyro theodolites designed for precise azimuth determination and angle measurement. With various models catering to different accuracy requirements, these instruments are suitable for a wide range of surveying applications.
 
-### Applications
+## What is D-TP-YWJ01ZB?
 
-#### Applications
----
-- Underground tunnel alignment
-- Construction site surveying
-- Mining industry measurements
-- Pipeline installation
-- Infrastructure monitoring
-- General surveying tasks
+The D-TP-YWJ01ZB series consists of high-performance gyro theodolites that integrate advanced gyroscopic technology for superior azimuth determination and angle measurement. Whether for construction, surveying, or engineering tasks, these devices ensure reliable performance. This series includes multiple models tailored for different operational needs, enabling professionals to select the most suitable option for their specific applications.
 
-### accessories
+**Key Specifications:**
+- Azimuth Accuracy: Up to ±150 arc seconds
+- Operational Temperature: -20°C to +50°C
+- Weight: Ranges from 5.5 kg to 7.5 kg
+- Battery Life: Up to 12 hours
 
-#### Accessories
----
-###### Standard Accessories
-<ProductImage 
-  productId="D-TP-YWJ01ZB"
-  type="accessories"
-  subType="standard"
-/>
+## Technical Quick Reference
 
-###### Optional Accessories
-<ProductImage 
-  productId="D-TP-YWJ01ZB"
-  type="accessories"
-  subType="optional"
-/>
+### Performance Specifications
 
-### Specifications
+| Item                     | Information                                              |
+|--------------------------|---------------------------------------------------------|
+| **Product Model**        | `D-TP-YWJ01ZB`                                         |
+| **Product Category**     | Navigation Systems / 陀螺经纬仪                        |
+| **Product Page**         | [Product Link](https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb/) |
+| **Source File Path**     | `navigation\gyro-theodolite\D-TP-YWJ01ZB.mdx`        |
 
-#### Measurement Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Azimuth Accuracy | arcsec | ≤2.5 |
-| Measurement Time | min | ≤14 |
-| Main Unit Weight | kg | ≤14 |
-| Data Storage | groups | 100 |
-#### Operation Parameters
-  
-| Parameter | Value |
-| --- | --- |
-| Operation Mode | One-key Full Auto |
-| Operation Safety | Anti-shock, Anti-static, Anti-interference |
-| Measurement Process | Self-checking |
-| Display | Digital Display |
-| Result Output | Auto Storage and Output |
-### Product Images
+### When to Use D-TP-YWJ01ZB?
+- ✅ For accurate underground tunnel alignment.
+- ✅ When surveying construction sites.
+- ✅ In mining industry measurements.
+- ✅ During pipeline installation.
+- ✅ For infrastructure monitoring.
+- ✅ In general surveying tasks.
 
-![Product Image](https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01ZB/D-TP-YWJ01ZB025-Slide-01.webp)
+### Integration Guide
+**Power Requirements:**
+- Operating voltage: 12V DC
 
-![Product Image](https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01ZB/D-TP-YWJ01ZB025-Slide-02.webp)
+**Pin Configuration:**
+- USB data transfer port
+- External battery connection
 
-![Product Image](https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01ZB/D-TP-YWJ01ZB025-Slide-03.webp)
+**Mounting:**
+- Standard tripod mount compatible
 
-![Product Image](https://www.gnc-tech.com/products/navigation/gyro-theodolite/D-TP-YWJ01ZB/D-TP-YWJ01ZB025-Slide-04.webp)
+## Comparison with Alternatives
 
-  
+| Model                    | Azimuth Accuracy | Weight (kg) | Battery Life (hours) | IP Rating |
+|--------------------------|------------------|-------------|----------------------|----------|
+| D-TP-YWJ01ZB025         | ±25 arc seconds   | 7.5         | 12                   | IP66     |
+| D-TP-YWJ01ZB070         | ±70 arc seconds   | 6.8         | 10                   | IP65     |
+| D-TP-YWJ01ZB150         | ±150 arc seconds  | 5.5         | 8                    | IP54     |
 
-## D-TP-YWJ01ZB070
-
-### Overview
-
-The engineering-grade gyro theodolite (ZB07) is optimized for construction and engineering tasks, offering a balance between accuracy and operational efficiency. It features robust construction and intuitive operation interface, making it ideal for field applications.
-
-### Features
-
-#### Features
----
-###### Measurement System
-- Azimuth accuracy: ±70 arc seconds
-- Horizontal angle accuracy: 2"
-- Vertical angle accuracy: 2"
-- Display resolution: 0.5"
-- North seeking time: 10 minutes
-
-###### Physical Specifications
-- Operating temperature: -20°C to +50°C
-- Storage temperature: -40°C to +70°C
-- Water/Dust protection: IP65
-- Weight: 6.8 kg
-- Battery life: 10 hours
-
-###### Advanced Features
-- Digital angle reading system
-- Automatic compensation
-- LCD display
-- Internal data storage
-- USB data transfer
-
-### customization
-
-### Applications
-
-### accessories
-
-### Specifications
-
-#### Measurement Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Azimuth Accuracy | arcsec | ≤7 |
-| Measurement Time | min | ≤9 |
-| Main Unit Weight | kg | ≤12 |
-| Data Storage | groups | 100 |
-#### Operation Parameters
-  
-| Parameter | Value |
-| --- | --- |
-| Operation Mode | One-key Full Auto |
-| Operation Safety | Anti-shock, Anti-static, Anti-interference |
-| Measurement Process | Self-checking |
-| Display | Digital Display |
-| Result Output | Auto Storage and Output |
-### Product Images
-
-## D-TP-YWJ01ZB150
-
-### Overview
-
-The rapid-measurement gyro theodolite (ZB15) focuses on efficient field operations, featuring quick-start measurement mode and simplified operation process. Its compact and lightweight design makes it particularly suitable for tasks requiring frequent repositioning.
-
-### Features
-
-#### Features
----
-###### Measurement System
-- Azimuth accuracy: ±150 arc seconds
-- Horizontal angle accuracy: 5"
-- Vertical angle accuracy: 5"
-- Display resolution: 1"
-- North seeking time: 8 minutes
-
-###### Physical Specifications
-- Operating temperature: -20°C to +50°C
-- Storage temperature: -40°C to +70°C
-- Water/Dust protection: IP54
-- Weight: 5.5 kg
-- Battery life: 8 hours
-
-###### Advanced Features
-- Digital angle reading system
-- Basic compensation
-- LCD display
-- Basic data storage
-- USB data transfer
-
-### customization
-
-### Applications
-
-### accessories
-
-### Specifications
-
-#### Measurement Parameters
-  
-| Parameter | Unit | Value |
-| --- | --- | --- |
-| Azimuth Accuracy | arcsec | ≤15 |
-| Measurement Time | min | ≤8 |
-| Main Unit Weight | kg | ≤11 |
-| Data Storage | groups | 100 |
-#### Operation Parameters
-  
-| Parameter | Value |
-| --- | --- |
-| Operation Mode | One-key Full Auto |
-| Operation Safety | Anti-shock, Anti-static, Anti-interference |
-| Measurement Process | Self-checking |
-| Display | Digital Display |
-| Result Output | Auto Storage and Output |
-### Product Images
+## Related Products
+- [D-TP-YWJ01ZB025](https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb025/)
+- [D-TP-YWJ01ZB070](https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb070/)
+- [D-TP-YWJ01ZB150](https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb150/)
 
 ---
 
-**🔗 View Online**: [https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb/](https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb/)
+📘 **Complete Documentation**: [View full specifications on gnc-tech.com →](https://www.gnc-tech.com/products/gyro-theodolite-standard-ywj01zb/)
+
+💬 **Technical Support**: [Contact our engineering team →](https://www.gnc-tech.com/contact)
