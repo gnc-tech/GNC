@@ -1,16 +1,9 @@
 {
   "metadata": {
-    "totalTasks": 15,
-    "completedCount": 5
+    "totalTasks": 14,
+    "completedCount": 6
   },
   "tasks": [
-    {
-      "id": "faq-2024-006",
-      "topic": "CMOS sensor selection for precision guidance applications",
-      "category": "guidance",
-      "priority": 8.8,
-      "filename": "cmos-sensor-selection-guidance-applications.md"
-    },
     {
       "id": "faq-2024-007",
       "topic": "Laser quadrant detector applications in precision tracking systems",

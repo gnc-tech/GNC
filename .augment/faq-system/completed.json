@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "totalCompleted": 5
+    "totalCompleted": 6
   },
   "completed": [
     {
@@ -53,6 +53,17 @@
       "category": "control",
       "filename": "servo-actuator-selection-precision-control.md",
       "completedDate": "2025-01-01",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-006",
+      "topic": "CMOS sensor selection for precision guidance applications",
+      "category": "guidance",
+      "filename": "cmos-sensor-selection-guidance-applications.md",
+      "completedDate": "2025-01-16",
       "formats": {
         "longForm": true,
         "shortQA": true
