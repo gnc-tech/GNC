@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "totalCompleted": 6
+    "totalCompleted": 7
   },
   "completed": [
     {
@@ -63,6 +63,17 @@
       "topic": "CMOS sensor selection for precision guidance applications",
       "category": "guidance",
       "filename": "cmos-sensor-selection-guidance-applications.md",
+      "completedDate": "2025-01-16",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-007",
+      "topic": "Laser quadrant detector applications in precision tracking systems",
+      "category": "guidance",
+      "filename": "laser-quadrant-detector-tracking-systems.md",
       "completedDate": "2025-01-16",
       "formats": {
         "longForm": true,

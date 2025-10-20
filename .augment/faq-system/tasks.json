@@ -1,16 +1,10 @@
 {
   "metadata": {
-    "totalTasks": 14,
-    "completedCount": 6
+    "totalTasks": 13,
+    "completedCount": 7
   },
   "tasks": [
-    {
-      "id": "faq-2024-007",
-      "topic": "Laser quadrant detector applications in precision tracking systems",
-      "category": "guidance",
-      "priority": 8.6,
-      "filename": "laser-quadrant-detector-tracking-systems.md"
-    },
+
     {
       "id": "faq-2024-008",
       "topic": "Thermal battery performance in extreme temperature environments",

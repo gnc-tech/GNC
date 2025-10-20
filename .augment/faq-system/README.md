@@ -70,3 +70,56 @@ auggie --quiet write-faq 5
 - 完成后自动提交Git
 - 无需用户交互
 
+## HTML实体转义规则
+
+为避免TypeScript语法错误，生成的FAQ内容会自动转义HTML特殊字符：
+
+### 自动转义的字符
+- `<` → `&lt;` （小于号）
+- `>` → `&gt;` （大于号）
+- `&` → `&amp;` （和号）
+- `"` → `&quot;` （双引号）
+- `'` → `&#039;` （单引号）
+
+### 常见场景示例
+
+**技术规格中的小于号：**
+```
+原文：bias stability <0.01°/h
+生成：bias stability &lt;0.01°/h
+```
+
+**范围表达式：**
+```
+原文：from <1,000 to >10,000 counts
+生成：from &lt;1,000 to &gt;10,000 counts
+```
+
+**括号中的比较：**
+```
+原文：compact construction (<30 g)
+生成：compact construction (&lt;30 g)
+```
+
+### 实现位置
+
+转义功能已在以下脚本中实现：
+
+1. **FAQ生成脚本** - `ai-gnc-tech/scripts/convert-faq.js`
+   - `escapeHtml()` 函数自动转义所有问题和答案内容
+   - 在生成Astro页面时自动应用
+
+2. **产品页面生成脚本** - `ai-gnc-tech/scripts/rewrite-products-template.js`
+   - `escapeHtml()` 函数转义产品特性、应用场景和规格表数据
+   - 防止产品页面中的技术参数引起语法错误
+
+### 为什么需要转义？
+
+在Astro/JSX文件中，`<` 和 `>` 会被解析器识别为HTML标签的开始和结束。如果在文本内容中直接使用这些字符（如技术规格 `<0.01°/h`），会导致：
+
+- ❌ TypeScript语法错误：`Identifier expected`
+- ❌ HTML解析错误：浏览器无法正确渲染
+- ❌ 构建失败：Astro编译器报错
+
+通过自动转义，确保所有生成的内容都符合HTML规范，避免手动修复。
+
