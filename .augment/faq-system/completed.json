@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "totalCompleted": 7
+    "totalCompleted": 8
   },
   "completed": [
     {
@@ -75,6 +75,17 @@
       "category": "guidance",
       "filename": "laser-quadrant-detector-tracking-systems.md",
       "completedDate": "2025-01-16",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-008",
+      "topic": "Thermal battery performance in extreme temperature environments",
+      "category": "control",
+      "filename": "thermal-battery-extreme-temperature-performance.md",
+      "completedDate": "2025-01-23",
       "formats": {
         "longForm": true,
         "shortQA": true

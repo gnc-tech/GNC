@@ -1,17 +1,9 @@
 {
   "metadata": {
-    "totalTasks": 13,
-    "completedCount": 7
+    "totalTasks": 12,
+    "completedCount": 8
   },
   "tasks": [
-
-    {
-      "id": "faq-2024-008",
-      "topic": "Thermal battery performance in extreme temperature environments",
-      "category": "control",
-      "priority": 8.4,
-      "filename": "thermal-battery-extreme-temperature-performance.md"
-    },
     {
       "id": "faq-2024-009",
       "topic": "IMU integration best practices for unmanned aerial vehicles",
