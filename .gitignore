@@ -37,3 +37,5 @@ out/
 gnc-tech.json
 .augment/
 node_modules/
+.claude/
+CLAUDE.md
