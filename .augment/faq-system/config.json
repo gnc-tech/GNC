@@ -1,0 +1,13 @@
+{
+  "minTasksThreshold": 5,
+  "maxTasksPerGeneration": 20,
+  "categories": ["general", "navigation", "control", "guidance", "applications", "technical"],
+  "longFaq": {
+    "wordCount": [800, 2500],
+    "requiredSections": ["Quick Answer", "Detailed Explanation", "Technical Specifications", "Applications"]
+  },
+  "aiFaq": {
+    "questionsPerFile": [10, 15],
+    "answerWordCount": [50, 150]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "totalCompleted": 11,
+    "lastUpdated": "2025-11-14"
+  },
+  "completed": [
+    {
+      "id": "faq-2024-001",
+      "topic": "How to choose between fiber optic gyroscope and MEMS gyroscope for tactical applications",
+      "category": "general",
+      "filename": "fog-vs-mems-tactical-applications.md",
+      "completedDate": "2024-12-28",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-002",
+      "topic": "What are the key specifications for navigation-grade IMU selection",
+      "category": "navigation",
+      "filename": "navigation-grade-imu-specifications.md",
+      "completedDate": "2024-12-28",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-003",
+      "topic": "Thermal management best practices for precision inertial sensors",
+      "category": "technical",
+      "filename": "thermal-management-precision-inertial-sensors.md",
+      "completedDate": "2024-12-28",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-004",
+      "topic": "How to calibrate high-precision accelerometers for aerospace applications",
+      "category": "technical",
+      "filename": "accelerometer-calibration-aerospace-applications.md",
+      "completedDate": "2024-12-28",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-005",
+      "topic": "Servo actuator selection criteria for precision control systems",
+      "category": "control",
+      "filename": "servo-actuator-selection-precision-control.md",
+      "completedDate": "2025-01-01",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-006",
+      "topic": "CMOS sensor selection for precision guidance applications",
+      "category": "guidance",
+      "filename": "cmos-sensor-selection-guidance-applications.md",
+      "completedDate": "2025-01-16",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-007",
+      "topic": "Laser quadrant detector applications in precision tracking systems",
+      "category": "guidance",
+      "filename": "laser-quadrant-detector-tracking-systems.md",
+      "completedDate": "2025-01-16",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-008",
+      "topic": "Thermal battery performance in extreme temperature environments",
+      "category": "control",
+      "filename": "thermal-battery-extreme-temperature-performance.md",
+      "completedDate": "2025-01-23",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-009",
+      "topic": "IMU integration best practices for unmanned aerial vehicles",
+      "category": "applications",
+      "filename": "imu-integration-unmanned-aerial-vehicles.md",
+      "completedDate": "2025-10-28",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-010",
+      "topic": "Gyroscope bias stability requirements for different applications",
+      "category": "technical",
+      "filename": "gyroscope-bias-stability-requirements.md",
+      "completedDate": "2025-11-05",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-011",
+      "topic": "Accelerometer scale factor accuracy in precision applications",
+      "category": "technical",
+      "filename": "accelerometer-scale-factor-accuracy.md",
+      "completedDate": "2025-11-14",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    }
+  ]
+}
