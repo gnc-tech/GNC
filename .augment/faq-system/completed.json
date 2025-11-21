@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "totalCompleted": 11,
-    "lastUpdated": "2025-11-14"
+    "totalCompleted": 12,
+    "lastUpdated": "2025-11-21"
   },
   "completed": [
     {
@@ -120,6 +120,17 @@
       "category": "technical",
       "filename": "accelerometer-scale-factor-accuracy.md",
       "completedDate": "2025-11-14",
+      "formats": {
+        "longForm": true,
+        "shortQA": true
+      }
+    },
+    {
+      "id": "faq-2024-012",
+      "topic": "Power consumption optimization for battery-powered navigation systems",
+      "category": "applications",
+      "filename": "power-consumption-optimization-navigation-systems.md",
+      "completedDate": "2025-11-21",
       "formats": {
         "longForm": true,
         "shortQA": true

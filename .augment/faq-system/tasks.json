@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "totalTasks": 11,
+    "totalTasks": 10,
     "completedCount": 9
   },
   "tasks": [
@@ -17,14 +17,6 @@
       "category": "technical",
       "priority": 8.0,
       "filename": "gyroscope-bias-stability-requirements.md"
-    },
-
-    {
-      "id": "faq-2024-012",
-      "topic": "Power consumption optimization for battery-powered navigation systems",
-      "category": "applications",
-      "priority": 7.6,
-      "filename": "power-consumption-optimization-navigation-systems.md"
     },
     {
       "id": "faq-2024-013",
