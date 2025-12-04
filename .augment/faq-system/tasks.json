@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "totalTasks": 23,
+    "completedCount": 11,
+    "lastUpdated": "2025-01-24",
+    "seoOptimizationPhase": "active"
+  },
+  "tasks": [
+
+
+    {
+      "id": "faq-2025-seo-003",
+      "topic": "Fiber optic gyroscope vs MEMS gyroscope: accuracy and applications comparison",
+      "category": "navigation",
+      "priority": 9.6,
+      "filename": "fiber-optic-gyroscope-vs-mems-comparison.md"
+    },
+    {
+      "id": "faq-2025-seo-004",
+      "topic": "Optical gyroscope types and applications in GNC systems",
+      "category": "navigation",
+      "priority": 9.4,
+      "filename": "optical-gyroscope-types-gnc-applications.md"
+    },
+    {
+      "id": "faq-2025-seo-005",
+      "topic": "How to choose a fiber optic gyroscope for high-precision navigation",
+      "category": "navigation",
+      "priority": 9.2,
+      "filename": "choose-fiber-optic-gyroscope-precision-navigation.md"
+    },
+    {
+      "id": "faq-2025-seo-006",
+      "topic": "Guidance systems for missiles and UAVs: sensor types and technologies",
+      "category": "guidance",
+      "priority": 9.0,
+      "filename": "guidance-systems-missiles-uavs-sensors.md"
+    },
+    {
+      "id": "faq-2025-seo-007",
+      "topic": "Navigation systems in aerospace: IMU, FOG, and INS integration",
+      "category": "navigation",
+      "priority": 8.8,
+      "filename": "navigation-systems-aerospace-imu-fog-ins.md"
+    },
+    {
+      "id": "faq-2025-seo-008",
+      "topic": "Control systems in GNC: servo actuators and precision control",
+      "category": "control",
+      "priority": 8.6,
+      "filename": "control-systems-gnc-servo-actuators.md"
+    },
+    {
+      "id": "faq-2025-seo-009",
+      "topic": "Optical guidance sensors: CMOS, infrared, and laser detectors comparison",
+      "category": "guidance",
+      "priority": 8.4,
+      "filename": "optical-guidance-sensors-cmos-infrared-laser.md"
+    },
+    {
+      "id": "faq-2025-seo-010",
+      "topic": "Fiber optic gyroscope performance specifications and selection criteria",
+      "category": "navigation",
+      "priority": 8.2,
+      "filename": "fiber-optic-gyroscope-specifications-selection.md"
+    },
+    {
+      "id": "faq-2025-seo-011",
+      "topic": "Inertial navigation systems (INS) for missiles and aerospace applications",
+      "category": "applications",
+      "priority": 8.0,
+      "filename": "inertial-navigation-systems-missiles-aerospace.md"
+    },
+    {
+      "id": "faq-2025-seo-012",
+      "topic": "Guidance, navigation and control for unmanned aerial vehicles (UAVs)",
+      "category": "applications",
+      "priority": 7.8,
+      "filename": "gnc-unmanned-aerial-vehicles-uavs.md"
+    },
+    {
+      "id": "faq-2025-seo-013",
+      "topic": "MEMS gyroscope vs fiber optic gyroscope: cost, accuracy, and reliability",
+      "category": "navigation",
+      "priority": 7.6,
+      "filename": "mems-vs-fiber-optic-gyroscope-cost-accuracy.md"
+    },
+    {
+      "id": "faq-2025-seo-014",
+      "topic": "Precision guidance systems: laser tracking and quadrant detectors",
+      "category": "guidance",
+      "priority": 7.4,
+      "filename": "precision-guidance-laser-tracking-detectors.md"
+    },
+    {
+      "id": "faq-2025-seo-015",
+      "topic": "Fiber optic components for gyroscopes: couplers, coils, and light sources",
+      "category": "navigation",
+      "priority": 7.2,
+      "filename": "fiber-optic-components-gyroscopes.md"
+    },
+    {
+      "id": "faq-2024-009",
+      "topic": "IMU integration best practices for unmanned aerial vehicles",
+      "category": "applications",
+      "priority": 8.2,
+      "filename": "imu-integration-unmanned-aerial-vehicles.md"
+    },
+    {
+      "id": "faq-2024-010",
+      "topic": "Gyroscope bias stability requirements for different applications",
+      "category": "technical",
+      "priority": 8.0,
+      "filename": "gyroscope-bias-stability-requirements.md"
+    },
+    {
+      "id": "faq-2024-013",
+      "topic": "Vibration isolation techniques for sensitive inertial sensors",
+      "category": "technical",
+      "priority": 7.4,
+      "filename": "vibration-isolation-inertial-sensors.md"
+    },
+    {
+      "id": "faq-2024-014",
+      "topic": "Common troubleshooting procedures for IMU performance issues",
+      "category": "technical",
+      "priority": 7.2,
+      "filename": "imu-troubleshooting-performance-issues.md"
+    },
+    {
+      "id": "faq-2024-015",
+      "topic": "Installation best practices for vibration-sensitive sensors",
+      "category": "technical",
+      "priority": 7.0,
+      "filename": "installation-vibration-sensitive-sensors.md"
+    },
+    {
+      "id": "faq-2024-016",
+      "topic": "Environmental testing requirements for aerospace-grade sensors",
+      "category": "applications",
+      "priority": 6.8,
+      "filename": "environmental-testing-aerospace-sensors.md"
+    },
+    {
+      "id": "faq-2024-017",
+      "topic": "Cost-benefit analysis of different gyroscope technologies",
+      "category": "general",
+      "priority": 6.6,
+      "filename": "cost-benefit-analysis-gyroscope-technologies.md"
+    },
+    {
+      "id": "faq-2024-018",
+      "topic": "Future trends in precision navigation sensor technology",
+      "category": "general",
+      "priority": 6.4,
+      "filename": "future-trends-navigation-sensor-technology.md"
+    },
+    {
+      "id": "faq-2024-019",
+      "topic": "Quality assurance procedures for precision sensor manufacturing",
+      "category": "technical",
+      "priority": 6.2,
+      "filename": "quality-assurance-precision-sensor-manufacturing.md"
+    },
+    {
+      "id": "faq-2024-020",
+      "topic": "Regulatory compliance requirements for defense-grade navigation systems",
+      "category": "applications",
+      "priority": 6.0,
+      "filename": "regulatory-compliance-defense-navigation-systems.md"
+    }
+  ]
+}

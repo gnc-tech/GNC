@@ -1,0 +1,78 @@
+{
+  "minTasksThreshold": 5,
+  "maxTasksPerGeneration": 20,
+  "categories": ["general", "navigation", "control", "guidance", "applications", "technical"],
+  "longFaq": {
+    "wordCount": [800, 2500],
+    "requiredSections": ["Quick Answer", "Detailed Explanation", "Technical Specifications", "Applications"]
+  },
+  "aiFaq": {
+    "questionsPerFile": [10, 15],
+    "answerWordCount": [50, 150]
+  },
+  "seoOptimization": {
+    "enabled": true,
+    "coreKeywords": [
+      "guidance",
+      "navigation",
+      "control",
+      "GNC",
+      "fiber optic gyroscope",
+      "FOG",
+      "optical gyroscope",
+      "MEMS gyroscope",
+      "IMU",
+      "INS",
+      "guidance systems",
+      "navigation systems",
+      "control systems"
+    ],
+    "brandKeywords": [
+      "GNC Tech",
+      "gnc-tech.com"
+    ],
+    "titleFormat": "{Primary Keyword} | GNC Tech",
+    "firstParagraphRequirements": {
+      "mustInclude": ["GNC Tech", "guidance, navigation and control", "primary keyword"],
+      "maxSentences": 3,
+      "naturalLanguage": true
+    },
+    "headingOptimization": {
+      "h2MustIncludeKeywords": true,
+      "useQuestionFormat": true,
+      "examples": [
+        "What is {keyword}?",
+        "How does {keyword} work in {application}?",
+        "What is the difference between {keyword1} and {keyword2}?",
+        "{Keyword} specifications and selection criteria"
+      ]
+    },
+    "internalLinking": {
+      "minLinksPerArticle": 3,
+      "linkToCategories": true,
+      "linkToPillarPages": true,
+      "linkToProducts": true
+    },
+    "metaDescription": {
+      "maxLength": 160,
+      "mustInclude": ["primary keyword", "GNC Tech"],
+      "callToAction": true
+    },
+    "targetSearchIntents": [
+      "informational",
+      "commercial investigation",
+      "navigational"
+    ],
+    "longTailKeywordStrategy": {
+      "enabled": true,
+      "examples": [
+        "fiber optic gyroscope for navigation",
+        "guidance navigation and control system",
+        "optical gyroscope vs MEMS gyroscope",
+        "missile guidance sensor types",
+        "how to choose fiber optic gyroscope",
+        "GNC systems for UAVs"
+      ]
+    }
+  }
+}
